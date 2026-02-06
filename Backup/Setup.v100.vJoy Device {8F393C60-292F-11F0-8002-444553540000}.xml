@@ -6,8 +6,8 @@
   </detentPosition>
   <axis>
     <AxAssgn>
-      <AxisName>FOV</AxisName>
-      <AssgnDate>2025-11-11T12:48:36.6834968+01:00</AssgnDate>
+      <AxisName />
+      <AssgnDate>1998-12-12T12:00:00</AssgnDate>
       <Invert>false</Invert>
       <Saturation>None</Saturation>
       <Deadzone>None</Deadzone>
@@ -20,8 +20,8 @@
       <Deadzone>None</Deadzone>
     </AxAssgn>
     <AxAssgn>
-      <AxisName>Camera_Distance</AxisName>
-      <AssgnDate>2025-06-03T18:41:39.2505514+02:00</AssgnDate>
+      <AxisName />
+      <AssgnDate>1998-12-12T12:00:00</AssgnDate>
       <Invert>false</Invert>
       <Saturation>None</Saturation>
       <Deadzone>None</Deadzone>

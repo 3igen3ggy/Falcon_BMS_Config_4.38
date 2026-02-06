@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <JoyAssgn xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <detentPosition>
-    <AB>49698</AB>
+    <AB>50124</AB>
     <IDLE>0</IDLE>
   </detentPosition>
   <axis>
     <AxAssgn>
-      <AxisName>Cursor_X</AxisName>
-      <AssgnDate>2025-06-06T22:26:09.1980072+02:00</AssgnDate>
-      <Invert>false</Invert>
-      <Saturation>None</Saturation>
-      <Deadzone>Small</Deadzone>
-    </AxAssgn>
-    <AxAssgn>
-      <AxisName>Cursor_Y</AxisName>
-      <AssgnDate>2025-06-06T22:26:34.5164802+02:00</AssgnDate>
-      <Invert>true</Invert>
-      <Saturation>None</Saturation>
-      <Deadzone>Small</Deadzone>
-    </AxAssgn>
-    <AxAssgn>
-      <AxisName>Throttle</AxisName>
-      <AssgnDate>2025-05-22T23:35:29.1732532+02:00</AssgnDate>
+      <AxisName />
+      <AssgnDate>1998-12-12T12:00:00</AssgnDate>
       <Invert>false</Invert>
       <Saturation>None</Saturation>
       <Deadzone>None</Deadzone>
     </AxAssgn>
     <AxAssgn>
-      <AxisName>Range_Knob</AxisName>
-      <AssgnDate>2025-05-27T21:05:21.0559791+02:00</AssgnDate>
+      <AxisName />
+      <AssgnDate>1998-12-12T12:00:00</AssgnDate>
       <Invert>false</Invert>
       <Saturation>None</Saturation>
       <Deadzone>None</Deadzone>
     </AxAssgn>
     <AxAssgn>
-      <AxisName>Radar_Antenna_Elevation</AxisName>
-      <AssgnDate>2025-06-06T22:26:38.8753627+02:00</AssgnDate>
+      <AxisName />
+      <AssgnDate>1998-12-12T12:00:00</AssgnDate>
       <Invert>false</Invert>
       <Saturation>None</Saturation>
       <Deadzone>None</Deadzone>
     </AxAssgn>
     <AxAssgn>
-      <AxisName>HUD_Brightness</AxisName>
-      <AssgnDate>2025-05-27T21:05:02.4829761+02:00</AssgnDate>
+      <AxisName />
+      <AssgnDate>1998-12-12T12:00:00</AssgnDate>
+      <Invert>false</Invert>
+      <Saturation>None</Saturation>
+      <Deadzone>None</Deadzone>
+    </AxAssgn>
+    <AxAssgn>
+      <AxisName />
+      <AssgnDate>1998-12-12T12:00:00</AssgnDate>
+      <Invert>false</Invert>
+      <Saturation>None</Saturation>
+      <Deadzone>None</Deadzone>
+    </AxAssgn>
+    <AxAssgn>
+      <AxisName />
+      <AssgnDate>1998-12-12T12:00:00</AssgnDate>
       <Invert>false</Invert>
       <Saturation>None</Saturation>
       <Deadzone>None</Deadzone>
@@ -404,9 +404,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>OTWStepPrevPadlock</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -428,9 +428,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>FOVToggle</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -452,9 +452,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>OTWStepNextPadlock</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -476,9 +476,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>OTWSelect3DCockpitMode</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -500,9 +500,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>OTWToggleCustom3dPitView</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -524,9 +524,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimToggleMissileCage</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -548,9 +548,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimSelectSRMOverride</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -558,9 +558,9 @@
           <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimDeselectOverride</Callback>
-          <Invoke>Down</Invoke>
-          <SoundID>-1</SoundID>
+          <Callback>SimDoNothing</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -572,9 +572,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimSelectMRMOverride</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -582,9 +582,9 @@
           <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimDeselectOverride</Callback>
-          <Invoke>Down</Invoke>
-          <SoundID>-1</SoundID>
+          <Callback>SimDoNothing</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -596,9 +596,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>AFBrakesOut</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -620,9 +620,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>AFBrakesIn</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -644,14 +644,14 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimRadarAzimuthScanChange</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimRadarBarScanChange</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -668,14 +668,14 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimCursorEnable</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimRadarCursorZero</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -692,9 +692,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>OTWSelectF3PadlockModeAG</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -716,9 +716,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>OTWSelectEFOVPadlockMode</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -740,9 +740,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>OTWSelectF3PadlockModeAA</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -788,9 +788,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimSlapSwitch</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>314</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -908,9 +908,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimEmergencyJettison</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>123</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -932,9 +932,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimArmMasterArm</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>311</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -942,9 +942,9 @@
           <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimSafeMasterArm</Callback>
-          <Invoke>Down</Invoke>
-          <SoundID>311</SoundID>
+          <Callback>SimDoNothing</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -956,9 +956,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimSimMasterArm</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>311</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -966,9 +966,9 @@
           <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimSafeMasterArm</Callback>
-          <Invoke>Down</Invoke>
-          <SoundID>311</SoundID>
+          <Callback>SimDoNothing</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -980,9 +980,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimEWSProgOne</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>125</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1004,9 +1004,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimEWSProgTwo</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>125</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1028,9 +1028,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimEWSProgThree</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>125</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1052,9 +1052,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimEWSProgFour</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>125</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1076,9 +1076,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimEWSModeStby</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>125</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1086,9 +1086,9 @@
           <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimEWSModeOff</Callback>
-          <Invoke>Down</Invoke>
-          <SoundID>125</SoundID>
+          <Callback>SimDoNothing</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1100,9 +1100,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimEWSModeMan</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>125</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1124,9 +1124,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimEWSModeSemi</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>125</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1148,9 +1148,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimEWSModeAuto</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>125</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1172,9 +1172,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimEWSModeByp</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>125</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1196,9 +1196,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimRWRSetSearch</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>318</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1220,9 +1220,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>AFResetTrim</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1244,9 +1244,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimRWRSetGroundPriority</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>318</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1268,9 +1268,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimRwrPower</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>318</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1292,9 +1292,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>AFGearUp</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>119</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1302,9 +1302,9 @@
           <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>AFGearDown</Callback>
-          <Invoke>Down</Invoke>
-          <SoundID>118</SoundID>
+          <Callback>SimDoNothing</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1316,9 +1316,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimHSITcn</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>125</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1326,9 +1326,9 @@
           <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimHSIIlsTcn</Callback>
-          <Invoke>Down</Invoke>
-          <SoundID>125</SoundID>
+          <Callback>SimDoNothing</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1340,9 +1340,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimHSINav</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>125</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1364,9 +1364,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimHSIIlsNav</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>125</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1388,14 +1388,14 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimHsiHdgIncBy1</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>116</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimHsiCrsIncBy1</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>116</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1412,14 +1412,14 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimHsiHdgDecBy1</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>116</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimHsiCrsDecBy1</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>116</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1436,14 +1436,14 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimRadarAAModeStep</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimRadarAGModeStep</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1460,9 +1460,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimCATI</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>115</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1470,9 +1470,9 @@
           <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimCATIII</Callback>
-          <Invoke>Down</Invoke>
-          <SoundID>115</SoundID>
+          <Callback>SimDoNothing</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1484,9 +1484,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimRFNorm</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>310</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1494,9 +1494,9 @@
           <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimRFQuiet</Callback>
-          <Invoke>Down</Invoke>
-          <SoundID>310</SoundID>
+          <Callback>SimDoNothing</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1508,9 +1508,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimRFSilent</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>310</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1518,9 +1518,9 @@
           <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimRFQuiet</Callback>
-          <Invoke>Down</Invoke>
-          <SoundID>310</SoundID>
+          <Callback>SimDoNothing</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1532,9 +1532,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimLaserArmOn</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>310</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1542,9 +1542,9 @@
           <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimLaserArmOff</Callback>
-          <Invoke>Down</Invoke>
-          <SoundID>310</SoundID>
+          <Callback>SimDoNothing</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1556,9 +1556,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimEWSJammerOn</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>115</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1566,9 +1566,9 @@
           <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimEWSJammerOff</Callback>
-          <Invoke>Down</Invoke>
-          <SoundID>115</SoundID>
+          <Callback>SimDoNothing</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1580,9 +1580,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimLeftAPUp</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>115</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1590,9 +1590,9 @@
           <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimLeftAPMid</Callback>
-          <Invoke>Down</Invoke>
-          <SoundID>115</SoundID>
+          <Callback>SimDoNothing</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1604,9 +1604,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimLeftAPDown</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>115</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1614,9 +1614,9 @@
           <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimLeftAPMid</Callback>
-          <Invoke>Down</Invoke>
-          <SoundID>115</SoundID>
+          <Callback>SimDoNothing</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1628,9 +1628,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimRightAPUp</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>319</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1638,9 +1638,9 @@
           <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimRightAPMid</Callback>
-          <Invoke>Down</Invoke>
-          <SoundID>320</SoundID>
+          <Callback>SimDoNothing</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1652,9 +1652,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimRightAPDown</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>319</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1662,9 +1662,9 @@
           <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimRightAPMid</Callback>
-          <Invoke>Down</Invoke>
-          <SoundID>320</SoundID>
+          <Callback>SimDoNothing</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1940,9 +1940,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimAltPressIncBy1</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>116</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1964,9 +1964,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimAltPressDecBy1</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>116</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -2012,9 +2012,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimPilotToggle</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -3817,9 +3817,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>OTWStepPrevPadlock</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -3841,9 +3841,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>FOVToggle</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -3865,9 +3865,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>OTWStepNextPadlock</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -3889,9 +3889,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>OTWSelect3DCockpitMode</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -3913,9 +3913,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>OTWToggleCustom3dPitView</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -3937,9 +3937,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimToggleMissileCage</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -3961,9 +3961,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimSelectSRMOverride</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -3971,9 +3971,9 @@
             <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimDeselectOverride</Callback>
-            <Invoke>Down</Invoke>
-            <SoundID>-1</SoundID>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -3985,9 +3985,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimSelectMRMOverride</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -3995,9 +3995,9 @@
             <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimDeselectOverride</Callback>
-            <Invoke>Down</Invoke>
-            <SoundID>-1</SoundID>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4009,9 +4009,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>AFBrakesOut</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4033,9 +4033,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>AFBrakesIn</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4057,14 +4057,14 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimRadarAzimuthScanChange</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimRadarBarScanChange</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4081,14 +4081,14 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimCursorEnable</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimRadarCursorZero</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4105,9 +4105,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>OTWSelectF3PadlockModeAG</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4129,9 +4129,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>OTWSelectEFOVPadlockMode</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4153,9 +4153,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>OTWSelectF3PadlockModeAA</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4201,9 +4201,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimSlapSwitch</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>314</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4321,9 +4321,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimEmergencyJettison</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>123</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4345,9 +4345,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimArmMasterArm</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>311</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4355,9 +4355,9 @@
             <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimSafeMasterArm</Callback>
-            <Invoke>Down</Invoke>
-            <SoundID>311</SoundID>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4369,9 +4369,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimSimMasterArm</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>311</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4379,9 +4379,9 @@
             <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimSafeMasterArm</Callback>
-            <Invoke>Down</Invoke>
-            <SoundID>311</SoundID>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4393,9 +4393,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimEWSProgOne</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>125</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4417,9 +4417,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimEWSProgTwo</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>125</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4441,9 +4441,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimEWSProgThree</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>125</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4465,9 +4465,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimEWSProgFour</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>125</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4489,9 +4489,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimEWSModeStby</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>125</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4499,9 +4499,9 @@
             <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimEWSModeOff</Callback>
-            <Invoke>Down</Invoke>
-            <SoundID>125</SoundID>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4513,9 +4513,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimEWSModeMan</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>125</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4537,9 +4537,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimEWSModeSemi</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>125</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4561,9 +4561,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimEWSModeAuto</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>125</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4585,9 +4585,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimEWSModeByp</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>125</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4609,9 +4609,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimRWRSetSearch</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>318</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4633,9 +4633,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>AFResetTrim</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4657,9 +4657,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimRWRSetGroundPriority</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>318</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4681,9 +4681,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimRwrPower</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>318</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4705,9 +4705,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>AFGearUp</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>119</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4715,9 +4715,9 @@
             <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>AFGearDown</Callback>
-            <Invoke>Down</Invoke>
-            <SoundID>118</SoundID>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4729,9 +4729,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimHSITcn</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>125</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4739,9 +4739,9 @@
             <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimHSIIlsTcn</Callback>
-            <Invoke>Down</Invoke>
-            <SoundID>125</SoundID>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4753,9 +4753,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimHSINav</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>125</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4777,9 +4777,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimHSIIlsNav</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>125</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4801,14 +4801,14 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimHsiHdgIncBy1</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>116</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimHsiCrsIncBy1</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>116</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4825,14 +4825,14 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimHsiHdgDecBy1</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>116</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimHsiCrsDecBy1</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>116</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4849,14 +4849,14 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimRadarAAModeStep</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimRadarAGModeStep</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4873,9 +4873,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimCATI</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>115</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4883,9 +4883,9 @@
             <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimCATIII</Callback>
-            <Invoke>Down</Invoke>
-            <SoundID>115</SoundID>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4897,9 +4897,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimRFNorm</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>310</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4907,9 +4907,9 @@
             <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimRFQuiet</Callback>
-            <Invoke>Down</Invoke>
-            <SoundID>310</SoundID>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4921,9 +4921,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimRFSilent</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>310</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4931,9 +4931,9 @@
             <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimRFQuiet</Callback>
-            <Invoke>Down</Invoke>
-            <SoundID>310</SoundID>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4945,9 +4945,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimLaserArmOn</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>310</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4955,9 +4955,9 @@
             <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimLaserArmOff</Callback>
-            <Invoke>Down</Invoke>
-            <SoundID>310</SoundID>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4969,9 +4969,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimEWSJammerOn</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>115</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4979,9 +4979,9 @@
             <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimEWSJammerOff</Callback>
-            <Invoke>Down</Invoke>
-            <SoundID>115</SoundID>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4993,9 +4993,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimLeftAPUp</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>115</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -5003,9 +5003,9 @@
             <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimLeftAPMid</Callback>
-            <Invoke>Down</Invoke>
-            <SoundID>115</SoundID>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -5017,9 +5017,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimLeftAPDown</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>115</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -5027,9 +5027,9 @@
             <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimLeftAPMid</Callback>
-            <Invoke>Down</Invoke>
-            <SoundID>115</SoundID>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -5041,9 +5041,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimRightAPUp</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>319</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -5051,9 +5051,9 @@
             <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimRightAPMid</Callback>
-            <Invoke>Down</Invoke>
-            <SoundID>320</SoundID>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -5065,9 +5065,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimRightAPDown</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>319</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -5075,9 +5075,9 @@
             <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimRightAPMid</Callback>
-            <Invoke>Down</Invoke>
-            <SoundID>320</SoundID>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -5353,9 +5353,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimAltPressIncBy1</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>116</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -5377,9 +5377,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimAltPressDecBy1</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>116</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -5425,9 +5425,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimPilotToggle</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -7231,366 +7231,6 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>OTWViewLeft</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-        </assign>
-      </DxAssgn>
-      <DxAssgn>
-        <assign>
-          <Assgn>
-            <Callback>OTWViewUp</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-        </assign>
-      </DxAssgn>
-      <DxAssgn>
-        <assign>
-          <Assgn>
-            <Callback>OTWViewRight</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-        </assign>
-      </DxAssgn>
-      <DxAssgn>
-        <assign>
-          <Assgn>
-            <Callback>OTWViewDown</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-        </assign>
-      </DxAssgn>
-      <DxAssgn>
-        <assign>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-        </assign>
-      </DxAssgn>
-      <DxAssgn>
-        <assign>
-          <Assgn>
-            <Callback>SimF15NoseGearSteering</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-        </assign>
-      </DxAssgn>
-      <DxAssgn>
-        <assign>
-          <Assgn>
-            <Callback>SimF15SelectGUN</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimF15SelectSRM</Callback>
-            <Invoke>Down</Invoke>
-            <SoundID>-1</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-        </assign>
-      </DxAssgn>
-      <DxAssgn>
-        <assign>
-          <Assgn>
-            <Callback>SimF15SelectMRM</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimF15SelectSRM</Callback>
-            <Invoke>Down</Invoke>
-            <SoundID>-1</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-        </assign>
-      </DxAssgn>
-      <DxAssgn>
-        <assign>
-          <Assgn>
-            <Callback>SimF15SpeedBrakeAft</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-        </assign>
-      </DxAssgn>
-      <DxAssgn>
-        <assign>
-          <Assgn>
-            <Callback>SimF15SpeedBrakeFwd</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-        </assign>
-      </DxAssgn>
-      <DxAssgn>
-        <assign>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-        </assign>
-      </DxAssgn>
-      <DxAssgn>
-        <assign>
-          <Assgn>
-            <Callback>SimF15TargetDesignatorControl</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-        </assign>
-      </DxAssgn>
-      <DxAssgn>
-        <assign>
-          <Assgn>
-            <Callback>OTWSelectF3PadlockModeAG</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-        </assign>
-      </DxAssgn>
-      <DxAssgn>
-        <assign>
-          <Assgn>
-            <Callback>OTWSelectEFOVPadlockMode</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-        </assign>
-      </DxAssgn>
-      <DxAssgn>
-        <assign>
-          <Assgn>
-            <Callback>OTWSelectF3PadlockModeAA</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-        </assign>
-      </DxAssgn>
-      <DxAssgn>
-        <assign>
-          <Assgn>
             <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
             <SoundID>0</SoundID>
@@ -7735,11 +7375,6 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimF15EmergJettToggle</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>123</SoundID>
-          </Assgn>
-          <Assgn>
             <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
             <SoundID>0</SoundID>
@@ -7753,25 +7388,6 @@
             <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
             <SoundID>0</SoundID>
-          </Assgn>
-        </assign>
-      </DxAssgn>
-      <DxAssgn>
-        <assign>
-          <Assgn>
-            <Callback>SimF15MasterArmSwitchOn</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>310</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimF15MasterArmSwitchOff</Callback>
-            <Invoke>Down</Invoke>
-            <SoundID>310</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -8119,9 +7735,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>AFGearUp</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>119</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -8129,9 +7745,393 @@
             <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>AFGearDown</Callback>
-            <Invoke>Down</Invoke>
-            <SoundID>118</SoundID>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+        </assign>
+      </DxAssgn>
+      <DxAssgn>
+        <assign>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+        </assign>
+      </DxAssgn>
+      <DxAssgn>
+        <assign>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+        </assign>
+      </DxAssgn>
+      <DxAssgn>
+        <assign>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+        </assign>
+      </DxAssgn>
+      <DxAssgn>
+        <assign>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+        </assign>
+      </DxAssgn>
+      <DxAssgn>
+        <assign>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+        </assign>
+      </DxAssgn>
+      <DxAssgn>
+        <assign>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+        </assign>
+      </DxAssgn>
+      <DxAssgn>
+        <assign>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+        </assign>
+      </DxAssgn>
+      <DxAssgn>
+        <assign>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+        </assign>
+      </DxAssgn>
+      <DxAssgn>
+        <assign>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+        </assign>
+      </DxAssgn>
+      <DxAssgn>
+        <assign>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+        </assign>
+      </DxAssgn>
+      <DxAssgn>
+        <assign>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+        </assign>
+      </DxAssgn>
+      <DxAssgn>
+        <assign>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+        </assign>
+      </DxAssgn>
+      <DxAssgn>
+        <assign>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+        </assign>
+      </DxAssgn>
+      <DxAssgn>
+        <assign>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+        </assign>
+      </DxAssgn>
+      <DxAssgn>
+        <assign>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+        </assign>
+      </DxAssgn>
+      <DxAssgn>
+        <assign>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
