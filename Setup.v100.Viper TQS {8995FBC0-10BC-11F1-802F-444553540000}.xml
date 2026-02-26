@@ -1388,38 +1388,14 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimDoNothing</Callback>
+          <Callback>SimHsiCourseInc</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>0</SoundID>
+          <SoundID>116</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimDoNothing</Callback>
+          <Callback>SimHsiHeadingInc</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>0</SoundID>
-        </Assgn>
-        <Assgn>
-          <Callback>SimDoNothing</Callback>
-          <Invoke>Default</Invoke>
-          <SoundID>0</SoundID>
-        </Assgn>
-        <Assgn>
-          <Callback>SimDoNothing</Callback>
-          <Invoke>Default</Invoke>
-          <SoundID>0</SoundID>
-        </Assgn>
-      </assign>
-    </DxAssgn>
-    <DxAssgn>
-      <assign>
-        <Assgn>
-          <Callback>SimDoNothing</Callback>
-          <Invoke>Default</Invoke>
-          <SoundID>0</SoundID>
-        </Assgn>
-        <Assgn>
-          <Callback>SimDoNothing</Callback>
-          <Invoke>Default</Invoke>
-          <SoundID>0</SoundID>
+          <SoundID>116</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1436,9 +1412,33 @@
     <DxAssgn>
       <assign>
         <Assgn>
+          <Callback>SimHsiCourseDec</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>116</SoundID>
+        </Assgn>
+        <Assgn>
+          <Callback>SimHsiHeadingDec</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>116</SoundID>
+        </Assgn>
+        <Assgn>
           <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
           <SoundID>0</SoundID>
+        </Assgn>
+        <Assgn>
+          <Callback>SimDoNothing</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>0</SoundID>
+        </Assgn>
+      </assign>
+    </DxAssgn>
+    <DxAssgn>
+      <assign>
+        <Assgn>
+          <Callback>SimStepHSIMode</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>125</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1556,9 +1556,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimDoNothing</Callback>
+          <Callback>SimHmsOn</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>0</SoundID>
+          <SoundID>116</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1566,9 +1566,9 @@
           <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimDoNothing</Callback>
-          <Invoke>Default</Invoke>
-          <SoundID>0</SoundID>
+          <Callback>SimHmsOff</Callback>
+          <Invoke>Down</Invoke>
+          <SoundID>116</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -4801,38 +4801,14 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimDoNothing</Callback>
+            <Callback>SimHsiCourseInc</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
+            <SoundID>116</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimDoNothing</Callback>
+            <Callback>SimHsiHeadingInc</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-        </assign>
-      </DxAssgn>
-      <DxAssgn>
-        <assign>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
+            <SoundID>116</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4849,9 +4825,33 @@
       <DxAssgn>
         <assign>
           <Assgn>
+            <Callback>SimHsiCourseDec</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>116</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimHsiHeadingDec</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>116</SoundID>
+          </Assgn>
+          <Assgn>
             <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
             <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+        </assign>
+      </DxAssgn>
+      <DxAssgn>
+        <assign>
+          <Assgn>
+            <Callback>SimStepHSIMode</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>125</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4969,9 +4969,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimDoNothing</Callback>
+            <Callback>SimHmsOn</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
+            <SoundID>116</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4979,9 +4979,9 @@
             <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
+            <Callback>SimHmsOff</Callback>
+            <Invoke>Down</Invoke>
+            <SoundID>116</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
