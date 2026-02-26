@@ -1,0 +1,49 @@
+2026-02-23 17:09:47.7772|INFO|GadrocsWorkshop.Helios.HeliosInit|Helios Version 1.6.3605.0|
+2026-02-23 17:09:47.8292|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ALQ_213" for use in Helios|
+2026-02-23 17:09:47.8292|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC_164" for use in Helios|
+2026-02-23 17:09:47.8292|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_Digital_Clock" for use in Helios|
+2026-02-23 17:09:47.8292|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F-16C_Viper_DED" for use in Helios|
+2026-02-23 17:09:47.8292|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C Hornet IFEI" for use in Helios|
+2026-02-23 17:09:47.8292|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C_Hornet-Up_Front_Controller" for use in Helios|
+2026-02-23 17:09:47.8292|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "MS 33558 Regular" for use in Helios|
+2026-02-23 17:09:47.9929|INFO|GadrocsWorkshop.Helios.LogManager|Starting Editor|
+2026-02-23 17:09:48.1849|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-23 17:10:29.0738|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Keyboard interface.|
+2026-02-23 17:10:29.0738|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of EOS Bus interface.|
+2026-02-23 17:10:29.0738|INFO|GadrocsWorkshop.Helios.LogManager|Adding EOS Bus Type: HeliosInterface to add interface list.|
+2026-02-23 17:10:29.0738|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DTS Card interface.|
+2026-02-23 17:10:29.4019|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DirectX Controller interface.|
+2026-02-23 17:10:29.4991|INFO|GadrocsWorkshop.Helios.LogManager|Adding Joystick - HOTAS Warthog Type: HeliosInterface to add interface list.|
+2026-02-23 17:10:29.4991|INFO|GadrocsWorkshop.Helios.LogManager|Adding Viper TQS Type: HeliosInterface to add interface list.|
+2026-02-23 17:10:29.4991|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Unsupported Interface interface.|
+2026-02-23 17:10:29.4991|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Control Router interface.|
+2026-02-23 17:10:29.4991|INFO|GadrocsWorkshop.Helios.LogManager|Adding Control Router Type: HeliosInterfaceWithXml`1 to add interface list.|
+2026-02-23 17:10:29.4991|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Profile interface.|
+2026-02-23 17:10:29.4991|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS MiG21 interface.|
+2026-02-23 17:10:29.5276|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS MiG-21Bis Type: DCSInterface to add interface list.|
+2026-02-23 17:10:29.5276|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS  Mi8 (Simple) interface.|
+2026-02-23 17:10:29.5276|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Mil Mi-8 (Simple) Type: DCSInterface to add interface list.|
+2026-02-23 17:10:29.5276|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS M-2000C interface.|
+2026-02-23 17:10:29.5496|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS M2000C Type: DCSInterface to add interface list.|
+2026-02-23 17:10:29.5496|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Flaming Cliffs 3 interface.|
+2026-02-23 17:10:29.5496|INFO|GadrocsWorkshop.Helios.LogManager|Adding Flaming Cliffs 3 Type: DCSInterface to add interface list.|
+2026-02-23 17:10:29.5496|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS Black Shark interface.|
+2026-02-23 17:10:29.5716|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Black Shark Type: DCSInterface to add interface list.|
+2026-02-23 17:10:29.5716|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS F/A-18C interface.|
+2026-02-23 17:10:29.5960|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS F/A-18C Type: DCSInterface to add interface list.|
+2026-02-23 17:10:29.5960|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS AV-8B interface.|
+2026-02-23 17:10:29.6135|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS AV-8B Type: DCSInterface to add interface list.|
+2026-02-23 17:10:29.6135|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS Generic Interface interface.|
+2026-02-23 17:10:29.6415|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Generic Type: DCSInterface to add interface list.|
+2026-02-23 17:10:29.6415|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS A-10C interface.|
+2026-02-23 17:10:29.6795|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS A-10C Type: A10CInterface to add interface list.|
+2026-02-23 17:10:29.6795|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS A-10C II interface.|
+2026-02-23 17:10:29.6825|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS A-10C II Type: A10CInterface to add interface list.|
+2026-02-23 17:10:29.6825|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Falcon interface.|
+2026-02-23 17:10:29.6825|INFO|GadrocsWorkshop.Helios.LogManager|Adding Falcon Type: ViewportCompilerInterface`2 to add interface list.|
+2026-02-23 17:10:29.6825|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Process Control interface.|
+2026-02-23 17:10:29.6825|INFO|GadrocsWorkshop.Helios.LogManager|Adding Process Control Type: HeliosInterfaceWithXml`1 to add interface list.|
+2026-02-23 17:10:29.6825|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS Additional Viewports interface.|
+2026-02-23 17:10:29.6825|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Additional Viewports Type: HeliosInterface to add interface list.|
+2026-02-23 17:10:29.6825|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS Monitor Setup interface.|
+2026-02-23 17:10:29.6825|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Monitor Setup Type: ViewportCompilerInterface`2 to add interface list.|

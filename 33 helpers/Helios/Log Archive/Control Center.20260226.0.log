@@ -1,0 +1,62 @@
+2026-02-26 16:23:33.7544|INFO|GadrocsWorkshop.Helios.HeliosInit|Helios Version 1.6.6170.3|
+2026-02-26 16:23:33.7976|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ALQ_213" for use in Helios|
+2026-02-26 16:23:33.8036|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC_164" for use in Helios|
+2026-02-26 16:23:33.8036|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_Digital_Clock" for use in Helios|
+2026-02-26 16:23:33.8036|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "AH-64D-CMWS Regular" for use in Helios|
+2026-02-26 16:23:33.8036|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "AH-64D-KU Regular" for use in Helios|
+2026-02-26 16:23:33.8036|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit APN209 LED" for use in Helios|
+2026-02-26 16:23:33.8036|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "DSEG14 Classic Regular" for use in Helios|
+2026-02-26 16:23:33.8036|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "DSEG7 Classic Regular" for use in Helios|
+2026-02-26 16:23:33.8036|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F-15E_Up_Front_Controller" for use in Helios|
+2026-02-26 16:23:33.8036|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F-16C_Viper_DED" for use in Helios|
+2026-02-26 16:23:33.8036|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C Hornet IFEI" for use in Helios|
+2026-02-26 16:23:33.8036|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C_Hornet-Up_Front_Controller" for use in Helios|
+2026-02-26 16:23:33.8036|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC-210_Large" for use in Helios|
+2026-02-26 16:23:33.8036|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC-210_Small" for use in Helios|
+2026-02-26 16:23:33.8036|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit 2000C_PCA_16_Segment" for use in Helios|
+2026-02-26 16:23:33.8036|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "LED Counter 7 Regular" for use in Helios|
+2026-02-26 16:23:33.8036|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "MS 33558 Regular" for use in Helios|
+2026-02-26 16:23:52.1687|INFO|GadrocsWorkshop.Helios.LogManager|Helios 1.6.6170.0003
+https://github.com/HeliosVirtualCockpit/Helios/|
+2026-02-26 16:24:22.7679|INFO|GadrocsWorkshop.Helios.LogManager|Loading Profile...|
+2026-02-26 16:24:22.7729|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-26 16:24:22.8576|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-26 16:24:23.1198|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Gauges/KA-50/RadarAltimeter/radar_alt_needle.xaml is being redirected to {Ka-50}/Gauges/RadarAltimeter/radar_alt_needle.xaml|
+2026-02-26 16:24:23.1198|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Gauges/KA-50/RadarAltimeter/radar_alt_faceplate.xaml is being redirected to {Ka-50}/Gauges/RadarAltimeter/radar_alt_faceplate.xaml|
+2026-02-26 16:24:23.2916|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-26 16:24:23.2916|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-26 16:24:23.3176|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-26 16:24:23.7653|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-26 16:24:23.9113|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Images/F-16/ded-box.png is being redirected to {F-16C}/Images/ded-box.png|
+2026-02-26 16:24:24.3231|INFO|GadrocsWorkshop.Helios.LogManager|Selected Falcon interface driver is 'BMS' version 'Falcon BMS 4.38'|
+2026-02-26 16:24:24.3231|INFO|GadrocsWorkshop.Helios.LogManager|The key file configured in this profile is 'D:\Falcon BMS 4.38\User\Config\BMS - Auto.key'
+|
+2026-02-26 16:24:24.3231|INFO|GadrocsWorkshop.Helios.LogManager|Falcon BMS config parameter g_bExportRTTTextures is not enabled|
+2026-02-26 16:24:24.3231|INFO|GadrocsWorkshop.Helios.LogManager|In order to use Falcon BMS Textures please edit the d:\Falcon BMS 4.38\User\Config\Falcon BMS User.cfg file and add the line: set g_bExportRTTTextures 1 to the file|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|RTT client configuration feature is not enabled|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|Item or application found (or cannot be checked) and is probably viable: 'launch application Process Control to "C:\Bin\AutoDataUpdate.exe" "%BMSFalconPath%" "%HeliosPath%"'|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|No action necessary.|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|Item or application found (or cannot be checked) and is probably viable: 'launch application Process Control to "C:\Bin\RTTRemote_1\RTTClientStart.exe"'|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|No action necessary.|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|Item or application found (or cannot be checked) and is probably viable: 'launch application Process Control to "C:\Bin\RTTRemote_2\RTTClientStart.exe"'|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|No action necessary.|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|Item or application found (or cannot be checked) and is probably viable: 'launch application Process Control to "C:\Bin\RTTRemote_1\RTTClientStop.exe"'|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|No action necessary.|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|Item or application found (or cannot be checked) and is probably viable: 'launch application Process Control to "C:\Bin\BMSFalconRun.exe" "%BMSFalconPath%" "-ef"'|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|No action necessary.|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|Item or application found (or cannot be checked) and is probably viable: 'launch application Process Control to "C:\Bin\AutoPadsUpdate.exe" "%BMSFalconPath%" "%HeliosPath%" "-disableboards"'|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|No action necessary.|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|Item or application found (or cannot be checked) and is probably viable: 'launch application Process Control to "C:\Bin\AutoPadsUpdate.exe" "%BMSFalconPath%" "%HeliosPath%" "-enableboards"'|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|No action necessary.|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|Item or application found (or cannot be checked) and is probably viable: 'launch application Process Control to "C:\Bin\AutoPadsUpdate.exe" "%BMSFalconPath%" "%HeliosPath%" "-restoreboards"'|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|No action necessary.|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|Item or application found (or cannot be checked) and is probably viable: 'launch application Process Control to "C:\Bin\AutoPadsUpdate.exe" "%BMSFalconPath%" "%HeliosPath%" "-disablepads"'|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|No action necessary.|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|Item or application found (or cannot be checked) and is probably viable: 'launch application Process Control to "C:\Bin\AutoPadsUpdate.exe" "%BMSFalconPath%" "%HeliosPath%" "-updateboards"'|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|No action necessary.|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|Item or application found (or cannot be checked) and is probably viable: 'launch application Process Control to "C:\Bin\AutoPadsUpdate.exe" "%BMSFalconPath%" "%HeliosPath%" "-enablepads"'|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|No action necessary.|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|Failed preflight check.|
+2026-02-26 16:24:24.3340|INFO|GadrocsWorkshop.Helios.LogManager|Please resolve problems or disable preflight check in preferences.|
+2026-02-26 16:24:48.8840|INFO|GadrocsWorkshop.Helios.LogManager|Unloading profile on exit.|
+2026-02-26 16:24:48.8840|INFO|GadrocsWorkshop.Helios.LogManager|Saving control center window position.|

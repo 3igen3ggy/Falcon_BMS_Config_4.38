@@ -1,0 +1,26 @@
+2026-02-23 20:37:35.4529|INFO|GadrocsWorkshop.Helios.HeliosInit|Helios Version 1.6.3605.0|
+2026-02-23 20:37:35.4979|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ALQ_213" for use in Helios|
+2026-02-23 20:37:35.4979|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC_164" for use in Helios|
+2026-02-23 20:37:35.4979|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_Digital_Clock" for use in Helios|
+2026-02-23 20:37:35.4979|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F-16C_Viper_DED" for use in Helios|
+2026-02-23 20:37:35.4979|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C Hornet IFEI" for use in Helios|
+2026-02-23 20:37:35.4979|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C_Hornet-Up_Front_Controller" for use in Helios|
+2026-02-23 20:37:35.4979|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "MS 33558 Regular" for use in Helios|
+2026-02-23 20:37:35.7257|INFO|GadrocsWorkshop.Helios.LogManager|Helios 1.6.3605.0000
+https://github.com/HeliosVirtualCockpit/Helios/|
+2026-02-23 20:37:41.9003|INFO|GadrocsWorkshop.Helios.LogManager|Loading Profile...|
+2026-02-23 20:37:41.9174|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-23 20:37:41.9993|INFO|GadrocsWorkshop.Helios.LogManager|Selected Falcon interface driver is 'BMS' version 'Falcon BMS 4.38'|
+2026-02-23 20:37:41.9993|INFO|GadrocsWorkshop.Helios.LogManager|The key file configured in this profile is 'D:\Falcon BMS 4.38\User\Config\BMS - Full.key'
+|
+2026-02-23 20:37:41.9993|INFO|GadrocsWorkshop.Helios.LogManager|RTT Configuration at d:\Falcon BMS 4.38\Tools\RTTRemote\RTTClient.ini will be updated at Start|
+2026-02-23 20:37:41.9993|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile starting. (Name="F16")|
+2026-02-23 20:37:41.9993|INFO|GadrocsWorkshop.Helios.Interfaces.Falcon.Interfaces.RTT.ProcessControl|launching RTT client: RTTClient64.exe|
+2026-02-23 20:37:42.0379|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile started. (Name="F16")|
+2026-02-23 20:37:42.2352|INFO|GadrocsWorkshop.Helios.LogManager|Running Profile|
+2026-02-23 20:38:17.2776|INFO|GadrocsWorkshop.Helios.LogManager|Stopping profile on exit.|
+2026-02-23 20:38:17.2776|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile stopping. (Name="F16")|
+2026-02-23 20:38:17.2776|INFO|GadrocsWorkshop.Helios.Interfaces.Falcon.Interfaces.RTT.ProcessControl|Killing process image name "RTTClient64"|
+2026-02-23 20:38:17.2978|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile stopped. (Name="F16")|
+2026-02-23 20:38:17.2978|INFO|GadrocsWorkshop.Helios.LogManager|Unloading profile on exit.|
+2026-02-23 20:38:17.2978|INFO|GadrocsWorkshop.Helios.LogManager|Saving control center window position.|

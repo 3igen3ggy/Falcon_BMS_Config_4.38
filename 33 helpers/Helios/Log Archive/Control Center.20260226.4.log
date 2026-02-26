@@ -1,0 +1,55 @@
+2026-02-26 19:09:23.2255|INFO|GadrocsWorkshop.Helios.HeliosInit|Helios Version 1.6.6170.3|
+2026-02-26 19:09:23.2545|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ALQ_213" for use in Helios|
+2026-02-26 19:09:23.2715|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC_164" for use in Helios|
+2026-02-26 19:09:23.2715|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_Digital_Clock" for use in Helios|
+2026-02-26 19:09:23.2715|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "AH-64D-CMWS Regular" for use in Helios|
+2026-02-26 19:09:23.2715|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "AH-64D-KU Regular" for use in Helios|
+2026-02-26 19:09:23.2715|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit APN209 LED" for use in Helios|
+2026-02-26 19:09:23.2715|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "DSEG14 Classic Regular" for use in Helios|
+2026-02-26 19:09:23.2715|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "DSEG7 Classic Regular" for use in Helios|
+2026-02-26 19:09:23.2715|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F-15E_Up_Front_Controller" for use in Helios|
+2026-02-26 19:09:23.2715|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F-16C_Viper_DED" for use in Helios|
+2026-02-26 19:09:23.2715|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C Hornet IFEI" for use in Helios|
+2026-02-26 19:09:23.2715|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C_Hornet-Up_Front_Controller" for use in Helios|
+2026-02-26 19:09:23.2715|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC-210_Large" for use in Helios|
+2026-02-26 19:09:23.2715|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC-210_Small" for use in Helios|
+2026-02-26 19:09:23.2715|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit 2000C_PCA_16_Segment" for use in Helios|
+2026-02-26 19:09:23.2715|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "LED Counter 7 Regular" for use in Helios|
+2026-02-26 19:09:23.2715|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "MS 33558 Regular" for use in Helios|
+2026-02-26 19:09:23.6728|INFO|GadrocsWorkshop.Helios.LogManager|Helios 1.6.6170.0003
+https://github.com/HeliosVirtualCockpit/Helios/|
+2026-02-26 19:09:29.6836|INFO|GadrocsWorkshop.Helios.LogManager|Loading Profile...|
+2026-02-26 19:09:29.6925|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-26 19:09:29.7619|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-26 19:09:30.0160|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Gauges/KA-50/RadarAltimeter/radar_alt_needle.xaml is being redirected to {Ka-50}/Gauges/RadarAltimeter/radar_alt_needle.xaml|
+2026-02-26 19:09:30.0160|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Gauges/KA-50/RadarAltimeter/radar_alt_faceplate.xaml is being redirected to {Ka-50}/Gauges/RadarAltimeter/radar_alt_faceplate.xaml|
+2026-02-26 19:09:30.1867|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-26 19:09:30.1867|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-26 19:09:30.2102|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-26 19:09:30.6276|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-26 19:09:30.7582|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Images/F-16/ded-box.png is being redirected to {F-16C}/Images/ded-box.png|
+2026-02-26 19:09:31.1510|INFO|GadrocsWorkshop.Helios.LogManager|Preflight check is disabled.  Helios will not be able to ensure configuration is correct.|
+2026-02-26 19:09:31.1510|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile starting. (Name="Ice's Falcon BMS 4.37")|
+2026-02-26 19:09:31.1632|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Profile Started set physical state on Button COMMS ATC to  true (from 'Interface 'Profile'' to 'Monitor 2.Panel FRONT CONSOLE.Panel RADIO COMMS.Button COMMS ATC') triggered with value ""|
+2026-02-26 19:09:31.1632|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Button COMMS ATC closed set hidden on Panel ATC COMMS MENU to  false (from 'Monitor 2.Panel FRONT CONSOLE.Panel RADIO COMMS.Button COMMS ATC' to 'Monitor 2.Panel FRONT CONSOLE.Panel RADIO COMMS.Panel ATC COMMS MENU') triggered with value "1"|
+2026-02-26 19:09:31.1632|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Button PANEL 01 pushed push Button RESET (from 'Monitor 2.Panel FRONT CONSOLE.Panel CHARTS.Panel CHECKLISTS.Panel CHECKLIST 01 MAIN.Panel CENTRE.Button PANEL 01' to 'Monitor 2.Panel FRONT CONSOLE.Panel CHARTS.Panel CHECKLISTS.Panel CHECKLIST 01 MAIN.Panel CENTRE.Button RESET') triggered with value "1"|
+2026-02-26 19:09:31.1792|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Boolean Signal on MemoryWire RTT ENABLED IN SETTINGS FILE changes set hidden on Panel MFD TEXTURES to  trigger value (from 'Monitor 2.Panel BACKGROUND.MemoryWire RTT ENABLED IN SETTINGS FILE' to 'Monitor 2.Panel ZOOMED CONSOLE.Panel ZOOMED MFD.Panel MFD TEXTURES') triggered with value "0"|
+2026-02-26 19:09:31.1792|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when position on Rotary KNEEBOARDS changes set hidden on Panel KNEEBOARDS BUTTON AUTO to  true (from 'Monitor 2.Panel FRONT CONSOLE.Panel SYSTEM.Rotary KNEEBOARDS' to 'Monitor 2.Panel FRONT CONSOLE.Panel KNEEBOARDS BUTTON AUTO') triggered with value "1"|
+2026-02-26 19:09:31.1792|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when position 1 on Rotary KNEEBOARDS entered set hidden on Panel KNEEBOARDS BUTTON AUTO to  false (from 'Monitor 2.Panel FRONT CONSOLE.Panel SYSTEM.Rotary KNEEBOARDS' to 'Monitor 2.Panel FRONT CONSOLE.Panel KNEEBOARDS BUTTON AUTO') triggered with value ""|
+2026-02-26 19:09:31.4794|INFO|GadrocsWorkshop.Helios.HeliosProcessControl.ProcessControlInterface|Error caught launching external application (path="C:\Bin\AutoDataUpdate.exe").  This is very likely to be due to a missing program, missing file, or incorrect permissions on what has been specified on the lauinch action.|System.ComponentModel.Win32Exception
+The operation was canceled by the user
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at GadrocsWorkshop.Helios.HeliosProcessControl.ProcessControlInterface.LaunchApplication_Execute(Object action, HeliosActionEventArgs e, Boolean windowHidden)
+2026-02-26 19:09:31.4794|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile started. (Name="Ice's Falcon BMS 4.37")|
+2026-02-26 19:09:36.6436|INFO|GadrocsWorkshop.Helios.LogManager|Running Profile|
+2026-02-26 19:09:36.7105|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Runtime Current Theater on Falcon changes set position on Rotary CHARTS SELECTOR to  script results (from 'Interface 'Falcon'' to 'Monitor 2.Panel FRONT CONSOLE.Panel CHARTS.Rotary CHARTS SELECTOR') triggered with value "Korea KTO"|
+2026-02-26 19:09:36.7105|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Helios Version Helios Version on Helios Information changes set Text Signal on MemoryWire VERSION CHECK to  trigger value (from 'Interface 'Helios Information'' to 'Monitor 2.Panel VERSION CHECK.MemoryWire VERSION CHECK') triggered with value "1.6.6170.0003"|
+2026-02-26 19:09:36.7105|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Text Signal on MemoryWire VERSION CHECK changes set position on Rotary VERSION CHECK to  script results (from 'Monitor 2.Panel VERSION CHECK.MemoryWire VERSION CHECK' to 'Monitor 2.Panel VERSION CHECK.Rotary VERSION CHECK') triggered with value "1.6.6170.0003"|
+2026-02-26 19:09:36.7105|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when position 2 on Rotary VERSION CHECK entered set hidden on Panel VERSION CHECK to  true (from 'Monitor 2.Panel VERSION CHECK.Rotary VERSION CHECK' to 'Monitor 2.Panel VERSION CHECK') triggered with value ""|
+2026-02-26 19:10:06.5231|INFO|GadrocsWorkshop.Helios.LogManager|Stopping profile on exit.|
+2026-02-26 19:10:06.5231|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile stopping. (Name="Ice's Falcon BMS 4.37")|
+2026-02-26 19:10:06.5231|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Profile Stopped push Button STOP RTTCLIENT MASTER (from 'Interface 'Profile'' to 'Monitor 2.Panel BACKGROUND.Button STOP RTTCLIENT MASTER') triggered with value ""|
+2026-02-26 19:10:06.5478|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile stopped. (Name="Ice's Falcon BMS 4.37")|
+2026-02-26 19:10:06.5478|INFO|GadrocsWorkshop.Helios.LogManager|Unloading profile on exit.|
+2026-02-26 19:10:06.5517|INFO|GadrocsWorkshop.Helios.LogManager|Saving control center window position.|

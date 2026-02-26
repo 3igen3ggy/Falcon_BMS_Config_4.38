@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HeliosSettings>
+  <Group>
+    <Name>Helios</Name>
+    <Settings>
+      <Setting>
+        <Name>LastestGitHubDownloadUrl</Name>
+        <Value>https://github.com/HeliosVirtualCockpit/Helios/releases/download/1.6.6170.3/Helios_Installers.zip</Value>
+      </Setting>
+      <Setting>
+        <Name>LastReturnedVersion</Name>
+        <Value>0.0.0000.0000</Value>
+      </Setting>
+      <Setting>
+        <Name>NextDateForVersionWarning</Name>
+        <Value>20260302</Value>
+      </Setting>
+      <Setting>
+        <Name>ReminderForNextRelease</Name>
+        <Value>1</Value>
+      </Setting>
+    </Settings>
+  </Group>
+  <Group>
+    <Name>ConfigurationCheck</Name>
+    <Settings />
+  </Group>
+  <Group>
+    <Name>KeyboardInterface</Name>
+    <Settings />
+  </Group>
+  <Group>
+    <Name>ProfileEditor</Name>
+    <Settings>
+      <Setting>
+        <Name>WindowLocation</Name>
+        <Value>503,0,1903,900</Value>
+      </Setting>
+      <Setting>
+        <Name>DefaultAlwaysOnTop</Name>
+        <Value>False</Value>
+      </Setting>
+    </Settings>
+  </Group>
+  <Group>
+    <Name>FalconRtt</Name>
+    <Settings>
+      <Setting>
+        <Name>AllowProcessControl</Name>
+        <Value>True</Value>
+      </Setting>
+    </Settings>
+  </Group>
+  <Group>
+    <Name>ProcessControl</Name>
+    <Settings>
+      <Setting>
+        <Name>AllowLaunch</Name>
+        <Value>True</Value>
+      </Setting>
+    </Settings>
+  </Group>
+</HeliosSettings>

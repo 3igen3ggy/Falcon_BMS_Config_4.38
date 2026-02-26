@@ -1,0 +1,30 @@
+2026-02-23 16:57:07.8109|INFO|GadrocsWorkshop.Helios.HeliosInit|Helios Version 1.6.3605.0|
+2026-02-23 16:57:07.8399|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ALQ_213" for use in Helios|
+2026-02-23 16:57:07.8399|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC_164" for use in Helios|
+2026-02-23 16:57:07.8399|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_Digital_Clock" for use in Helios|
+2026-02-23 16:57:07.8399|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F-16C_Viper_DED" for use in Helios|
+2026-02-23 16:57:07.8399|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C Hornet IFEI" for use in Helios|
+2026-02-23 16:57:07.8399|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C_Hornet-Up_Front_Controller" for use in Helios|
+2026-02-23 16:57:07.8399|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "MS 33558 Regular" for use in Helios|
+2026-02-23 16:57:08.0832|INFO|GadrocsWorkshop.Helios.LogManager|Helios 1.6.3605.0000
+https://github.com/HeliosVirtualCockpit/Helios/|
+2026-02-23 16:57:13.4322|INFO|GadrocsWorkshop.Helios.LogManager|New Helios version available; check Console for details|
+2026-02-23 16:57:28.4131|INFO|GadrocsWorkshop.Helios.LogManager|Loading Profile...|
+2026-02-23 16:57:28.4181|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-23 16:57:28.4797|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile starting. (Name="F16")|
+2026-02-23 16:57:28.4797|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile started. (Name="F16")|
+2026-02-23 16:57:28.6588|INFO|GadrocsWorkshop.Helios.LogManager|Running Profile|
+2026-02-23 16:58:33.6382|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile reseting. (Name="F16")|
+2026-02-23 16:58:33.6382|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile reset completed. (Name="F16")|
+2026-02-23 16:58:33.6382|INFO|GadrocsWorkshop.Helios.LogManager|Running Profile|
+2026-02-23 16:58:33.6382|INFO|GadrocsWorkshop.Helios.LogManager|Profile was manually reset.|
+2026-02-23 16:58:41.1773|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile stopping. (Name="F16")|
+2026-02-23 16:58:41.1882|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile stopped. (Name="F16")|
+2026-02-23 16:58:41.6619|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile starting. (Name="F16")|
+2026-02-23 16:58:41.6619|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile started. (Name="F16")|
+2026-02-23 16:58:41.7995|INFO|GadrocsWorkshop.Helios.LogManager|Running Profile|
+2026-02-23 16:58:50.6198|INFO|GadrocsWorkshop.Helios.LogManager|Stopping profile on exit.|
+2026-02-23 16:58:50.6198|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile stopping. (Name="F16")|
+2026-02-23 16:58:50.6198|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile stopped. (Name="F16")|
+2026-02-23 16:58:50.6198|INFO|GadrocsWorkshop.Helios.LogManager|Unloading profile on exit.|
+2026-02-23 16:58:50.6198|INFO|GadrocsWorkshop.Helios.LogManager|Saving control center window position.|

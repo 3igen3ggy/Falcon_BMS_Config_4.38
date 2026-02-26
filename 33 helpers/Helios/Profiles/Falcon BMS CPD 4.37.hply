@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LayoutRoot>
+  <RootPanel Orientation="Horizontal">
+    <LayoutAnchorablePaneGroup Orientation="Vertical" DockWidth="300">
+      <LayoutAnchorablePane DockWidth="300">
+        <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Preview" IsSelected="True" ContentId="PreviewPanel" LastActivationTimeStamp="02/23/2026 21:24:10" />
+        <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Profile Explorer" ContentId="ExplorerPanel" LastActivationTimeStamp="02/23/2026 21:24:09" />
+      </LayoutAnchorablePane>
+      <LayoutAnchorablePane DockHeight="3*">
+        <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Toolbox" IsSelected="True" ContentId="ToolboxPanel" />
+      </LayoutAnchorablePane>
+    </LayoutAnchorablePaneGroup>
+    <LayoutPanel Orientation="Horizontal">
+      <LayoutPanel Orientation="Vertical">
+        <LayoutDocumentPane Id="40145270-68e8-4726-b2fb-a2860911b708">
+          <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Interface Status" ContentId="InterfaceStatusPanel" LastActivationTimeStamp="02/23/2026 21:27:22" />
+          <LayoutDocument Title="Monitor 1" ContentId="Visual;Monitor 1;Helios.Monitor;Monitor 1" LastActivationTimeStamp="02/23/2026 21:27:21" />
+          <LayoutDocument Title="Falcon" ContentId="Interface;;Helios.Falcon.Interface;Falcon" LastActivationTimeStamp="02/23/2026 21:27:21" />
+          <LayoutDocument Title="Process Control" IsSelected="True" IsLastFocusedDocument="True" ContentId="Interface;;HeliosProcessControl.ProcessControlInterface;Process Control" LastActivationTimeStamp="02/23/2026 21:27:23" />
+        </LayoutDocumentPane>
+        <LayoutAnchorablePane DockHeight="300">
+          <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="300" Title="Bindings" IsSelected="True" ContentId="BindingsPanel" />
+        </LayoutAnchorablePane>
+      </LayoutPanel>
+      <LayoutAnchorablePaneGroup Orientation="Vertical" DockWidth="300">
+        <LayoutAnchorablePane DockWidth="300">
+          <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Properties" IsSelected="True" ContentId="PropertiesPanel" />
+        </LayoutAnchorablePane>
+        <LayoutAnchorablePane>
+          <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Layers" IsSelected="True" ContentId="LayersPanel" />
+        </LayoutAnchorablePane>
+      </LayoutAnchorablePaneGroup>
+    </LayoutPanel>
+  </RootPanel>
+  <TopSide />
+  <RightSide />
+  <LeftSide />
+  <BottomSide />
+  <FloatingWindows />
+  <Hidden />
+</LayoutRoot>

@@ -1,0 +1,11 @@
+2026-02-23 20:28:19.1100|INFO|GadrocsWorkshop.Helios.HeliosInit|Helios Version 1.6.3605.0|
+2026-02-23 20:28:19.1512|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ALQ_213" for use in Helios|
+2026-02-23 20:28:19.1512|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC_164" for use in Helios|
+2026-02-23 20:28:19.1512|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_Digital_Clock" for use in Helios|
+2026-02-23 20:28:19.1512|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F-16C_Viper_DED" for use in Helios|
+2026-02-23 20:28:19.1512|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C Hornet IFEI" for use in Helios|
+2026-02-23 20:28:19.1512|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C_Hornet-Up_Front_Controller" for use in Helios|
+2026-02-23 20:28:19.1512|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "MS 33558 Regular" for use in Helios|
+2026-02-23 20:28:19.7702|INFO|GadrocsWorkshop.Helios.LogManager|Helios 1.6.3605.0000
+https://github.com/HeliosVirtualCockpit/Helios/|
+2026-02-23 20:28:27.0632|INFO|GadrocsWorkshop.Helios.LogManager|Saving control center window position.|

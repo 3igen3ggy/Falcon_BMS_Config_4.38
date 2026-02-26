@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HeliosProfile>
+  <Version>3</Version>
+  <Monitors>
+    <Monitor>
+      <Location>0,0</Location>
+      <Size>1920,1080</Size>
+      <Hidden>False</Hidden>
+      <Orientation>DMDO_DEFAULT</Orientation>
+      <AlwaysOnTop>True</AlwaysOnTop>
+      <Background />
+      <Children />
+    </Monitor>
+    <Monitor>
+      <Location>1920,0</Location>
+      <Size>1920,1080</Size>
+      <Hidden>False</Hidden>
+      <Orientation>DMDO_DEFAULT</Orientation>
+      <AlwaysOnTop>False</AlwaysOnTop>
+      <Background />
+      <Children>
+        <Control TypeIdentifier="Helios.Base.ViewportExtent" Name="F16C LEFT_MFCD" SnapTarget="True" Locked="False">
+          <FillBackground>True</FillBackground>
+          <BackgroundColor>#801FC06F</BackgroundColor>
+          <FontColor>#FFFFFFFF</FontColor>
+          <Font>
+            <FontFamily>Franklin Gothic</FontFamily>
+            <FontStyle>Normal</FontStyle>
+            <FontWeight>Normal</FontWeight>
+            <FontSize>16.096</FontSize>
+            <HorizontalAlignment>Center</HorizontalAlignment>
+            <VerticalAlignment>Center</VerticalAlignment>
+            <Padding>
+              <Left>0</Left>
+              <Top>0</Top>
+              <Right>0</Right>
+              <Bottom>0</Bottom>
+            </Padding>
+          </Font>
+          <Text>F_16C_LEFT_MFCD</Text>
+          <Location>0,580</Location>
+          <Size>500,500</Size>
+          <Hidden>False</Hidden>
+          <ViewportName>F_16C_LEFT_MFCD</ViewportName>
+          <RequiresPatches>True</RequiresPatches>
+          <Children />
+        </Control>
+        <Control TypeIdentifier="Helios.Base.ViewportExtent" Name="F16C RIGHT_MFCD" SnapTarget="True" Locked="False">
+          <FillBackground>True</FillBackground>
+          <BackgroundColor>#801FC06F</BackgroundColor>
+          <FontColor>#FFFFFFFF</FontColor>
+          <Font>
+            <FontFamily>Franklin Gothic</FontFamily>
+            <FontStyle>Normal</FontStyle>
+            <FontWeight>Normal</FontWeight>
+            <FontSize>15.968</FontSize>
+            <HorizontalAlignment>Center</HorizontalAlignment>
+            <VerticalAlignment>Center</VerticalAlignment>
+            <Padding>
+              <Left>0</Left>
+              <Top>0</Top>
+              <Right>0</Right>
+              <Bottom>0</Bottom>
+            </Padding>
+          </Font>
+          <Text>F_16C_RIGHT_MFCD</Text>
+          <Location>1421,580</Location>
+          <Size>499,499</Size>
+          <Hidden>False</Hidden>
+          <ViewportName>F_16C_RIGHT_MFCD</ViewportName>
+          <RequiresPatches>True</RequiresPatches>
+          <Children />
+        </Control>
+        <Control TypeIdentifier="Helios.Base.ViewportExtent" Name="F16C RWR" SnapTarget="True" Locked="False">
+          <FillBackground>True</FillBackground>
+          <BackgroundColor>#801FC06F</BackgroundColor>
+          <FontColor>#FFFFFFFF</FontColor>
+          <Font>
+            <FontFamily>Franklin Gothic</FontFamily>
+            <FontStyle>Normal</FontStyle>
+            <FontWeight>Normal</FontWeight>
+            <FontSize>26.6666666666667</FontSize>
+            <HorizontalAlignment>Center</HorizontalAlignment>
+            <VerticalAlignment>Center</VerticalAlignment>
+            <Padding>
+              <Left>0</Left>
+              <Top>0</Top>
+              <Right>0</Right>
+              <Bottom>0</Bottom>
+            </Padding>
+          </Font>
+          <Text>F_16C_RWR</Text>
+          <Location>0,0</Location>
+          <Size>500,500</Size>
+          <Hidden>False</Hidden>
+          <ViewportName>F_16C_RWR</ViewportName>
+          <RequiresPatches>True</RequiresPatches>
+          <Children />
+        </Control>
+        <Control TypeIdentifier="Helios.Base.ViewportExtent" Name="F16C DED" SnapTarget="True" Locked="False">
+          <FillBackground>True</FillBackground>
+          <BackgroundColor>#801FC06F</BackgroundColor>
+          <FontColor>#FFFFFFFF</FontColor>
+          <Font>
+            <FontFamily>Franklin Gothic</FontFamily>
+            <FontStyle>Normal</FontStyle>
+            <FontWeight>Normal</FontWeight>
+            <FontSize>22.2222222222222</FontSize>
+            <HorizontalAlignment>Center</HorizontalAlignment>
+            <VerticalAlignment>Center</VerticalAlignment>
+            <Padding>
+              <Left>0</Left>
+              <Top>0</Top>
+              <Right>0</Right>
+              <Bottom>0</Bottom>
+            </Padding>
+          </Font>
+          <Text>F_16C_DED</Text>
+          <Location>1332,0</Location>
+          <Size>585,200</Size>
+          <Hidden>False</Hidden>
+          <ViewportName>F_16C_DED</ViewportName>
+          <RequiresPatches>True</RequiresPatches>
+          <Children />
+        </Control>
+        <Control TypeIdentifier="Helios.F16.AOA" Name="AOA" SnapTarget="True" Locked="False">
+          <Location>500,390</Location>
+          <Size>220,452</Size>
+          <Hidden>False</Hidden>
+          <Children />
+        </Control>
+        <Control TypeIdentifier="Helios.F16.ADI" Name="ADI" SnapTarget="True" Locked="False">
+          <Location>773,390</Location>
+          <Size>339,339</Size>
+          <Hidden>False</Hidden>
+          <Children />
+        </Control>
+        <Control TypeIdentifier="Helios.F16.VVI" Name="VVI" SnapTarget="True" Locked="False">
+          <Location>1201,390</Location>
+          <Size>220,452</Size>
+          <Hidden>False</Hidden>
+          <Children />
+        </Control>
+        <Control TypeIdentifier="Helios.F16.Altimeter" Name="Altimeter" SnapTarget="True" Locked="False">
+          <Location>968,14</Location>
+          <Size>364,376</Size>
+          <Hidden>False</Hidden>
+          <Children />
+        </Control>
+        <Control TypeIdentifier="Helios.F16.Airspeed" Name="Airspeed" SnapTarget="True" Locked="False">
+          <Location>535,14</Location>
+          <Size>364,376</Size>
+          <Hidden>False</Hidden>
+          <Children />
+        </Control>
+        <Control TypeIdentifier="Helios.F16.HSI" Name="HSI" SnapTarget="True" Locked="False">
+          <Location>773,740</Location>
+          <Size>339,339</Size>
+          <Hidden>False</Hidden>
+          <Children />
+        </Control>
+        <Control TypeIdentifier="Helios.Base.LockedViewportExtent" Name="Falcon RTT HUD ONTOP" SnapTarget="True" Locked="False">
+          <FillBackground>True</FillBackground>
+          <BackgroundColor>#800099FF</BackgroundColor>
+          <FontColor>#FFFFFFFF</FontColor>
+          <Font>
+            <FontFamily>Franklin Gothic</FontFamily>
+            <FontStyle>Normal</FontStyle>
+            <FontWeight>Normal</FontWeight>
+            <FontSize>12</FontSize>
+            <HorizontalAlignment>Center</HorizontalAlignment>
+            <VerticalAlignment>Center</VerticalAlignment>
+            <Padding>
+              <Left>0</Left>
+              <Top>0</Top>
+              <Right>0</Right>
+              <Bottom>0</Bottom>
+            </Padding>
+          </Font>
+          <Text>HUD_ONTOP</Text>
+          <Location>180,437</Location>
+          <Size>222,201</Size>
+          <Hidden>False</Hidden>
+          <ViewportName>HUD_ONTOP</ViewportName>
+          <Children />
+        </Control>
+      </Children>
+    </Monitor>
+  </Monitors>
+  <Interfaces>
+    <Interface TypeIdentifier="Helios.Base.Keyboard" Name="Keyboard">
+      <KeyDelay>30</KeyDelay>
+    </Interface>
+    <Interface TypeIdentifier="Helios.Base.ProfileInterface" Name="Profile" />
+    <Interface TypeIdentifier="Helios.Falcon.Interface" Name="Falcon">
+      <FalconType>BMS</FalconType>
+      <FalconVersion>Falcon BMS 4.38</FalconVersion>
+      <KeyFile>D:\Falcon BMS 4.38\User\Config\BMS - Full.key</KeyFile>
+      <FocusAssist>False</FocusAssist>
+      <ForceKeyFile>False</ForceKeyFile>
+      <RTT Networked="false" Enabled="true" xmlns="http://Helios.local/HeliosFalcon/Interfaces/RTT/RttConfigGenerator">
+        <Network />
+        <Local>
+          <RWRGrid>true</RWRGrid>
+        </Local>
+        <ProcessControl>
+          <StartRtt>true</StartRtt>
+          <StopRtt>true</StopRtt>
+        </ProcessControl>
+      </RTT>
+    </Interface>
+  </Interfaces>
+  <Bindings />
+</HeliosProfile>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HeliosProfile>
+  <Version>3</Version>
+  <Monitors>
+    <Monitor>
+      <Location>0,0</Location>
+      <Size>2560,1080</Size>
+      <Hidden>False</Hidden>
+      <Orientation>DMDO_DEFAULT</Orientation>
+      <AlwaysOnTop>True</AlwaysOnTop>
+      <Background />
+      <Children />
+    </Monitor>
+    <Monitor>
+      <Location>-1920,0</Location>
+      <Size>1920,1080</Size>
+      <Hidden>False</Hidden>
+      <Orientation>DMDO_DEFAULT</Orientation>
+      <AlwaysOnTop>True</AlwaysOnTop>
+      <Background />
+      <Children>
+        <Control TypeIdentifier="Helios.Panel" Name="Panel FRONT CONSOLE" SnapTarget="True" Locked="True">
+          <Location>0,0</Location>
+          <Size>1920,1080</Size>
+          <Hidden>False</Hidden>
+          <Background />
+          <Interaction>
+            <AllowInteractionFull>False</AllowInteractionFull>
+            <AllowInteractionNone>True</AllowInteractionNone>
+            <AllowInteractionLegacy>False</AllowInteractionLegacy>
+          </Interaction>
+          <Children>
+            <Control TypeIdentifier="Helios.Panel" Name="Panel MFD" SnapTarget="True" Locked="True">
+              <Location>228,265</Location>
+              <Size>1458,452</Size>
+              <Hidden>False</Hidden>
+              <Background />
+              <Interaction>
+                <AllowInteractionFull>True</AllowInteractionFull>
+                <AllowInteractionNone>False</AllowInteractionNone>
+                <AllowInteractionLegacy>False</AllowInteractionLegacy>
+              </Interaction>
+              <Children>
+                <Control TypeIdentifier="Helios.Panel" Name="Panel MFD TEXTURES RTT" SnapTarget="True" Locked="True">
+                  <Location>0,0</Location>
+                  <Size>1458,452</Size>
+                  <Hidden>False</Hidden>
+                  <Background />
+                  <Interaction>
+                    <AllowInteractionFull>True</AllowInteractionFull>
+                    <AllowInteractionNone>False</AllowInteractionNone>
+                    <AllowInteractionLegacy>False</AllowInteractionLegacy>
+                  </Interaction>
+                  <Children>
+                    <Control TypeIdentifier="Helios.Base.LockedViewportExtent" Name="Falcon RTT MFDRIGHT" SnapTarget="True" Locked="True">
+                      <FillBackground>True</FillBackground>
+                      <BackgroundColor>#807192A8</BackgroundColor>
+                      <FontColor>#FFFFFFFF</FontColor>
+                      <Font>
+                        <FontFamily>Franklin Gothic</FontFamily>
+                        <FontStyle>Normal</FontStyle>
+                        <FontWeight>Normal</FontWeight>
+                        <FontSize>12</FontSize>
+                        <HorizontalAlignment>Center</HorizontalAlignment>
+                        <VerticalAlignment>Center</VerticalAlignment>
+                        <Padding>
+                          <Left>0</Left>
+                          <Top>0</Top>
+                          <Right>0</Right>
+                          <Bottom>0</Bottom>
+                        </Padding>
+                      </Font>
+                      <Text>MFDRIGHT</Text>
+                      <Location>1069,63</Location>
+                      <Size>326,326</Size>
+                      <Hidden>False</Hidden>
+                      <ViewportName>MFDRIGHT</ViewportName>
+                      <Children />
+                    </Control>
+                    <Control TypeIdentifier="Helios.Base.LockedViewportExtent" Name="Falcon RTT MFDLEFT" SnapTarget="True" Locked="True">
+                      <FillBackground>True</FillBackground>
+                      <BackgroundColor>#807192A8</BackgroundColor>
+                      <FontColor>#FFFFFFFF</FontColor>
+                      <Font>
+                        <FontFamily>Franklin Gothic</FontFamily>
+                        <FontStyle>Normal</FontStyle>
+                        <FontWeight>Normal</FontWeight>
+                        <FontSize>12</FontSize>
+                        <HorizontalAlignment>Center</HorizontalAlignment>
+                        <VerticalAlignment>Center</VerticalAlignment>
+                        <Padding>
+                          <Left>0</Left>
+                          <Top>0</Top>
+                          <Right>0</Right>
+                          <Bottom>0</Bottom>
+                        </Padding>
+                      </Font>
+                      <Text>MFDLEFT</Text>
+                      <Location>63,63</Location>
+                      <Size>326,326</Size>
+                      <Hidden>False</Hidden>
+                      <ViewportName>MFDLEFT</ViewportName>
+                      <Children />
+                    </Control>
+                  </Children>
+                </Control>
+              </Children>
+            </Control>
+          </Children>
+        </Control>
+      </Children>
+    </Monitor>
+  </Monitors>
+  <Interfaces>
+    <Interface TypeIdentifier="Helios.Base.Keyboard" Name="Keyboard">
+      <KeyDelay>30</KeyDelay>
+    </Interface>
+    <Interface TypeIdentifier="Helios.Base.ProfileInterface" Name="Profile" />
+    <Interface TypeIdentifier="Helios.Falcon.Interface" Name="Falcon">
+      <FalconType>BMS</FalconType>
+      <FalconVersion>Falcon BMS 4.37</FalconVersion>
+      <KeyFile>C:\Bin\KeyFile\BMS - Auto.key</KeyFile>
+      <FocusAssist>False</FocusAssist>
+      <ForceKeyFile>False</ForceKeyFile>
+      <TextureRefreshRate_30>False</TextureRefreshRate_30>
+      <TextureRefreshRate_60>False</TextureRefreshRate_60>
+      <TextureRefreshRate_90>True</TextureRefreshRate_90>
+      <RTT Networked="false" Enabled="false" xmlns="http://Helios.local/HeliosFalcon/Interfaces/RTT/RttConfigGenerator">
+        <Network />
+        <Local>
+          <FramesPerSecond>60</FramesPerSecond>
+        </Local>
+        <ProcessControl />
+      </RTT>
+    </Interface>
+    <Interface TypeIdentifier="HeliosProcessControl.ProcessControlInterface" Name="Process Control">
+      <Configuration xmlns="http://Helios.local/HeliosProcessControl/Interfaces/ProcessControl/Configuration" />
+    </Interface>
+  </Interfaces>
+  <Bindings />
+</HeliosProfile>

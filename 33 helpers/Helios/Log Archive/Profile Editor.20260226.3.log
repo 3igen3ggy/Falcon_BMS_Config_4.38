@@ -1,0 +1,1235 @@
+2026-02-26 18:08:14.0079|INFO|GadrocsWorkshop.Helios.HeliosInit|Helios Version 1.6.6170.3|
+2026-02-26 18:08:14.0568|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ALQ_213" for use in Helios|
+2026-02-26 18:08:14.0568|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC_164" for use in Helios|
+2026-02-26 18:08:14.0568|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_Digital_Clock" for use in Helios|
+2026-02-26 18:08:14.0568|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "AH-64D-CMWS Regular" for use in Helios|
+2026-02-26 18:08:14.0568|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "AH-64D-KU Regular" for use in Helios|
+2026-02-26 18:08:14.0568|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit APN209 LED" for use in Helios|
+2026-02-26 18:08:14.0568|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "DSEG14 Classic Regular" for use in Helios|
+2026-02-26 18:08:14.0568|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "DSEG7 Classic Regular" for use in Helios|
+2026-02-26 18:08:14.0568|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F-15E_Up_Front_Controller" for use in Helios|
+2026-02-26 18:08:14.0568|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F-16C_Viper_DED" for use in Helios|
+2026-02-26 18:08:14.0568|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C Hornet IFEI" for use in Helios|
+2026-02-26 18:08:14.0568|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C_Hornet-Up_Front_Controller" for use in Helios|
+2026-02-26 18:08:14.0568|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC-210_Large" for use in Helios|
+2026-02-26 18:08:14.0568|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC-210_Small" for use in Helios|
+2026-02-26 18:08:14.0568|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit 2000C_PCA_16_Segment" for use in Helios|
+2026-02-26 18:08:14.0568|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "LED Counter 7 Regular" for use in Helios|
+2026-02-26 18:08:14.0568|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "MS 33558 Regular" for use in Helios|
+2026-02-26 18:08:14.3716|INFO|GadrocsWorkshop.Helios.LogManager|Starting Editor|
+2026-02-26 18:08:14.5432|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-26 18:08:21.9400|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-26 18:08:22.2114|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Gauges/KA-50/RadarAltimeter/radar_alt_needle.xaml is being redirected to {Ka-50}/Gauges/RadarAltimeter/radar_alt_needle.xaml|
+2026-02-26 18:08:22.2114|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Gauges/KA-50/RadarAltimeter/radar_alt_faceplate.xaml is being redirected to {Ka-50}/Gauges/RadarAltimeter/radar_alt_faceplate.xaml|
+2026-02-26 18:08:22.3521|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-26 18:08:22.3807|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-26 18:08:22.4624|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-26 18:08:23.1938|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-26 18:08:23.3679|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Images/F-16/ded-box.png is being redirected to {F-16C}/Images/ded-box.png|
+2026-02-26 18:08:48.1878|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-26 18:09:33.5987|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action SFD (Left).push.SFD Mode Button for child SFD Mode Button|
+2026-02-26 18:09:33.5987|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action SFD (Left).release.SFD Mode Button for child SFD Mode Button|
+2026-02-26 18:09:33.5987|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child SFD Mode Button|
+2026-02-26 18:09:33.5987|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger encoder.incremented to action SFD (Left).increment.SFD Knob for child SFD Knob|
+2026-02-26 18:09:33.5987|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger encoder.decremented to action SFD (Left).decrement.SFD Knob for child SFD Knob|
+2026-02-26 18:09:33.5987|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.value for child SFD Knob|
+2026-02-26 18:09:33.5987|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.indicator for child SFD Indicator|
+2026-02-26 18:09:33.5987|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action SFD (Right).push.SFD Mode Button for child SFD Mode Button|
+2026-02-26 18:09:33.5987|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action SFD (Right).release.SFD Mode Button for child SFD Mode Button|
+2026-02-26 18:09:33.5987|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child SFD Mode Button|
+2026-02-26 18:09:33.5987|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger encoder.incremented to action SFD (Right).increment.SFD Knob for child SFD Knob|
+2026-02-26 18:09:33.5987|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger encoder.decremented to action SFD (Right).decrement.SFD Knob for child SFD Knob|
+2026-02-26 18:09:33.5987|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.value for child SFD Knob|
+2026-02-26 18:09:33.5987|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.indicator for child SFD Indicator|
+2026-02-26 18:09:33.5987|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger encoder.incremented to action Canted Console.increment.RWR Brilliance Knob for child RWR Brilliance Knob|
+2026-02-26 18:09:33.5987|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger encoder.decremented to action Canted Console.decrement.RWR Brilliance Knob for child RWR Brilliance Knob|
+2026-02-26 18:09:33.5987|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.value for child RWR Brilliance Knob|
+2026-02-26 18:09:33.6138|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action Canted Console.set.RWR Day/Night Switch for child RWR_Day/Night|
+2026-02-26 18:09:33.6138|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child RWR_Day/Night|
+2026-02-26 18:09:33.6138|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.Number for child Digital Altitude|
+2026-02-26 18:09:33.6138|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action Instrument.set.Low flag for child Instrument|
+2026-02-26 18:09:33.6138|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action Instrument.set.High flag for child Instrument|
+2026-02-26 18:09:33.6138|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action Instrument.set.Off flag for child Instrument|
+2026-02-26 18:09:33.6138|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action Instrument.set.Altitude Needle for child Instrument|
+2026-02-26 18:09:33.6138|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action Instrument.set.Low Altitude Bug Marker for child Instrument|
+2026-02-26 18:09:33.6138|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action Instrument.set.High Altitude Bug Marker for child Instrument|
+2026-02-26 18:09:33.6507|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.value for child Power Levers_Engine 1 Power|
+2026-02-26 18:09:33.6507|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger value.changed to action Engine Control (Overhead Console).set.Engine 1 Power Lever for child Power Levers_Engine 1 Power|
+2026-02-26 18:09:33.6507|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger maximum value position.released to action Engine Control (Overhead Console).push.Engine 1 Lever Detent Gate for child Power Levers_Engine 1 Power|
+2026-02-26 18:09:33.6507|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger minimum value position.released to action Engine Control (Overhead Console).release.Engine 1 Lever Detent Gate for child Power Levers_Engine 1 Power|
+2026-02-26 18:09:33.6507|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger detent 1.holding to action Engine Control (Overhead Console).release.Engine 1 Lever Detent Gate for child Power Levers_Engine 1 Power|
+2026-02-26 18:09:33.6507|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger detent 1.released to action Engine Control (Overhead Console).push.Engine 1 Lever Detent Gate for child Power Levers_Engine 1 Power|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.value for child Power Levers_Engine 2 Power|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger value.changed to action Engine Control (Overhead Console).set.Engine 2 Power Lever for child Power Levers_Engine 2 Power|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger maximum value position.released to action Engine Control (Overhead Console).push.Engine 2 Lever Detent Gate for child Power Levers_Engine 2 Power|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger minimum value position.released to action Engine Control (Overhead Console).release.Engine 2 Lever Detent Gate for child Power Levers_Engine 2 Power|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger detent 1.holding to action Engine Control (Overhead Console).release.Engine 2 Lever Detent Gate for child Power Levers_Engine 2 Power|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger detent 1.released to action Engine Control (Overhead Console).push.Engine 2 Lever Detent Gate for child Power Levers_Engine 2 Power|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.T1 for child T1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.T1 for child T1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.T2 for child T2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.T2 for child T2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.T3 for child T3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.T3 for child T3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.T4 for child T4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.T4 for child T4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.T5 for child T5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.T5 for child T5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.T6 for child T6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.T6 for child T6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.T7 for child T7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.T7 for child T7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.R1 for child R1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.R1 for child R1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.R2 for child R2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.R2 for child R2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.R3 for child R3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.R3 for child R3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.R4 for child R4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.R4 for child R4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.R5 for child R5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.R5 for child R5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.R6 for child R6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.R6 for child R6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.R7 for child R7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.R7 for child R7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.R8 for child R8|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.R8 for child R8|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R8|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.R9 for child R9|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.R9 for child R9|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R9|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.B1 for child B1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.B1 for child B1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.B2 for child B2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.B2 for child B2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.B3 for child B3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.B3 for child B3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.B4 for child B4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.B4 for child B4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.B5 for child B5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.B5 for child B5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.B6 for child B6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.B6 for child B6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.B7 for child B7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.B7 for child B7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.L1 for child L1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.L1 for child L1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.L2 for child L2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.L2 for child L2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.L3 for child L3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.L3 for child L3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.L4 for child L4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.L4 for child L4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.L5 for child L5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.L5 for child L5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.L6 for child L6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.L6 for child L6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.L7 for child L7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.L7 for child L7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.L8 for child L8|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.L8 for child L8|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L8|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Left).push.L9 for child L9|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Left).release.L9 for child L9|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L9|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action MFD (Copilot Left).set.Brightness Switch for child MFD (Copilot Left)_Brightness|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child MFD (Copilot Left)_Brightness|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action MFD (Copilot Left).set.Contrast Switch for child MFD (Copilot Left)_Contrast|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child MFD (Copilot Left)_Contrast|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action MFD (Copilot Left).set.Backlight Switch for child MFD (Copilot Left)_Backlight|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child MFD (Copilot Left)_Backlight|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action MFD (Copilot Left).set.Power Switch for child MFD (Copilot Left)_Power|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child MFD (Copilot Left)_Power|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.T1 for child T1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.T1 for child T1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.T2 for child T2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.T2 for child T2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.T3 for child T3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.T3 for child T3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.T4 for child T4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.T4 for child T4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.T5 for child T5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.T5 for child T5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.T6 for child T6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.T6 for child T6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.T7 for child T7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.T7 for child T7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.R1 for child R1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.R1 for child R1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.R2 for child R2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.R2 for child R2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.R3 for child R3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.R3 for child R3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.R4 for child R4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.R4 for child R4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.R5 for child R5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.R5 for child R5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.R6 for child R6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.R6 for child R6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.R7 for child R7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.R7 for child R7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.R8 for child R8|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.R8 for child R8|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R8|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.R9 for child R9|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.R9 for child R9|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R9|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.B1 for child B1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.B1 for child B1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.B2 for child B2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.B2 for child B2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.B3 for child B3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.B3 for child B3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.B4 for child B4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.B4 for child B4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.B5 for child B5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.B5 for child B5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.B6 for child B6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.B6 for child B6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.B7 for child B7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.B7 for child B7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.L1 for child L1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.L1 for child L1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.L2 for child L2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.L2 for child L2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.L3 for child L3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.L3 for child L3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.L4 for child L4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.L4 for child L4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.L5 for child L5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.L5 for child L5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.L6 for child L6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.L6 for child L6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.L7 for child L7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.L7 for child L7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.L8 for child L8|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.L8 for child L8|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L8|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Center).push.L9 for child L9|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Center).release.L9 for child L9|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L9|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action MFD (Center).set.Brightness Switch for child MFD (Center)_Brightness|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child MFD (Center)_Brightness|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action MFD (Center).set.Contrast Switch for child MFD (Center)_Contrast|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child MFD (Center)_Contrast|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action MFD (Center).set.Backlight Switch for child MFD (Center)_Backlight|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child MFD (Center)_Backlight|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action MFD (Center).set.Power Switch for child MFD (Center)_Power|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child MFD (Center)_Power|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.T1 for child T1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.T1 for child T1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.T2 for child T2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.T2 for child T2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.T3 for child T3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.T3 for child T3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.T4 for child T4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.T4 for child T4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.T5 for child T5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.T5 for child T5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.T6 for child T6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.T6 for child T6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.T7 for child T7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.T7 for child T7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.R1 for child R1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.R1 for child R1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.R2 for child R2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.R2 for child R2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.R3 for child R3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.R3 for child R3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.R4 for child R4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.R4 for child R4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.R5 for child R5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.R5 for child R5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.R6 for child R6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.R6 for child R6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.R7 for child R7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.R7 for child R7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.R8 for child R8|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.R8 for child R8|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R8|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.R9 for child R9|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.R9 for child R9|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R9|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.B1 for child B1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.B1 for child B1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.B2 for child B2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.B2 for child B2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.B3 for child B3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.B3 for child B3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.B4 for child B4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.B4 for child B4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.B5 for child B5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.B5 for child B5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.B6 for child B6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.B6 for child B6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.B7 for child B7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.B7 for child B7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.L1 for child L1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.L1 for child L1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L1|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.L2 for child L2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.L2 for child L2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L2|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.L3 for child L3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.L3 for child L3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L3|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.L4 for child L4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.L4 for child L4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L4|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.L5 for child L5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.L5 for child L5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L5|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.L6 for child L6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.L6 for child L6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L6|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.L7 for child L7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.L7 for child L7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L7|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.L8 for child L8|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.L8 for child L8|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L8|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Right).push.L9 for child L9|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Right).release.L9 for child L9|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L9|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action MFD (Pilot Right).set.Brightness Switch for child MFD (Pilot Right)_Brightness|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child MFD (Pilot Right)_Brightness|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action MFD (Pilot Right).set.Contrast Switch for child MFD (Pilot Right)_Contrast|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child MFD (Pilot Right)_Contrast|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action MFD (Pilot Right).set.Backlight Switch for child MFD (Pilot Right)_Backlight|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child MFD (Pilot Right)_Backlight|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action MFD (Pilot Right).set.Power Switch for child MFD (Pilot Right)_Power|
+2026-02-26 18:09:33.6627|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child MFD (Pilot Right)_Power|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.T1 for child T1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.T1 for child T1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.T2 for child T2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.T2 for child T2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.T3 for child T3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.T3 for child T3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.T4 for child T4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.T4 for child T4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.T5 for child T5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.T5 for child T5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.T6 for child T6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.T6 for child T6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.T7 for child T7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.T7 for child T7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.R1 for child R1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.R1 for child R1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.R2 for child R2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.R2 for child R2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.R3 for child R3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.R3 for child R3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.R4 for child R4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.R4 for child R4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.R5 for child R5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.R5 for child R5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.R6 for child R6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.R6 for child R6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.R7 for child R7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.R7 for child R7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.R8 for child R8|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.R8 for child R8|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R8|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.R9 for child R9|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.R9 for child R9|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R9|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.B1 for child B1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.B1 for child B1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.B2 for child B2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.B2 for child B2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.B3 for child B3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.B3 for child B3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.B4 for child B4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.B4 for child B4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.B5 for child B5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.B5 for child B5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.B6 for child B6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.B6 for child B6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.B7 for child B7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.B7 for child B7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.L1 for child L1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.L1 for child L1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.L2 for child L2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.L2 for child L2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.L3 for child L3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.L3 for child L3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.L4 for child L4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.L4 for child L4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.L5 for child L5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.L5 for child L5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.L6 for child L6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.L6 for child L6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.L7 for child L7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.L7 for child L7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.L8 for child L8|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.L8 for child L8|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L8|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Copilot Right).push.L9 for child L9|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Copilot Right).release.L9 for child L9|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L9|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action MFD (Copilot Right).set.Brightness Switch for child MFD (Copilot Right)_Brightness|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child MFD (Copilot Right)_Brightness|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action MFD (Copilot Right).set.Contrast Switch for child MFD (Copilot Right)_Contrast|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child MFD (Copilot Right)_Contrast|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action MFD (Copilot Right).set.Backlight Switch for child MFD (Copilot Right)_Backlight|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child MFD (Copilot Right)_Backlight|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action MFD (Copilot Right).set.Power Switch for child MFD (Copilot Right)_Power|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child MFD (Copilot Right)_Power|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.T1 for child T1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.T1 for child T1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.T2 for child T2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.T2 for child T2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.T3 for child T3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.T3 for child T3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.T4 for child T4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.T4 for child T4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.T5 for child T5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.T5 for child T5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.T6 for child T6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.T6 for child T6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.T7 for child T7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.T7 for child T7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.R1 for child R1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.R1 for child R1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.R2 for child R2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.R2 for child R2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.R3 for child R3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.R3 for child R3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.R4 for child R4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.R4 for child R4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.R5 for child R5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.R5 for child R5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.R6 for child R6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.R6 for child R6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.R7 for child R7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.R7 for child R7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.R8 for child R8|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.R8 for child R8|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R8|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.R9 for child R9|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.R9 for child R9|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R9|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.B1 for child B1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.B1 for child B1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.B2 for child B2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.B2 for child B2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.B3 for child B3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.B3 for child B3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.B4 for child B4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.B4 for child B4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.B5 for child B5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.B5 for child B5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.B6 for child B6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.B6 for child B6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.B7 for child B7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.B7 for child B7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.L1 for child L1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.L1 for child L1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L1|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.L2 for child L2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.L2 for child L2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L2|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.L3 for child L3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.L3 for child L3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L3|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.L4 for child L4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.L4 for child L4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L4|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.L5 for child L5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.L5 for child L5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L5|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.L6 for child L6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.L6 for child L6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L6|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.L7 for child L7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.L7 for child L7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L7|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.L8 for child L8|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.L8 for child L8|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L8|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action MFD (Pilot Left).push.L9 for child L9|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action MFD (Pilot Left).release.L9 for child L9|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L9|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action MFD (Pilot Left).set.Brightness Switch for child MFD (Pilot Left)_Brightness|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child MFD (Pilot Left)_Brightness|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action MFD (Pilot Left).set.Contrast Switch for child MFD (Pilot Left)_Contrast|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child MFD (Pilot Left)_Contrast|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action MFD (Pilot Left).set.Backlight Switch for child MFD (Pilot Left)_Backlight|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child MFD (Pilot Left)_Backlight|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action MFD (Pilot Left).set.Power Switch for child MFD (Pilot Left)_Power|
+2026-02-26 18:09:33.6812|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child MFD (Pilot Left)_Power|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action M880 Chronometer.push.Control Button for child Control Button|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action M880 Chronometer.release.Control Button for child Control Button|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child Control Button|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action M880 Chronometer.push.Select Button for child Select Button|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action M880 Chronometer.release.Select Button for child Select Button|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child Select Button|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger encoder.incremented to action M880 Chronometer.increment.Chronometer Knob for child Dim Knob|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger encoder.decremented to action M880 Chronometer.decrement.Chronometer Knob for child Dim Knob|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.value for child Dim Knob|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.1 for child 1|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.1 for child 1|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child 1|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.2 for child 2|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.2 for child 2|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child 2|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.3 for child 3|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.3 for child 3|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child 3|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.A for child A|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.A for child A|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child A|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.B for child B|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.B for child B|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.C for child C|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.C for child C|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child C|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.D for child D|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.D for child D|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child D|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.E for child E|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.E for child E|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child E|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.F for child F|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.F for child F|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child F|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.G for child G|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.G for child G|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child G|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.4 for child 4|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.4 for child 4|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child 4|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.5 for child 5|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.5 for child 5|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child 5|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.6 for child 6|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.6 for child 6|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child 6|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.H for child H|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.H for child H|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child H|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.I for child I|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.I for child I|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child I|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.J for child J|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.J for child J|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child J|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.K for child K|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.K for child K|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child K|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.L for child L|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.L for child L|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.M for child M|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.M for child M|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child M|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.N for child N|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.N for child N|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child N|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.7 for child 7|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.7 for child 7|
+2026-02-26 18:09:33.7022|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child 7|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.8 for child 8|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.8 for child 8|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child 8|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.9 for child 9|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.9 for child 9|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child 9|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.O for child O|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.O for child O|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child O|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.P for child P|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.P for child P|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child P|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.Q for child Q|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.Q for child Q|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child Q|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.R for child R|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.R for child R|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.S for child S|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.S for child S|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child S|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.T for child T|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.T for child T|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.U for child U|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.U for child U|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child U|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.0 for child 0|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.0 for child 0|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child 0|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.dot for child dot|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.dot for child dot|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child dot|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.V for child V|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.V for child V|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child V|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.W for child W|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.W for child W|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child W|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.X for child X|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.X for child X|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child X|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.Y for child Y|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.Y for child Y|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child Y|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.Z for child Z|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.Z for child Z|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child Z|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.SP for child SP|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.SP for child SP|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child SP|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.MARK for child MARK|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.MARK for child MARK|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child MARK|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.slash for child slash|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.slash for child slash|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child slash|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.dash for child dash|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.dash for child dash|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child dash|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.TDL for child TDL|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.TDL for child TDL|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child TDL|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.ASE for child ASE|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.ASE for child ASE|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child ASE|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.empty for child empty|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.empty for child empty|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child empty|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.DATA for child DATA|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.DATA for child DATA|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child DATA|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.STAT for child STAT|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.STAT for child STAT|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child STAT|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.1 for child 1|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.1 for child 1|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child 1|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.2 for child 2|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.2 for child 2|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child 2|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.3 for child 3|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.3 for child 3|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child 3|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.A for child A|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.A for child A|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child A|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.B for child B|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.B for child B|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child B|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.C for child C|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.C for child C|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child C|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.D for child D|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.D for child D|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child D|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.E for child E|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.E for child E|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child E|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.F for child F|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.F for child F|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child F|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.G for child G|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.G for child G|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child G|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.4 for child 4|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.4 for child 4|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child 4|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.5 for child 5|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.5 for child 5|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child 5|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.6 for child 6|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.6 for child 6|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child 6|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.H for child H|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.H for child H|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child H|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.I for child I|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.I for child I|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child I|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.J for child J|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.J for child J|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child J|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.K for child K|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.K for child K|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child K|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.L for child L|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.L for child L|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.M for child M|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.M for child M|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child M|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.N for child N|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.N for child N|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child N|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.7 for child 7|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.7 for child 7|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child 7|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.8 for child 8|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.8 for child 8|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child 8|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.9 for child 9|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.9 for child 9|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child 9|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.O for child O|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.O for child O|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child O|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.P for child P|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.P for child P|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child P|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.Q for child Q|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.Q for child Q|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child Q|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.R for child R|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.R for child R|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.S for child S|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.S for child S|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child S|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.T for child T|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.T for child T|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child T|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.U for child U|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.U for child U|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child U|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.0 for child 0|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.0 for child 0|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child 0|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.dot for child dot|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.dot for child dot|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child dot|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.V for child V|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.V for child V|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child V|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.W for child W|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.W for child W|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child W|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.X for child X|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.X for child X|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child X|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.Y for child Y|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.Y for child Y|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child Y|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.Z for child Z|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.Z for child Z|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child Z|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.SP for child SP|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.SP for child SP|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child SP|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.MARK for child MARK|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.MARK for child MARK|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child MARK|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.slash for child slash|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.slash for child slash|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child slash|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.dash for child dash|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.dash for child dash|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child dash|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.TDL for child TDL|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.TDL for child TDL|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child TDL|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.ASE for child ASE|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.ASE for child ASE|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child ASE|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.empty for child empty|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.empty for child empty|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child empty|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.DATA for child DATA|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.DATA for child DATA|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child DATA|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.STAT for child STAT|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.STAT for child STAT|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child STAT|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.MSN for child MSN|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.MSN for child MSN|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child MSN|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.FPLN for child FPLN|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.FPLN for child FPLN|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child FPLN|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.FD for child FD|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.FD for child FD|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child FD|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.IDX for child IDX|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.IDX for child IDX|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child IDX|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.DIR for child DIR|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.DIR for child DIR|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child DIR|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.SNSR for child SNSR|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.SNSR for child SNSR|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child SNSR|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.MFD_DATA for child MFD_DATA|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.MFD_DATA for child MFD_DATA|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child MFD_DATA|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.L1 for child L1|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.L1 for child L1|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L1|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.L2 for child L2|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.L2 for child L2|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L2|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.L3 for child L3|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.L3 for child L3|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L3|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.L4 for child L4|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.L4 for child L4|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L4|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.L5 for child L5|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.L5 for child L5|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L5|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.L6 for child L6|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.L6 for child L6|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L6|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.R1 for child R1|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.R1 for child R1|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R1|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.R2 for child R2|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.R2 for child R2|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R2|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.R3 for child R3|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.R3 for child R3|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R3|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.R4 for child R4|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.R4 for child R4|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R4|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.R5 for child R5|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.R5 for child R5|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R5|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.R6 for child R6|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.R6 for child R6|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R6|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.BRT for child BRT|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.BRT for child BRT|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child BRT|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.DIM for child DIM|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.DIM for child DIM|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child DIM|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.CNI for child CNI|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.CNI for child CNI|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child CNI|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.PAD for child PAD|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.PAD for child PAD|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child PAD|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.arrow left for child arrow left|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.arrow left for child arrow left|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child arrow left|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.arrow right for child arrow right|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.arrow right for child arrow right|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child arrow right|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.arrow up for child arrow up|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.arrow up for child arrow up|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child arrow up|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.arrow down for child arrow down|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.arrow down for child arrow down|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child arrow down|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.CLR for child CLR|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.CLR for child CLR|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child CLR|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Left).push.WPN for child WPN|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Left).release.WPN for child WPN|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child WPN|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.MSN for child MSN|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.MSN for child MSN|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child MSN|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.FPLN for child FPLN|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.FPLN for child FPLN|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child FPLN|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.FD for child FD|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.FD for child FD|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child FD|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.IDX for child IDX|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.IDX for child IDX|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child IDX|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.DIR for child DIR|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.DIR for child DIR|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child DIR|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.SNSR for child SNSR|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.SNSR for child SNSR|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child SNSR|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.MFD_DATA for child MFD_DATA|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.MFD_DATA for child MFD_DATA|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child MFD_DATA|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.L1 for child L1|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.L1 for child L1|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L1|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.L2 for child L2|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.L2 for child L2|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L2|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.L3 for child L3|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.L3 for child L3|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L3|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.L4 for child L4|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.L4 for child L4|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L4|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.L5 for child L5|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.L5 for child L5|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L5|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.L6 for child L6|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.L6 for child L6|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child L6|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.R1 for child R1|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.R1 for child R1|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R1|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.R2 for child R2|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.R2 for child R2|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R2|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.R3 for child R3|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.R3 for child R3|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R3|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.R4 for child R4|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.R4 for child R4|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R4|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.R5 for child R5|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.R5 for child R5|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R5|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.R6 for child R6|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.R6 for child R6|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child R6|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.BRT for child BRT|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.BRT for child BRT|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child BRT|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.DIM for child DIM|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.DIM for child DIM|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child DIM|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.CNI for child CNI|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.CNI for child CNI|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child CNI|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.PAD for child PAD|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.PAD for child PAD|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child PAD|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.arrow left for child arrow left|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.arrow left for child arrow left|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child arrow left|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.arrow right for child arrow right|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.arrow right for child arrow right|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child arrow right|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.arrow up for child arrow up|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.arrow up for child arrow up|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child arrow up|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.arrow down for child arrow down|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.arrow down for child arrow down|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child arrow down|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.CLR for child CLR|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.CLR for child CLR|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child CLR|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action CDU (Right).push.WPN for child WPN|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action CDU (Right).release.WPN for child WPN|
+2026-02-26 18:09:33.7082|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child WPN|
+2026-02-26 18:09:35.5827|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action SFD (Left).push.SFD Mode Button for child SFD Mode Button|
+2026-02-26 18:09:35.5827|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action SFD (Left).release.SFD Mode Button for child SFD Mode Button|
+2026-02-26 18:09:35.5827|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child SFD Mode Button|
+2026-02-26 18:09:35.5827|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger encoder.incremented to action SFD (Left).increment.SFD Knob for child SFD Knob|
+2026-02-26 18:09:35.5827|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger encoder.decremented to action SFD (Left).decrement.SFD Knob for child SFD Knob|
+2026-02-26 18:09:35.5827|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.value for child SFD Knob|
+2026-02-26 18:09:35.5827|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.indicator for child SFD Indicator|
+2026-02-26 18:09:36.1223|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action SFD (Left).push.SFD Mode Button for child SFD Mode Button|
+2026-02-26 18:09:36.1223|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action SFD (Left).release.SFD Mode Button for child SFD Mode Button|
+2026-02-26 18:09:36.1223|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child SFD Mode Button|
+2026-02-26 18:09:36.1223|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger encoder.incremented to action SFD (Left).increment.SFD Knob for child SFD Knob|
+2026-02-26 18:09:36.1223|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger encoder.decremented to action SFD (Left).decrement.SFD Knob for child SFD Knob|
+2026-02-26 18:09:36.1223|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.value for child SFD Knob|
+2026-02-26 18:09:36.1223|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.indicator for child SFD Indicator|
+2026-02-26 18:09:36.4320|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger encoder.incremented to action Canted Console.increment.RWR Brilliance Knob for child RWR Brilliance Knob|
+2026-02-26 18:09:36.4320|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger encoder.decremented to action Canted Console.decrement.RWR Brilliance Knob for child RWR Brilliance Knob|
+2026-02-26 18:09:36.4320|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.value for child RWR Brilliance Knob|
+2026-02-26 18:09:36.4320|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action Canted Console.set.RWR Day/Night Switch for child RWR_Day/Night|
+2026-02-26 18:09:36.4320|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child RWR_Day/Night|
+2026-02-26 18:09:37.2935|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action SFD (Right).push.SFD Mode Button for child SFD Mode Button|
+2026-02-26 18:09:37.2935|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action SFD (Right).release.SFD Mode Button for child SFD Mode Button|
+2026-02-26 18:09:37.2935|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child SFD Mode Button|
+2026-02-26 18:09:37.2935|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger encoder.incremented to action SFD (Right).increment.SFD Knob for child SFD Knob|
+2026-02-26 18:09:37.2935|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger encoder.decremented to action SFD (Right).decrement.SFD Knob for child SFD Knob|
+2026-02-26 18:09:37.2935|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.value for child SFD Knob|
+2026-02-26 18:09:37.2935|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.indicator for child SFD Indicator|
+2026-02-26 18:09:42.5007|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger encoder.incremented to action Canted Console.increment.RWR Brilliance Knob for child RWR Brilliance Knob|
+2026-02-26 18:09:42.5007|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger encoder.decremented to action Canted Console.decrement.RWR Brilliance Knob for child RWR Brilliance Knob|
+2026-02-26 18:09:42.5007|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.value for child RWR Brilliance Knob|
+2026-02-26 18:09:42.5007|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger position.changed to action Canted Console.set.RWR Day/Night Switch for child RWR_Day/Night|
+2026-02-26 18:09:42.5007|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.position for child RWR_Day/Night|
+2026-02-26 18:09:42.9553|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger pushed to action SFD (Right).push.SFD Mode Button for child SFD Mode Button|
+2026-02-26 18:09:42.9553|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger released to action SFD (Right).release.SFD Mode Button for child SFD Mode Button|
+2026-02-26 18:09:42.9553|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.physical state for child SFD Mode Button|
+2026-02-26 18:09:42.9553|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger encoder.incremented to action SFD (Right).increment.SFD Knob for child SFD Knob|
+2026-02-26 18:09:42.9553|INFO|GadrocsWorkshop.Helios.DefaultOutputBinding|Default Output Binding: Trigger encoder.decremented to action SFD (Right).decrement.SFD Knob for child SFD Knob|
+2026-02-26 18:09:42.9553|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.value for child SFD Knob|
+2026-02-26 18:09:42.9553|INFO|GadrocsWorkshop.Helios.DefaultInputBinding|Default Input Binding: Trigger  to action set.indicator for child SFD Indicator|
+2026-02-26 18:09:43.8175|INFO|GadrocsWorkshop.Helios.CompositeVisual|SFD (Right) could not locate any supported interface for auto binding|
+2026-02-26 18:14:18.9093|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of EOS Bus interface.|
+2026-02-26 18:14:18.9093|INFO|GadrocsWorkshop.Helios.LogManager|Adding EOS Bus Type: HeliosInterface to add interface list.|
+2026-02-26 18:14:18.9093|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DTS Card interface.|
+2026-02-26 18:14:19.0258|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DirectX Controller interface.|
+2026-02-26 18:14:19.0972|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Unsupported Interface interface.|
+2026-02-26 18:14:19.0972|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Control Router interface.|
+2026-02-26 18:14:19.0982|INFO|GadrocsWorkshop.Helios.LogManager|Adding Control Router Type: HeliosInterfaceWithXml`1 to add interface list.|
+2026-02-26 18:14:19.0982|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Profile interface.|
+2026-02-26 18:14:19.0982|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Helios Information interface.|
+2026-02-26 18:14:19.0982|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Keyboard interface.|
+2026-02-26 18:14:19.0982|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Flaming Cliffs 3 interface.|
+2026-02-26 18:14:19.0982|INFO|GadrocsWorkshop.Helios.LogManager|Adding Flaming Cliffs 3 Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.0982|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS Generic Interface interface.|
+2026-02-26 18:14:19.1426|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Generic Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.1426|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS Interface File interface.|
+2026-02-26 18:14:19.1452|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS A-29B" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.A-29B.hif.json"|
+2026-02-26 18:14:19.1452|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS A-4E-C" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.A-4E-C.hif.json"|
+2026-02-26 18:14:19.1452|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS AH-6J" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.AH-6J.hif.json"|
+2026-02-26 18:14:19.1452|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS AJS37" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.AJS37.hif.json"|
+2026-02-26 18:14:19.1452|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS Alphajet" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.Alphajet.hif.json"|
+2026-02-26 18:14:19.1452|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS Bf-109K-4" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.Bf-109K-4.hif.json"|
+2026-02-26 18:14:19.1616|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS C-101CC" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.C-101CC.hif.json"|
+2026-02-26 18:14:19.1616|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS Christen Eagle II" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.ChristenEagleII.hif.json"|
+2026-02-26 18:14:19.1616|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS EA-18G" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.EA-18G.hif.json"|
+2026-02-26 18:14:19.1616|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS Edge540" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.Edge540.hif.json"|
+2026-02-26 18:14:19.1616|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS F-14B" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.F-14B.hif.json"|
+2026-02-26 18:14:19.1616|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS F-16C_50" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.F-16C_50.hif.json"|
+2026-02-26 18:14:19.1616|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS F-22A" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.F-22A.hif.json"|
+2026-02-26 18:14:19.1616|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS F-5E-3" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.F-5E-3.hif.json"|
+2026-02-26 18:14:19.1616|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS F-86F Sabre" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.F-86FSabre.hif.json"|
+2026-02-26 18:14:19.1768|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS F4U-1D" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.F4U-1D.hif.json"|
+2026-02-26 18:14:19.1768|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS FA-18E" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.FA-18E.hif.json"|
+2026-02-26 18:14:19.1768|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS FA-18F" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.FA-18F.hif.json"|
+2026-02-26 18:14:19.1768|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS FW-190A8" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.FW-190A8.hif.json"|
+2026-02-26 18:14:19.1768|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS FW-190D9" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.FW-190D9.hif.json"|
+2026-02-26 18:14:19.1768|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS Hercules" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.Hercules.hif.json"|
+2026-02-26 18:14:19.1768|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS I-16" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.I-16.hif.json"|
+2026-02-26 18:14:19.1768|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS JF-17" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.JF-17.hif.json"|
+2026-02-26 18:14:19.1768|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS L-39ZA" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.L-39ZA.hif.json"|
+2026-02-26 18:14:19.1992|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS M-2000C (from DCSFlightPanels)" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.M-2000C.hif.json"|
+2026-02-26 18:14:19.1992|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS MB-339PAN" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.MB-339PAN.hif.json"|
+2026-02-26 18:14:19.1992|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS H-60 (MH-60R Seahawk)" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.MH-60R.hif.json"|
+2026-02-26 18:14:19.1992|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS Mi-24P" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.Mi-24P.hif.json"|
+2026-02-26 18:14:19.1992|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS Mi-8MT" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.Mi-8MT.hif.json"|
+2026-02-26 18:14:19.1992|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS MiG-15bis" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.MiG-15bis.hif.json"|
+2026-02-26 18:14:19.2078|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS MiG-19P" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.MiG-19P.hif.json"|
+2026-02-26 18:14:19.2078|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS MiG-21Bis" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.MiG-21Bis.hif.json"|
+2026-02-26 18:14:19.2078|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS NS430" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.NS430.hif.json"|
+2026-02-26 18:14:19.2078|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS OH-6A Cayuse (Community Mod)" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.OH6A.hif.json"|
+2026-02-26 18:14:19.2078|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS OV-10A Bronco (Experimental)" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.OV10Bronco.hif.json"|
+2026-02-26 18:14:19.2078|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS P-47D" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.P-47D.hif.json"|
+2026-02-26 18:14:19.2078|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS P-51D" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.P-51D.hif.json"|
+2026-02-26 18:14:19.2078|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS SA342M" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.SA342M.hif.json"|
+2026-02-26 18:14:19.2078|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS SpitfireLFMkIX" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.SpitfireLFMkIX.hif.json"|
+2026-02-26 18:14:19.2078|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS SuperCarrier" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.SuperCarrier.hif.json"|
+2026-02-26 18:14:19.2078|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS UH-1H" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.UH-1H.hif.json"|
+2026-02-26 18:14:19.2078|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS H-60 (UH-60L Blackhawk)" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.UH-60L.hif.json"|
+2026-02-26 18:14:19.2078|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS VNAO_Room" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.VNAO_Room.hif.json"|
+2026-02-26 18:14:19.2078|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS VNAO_T-45" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.VNAO_T-45.hif.json"|
+2026-02-26 18:14:19.2078|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS F-4B Phantom" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.VSN_F4B.hif.json"|
+2026-02-26 18:14:19.2234|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS F-4C Phantom" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.VSN_F4C.hif.json"|
+2026-02-26 18:14:19.2234|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS Yak-52" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.Yak-52.hif.json"|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS A-29B Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS A-4E-C Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS AH-6J Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS AJS37 Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Alphajet Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Bf-109K-4 Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS C-101CC Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Christen Eagle II Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS EA-18G Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Edge540 Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS F-14B Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS F-16C_50 Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS F-22A Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS F-5E-3 Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS F-86F Sabre Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS F4U-1D Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS FA-18E Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS FA-18F Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS FW-190A8 Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS FW-190D9 Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Hercules Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS I-16 Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS JF-17 Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS L-39ZA Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS M-2000C (from DCSFlightPanels) Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS MB-339PAN Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS H-60 (MH-60R Seahawk) Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Mi-24P Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Mi-8MT Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS MiG-15bis Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS MiG-19P Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS MiG-21Bis Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS NS430 Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS OH-6A Cayuse (Community Mod) Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS OV-10A Bronco (Experimental) Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS P-47D Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS P-51D Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS SA342M Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS SpitfireLFMkIX Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS SuperCarrier Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS UH-1H Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS H-60 (UH-60L Blackhawk) Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS VNAO_Room Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS VNAO_T-45 Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS F-4B Phantom Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS F-4C Phantom Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Yak-52 Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.2514|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS A-10C interface.|
+2026-02-26 18:14:19.3334|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS A-10C Type: A10CInterface to add interface list.|
+2026-02-26 18:14:19.3334|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS A-10C II interface.|
+2026-02-26 18:14:19.3524|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS A-10C II Type: A10CInterface to add interface list.|
+2026-02-26 18:14:19.3524|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS AH-64D Apache interface.|
+2026-02-26 18:14:19.4075|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS AH-64D Apache Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.4075|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS AV-8B interface.|
+2026-02-26 18:14:19.4455|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS AV-8B Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.4455|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS C-130J Hercules (ASC) interface.|
+2026-02-26 18:14:19.4816|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS C-130J Hercules (ASC) Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.4816|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS CH-47F Chinook interface.|
+2026-02-26 18:14:19.5427|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS CH-47F Chinook Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.5427|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS DH98 Mosquito FB Mk VI interface.|
+2026-02-26 18:14:19.5687|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS DH98 Mosquito FB Mk VI Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.5687|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS F-15E Strike Eagle interface.|
+2026-02-26 18:14:19.6358|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS F-15E Strike Eagle Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.6358|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS F/A-18C interface.|
+2026-02-26 18:14:19.6718|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS F/A-18C Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.6718|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Falcon interface.|
+2026-02-26 18:14:19.6718|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Process Control interface.|
+2026-02-26 18:14:19.6718|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS Black Shark interface.|
+2026-02-26 18:14:19.7179|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Black Shark Type: BlackSharkInterface to add interface list.|
+2026-02-26 18:14:19.7179|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS Ka-50 3 interface.|
+2026-02-26 18:14:19.7244|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Black Shark 3 Type: BlackSharkInterface to add interface list.|
+2026-02-26 18:14:19.7244|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS M-2000C interface.|
+2026-02-26 18:14:19.7670|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS M2000C Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.7670|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS  Mi8 (Simple) interface.|
+2026-02-26 18:14:19.7670|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Mil Mi-8 (Simple) Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.7670|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS MiG21 interface.|
+2026-02-26 18:14:19.7900|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS MiG-21Bis Type: DCSInterface to add interface list.|
+2026-02-26 18:14:19.7900|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS Mirage F1EE interface.|
+2026-02-26 18:14:19.8120|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Mirage F1EE Type: MirageF1Interface to add interface list.|
+2026-02-26 18:14:19.8120|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS Mirage F1CE interface.|
+2026-02-26 18:14:19.8210|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Mirage F1CE Type: MirageF1Interface to add interface list.|
+2026-02-26 18:14:19.8210|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS Additional Viewports interface.|
+2026-02-26 18:14:19.8210|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Additional Viewports Type: HeliosInterface to add interface list.|
+2026-02-26 18:14:19.8210|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS Monitor Setup interface.|
+2026-02-26 18:14:19.8210|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Monitor Setup Type: ViewportCompilerInterface`2 to add interface list.|
+2026-02-26 18:14:19.8210|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS UH-60L Blackhawk interface.|
+2026-02-26 18:14:19.8681|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS UH-60L Blackhawk Type: DCSInterface to add interface list.|
+2026-02-26 18:16:50.8649|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when ICP Button 06 TIME Pushed send SimICPSIX callback for falcon. (from 'Monitor 2.Panel ZOOMED CONSOLE.Panel ZOOMED ICP.ICP' to 'Interface 'Falcon'') triggered with value "1"|

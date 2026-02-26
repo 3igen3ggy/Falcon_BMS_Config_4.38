@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HeliosSettings>
+  <Group>
+    <Name>Preferences</Name>
+    <Settings>
+      <Setting>
+        <Name>PreflightCheck</Name>
+        <Value>False</Value>
+      </Setting>
+    </Settings>
+  </Group>
+  <Group>
+    <Name>ControlCenter</Name>
+    <Settings>
+      <Setting>
+        <Name>WindowLocation</Name>
+        <Value>1058,419,1562,695</Value>
+      </Setting>
+      <Setting>
+        <Name>LastProfile</Name>
+        <Value>C:\Users\3igen\Documents\Helios\Profiles\Ice's Falcon BMS 4.37 SAV.hpf</Value>
+      </Setting>
+    </Settings>
+  </Group>
+</HeliosSettings>
