@@ -1,0 +1,94 @@
+2026-02-27 15:47:53.1519|INFO|GadrocsWorkshop.Helios.HeliosInit|Helios Version 1.6.6170.3|
+2026-02-27 15:47:53.1799|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ALQ_213" for use in Helios|
+2026-02-27 15:47:53.1988|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC_164" for use in Helios|
+2026-02-27 15:47:53.1988|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_Digital_Clock" for use in Helios|
+2026-02-27 15:47:53.1988|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "AH-64D-CMWS Regular" for use in Helios|
+2026-02-27 15:47:53.1988|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "AH-64D-KU Regular" for use in Helios|
+2026-02-27 15:47:53.1988|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit APN209 LED" for use in Helios|
+2026-02-27 15:47:53.1988|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "DSEG14 Classic Regular" for use in Helios|
+2026-02-27 15:47:53.1988|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "DSEG7 Classic Regular" for use in Helios|
+2026-02-27 15:47:53.1988|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F-15E_Up_Front_Controller" for use in Helios|
+2026-02-27 15:47:53.1988|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F-16C_Viper_DED" for use in Helios|
+2026-02-27 15:47:53.1988|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C Hornet IFEI" for use in Helios|
+2026-02-27 15:47:53.1988|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C_Hornet-Up_Front_Controller" for use in Helios|
+2026-02-27 15:47:53.1988|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC-210_Large" for use in Helios|
+2026-02-27 15:47:53.1988|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC-210_Small" for use in Helios|
+2026-02-27 15:47:53.1988|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit 2000C_PCA_16_Segment" for use in Helios|
+2026-02-27 15:47:53.1988|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "LED Counter 7 Regular" for use in Helios|
+2026-02-27 15:47:53.1988|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "MS 33558 Regular" for use in Helios|
+2026-02-27 15:47:53.5819|INFO|GadrocsWorkshop.Helios.LogManager|Helios 1.6.6170.0003
+https://github.com/HeliosVirtualCockpit/Helios/|
+2026-02-27 15:48:22.9777|INFO|GadrocsWorkshop.Helios.LogManager|Loading Profile...|
+2026-02-27 15:48:22.9942|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 15:48:23.0649|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 15:48:23.0649|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 15:48:23.1024|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 15:48:23.2123|INFO|GadrocsWorkshop.Helios.LogManager|Preflight check is disabled.  Helios will not be able to ensure configuration is correct.|
+2026-02-27 15:48:23.2123|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile starting. (Name="Falcon BMS CPD 4.37")|
+2026-02-27 15:48:23.8152|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Profile Started push Button CPD AUTO UPDATE (from 'Interface 'Profile'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Button CPD AUTO UPDATE') triggered with value ""|
+2026-02-27 15:48:23.8152|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Button CPD AUTO UPDATE pushed launch application Process Control to "C:\Bin\AutoCPDUpdate.exe" "%BMSFalconPath%" (from 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Button CPD AUTO UPDATE' to 'Interface 'Process Control'') triggered with value "1"|
+2026-02-27 15:48:24.2180|INFO|GadrocsWorkshop.Helios.HeliosProcessControl.ProcessControlInterface|Error caught launching external application (path="C:\Bin\AutoCPDUpdate.exe").  This is very likely to be due to a missing program, missing file, or incorrect permissions on what has been specified on the lauinch action.|System.ComponentModel.Win32Exception
+The operation was canceled by the user
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at GadrocsWorkshop.Helios.HeliosProcessControl.ProcessControlInterface.LaunchApplication_Execute(Object action, HeliosActionEventArgs e, Boolean windowHidden)
+2026-02-27 15:48:24.2291|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Button DATA closed set hidden on Panel DATA to  false (from 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Button DATA' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel DATA') triggered with value "1"|
+2026-02-27 15:48:24.2291|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile started. (Name="Falcon BMS CPD 4.37")|
+2026-02-27 15:48:24.7266|INFO|GadrocsWorkshop.Helios.LogManager|Running Profile|
+2026-02-27 15:48:24.7266|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Helios Version Helios Version on Helios Information changes set Text Signal on MemoryWire VERSION CHECK to  trigger value (from 'Interface 'Helios Information'' to 'Monitor 2.Panel VERSION CHECK.MemoryWire VERSION CHECK') triggered with value "1.6.6170.0003"|
+2026-02-27 15:48:24.7266|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Text Signal on MemoryWire VERSION CHECK changes set position on Rotary VERSION CHECK to  script results (from 'Monitor 2.Panel VERSION CHECK.MemoryWire VERSION CHECK' to 'Monitor 2.Panel VERSION CHECK.Rotary VERSION CHECK') triggered with value "1.6.6170.0003"|
+2026-02-27 15:48:24.7744|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when position 2 on Rotary VERSION CHECK entered set hidden on Panel VERSION CHECK to  true (from 'Monitor 2.Panel VERSION CHECK.Rotary VERSION CHECK' to 'Monitor 2.Panel VERSION CHECK') triggered with value ""|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Runtime Flying on Falcon changes set hidden on Panel MAPS BUTTONS to  script results (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel MAPS.Panel MAPS BUTTONS') triggered with value "1"|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when ADI pitch on Falcon changes set Tape Vertical Offset on Tape ADI BACKGROUND NIGHT to  trigger value (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel DATA.Tape ADI BACKGROUND NIGHT') triggered with value "0.0235465243458748"|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when ADI roll on Falcon changes set Tape Rotation on Tape ADI BACKGROUND NIGHT to  trigger value (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel DATA.Tape ADI BACKGROUND NIGHT') triggered with value "6.5937000304217E-10"|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when ADI ils horizontal on Falcon changes set hidden on Tape LOCALIZER MARKERS to  script results (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel DATA.Panel ILS.Panel LOCALIZER BAR.Tape LOCALIZER MARKERS') triggered with value "-1.06981313228607"|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when ADI ils vertical on Falcon changes set hidden on Tape GLIDESLOPE MARKERS to  script results (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel DATA.Panel ILS.Panel GLIDESLOPE BAR.Tape GLIDESLOPE MARKERS') triggered with value "-1.06981313228607"|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when VVI vertical velocity on Falcon changes set Tape Vertical Offset on Tape VVI to  script results (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel DATA.Panel VVI.Tape VVI') triggered with value "-1.81770467758179"|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when AOA angle of attack on Falcon changes set Tape Vertical Offset on Tape GLIDESLOPE MARKERS to  script results (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel DATA.Panel ILS.Panel GLIDESLOPE BAR.Tape GLIDESLOPE MARKERS') triggered with value "0.932424128055573"|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when IAS mach on Falcon changes set Text on Label MACH to  script results (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel DATA.Label MACH') triggered with value "0.899205565452576"|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when IAS indicated air speed on Falcon changes set Tape Vertical Offset on Tape CALIBRATED AIRSPEED to  trigger value (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel DATA.Panel AIRSPEED.Tape CALIBRATED AIRSPEED') triggered with value "450.553924560547"|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when IAS true air speed on Falcon changes set Text on Label TRUE AIR SPEED to  script results (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel DATA.Label TRUE AIR SPEED') triggered with value "926.3525390625"|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when General Gs on Falcon changes set Text on Label CURRENT G FORCE to  script results (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel DATA.Label CURRENT G FORCE') triggered with value "0.973072230815887"|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Fuel internal fuel on Falcon changes set Text on Label FUEL INTERNAL to  script results (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel FUEL.Label FUEL INTERNAL') triggered with value "7161.98828125"|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Fuel external fuel on Falcon changes set Text on Label FUEL EXTERNAL to  script results (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel FUEL.Label FUEL EXTERNAL') triggered with value "0"|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Engine fuel flow on Falcon changes set Text on Label FUEL FLOW to  script results (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel FUEL.Label FUEL FLOW') triggered with value "55.3209762573242"|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Fuel fwd fuel on Falcon changes set Text on Label FUEL FWD RIGHT to  script results (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel FUEL.Label FUEL FWD RIGHT') triggered with value "3526.82836914063"|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Fuel aft fuel on Falcon changes set Text on Label FUEL AFT LEFT to  script results (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel FUEL.Label FUEL AFT LEFT') triggered with value "3060.85400390625"|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Fuel total fuel on Falcon changes set Text on Label FUEL TOTAL to  script results (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel FUEL.Label FUEL TOTAL') triggered with value "7200"|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Ownship ground speed on Falcon changes set Text on Label GROUND SPEED to  script results (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel DATA.Label GROUND SPEED') triggered with value "575.173522949219"|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when ADI ils vertical to flight path on Falcon changes set Tape Vertical Offset on Tape GLIDESLOPE BAR to  script results (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel DATA.Panel ILS.Panel GLIDESLOPE BAR.Tape GLIDESLOPE BAR') triggered with value "-1.07214415073395"|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Altimeter indicated altitude on Falcon changes set Tape Vertical Offset on Tape ALTITUDE to  trigger value (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel DATA.Panel ALTITUDE.Tape ALTITUDE') triggered with value "16635.341796875"|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Altimeter barimetric pressure on Falcon changes set Text on Label ALTIMETER PRESSURE Hg to  script results (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel DATA.Label ALTIMETER PRESSURE Hg') triggered with value "2991"|
+2026-02-27 15:49:54.3372|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when HSI nav mode on Falcon changes set hidden on Panel ILS to  script results (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel DATA.Panel ILS') triggered with value "2"|
+2026-02-27 15:49:54.3523|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Altimeter radar alt on Falcon changes set Text on Label RADAR ALTIMETER HEIGHT to  script results (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel DATA.Label RADAR ALTIMETER HEIGHT') triggered with value ""|
+2026-02-27 15:49:54.3523|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when ADI gs flag on Falcon changes set hidden on Panel GLIDESLOPE BAR to  trigger value (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel DATA.Panel ILS.Panel GLIDESLOPE BAR') triggered with value "0"|
+2026-02-27 15:49:54.3523|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when ADI loc flag on Falcon changes set hidden on Panel LOCALIZER BAR to  trigger value (from 'Interface 'Falcon'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Panel DATA.Panel ILS.Panel LOCALIZER BAR') triggered with value "0"|
+2026-02-27 15:51:44.7455|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile reseting. (Name="Falcon BMS CPD 4.37")|
+2026-02-27 15:51:44.7455|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Profile Reset push Button CPD AUTO UPDATE (from 'Interface 'Profile'' to 'Monitor 2.Panel CENTER PEDESTAL DISPLAY.Button CPD AUTO UPDATE') triggered with value ""|
+2026-02-27 15:51:45.1071|INFO|GadrocsWorkshop.Helios.HeliosProcessControl.ProcessControlInterface|Error caught launching external application (path="C:\Bin\AutoCPDUpdate.exe").  This is very likely to be due to a missing program, missing file, or incorrect permissions on what has been specified on the lauinch action.|System.ComponentModel.Win32Exception
+The operation was canceled by the user
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at GadrocsWorkshop.Helios.HeliosProcessControl.ProcessControlInterface.LaunchApplication_Execute(Object action, HeliosActionEventArgs e, Boolean windowHidden)
+2026-02-27 15:51:45.1071|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile reset completed. (Name="Falcon BMS CPD 4.37")|
+2026-02-27 15:52:08.8514|ERROR|GadrocsWorkshop.Helios.LogManager|Error processing profile tick or refresh.|System.ArgumentException
+Destination array is not long enough to copy all the items in the collection. Check array index and length.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.BitConverter.ToUInt32(Byte[] value, Int32 startIndex)
+   at GadrocsWorkshop.Helios.Interfaces.Falcon.BMS.StringData.GetStringData(Byte[] data)
+   at GadrocsWorkshop.Helios.Interfaces.Falcon.BMS.StringData.GetNavPoints(Byte[] data)
+   at GadrocsWorkshop.Helios.Interfaces.Falcon.BMS.BMSFalconDataExporter.PollFlightData()
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at GadrocsWorkshop.Helios.ControlCenter.MainWindow.DispatcherTimer_Tick(Object sender, EventArgs e)
+2026-02-27 16:00:59.2432|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile reseting. (Name="Falcon BMS CPD 4.37")|
+2026-02-27 16:00:59.7178|INFO|GadrocsWorkshop.Helios.HeliosProcessControl.ProcessControlInterface|Error caught launching external application (path="C:\Bin\AutoCPDUpdate.exe").  This is very likely to be due to a missing program, missing file, or incorrect permissions on what has been specified on the lauinch action.|System.ComponentModel.Win32Exception
+The operation was canceled by the user
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at GadrocsWorkshop.Helios.HeliosProcessControl.ProcessControlInterface.LaunchApplication_Execute(Object action, HeliosActionEventArgs e, Boolean windowHidden)
+2026-02-27 16:00:59.7178|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile reset completed. (Name="Falcon BMS CPD 4.37")|
+2026-02-27 16:03:38.1257|INFO|GadrocsWorkshop.Helios.LogManager|Stopping profile on exit.|
+2026-02-27 16:03:38.1257|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile stopping. (Name="Falcon BMS CPD 4.37")|
+2026-02-27 16:03:38.1360|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile stopped. (Name="Falcon BMS CPD 4.37")|
+2026-02-27 16:03:38.1360|INFO|GadrocsWorkshop.Helios.LogManager|Unloading profile on exit.|
+2026-02-27 16:03:38.1360|INFO|GadrocsWorkshop.Helios.LogManager|Saving control center window position.|

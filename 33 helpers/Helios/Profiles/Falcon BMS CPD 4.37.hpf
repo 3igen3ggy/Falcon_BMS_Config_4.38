@@ -3015,8 +3015,8 @@
     <Interface TypeIdentifier="Helios.Base.ProfileInterface" Name="Profile" />
     <Interface TypeIdentifier="Helios.Falcon.Interface" Name="Falcon">
       <FalconType>BMS</FalconType>
-      <FalconVersion>Falcon BMS 4.38</FalconVersion>
-      <KeyFile>D:\Falcon BMS 4.38\User\Config\BMS - CPD Addon.key</KeyFile>
+      <FalconVersion>Falcon BMS 4.37</FalconVersion>
+      <KeyFile>C:\Bin\KeyFile\BMS - CPD Addon.key</KeyFile>
       <FocusAssist>False</FocusAssist>
       <ForceKeyFile>False</ForceKeyFile>
       <TextureRefreshRate_30>False</TextureRefreshRate_30>

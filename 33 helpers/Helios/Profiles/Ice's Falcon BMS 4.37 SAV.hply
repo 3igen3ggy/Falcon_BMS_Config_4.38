@@ -2,11 +2,11 @@
 <LayoutRoot>
   <RootPanel Orientation="Horizontal">
     <LayoutAnchorablePaneGroup Orientation="Vertical" DockWidth="300">
-      <LayoutAnchorablePane DockWidth="300">
+      <LayoutAnchorablePane DockWidth="300" DockHeight="1.88038601540676*">
         <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Preview" ContentId="PreviewPanel" LastActivationTimeStamp="02/26/2026 18:44:53" />
-        <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Profile Explorer" IsSelected="True" ContentId="ExplorerPanel" LastActivationTimeStamp="02/26/2026 20:26:36" />
+        <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Profile Explorer" IsSelected="True" ContentId="ExplorerPanel" LastActivationTimeStamp="02/27/2026 17:47:36" />
       </LayoutAnchorablePane>
-      <LayoutAnchorablePane DockHeight="3*">
+      <LayoutAnchorablePane DockHeight="2.11961398459324*">
         <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Toolbox" IsSelected="True" ContentId="ToolboxPanel" LastActivationTimeStamp="02/26/2026 19:58:38" />
       </LayoutAnchorablePane>
     </LayoutAnchorablePaneGroup>
@@ -15,9 +15,9 @@
         <LayoutDocumentPane Id="95227eb2-15f6-41ff-b009-bd3cbc6e22ab" DockHeight="1.24184546694779*">
           <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Interface Status" ContentId="InterfaceStatusPanel" LastActivationTimeStamp="02/26/2026 20:26:20" />
           <LayoutDocument Title="Monitor 1" ContentId="Visual;Monitor 1;Helios.Monitor;Monitor 1" LastActivationTimeStamp="02/26/2026 18:47:22" />
-          <LayoutDocument Title="Monitor 2" IsSelected="True" IsLastFocusedDocument="True" ContentId="Visual;Monitor 2;Helios.Monitor;Monitor 2" LastActivationTimeStamp="02/26/2026 20:26:38" />
+          <LayoutDocument Title="Monitor 2" IsSelected="True" IsLastFocusedDocument="True" ContentId="Visual;Monitor 2;Helios.Monitor;Monitor 2" LastActivationTimeStamp="02/27/2026 17:48:00" />
           <LayoutDocument Title="Falcon" ContentId="Interface;;Helios.Falcon.Interface;Falcon" LastActivationTimeStamp="02/26/2026 20:08:17" />
-          <LayoutDocument Title="Panel FRONT CONSOLE" ContentId="Visual;Monitor 2.Panel FRONT CONSOLE;Helios.Panel;Panel FRONT CONSOLE" LastActivationTimeStamp="02/26/2026 20:09:22" />
+          <LayoutDocument Title="Panel FRONT CONSOLE" ContentId="Visual;Monitor 2.Panel FRONT CONSOLE;Helios.Panel;Panel FRONT CONSOLE" LastActivationTimeStamp="02/27/2026 17:47:47" />
         </LayoutDocumentPane>
         <LayoutAnchorablePane DockHeight="144">
           <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="300" Title="Bindings" IsSelected="True" ContentId="BindingsPanel" LastActivationTimeStamp="02/26/2026 18:14:54" />
@@ -28,7 +28,7 @@
           <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Properties" IsSelected="True" ContentId="PropertiesPanel" LastActivationTimeStamp="02/26/2026 20:26:46" />
         </LayoutAnchorablePane>
         <LayoutAnchorablePane>
-          <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Layers" IsSelected="True" ContentId="LayersPanel" LastActivationTimeStamp="02/26/2026 20:09:14" />
+          <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Layers" IsSelected="True" ContentId="LayersPanel" LastActivationTimeStamp="02/27/2026 17:48:57" />
         </LayoutAnchorablePane>
       </LayoutAnchorablePaneGroup>
     </LayoutPanel>

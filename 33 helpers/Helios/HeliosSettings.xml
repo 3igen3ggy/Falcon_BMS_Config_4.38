@@ -17,7 +17,7 @@
       </Setting>
       <Setting>
         <Name>ReminderForNextRelease</Name>
-        <Value>1</Value>
+        <Value>0</Value>
       </Setting>
     </Settings>
   </Group>
@@ -34,7 +34,7 @@
     <Settings>
       <Setting>
         <Name>WindowLocation</Name>
-        <Value>503,0,1903,900</Value>
+        <Value>388,0,1788,900</Value>
       </Setting>
       <Setting>
         <Name>DefaultAlwaysOnTop</Name>

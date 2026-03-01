@@ -1,0 +1,278 @@
+2026-02-27 16:15:53.4061|INFO|GadrocsWorkshop.Helios.HeliosInit|Helios Version 1.6.6170.3|
+2026-02-27 16:15:53.4471|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ALQ_213" for use in Helios|
+2026-02-27 16:15:53.4471|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC_164" for use in Helios|
+2026-02-27 16:15:53.4471|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_Digital_Clock" for use in Helios|
+2026-02-27 16:15:53.4471|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "AH-64D-CMWS Regular" for use in Helios|
+2026-02-27 16:15:53.4471|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "AH-64D-KU Regular" for use in Helios|
+2026-02-27 16:15:53.4471|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit APN209 LED" for use in Helios|
+2026-02-27 16:15:53.4471|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "DSEG14 Classic Regular" for use in Helios|
+2026-02-27 16:15:53.4471|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "DSEG7 Classic Regular" for use in Helios|
+2026-02-27 16:15:53.4471|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F-15E_Up_Front_Controller" for use in Helios|
+2026-02-27 16:15:53.4471|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F-16C_Viper_DED" for use in Helios|
+2026-02-27 16:15:53.4471|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C Hornet IFEI" for use in Helios|
+2026-02-27 16:15:53.4471|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C_Hornet-Up_Front_Controller" for use in Helios|
+2026-02-27 16:15:53.4471|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC-210_Large" for use in Helios|
+2026-02-27 16:15:53.4471|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC-210_Small" for use in Helios|
+2026-02-27 16:15:53.4471|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit 2000C_PCA_16_Segment" for use in Helios|
+2026-02-27 16:15:53.4471|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "LED Counter 7 Regular" for use in Helios|
+2026-02-27 16:15:53.4471|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "MS 33558 Regular" for use in Helios|
+2026-02-27 16:15:53.8196|INFO|GadrocsWorkshop.Helios.LogManager|Starting Editor|
+2026-02-27 16:15:54.0076|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 16:15:58.5266|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 16:15:58.7882|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Gauges/KA-50/RadarAltimeter/radar_alt_needle.xaml is being redirected to {Ka-50}/Gauges/RadarAltimeter/radar_alt_needle.xaml|
+2026-02-27 16:15:58.7882|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Gauges/KA-50/RadarAltimeter/radar_alt_faceplate.xaml is being redirected to {Ka-50}/Gauges/RadarAltimeter/radar_alt_faceplate.xaml|
+2026-02-27 16:15:58.9496|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 16:15:58.9496|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 16:15:58.9760|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 16:15:59.8993|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 16:15:59.8993|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 16:16:00.0733|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Images/F-16/ded-box.png is being redirected to {F-16C}/Images/ded-box.png|
+2026-02-27 16:16:36.1005|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of EOS Bus interface.|
+2026-02-27 16:16:36.1025|INFO|GadrocsWorkshop.Helios.LogManager|Adding EOS Bus Type: HeliosInterface to add interface list.|
+2026-02-27 16:16:36.1025|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DTS Card interface.|
+2026-02-27 16:16:36.2140|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DirectX Controller interface.|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 1. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 2. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 3. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 4. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 5. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 6. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 7. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 8. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 9. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 10. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 11. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 12. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 13. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 14. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 15. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 16. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 17. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 18. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 19. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 20. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 21. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Z Axis. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerAxis, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Y Axis. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerAxis, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding X Axis. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerAxis, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Y Rotation. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerAxis, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding X Rotation. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerAxis, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 22. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 23. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 24. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 25. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 26. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 27. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 28. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 29. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 30. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 31. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 32. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 33. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 34. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 35. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 36. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 37. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 38. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 39. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 40. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 41. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 42. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 43. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 44. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 45. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 46. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 47. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 48. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 49. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 50. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 51. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 52. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 53. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 54. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 55. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 56. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 57. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 58. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 59. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 60. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 61. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 62. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 63. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 64. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Z Rotation. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerAxis, Product Name Viper TQS GUID 8995fbc0-10bc-11f1-802f-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 1. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 2. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 3. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 4. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 5. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 6. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 7. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 8. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 9. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 10. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 11. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 12. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 13. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 14. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 15. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 16. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 17. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 18. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Button 19. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerButton, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding POV 1. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerPOVHat, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding Y Axis. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerAxis, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerInterface|Adding X Axis. Function: GadrocsWorkshop.Helios.Interfaces.DirectX.DirectXControllerAxis, Product Name Joystick - HOTAS Warthog GUID 8995d4b0-10bc-11f1-802e-444553540000|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.LogManager|Adding Viper TQS Type: HeliosInterface to add interface list.|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.LogManager|Adding Joystick - HOTAS Warthog Type: HeliosInterface to add interface list.|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Unsupported Interface interface.|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Control Router interface.|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.LogManager|Adding Control Router Type: HeliosInterfaceWithXml`1 to add interface list.|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Profile interface.|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Helios Information interface.|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Keyboard interface.|
+2026-02-27 16:16:36.2924|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Flaming Cliffs 3 interface.|
+2026-02-27 16:16:36.3045|INFO|GadrocsWorkshop.Helios.LogManager|Adding Flaming Cliffs 3 Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.3045|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS Generic Interface interface.|
+2026-02-27 16:16:36.3354|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Generic Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.3354|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS Interface File interface.|
+2026-02-27 16:16:36.3354|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS A-29B" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.A-29B.hif.json"|
+2026-02-27 16:16:36.3589|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS A-4E-C" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.A-4E-C.hif.json"|
+2026-02-27 16:16:36.3589|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS AH-6J" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.AH-6J.hif.json"|
+2026-02-27 16:16:36.3589|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS AJS37" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.AJS37.hif.json"|
+2026-02-27 16:16:36.3589|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS Alphajet" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.Alphajet.hif.json"|
+2026-02-27 16:16:36.3589|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS Bf-109K-4" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.Bf-109K-4.hif.json"|
+2026-02-27 16:16:36.3682|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS C-101CC" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.C-101CC.hif.json"|
+2026-02-27 16:16:36.3682|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS Christen Eagle II" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.ChristenEagleII.hif.json"|
+2026-02-27 16:16:36.3682|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS EA-18G" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.EA-18G.hif.json"|
+2026-02-27 16:16:36.3682|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS Edge540" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.Edge540.hif.json"|
+2026-02-27 16:16:36.3682|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS F-14B" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.F-14B.hif.json"|
+2026-02-27 16:16:36.3682|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS F-16C_50" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.F-16C_50.hif.json"|
+2026-02-27 16:16:36.3682|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS F-22A" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.F-22A.hif.json"|
+2026-02-27 16:16:36.3682|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS F-5E-3" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.F-5E-3.hif.json"|
+2026-02-27 16:16:36.3682|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS F-86F Sabre" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.F-86FSabre.hif.json"|
+2026-02-27 16:16:36.3682|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS F4U-1D" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.F4U-1D.hif.json"|
+2026-02-27 16:16:36.3682|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS FA-18E" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.FA-18E.hif.json"|
+2026-02-27 16:16:36.3827|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS FA-18F" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.FA-18F.hif.json"|
+2026-02-27 16:16:36.3827|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS FW-190A8" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.FW-190A8.hif.json"|
+2026-02-27 16:16:36.3827|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS FW-190D9" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.FW-190D9.hif.json"|
+2026-02-27 16:16:36.3827|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS Hercules" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.Hercules.hif.json"|
+2026-02-27 16:16:36.3827|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS I-16" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.I-16.hif.json"|
+2026-02-27 16:16:36.3827|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS JF-17" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.JF-17.hif.json"|
+2026-02-27 16:16:36.3827|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS L-39ZA" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.L-39ZA.hif.json"|
+2026-02-27 16:16:36.3827|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS M-2000C (from DCSFlightPanels)" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.M-2000C.hif.json"|
+2026-02-27 16:16:36.3827|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS MB-339PAN" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.MB-339PAN.hif.json"|
+2026-02-27 16:16:36.3827|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS H-60 (MH-60R Seahawk)" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.MH-60R.hif.json"|
+2026-02-27 16:16:36.3983|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS Mi-24P" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.Mi-24P.hif.json"|
+2026-02-27 16:16:36.3983|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS Mi-8MT" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.Mi-8MT.hif.json"|
+2026-02-27 16:16:36.3983|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS MiG-15bis" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.MiG-15bis.hif.json"|
+2026-02-27 16:16:36.3983|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS MiG-19P" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.MiG-19P.hif.json"|
+2026-02-27 16:16:36.3983|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS MiG-21Bis" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.MiG-21Bis.hif.json"|
+2026-02-27 16:16:36.3983|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS NS430" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.NS430.hif.json"|
+2026-02-27 16:16:36.3983|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS OH-6A Cayuse (Community Mod)" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.OH6A.hif.json"|
+2026-02-27 16:16:36.3983|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS OV-10A Bronco (Experimental)" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.OV10Bronco.hif.json"|
+2026-02-27 16:16:36.3983|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS P-47D" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.P-47D.hif.json"|
+2026-02-27 16:16:36.3983|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS P-51D" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.P-51D.hif.json"|
+2026-02-27 16:16:36.3983|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS SA342M" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.SA342M.hif.json"|
+2026-02-27 16:16:36.3983|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS SpitfireLFMkIX" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.SpitfireLFMkIX.hif.json"|
+2026-02-27 16:16:36.3983|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS SuperCarrier" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.SuperCarrier.hif.json"|
+2026-02-27 16:16:36.3983|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS UH-1H" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.UH-1H.hif.json"|
+2026-02-27 16:16:36.3983|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS H-60 (UH-60L Blackhawk)" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.UH-60L.hif.json"|
+2026-02-27 16:16:36.3983|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS VNAO_Room" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.VNAO_Room.hif.json"|
+2026-02-27 16:16:36.4141|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS VNAO_T-45" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.VNAO_T-45.hif.json"|
+2026-02-27 16:16:36.4141|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS F-4B Phantom" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.VSN_F4B.hif.json"|
+2026-02-27 16:16:36.4141|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS F-4C Phantom" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.VSN_F4C.hif.json"|
+2026-02-27 16:16:36.4141|INFO|GadrocsWorkshop.Helios.Interfaces.DCS.Soft.SoftInterfaceFactory|Found DCS interface "DCS Yak-52" at "D:\Program Files\Helios Virtual Cockpit\Helios\Interfaces\DCS.Yak-52.hif.json"|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS A-29B Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS A-4E-C Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS AH-6J Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS AJS37 Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Alphajet Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Bf-109K-4 Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS C-101CC Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Christen Eagle II Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS EA-18G Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Edge540 Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS F-14B Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS F-16C_50 Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS F-22A Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS F-5E-3 Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS F-86F Sabre Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS F4U-1D Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS FA-18E Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS FA-18F Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS FW-190A8 Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS FW-190D9 Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Hercules Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS I-16 Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS JF-17 Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS L-39ZA Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS M-2000C (from DCSFlightPanels) Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS MB-339PAN Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS H-60 (MH-60R Seahawk) Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Mi-24P Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Mi-8MT Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS MiG-15bis Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS MiG-19P Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS MiG-21Bis Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS NS430 Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS OH-6A Cayuse (Community Mod) Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS OV-10A Bronco (Experimental) Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS P-47D Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS P-51D Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS SA342M Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS SpitfireLFMkIX Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS SuperCarrier Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS UH-1H Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS H-60 (UH-60L Blackhawk) Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS VNAO_Room Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS VNAO_T-45 Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS F-4B Phantom Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS F-4C Phantom Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Yak-52 Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.4441|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS A-10C interface.|
+2026-02-27 16:16:36.5273|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS A-10C Type: A10CInterface to add interface list.|
+2026-02-27 16:16:36.5273|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS A-10C II interface.|
+2026-02-27 16:16:36.5509|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS A-10C II Type: A10CInterface to add interface list.|
+2026-02-27 16:16:36.5509|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS AH-64D Apache interface.|
+2026-02-27 16:16:36.6117|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS AH-64D Apache Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.6117|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS AV-8B interface.|
+2026-02-27 16:16:36.6499|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS AV-8B Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.6499|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS C-130J Hercules (ASC) interface.|
+2026-02-27 16:16:36.6870|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS C-130J Hercules (ASC) Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.6870|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS CH-47F Chinook interface.|
+2026-02-27 16:16:36.7562|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS CH-47F Chinook Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.7562|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS DH98 Mosquito FB Mk VI interface.|
+2026-02-27 16:16:36.7828|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS DH98 Mosquito FB Mk VI Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.7828|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS F-15E Strike Eagle interface.|
+2026-02-27 16:16:36.8572|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS F-15E Strike Eagle Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.8572|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS F/A-18C interface.|
+2026-02-27 16:16:36.8940|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS F/A-18C Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.8940|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Falcon interface.|
+2026-02-27 16:16:36.8940|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of Process Control interface.|
+2026-02-27 16:16:36.8940|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS Black Shark interface.|
+2026-02-27 16:16:36.9412|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Black Shark Type: BlackSharkInterface to add interface list.|
+2026-02-27 16:16:36.9412|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS Ka-50 3 interface.|
+2026-02-27 16:16:36.9612|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Black Shark 3 Type: BlackSharkInterface to add interface list.|
+2026-02-27 16:16:36.9612|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS M-2000C interface.|
+2026-02-27 16:16:36.9992|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS M2000C Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.9992|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS  Mi8 (Simple) interface.|
+2026-02-27 16:16:36.9992|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Mil Mi-8 (Simple) Type: DCSInterface to add interface list.|
+2026-02-27 16:16:36.9992|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS MiG21 interface.|
+2026-02-27 16:16:37.0253|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS MiG-21Bis Type: DCSInterface to add interface list.|
+2026-02-27 16:16:37.0253|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS Mirage F1EE interface.|
+2026-02-27 16:16:37.0445|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Mirage F1EE Type: MirageF1Interface to add interface list.|
+2026-02-27 16:16:37.0445|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS Mirage F1CE interface.|
+2026-02-27 16:16:37.0445|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Mirage F1CE Type: MirageF1Interface to add interface list.|
+2026-02-27 16:16:37.0445|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS Additional Viewports interface.|
+2026-02-27 16:16:37.0445|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Additional Viewports Type: HeliosInterface to add interface list.|
+2026-02-27 16:16:37.0445|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS Monitor Setup interface.|
+2026-02-27 16:16:37.0445|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS Monitor Setup Type: ViewportCompilerInterface`2 to add interface list.|
+2026-02-27 16:16:37.0445|INFO|GadrocsWorkshop.Helios.LogManager|Checking for available instances of DCS UH-60L Blackhawk interface.|
+2026-02-27 16:16:37.1045|INFO|GadrocsWorkshop.Helios.LogManager|Adding DCS UH-60L Blackhawk Type: DCSInterface to add interface list.|
+2026-02-27 16:17:22.4772|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 16:17:22.4772|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 16:17:22.5855|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 16:17:25.4298|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Button VERSION CHECK pushed set Text Signal on MemoryWire VERSION CHECK to  VERSIONCHECK (from 'Monitor 2.Panel VERSION CHECK.Button VERSION CHECK' to 'Monitor 2.Panel VERSION CHECK.MemoryWire VERSION CHECK') triggered with value "1"|
+2026-02-27 16:17:25.4298|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Text Signal on MemoryWire VERSION CHECK changes set position on Rotary VERSION CHECK to  script results (from 'Monitor 2.Panel VERSION CHECK.MemoryWire VERSION CHECK' to 'Monitor 2.Panel VERSION CHECK.Rotary VERSION CHECK') triggered with value "VERSIONCHECK"|
+2026-02-27 16:17:25.4298|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when position 3 on Rotary VERSION CHECK entered set hidden on Panel VERSION ERROR to  false (from 'Monitor 2.Panel VERSION CHECK.Rotary VERSION CHECK' to 'Monitor 2.Panel VERSION CHECK.Panel VERSION ERROR') triggered with value ""|

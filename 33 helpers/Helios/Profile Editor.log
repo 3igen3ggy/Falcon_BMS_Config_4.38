@@ -1,20 +1,30 @@
-2026-02-26 20:36:23.8986|INFO|GadrocsWorkshop.Helios.HeliosInit|Helios Version 1.6.6170.3|
-2026-02-26 20:36:23.9266|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ALQ_213" for use in Helios|
-2026-02-26 20:36:23.9444|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC_164" for use in Helios|
-2026-02-26 20:36:23.9444|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_Digital_Clock" for use in Helios|
-2026-02-26 20:36:23.9444|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "AH-64D-CMWS Regular" for use in Helios|
-2026-02-26 20:36:23.9444|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "AH-64D-KU Regular" for use in Helios|
-2026-02-26 20:36:23.9444|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit APN209 LED" for use in Helios|
-2026-02-26 20:36:23.9444|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "DSEG14 Classic Regular" for use in Helios|
-2026-02-26 20:36:23.9444|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "DSEG7 Classic Regular" for use in Helios|
-2026-02-26 20:36:23.9444|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F-15E_Up_Front_Controller" for use in Helios|
-2026-02-26 20:36:23.9444|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F-16C_Viper_DED" for use in Helios|
-2026-02-26 20:36:23.9444|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C Hornet IFEI" for use in Helios|
-2026-02-26 20:36:23.9444|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C_Hornet-Up_Front_Controller" for use in Helios|
-2026-02-26 20:36:23.9444|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC-210_Large" for use in Helios|
-2026-02-26 20:36:23.9444|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC-210_Small" for use in Helios|
-2026-02-26 20:36:23.9444|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit 2000C_PCA_16_Segment" for use in Helios|
-2026-02-26 20:36:23.9444|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "LED Counter 7 Regular" for use in Helios|
-2026-02-26 20:36:23.9444|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "MS 33558 Regular" for use in Helios|
-2026-02-26 20:36:24.2401|INFO|GadrocsWorkshop.Helios.LogManager|Starting Editor|
-2026-02-26 20:36:24.4264|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-03-01 10:36:32.9510|INFO|GadrocsWorkshop.Helios.HeliosInit|Helios Version 1.6.6170.3|
+2026-03-01 10:36:32.9966|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ALQ_213" for use in Helios|
+2026-03-01 10:36:33.0126|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC_164" for use in Helios|
+2026-03-01 10:36:33.0126|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_Digital_Clock" for use in Helios|
+2026-03-01 10:36:33.0126|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "AH-64D-CMWS Regular" for use in Helios|
+2026-03-01 10:36:33.0126|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "AH-64D-KU Regular" for use in Helios|
+2026-03-01 10:36:33.0126|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit APN209 LED" for use in Helios|
+2026-03-01 10:36:33.0126|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "DSEG14 Classic Regular" for use in Helios|
+2026-03-01 10:36:33.0126|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "DSEG7 Classic Regular" for use in Helios|
+2026-03-01 10:36:33.0126|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F-15E_Up_Front_Controller" for use in Helios|
+2026-03-01 10:36:33.0126|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F-16C_Viper_DED" for use in Helios|
+2026-03-01 10:36:33.0126|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C Hornet IFEI" for use in Helios|
+2026-03-01 10:36:33.0126|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C_Hornet-Up_Front_Controller" for use in Helios|
+2026-03-01 10:36:33.0126|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC-210_Large" for use in Helios|
+2026-03-01 10:36:33.0126|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC-210_Small" for use in Helios|
+2026-03-01 10:36:33.0126|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit 2000C_PCA_16_Segment" for use in Helios|
+2026-03-01 10:36:33.0126|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "LED Counter 7 Regular" for use in Helios|
+2026-03-01 10:36:33.0126|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "MS 33558 Regular" for use in Helios|
+2026-03-01 10:36:33.4468|INFO|GadrocsWorkshop.Helios.LogManager|Starting Editor|
+2026-03-01 10:36:33.7148|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-03-01 10:36:39.4282|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-03-01 10:36:39.9219|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Gauges/KA-50/RadarAltimeter/radar_alt_needle.xaml is being redirected to {Ka-50}/Gauges/RadarAltimeter/radar_alt_needle.xaml|
+2026-03-01 10:36:39.9219|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Gauges/KA-50/RadarAltimeter/radar_alt_faceplate.xaml is being redirected to {Ka-50}/Gauges/RadarAltimeter/radar_alt_faceplate.xaml|
+2026-03-01 10:36:40.5288|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-03-01 10:36:40.5288|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-03-01 10:36:40.5953|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-03-01 10:36:41.9179|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Images/F-16/ded-box.png is being redirected to {F-16C}/Images/ded-box.png|
+2026-03-01 10:36:41.9833|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-03-01 10:36:41.9833|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-03-01 10:36:41.9978|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|

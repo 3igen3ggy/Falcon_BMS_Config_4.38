@@ -1,0 +1,125 @@
+2026-02-27 18:24:36.6164|INFO|GadrocsWorkshop.Helios.HeliosInit|Helios Version 1.6.6170.3|
+2026-02-27 18:24:36.6475|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ALQ_213" for use in Helios|
+2026-02-27 18:24:36.6475|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC_164" for use in Helios|
+2026-02-27 18:24:36.6475|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_Digital_Clock" for use in Helios|
+2026-02-27 18:24:36.6475|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "AH-64D-CMWS Regular" for use in Helios|
+2026-02-27 18:24:36.6475|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "AH-64D-KU Regular" for use in Helios|
+2026-02-27 18:24:36.6631|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit APN209 LED" for use in Helios|
+2026-02-27 18:24:36.6631|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "DSEG14 Classic Regular" for use in Helios|
+2026-02-27 18:24:36.6631|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "DSEG7 Classic Regular" for use in Helios|
+2026-02-27 18:24:36.6631|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F-15E_Up_Front_Controller" for use in Helios|
+2026-02-27 18:24:36.6631|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F-16C_Viper_DED" for use in Helios|
+2026-02-27 18:24:36.6631|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C Hornet IFEI" for use in Helios|
+2026-02-27 18:24:36.6631|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit F/A-18C_Hornet-Up_Front_Controller" for use in Helios|
+2026-02-27 18:24:36.6631|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC-210_Large" for use in Helios|
+2026-02-27 18:24:36.6631|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit A-10C_ARC-210_Small" for use in Helios|
+2026-02-27 18:24:36.6631|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "Helios Virtual Cockpit 2000C_PCA_16_Segment" for use in Helios|
+2026-02-27 18:24:36.6631|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "LED Counter 7 Regular" for use in Helios|
+2026-02-27 18:24:36.6631|INFO|GadrocsWorkshop.Helios.FontManager|Loaded private font "MS 33558 Regular" for use in Helios|
+2026-02-27 18:24:37.0273|INFO|GadrocsWorkshop.Helios.LogManager|Helios 1.6.6170.0003
+https://github.com/HeliosVirtualCockpit/Helios/|
+2026-02-27 18:24:46.0596|INFO|GadrocsWorkshop.Helios.LogManager|Loading Profile...|
+2026-02-27 18:24:46.0596|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:24:46.1163|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:24:46.3742|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Gauges/KA-50/RadarAltimeter/radar_alt_needle.xaml is being redirected to {Ka-50}/Gauges/RadarAltimeter/radar_alt_needle.xaml|
+2026-02-27 18:24:46.3742|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Gauges/KA-50/RadarAltimeter/radar_alt_faceplate.xaml is being redirected to {Ka-50}/Gauges/RadarAltimeter/radar_alt_faceplate.xaml|
+2026-02-27 18:24:46.5280|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:24:46.5280|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:24:46.5390|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:24:47.1055|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Images/F-16/ded-box.png is being redirected to {F-16C}/Images/ded-box.png|
+2026-02-27 18:24:47.1805|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:24:47.1805|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:24:47.1805|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:24:47.5541|INFO|GadrocsWorkshop.Helios.LogManager|Preflight check is disabled.  Helios will not be able to ensure configuration is correct.|
+2026-02-27 18:24:47.5541|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile starting. (Name="Ice's Falcon BMS 4.37 SAV")|
+2026-02-27 18:24:47.5541|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Profile Started set physical state on Button COMMS ATC to  true (from 'Interface 'Profile'' to 'Monitor 2.Panel FRONT CONSOLE.Panel RADIO COMMS.Button COMMS ATC') triggered with value ""|
+2026-02-27 18:24:47.5541|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Button COMMS ATC closed set hidden on Panel ATC COMMS MENU to  false (from 'Monitor 2.Panel FRONT CONSOLE.Panel RADIO COMMS.Button COMMS ATC' to 'Monitor 2.Panel FRONT CONSOLE.Panel RADIO COMMS.Panel ATC COMMS MENU') triggered with value "1"|
+2026-02-27 18:24:47.5541|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Button PANEL 01 pushed push Button RESET (from 'Monitor 2.Panel FRONT CONSOLE.Panel CHARTS.Panel CHECKLISTS.Panel CHECKLIST 01 MAIN.Panel CENTRE.Button PANEL 01' to 'Monitor 2.Panel FRONT CONSOLE.Panel CHARTS.Panel CHECKLISTS.Panel CHECKLIST 01 MAIN.Panel CENTRE.Button RESET') triggered with value "1"|
+2026-02-27 18:24:47.5865|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Boolean Signal on MemoryWire RTT ENABLED IN SETTINGS FILE changes set hidden on Panel MFD TEXTURES to  trigger value (from 'Monitor 2.Panel BACKGROUND.MemoryWire RTT ENABLED IN SETTINGS FILE' to 'Monitor 2.Panel ZOOMED CONSOLE.Panel ZOOMED MFD.Panel MFD TEXTURES') triggered with value "0"|
+2026-02-27 18:24:47.5865|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when position on Rotary KNEEBOARDS changes set hidden on Panel KNEEBOARDS BUTTON AUTO to  true (from 'Monitor 2.Panel FRONT CONSOLE.Panel SYSTEM.Rotary KNEEBOARDS' to 'Monitor 2.Panel FRONT CONSOLE.Panel KNEEBOARDS BUTTON AUTO') triggered with value "1"|
+2026-02-27 18:24:47.5865|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when position 1 on Rotary KNEEBOARDS entered set hidden on Panel KNEEBOARDS BUTTON AUTO to  false (from 'Monitor 2.Panel FRONT CONSOLE.Panel SYSTEM.Rotary KNEEBOARDS' to 'Monitor 2.Panel FRONT CONSOLE.Panel KNEEBOARDS BUTTON AUTO') triggered with value ""|
+2026-02-27 18:24:47.9535|INFO|GadrocsWorkshop.Helios.HeliosProcessControl.ProcessControlInterface|Error caught launching external application (path="C:\Bin\AutoDataUpdate.exe").  This is very likely to be due to a missing program, missing file, or incorrect permissions on what has been specified on the lauinch action.|System.ComponentModel.Win32Exception
+The operation was canceled by the user
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at GadrocsWorkshop.Helios.HeliosProcessControl.ProcessControlInterface.LaunchApplication_Execute(Object action, HeliosActionEventArgs e, Boolean windowHidden)
+2026-02-27 18:24:48.1214|INFO|GadrocsWorkshop.Helios.HeliosProcessControl.ProcessControlInterface|Error caught launching external application (path="C:\Bin\AutoCPDUpdate.exe").  This is very likely to be due to a missing program, missing file, or incorrect permissions on what has been specified on the lauinch action.|System.ComponentModel.Win32Exception
+The operation was canceled by the user
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at GadrocsWorkshop.Helios.HeliosProcessControl.ProcessControlInterface.LaunchApplication_Execute(Object action, HeliosActionEventArgs e, Boolean windowHidden)
+2026-02-27 18:24:48.1214|INFO|GadrocsWorkshop.Helios.Interfaces.Falcon.Interfaces.RTT.ConfigGenerator|RTT configuration at "d:\Falcon BMS 4.38\Tools\RTTRemote\RTTClient.ini" is up to date|
+2026-02-27 18:24:48.1214|INFO|GadrocsWorkshop.Helios.Interfaces.Falcon.Interfaces.RTT.ProcessControl|launching RTT client: RTTClient64.exe|
+2026-02-27 18:24:48.2041|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile started. (Name="Ice's Falcon BMS 4.37 SAV")|
+2026-02-27 18:24:53.4027|INFO|GadrocsWorkshop.Helios.LogManager|Running Profile|
+2026-02-27 18:24:53.4138|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile stopping. (Name="Ice's Falcon BMS 4.37 SAV")|
+2026-02-27 18:24:53.4138|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Profile Stopped push Button STOP RTTCLIENT MASTER (from 'Interface 'Profile'' to 'Monitor 2.Panel BACKGROUND.Button STOP RTTCLIENT MASTER') triggered with value ""|
+2026-02-27 18:24:53.4138|INFO|GadrocsWorkshop.Helios.Interfaces.Falcon.Interfaces.RTT.ProcessControl|Killing process image name "RTTClient64"|
+2026-02-27 18:24:53.4339|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile stopped. (Name="Ice's Falcon BMS 4.37 SAV")|
+2026-02-27 18:24:55.7025|INFO|GadrocsWorkshop.Helios.LogManager|Loading Profile...|
+2026-02-27 18:24:55.7025|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:24:55.8826|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Gauges/KA-50/RadarAltimeter/radar_alt_needle.xaml is being redirected to {Ka-50}/Gauges/RadarAltimeter/radar_alt_needle.xaml|
+2026-02-27 18:24:55.8826|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Gauges/KA-50/RadarAltimeter/radar_alt_faceplate.xaml is being redirected to {Ka-50}/Gauges/RadarAltimeter/radar_alt_faceplate.xaml|
+2026-02-27 18:24:55.9666|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:24:55.9666|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:24:55.9666|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:24:56.3536|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Images/F-16/ded-box.png is being redirected to {F-16C}/Images/ded-box.png|
+2026-02-27 18:24:56.3750|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:24:56.3750|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:24:56.3750|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:24:56.7132|INFO|GadrocsWorkshop.Helios.LogManager|Preflight check is disabled.  Helios will not be able to ensure configuration is correct.|
+2026-02-27 18:24:56.7132|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile starting. (Name="Ice's Falcon BMS 4.37 SAV2")|
+2026-02-27 18:24:56.8539|INFO|GadrocsWorkshop.Helios.HeliosProcessControl.ProcessControlInterface|Error caught launching external application (path="C:\Bin\AutoDataUpdate.exe").  This is very likely to be due to a missing program, missing file, or incorrect permissions on what has been specified on the lauinch action.|System.ComponentModel.Win32Exception
+The operation was canceled by the user
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at GadrocsWorkshop.Helios.HeliosProcessControl.ProcessControlInterface.LaunchApplication_Execute(Object action, HeliosActionEventArgs e, Boolean windowHidden)
+2026-02-27 18:24:56.9776|INFO|GadrocsWorkshop.Helios.HeliosProcessControl.ProcessControlInterface|Error caught launching external application (path="C:\Bin\AutoCPDUpdate.exe").  This is very likely to be due to a missing program, missing file, or incorrect permissions on what has been specified on the lauinch action.|System.ComponentModel.Win32Exception
+The operation was canceled by the user
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at GadrocsWorkshop.Helios.HeliosProcessControl.ProcessControlInterface.LaunchApplication_Execute(Object action, HeliosActionEventArgs e, Boolean windowHidden)
+2026-02-27 18:24:56.9776|INFO|GadrocsWorkshop.Helios.Interfaces.Falcon.Interfaces.RTT.ConfigGenerator|RTT configuration at "d:\Falcon BMS 4.38\Tools\RTTRemote\RTTClient.ini" is up to date|
+2026-02-27 18:24:56.9776|INFO|GadrocsWorkshop.Helios.Interfaces.Falcon.Interfaces.RTT.ProcessControl|launching RTT client: RTTClient64.exe|
+2026-02-27 18:24:56.9776|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile started. (Name="Ice's Falcon BMS 4.37 SAV2")|
+2026-02-27 18:24:58.3290|INFO|GadrocsWorkshop.Helios.LogManager|Running Profile|
+2026-02-27 18:24:58.3582|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Runtime Current Theater on Falcon changes set position on Rotary CHARTS SELECTOR to  script results (from 'Interface 'Falcon'' to 'Monitor 2.Panel FRONT CONSOLE.Panel CHARTS.Rotary CHARTS SELECTOR') triggered with value "Korea KTO"|
+2026-02-27 18:24:58.3582|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Helios Version Helios Version on Helios Information changes set Text Signal on MemoryWire VERSION CHECK to  trigger value (from 'Interface 'Helios Information'' to 'Monitor 2.Panel VERSION CHECK 1.MemoryWire VERSION CHECK') triggered with value "1.6.6170.0003"|
+2026-02-27 18:24:58.3582|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when Text Signal on MemoryWire VERSION CHECK changes set position on Rotary VERSION CHECK to  script results (from 'Monitor 2.Panel VERSION CHECK 1.MemoryWire VERSION CHECK' to 'Monitor 2.Panel VERSION CHECK 1.Rotary VERSION CHECK') triggered with value "1.6.6170.0003"|
+2026-02-27 18:24:58.3582|INFO|GadrocsWorkshop.Helios.HeliosBinding|"InfoOnce" Binding when position 2 on Rotary VERSION CHECK entered set hidden on Panel VERSION CHECK 1 to  true (from 'Monitor 2.Panel VERSION CHECK 1.Rotary VERSION CHECK' to 'Monitor 2.Panel VERSION CHECK 1') triggered with value ""|
+2026-02-27 18:26:12.5270|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile stopping. (Name="Ice's Falcon BMS 4.37 SAV2")|
+2026-02-27 18:26:12.5270|INFO|GadrocsWorkshop.Helios.Interfaces.Falcon.Interfaces.RTT.ProcessControl|Killing process image name "RTTClient64"|
+2026-02-27 18:26:12.5440|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile stopped. (Name="Ice's Falcon BMS 4.37 SAV2")|
+2026-02-27 18:26:13.9127|INFO|GadrocsWorkshop.Helios.LogManager|Loading Profile...|
+2026-02-27 18:26:13.9137|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:26:14.0615|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Gauges/KA-50/RadarAltimeter/radar_alt_needle.xaml is being redirected to {Ka-50}/Gauges/RadarAltimeter/radar_alt_needle.xaml|
+2026-02-27 18:26:14.0615|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Gauges/KA-50/RadarAltimeter/radar_alt_faceplate.xaml is being redirected to {Ka-50}/Gauges/RadarAltimeter/radar_alt_faceplate.xaml|
+2026-02-27 18:26:14.1505|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:26:14.1505|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:26:14.2390|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:26:14.7384|INFO|GadrocsWorkshop.Helios.ImageManager|Load for Image {Helios}/Images/F-16/ded-box.png is being redirected to {F-16C}/Images/ded-box.png|
+2026-02-27 18:26:14.7690|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:26:14.7690|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:26:14.7690|INFO|GadrocsWorkshop.Helios.DisplayManager|Helios has determined screen DPI is 96|
+2026-02-27 18:26:15.0180|INFO|GadrocsWorkshop.Helios.LogManager|Preflight check is disabled.  Helios will not be able to ensure configuration is correct.|
+2026-02-27 18:26:15.0180|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile starting. (Name="Ice's Falcon BMS 4.37 SAV2")|
+2026-02-27 18:26:20.0720|INFO|GadrocsWorkshop.Helios.HeliosProcessControl.ProcessControlInterface|Error caught launching external application (path="C:\Bin\AutoDataUpdate.exe").  This is very likely to be due to a missing program, missing file, or incorrect permissions on what has been specified on the lauinch action.|System.ComponentModel.Win32Exception
+The operation was canceled by the user
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at GadrocsWorkshop.Helios.HeliosProcessControl.ProcessControlInterface.LaunchApplication_Execute(Object action, HeliosActionEventArgs e, Boolean windowHidden)
+2026-02-27 18:26:21.2333|INFO|GadrocsWorkshop.Helios.HeliosProcessControl.ProcessControlInterface|Error caught launching external application (path="C:\Bin\AutoCPDUpdate.exe").  This is very likely to be due to a missing program, missing file, or incorrect permissions on what has been specified on the lauinch action.|System.ComponentModel.Win32Exception
+The operation was canceled by the user
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at GadrocsWorkshop.Helios.HeliosProcessControl.ProcessControlInterface.LaunchApplication_Execute(Object action, HeliosActionEventArgs e, Boolean windowHidden)
+2026-02-27 18:26:21.2333|INFO|GadrocsWorkshop.Helios.Interfaces.Falcon.Interfaces.RTT.ConfigGenerator|RTT configuration at "d:\Falcon BMS 4.38\Tools\RTTRemote\RTTClient.ini" is up to date|
+2026-02-27 18:26:21.2333|INFO|GadrocsWorkshop.Helios.Interfaces.Falcon.Interfaces.RTT.ProcessControl|launching RTT client: RTTClient64.exe|
+2026-02-27 18:26:21.2469|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile started. (Name="Ice's Falcon BMS 4.37 SAV2")|
+2026-02-27 18:26:22.6756|INFO|GadrocsWorkshop.Helios.LogManager|Running Profile|
+2026-02-27 18:48:42.2663|INFO|GadrocsWorkshop.Helios.LogManager|Stopping profile on exit.|
+2026-02-27 18:48:42.2663|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile stopping. (Name="Ice's Falcon BMS 4.37 SAV2")|
+2026-02-27 18:48:42.2663|INFO|GadrocsWorkshop.Helios.Interfaces.Falcon.Interfaces.RTT.ProcessControl|Killing process image name "RTTClient64"|
+2026-02-27 18:48:42.2823|INFO|GadrocsWorkshop.Helios.HeliosProfile|Profile stopped. (Name="Ice's Falcon BMS 4.37 SAV2")|
+2026-02-27 18:48:42.2823|INFO|GadrocsWorkshop.Helios.LogManager|Unloading profile on exit.|
+2026-02-27 18:48:42.3163|INFO|GadrocsWorkshop.Helios.LogManager|Saving control center window position.|

@@ -4,7 +4,7 @@
   <Monitors>
     <Monitor>
       <Location>0,0</Location>
-      <Size>1920,1080</Size>
+      <Size>2560,1080</Size>
       <Hidden>False</Hidden>
       <Orientation>DMDO_DEFAULT</Orientation>
       <AlwaysOnTop>True</AlwaysOnTop>
@@ -12,7 +12,7 @@
       <Children />
     </Monitor>
     <Monitor>
-      <Location>1920,0</Location>
+      <Location>-1920,0</Location>
       <Size>1920,1080</Size>
       <Hidden>False</Hidden>
       <Orientation>DMDO_DEFAULT</Orientation>
@@ -624,9 +624,9 @@
                       <Hidden>True</Hidden>
                       <KnobImage>{Helios}/Images/Knobs/knob1.png</KnobImage>
                       <Positions>
-                        <Position Name="1" Rotation="0.00" />
-                        <Position Name="2" Rotation="90.00" />
-                        <Position Name="3" Rotation="180.00" />
+                        <Position Name="1" Rotation="0" />
+                        <Position Name="2" Rotation="90" />
+                        <Position Name="3" Rotation="180" />
                       </Positions>
                       <DefaultPosition>2</DefaultPosition>
                       <ClickType>
@@ -2848,9 +2848,9 @@
               <Hidden>True</Hidden>
               <KnobImage>{Helios}/Images/Knobs/knob1.png</KnobImage>
               <Positions>
-                <Position Name="1" Rotation="0.00" />
-                <Position Name="2" Rotation="90.00" />
-                <Position Name="3" Rotation="180.00" />
+                <Position Name="1" Rotation="0" />
+                <Position Name="2" Rotation="90" />
+                <Position Name="3" Rotation="180" />
               </Positions>
               <DefaultPosition>1</DefaultPosition>
               <Children />
@@ -2859,7 +2859,6 @@
               <Location>50,0</Location>
               <Size>50,50</Size>
               <Hidden>True</Hidden>
-              <EffectsExclusion>True</EffectsExclusion>
               <Children />
             </Control>
             <Control TypeIdentifier="Helios.Base.PushButton" Name="Button VERSION CHECK" SnapTarget="True" Locked="True">
@@ -3015,8 +3014,8 @@
     <Interface TypeIdentifier="Helios.Base.ProfileInterface" Name="Profile" />
     <Interface TypeIdentifier="Helios.Falcon.Interface" Name="Falcon">
       <FalconType>BMS</FalconType>
-      <FalconVersion>Falcon BMS 4.38</FalconVersion>
-      <KeyFile>D:\Falcon BMS 4.38\User\Config\BMS - CPD Addon.key</KeyFile>
+      <FalconVersion>Falcon BMS 4.37</FalconVersion>
+      <KeyFile>C:\Bin\KeyFile\BMS - CPD Addon.key</KeyFile>
       <FocusAssist>False</FocusAssist>
       <ForceKeyFile>False</ForceKeyFile>
       <TextureRefreshRate_30>False</TextureRefreshRate_30>
