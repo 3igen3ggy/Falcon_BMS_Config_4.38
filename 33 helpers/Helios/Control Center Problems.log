@@ -1,9 +1,0 @@
-2026-02-27 15:52:08.8514|ERROR|GadrocsWorkshop.Helios.LogManager|Error processing profile tick or refresh.|System.ArgumentException
-Destination array is not long enough to copy all the items in the collection. Check array index and length.
-   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
-   at System.BitConverter.ToUInt32(Byte[] value, Int32 startIndex)
-   at GadrocsWorkshop.Helios.Interfaces.Falcon.BMS.StringData.GetStringData(Byte[] data)
-   at GadrocsWorkshop.Helios.Interfaces.Falcon.BMS.StringData.GetNavPoints(Byte[] data)
-   at GadrocsWorkshop.Helios.Interfaces.Falcon.BMS.BMSFalconDataExporter.PollFlightData()
-   at System.EventHandler.Invoke(Object sender, EventArgs e)
-   at GadrocsWorkshop.Helios.ControlCenter.MainWindow.DispatcherTimer_Tick(Object sender, EventArgs e)
