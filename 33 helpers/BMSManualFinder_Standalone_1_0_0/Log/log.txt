@@ -1,0 +1,77 @@
+2026-03-08 15:26:17:   =============================================
+2026-03-08 15:26:17:   
+2026-03-08 15:26:17:   
+2026-03-08 15:26:17:   Kick-off BMS Manual Finder
+2026-03-08 15:26:17:   
+2026-03-08 15:26:17:   
+2026-03-08 15:26:17:   =============================================
+2026-03-08 15:26:17:   BMS Installed on PC: True. BMS install location of Docs (if true):D:\Falcon BMS 4.37\Docs
+2026-03-08 15:26:17:   
+2026-03-08 15:26:17:   Checking for system default PDF reader ....
+2026-03-08 15:26:17:   -------------------------------------------
+2026-03-08 15:26:17:   
+2026-03-08 15:26:17:   Found following browsers installed on system:
+2026-03-08 15:26:17:   ---------------------------------------------
+2026-03-08 15:26:17:   Mozilla Firefox,C:\Program Files\Mozilla Firefox\firefox.exe
+2026-03-08 15:26:17:   Google Chrome,C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-03-08 15:26:17:   Internet Explorer,C:\Program Files\Internet Explorer\iexplore.exe
+2026-03-08 15:26:17:   Microsoft Edge,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2026-03-08 15:26:17:   Checking registry: Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.pdf\UserChoice
+2026-03-08 15:26:17:   Out of installed browsers, these browsers will be used as options:
+2026-03-08 15:26:17:   
+2026-03-08 15:26:17:   Microsoft Edge,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2026-03-08 15:26:17:   
+2026-03-08 15:26:17:   Checking for user-supplied PDF reader ....
+2026-03-08 15:26:17:   Checking for user-supplied additional browser ....
+2026-03-08 15:26:17:   --------------------------------------------------
+2026-03-08 15:26:17:   No additional user browser requested
+2026-03-08 15:26:17:   
+2026-03-08 15:26:17:   No user requested pdf reader found in Config\Reader.cfg
+2026-03-08 15:26:17:   
+2026-03-08 15:26:17:   Checking for pre-existing index ....
+2026-03-08 15:26:17:   ------------------------------------
+2026-03-08 15:26:17:   No existing index to read
+2026-03-08 15:26:31:   
+2026-03-08 15:26:31:   Index build requested
+2026-03-08 15:26:31:   ---------------------
+2026-03-08 15:26:31:   
+2026-03-08 15:26:31:   
+2026-03-08 15:26:31:   List of manuals requested in Config\ManualList.cfg
+2026-03-08 15:26:31:   Some manuals may appear with two alternative valid filenames
+2026-03-08 15:26:31:   ------------------------------------------------------------
+2026-03-08 15:26:31:   Manual requested to index: BMS-User-Manual.pdf
+2026-03-08 15:26:31:   Manual requested to index: BMS-Comms-Nav-Book.pdf
+2026-03-08 15:26:31:   Manual requested to index: BMS-Naval-Ops.pdf
+2026-03-08 15:26:31:   Manual requested to index: BMS-Technical-Manual.pdf
+2026-03-08 15:26:31:   Manual requested to index: BMS-Threat-Guide.pdf
+2026-03-08 15:26:31:   Manual requested to index: BMS-Training-Manual.pdf
+2026-03-08 15:26:31:   Manual requested to index: bms-training.pdf
+2026-03-08 15:26:31:   Manual requested to index: TO 1F-16CMAM-34-1-1 BMS.pdf
+2026-03-08 15:26:31:   Manual requested to index: to_1f-16cmam-34-1-1_bms.pdf
+2026-03-08 15:26:31:   Manual requested to index: TO 1F-16CMAM-1 BMS.pdf
+2026-03-08 15:26:31:   Manual requested to index: to_1f-16cmam-1_bms.pdf
+2026-03-08 15:26:31:   Manual requested to index: TO 1F-15C-34-1-1 BMS.pdf
+2026-03-08 15:26:31:   Manual requested to index: TO 1F-15C-1 BMS.pdf
+2026-03-08 15:26:31:   Manual requested to index: BMS-F-15-Training-Manual.pdf
+2026-03-08 15:26:31:   Manual requested to index: BMS-VR-Guide.pdf
+2026-03-08 15:26:31:   Manual requested to index: ATP_1-02.1.pdf
+2026-03-08 15:26:31:   
+2026-03-08 15:26:31:   Manuals found on system
+2026-03-08 15:26:31:   -----------------------
+2026-03-08 15:26:31:   Manual available to index: BMS-Comms-Nav-Book.pdf
+2026-03-08 15:26:31:   Manual available to index: BMS-Naval-Ops.pdf
+2026-03-08 15:26:31:   Manual available to index: BMS-Technical-Manual.pdf
+2026-03-08 15:26:31:   Manual available to index: BMS-Threat-Guide.pdf
+2026-03-08 15:26:31:   Manual available to index: BMS-Training-Manual.pdf
+2026-03-08 15:26:31:   Manual available to index: BMS-User-Manual.pdf
+2026-03-08 15:26:31:   Manual available to index: BMS-VR-Guide.pdf
+2026-03-08 15:26:31:   Manual available to index: TO 1F-16CMAM-1 BMS.pdf
+2026-03-08 15:26:31:   Manual available to index: TO 1F-16CMAM-34-1-1 BMS.pdf
+2026-03-08 15:26:31:   Manual available to index: BMS-F-15-Training-Manual.pdf
+2026-03-08 15:26:31:   Manual available to index: TO 1F-15C-1 BMS.pdf
+2026-03-08 15:26:31:   Manual available to index: TO 1F-15C-34-1-1 BMS.pdf
+2026-03-08 15:26:31:   Manual available to index: ATP_1-02.1.pdf
+2026-03-08 15:26:31:   
+2026-03-08 15:26:31:   Indexing kickoff
+2026-03-08 15:26:45:   Indexing done
+2026-03-08 15:26:45:   Database built from 13 manuals with a total of 742878 words
