@@ -1,0 +1,27 @@
+# OffMap Airbase list for Korea Theater.
+# Base coordinates:
+# Name, X, Y, Side
+
+# US
+Futenma, 474, -843, 1
+Kadena, 476, -834, 1
+Yokota, 1477, 211, 1
+
+# ROK
+Jeju, 324, -38, 2
+
+# Japan
+Iruma, 1481, 222, 3
+Misawa, 1550, 764, 3
+Tsuiki, 748, -18, 3
+
+# Russia
+Khabarovsk, 899, 1635, 4
+Dolinsk-Sokol, 1495, 1494, 4
+Chuguyevka, 870, 1140, 4
+
+# China
+Dalian, -127, 570, 5
+Changchun, 176, 1120, 5
+Harbin, 253, 1311, 5
+

@@ -385,3 +385,42 @@
 2026-03-20 09:10:40:   Checking for pre-existing index ....
 2026-03-20 09:10:40:   ------------------------------------
 2026-03-20 09:10:44:   Existing index to be read. Built from folder D:\Falcon BMS 4.38\Docs on 2026-03-08 15:26:46
+2026-03-28 11:43:40:   =============================================
+2026-03-28 11:43:40:   
+2026-03-28 11:43:40:   
+2026-03-28 11:43:40:   Kick-off BMS Manual Finder
+2026-03-28 11:43:40:   
+2026-03-28 11:43:40:   
+2026-03-28 11:43:40:   =============================================
+2026-03-28 11:43:40:   BMS Installed on PC: True. BMS install location of Docs (if true):D:\Falcon BMS 4.37\Docs
+2026-03-28 11:43:40:   
+2026-03-28 11:43:40:   Checking for system default PDF reader ....
+2026-03-28 11:43:40:   -------------------------------------------
+2026-03-28 11:43:40:   
+2026-03-28 11:43:40:   Found following browsers installed on system:
+2026-03-28 11:43:40:   ---------------------------------------------
+2026-03-28 11:43:40:   Mozilla Firefox,C:\Program Files\Mozilla Firefox\firefox.exe
+2026-03-28 11:43:40:   Google Chrome,C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-03-28 11:43:40:   Internet Explorer,C:\Program Files\Internet Explorer\iexplore.exe
+2026-03-28 11:43:40:   Microsoft Edge,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2026-03-28 11:43:40:   
+2026-03-28 11:43:40:   Out of installed browsers, these browsers will be used as options:
+2026-03-28 11:43:40:   ------------------------------------------------------------------
+2026-03-28 11:43:40:   Microsoft Edge,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2026-03-28 11:43:40:   Mozilla Firefox,C:\Program Files\Mozilla Firefox\firefox.exe
+2026-03-28 11:43:40:   
+2026-03-28 11:43:40:   Checking for user-supplied additional browser ....
+2026-03-28 11:43:40:   --------------------------------------------------
+2026-03-28 11:43:40:   No additional user browser requested
+2026-03-28 11:43:40:   Checking registry: Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.pdf\UserChoice
+2026-03-28 11:43:40:   
+2026-03-28 11:43:40:   No system default pdf reader could be found
+2026-03-28 11:43:40:   
+2026-03-28 11:43:40:   Checking for user-supplied PDF reader ....
+2026-03-28 11:43:40:   ------------------------------------------
+2026-03-28 11:43:40:   
+2026-03-28 11:43:40:   No user requested pdf reader found in Config\Reader.cfg
+2026-03-28 11:43:40:   
+2026-03-28 11:43:40:   Checking for pre-existing index ....
+2026-03-28 11:43:40:   ------------------------------------
+2026-03-28 11:43:42:   Existing index to be read. Built from folder D:\Falcon BMS 4.38\Docs on 2026-03-08 15:26:46

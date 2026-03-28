@@ -1,0 +1,591 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Threats>
+    <AAA Num="0">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>2S6M Tunguska</Name>
+        <Code>2К22</Code>
+        <Country>Russia</Country>
+        <Operational>1982</Operational>
+        <InServiceStart>1982</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Tunguska</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Mobile Airdefence</Type>
+        <Missile>9M311 / SA-19</Missile>
+        <Guidance>Radar / Optical</Guidance>
+        <RadarName>Hot Shot on every vehicle</RadarName>
+        <MinAlt>600 feet / 200 m</MinAlt>
+        <MaxAlt>12,000 feet / 4,000 m</MaxAlt>
+        <MinRange>0</MinRange>
+        <MaxRange>1.7 nm / 3,000 m</MaxRange>
+        <RateOfFire>8 rds/sec</RateOfFire>
+        <Barrels>2</Barrels>
+        <Caliber>30 mm</Caliber>
+        <RwrSymbol>A2</RwrSymbol>
+        <RwrFile>2s6</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </AAA>
+    <AAA Num="1">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Bofors 40L70</Name>
+        <Code>40L70</Code>
+        <Country>Sweden</Country>
+        <Operational>1952 - Present</Operational>
+        <InServiceStart>1952</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Bofors 40L70</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Type>Towed AAA / Autocannon</Type>
+        <Missile> </Missile>
+        <Guidance>Optical or Radar guided</Guidance>
+        <RadarName>Flycatcher, Skyguard or Superfledermaus</RadarName>
+        <MinAlt> </MinAlt>
+        <MaxAlt>7,000 feet /3,500 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>2,7 nm / 5.0 km</MaxRange>
+        <RateOfFire>240-260 rds/min</RateOfFire>
+        <Barrels>1</Barrels>
+        <Caliber>40 mm</Caliber>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>NL 1959-2005</Note>
+    </AAA>
+    <AAA Num="2">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Gepard 1A2</Name>
+        <Code>1A2</Code>
+        <Country>Germany</Country>
+        <Operational>1977 - 2010</Operational>
+        <InServiceStart>1977</InServiceStart>
+        <InServiceEnd>2010</InServiceEnd>
+        <NatoName>Gepard</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Type>Self-Propelled Anti-Aircraft Gun (SPAAG)</Type>
+        <Missile> </Missile>
+        <Guidance>Radar</Guidance>
+        <RadarName>MPDR 12, Albis On Vehicle</RadarName>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>1.9 nm / 3.5 km</MaxRange>
+        <RateOfFire>550 rds/brl/min</RateOfFire>
+        <Barrels>2</Barrels>
+        <Caliber>35 mm</Caliber>
+        <RwrSymbol>A2</RwrSymbol>
+        <RwrFile>GunDish</RwrFile>
+        <RwrFileAcq>GunDishAcq</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Gepard is German for Cheetah</Note>
+    </AAA>
+    <AAA Num="3">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>K200-AD</Name>
+        <Code>K200-AD, K263, K263A1</Code>
+        <Country>South Korea</Country>
+        <Operational>1986</Operational>
+        <InServiceStart>1986</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>K200-AD</NatoName>
+        <InFalcon>K200-AD, M48A5, M-113, M109, 155 Gun</InFalcon>
+        <Type>Self-Propelled Anti-Aircraft Gun (SPAAG)</Type>
+        <Missile> </Missile>
+        <Guidance>Command LOS</Guidance>
+        <RadarName>Daewoo PD</RadarName>
+        <MinAlt> </MinAlt>
+        <MaxAlt>10,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>5nm</MaxRange>
+        <RateOfFire> </RateOfFire>
+        <Barrels>1</Barrels>
+        <Caliber>20 mm</Caliber>
+        <RwrSymbol>C</RwrSymbol>
+        <RwrFile>CHAPARAL</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </AAA>
+    <AAA Num="4">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>K-30 Biho (Flying Tiger)</Name>
+        <Code>K-30</Code>
+        <Country>South Korea</Country>
+        <Operational>1999</Operational>
+        <InServiceStart>1999</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>K-30</NatoName>
+        <InFalcon>no</InFalcon>
+        <Type>self-propelled anti-aircraft</Type>
+        <Missile> </Missile>
+        <Guidance>Radar / EO</Guidance>
+        <RadarName>Daewoo PD</RadarName>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>3.0 km</MaxRange>
+        <RateOfFire>600 rds/min</RateOfFire>
+        <Barrels>2</Barrels>
+        <Caliber>30 mm</Caliber>
+        <RwrSymbol>C</RwrSymbol>
+        <RwrFile>CHAPARAL</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </AAA>
+    <AAA Num="5">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>KS-12</Name>
+        <Code>KS-12 / M1939 / Type-72</Code>
+        <Country>Russia</Country>
+        <Operational>1939</Operational>
+        <InServiceStart>1939</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>KS-12</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Towed Heavy AAA</Type>
+        <Missile> </Missile>
+        <Guidance>Radar / Optical</Guidance>
+        <RadarName>Fire Can</RadarName>
+        <MinAlt> </MinAlt>
+        <MaxAlt>20,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>3.5 nm</MaxRange>
+        <RateOfFire> </RateOfFire>
+        <Barrels>1</Barrels>
+        <Caliber>85 mm</Caliber>
+        <RwrSymbol>A</RwrSymbol>
+        <RwrFile>FireCan</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </AAA>
+    <AAA Num="6">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>KS-19</Name>
+        <Code>KS-19/ Type-59</Code>
+        <Country>Russia</Country>
+        <Operational>Late 1940s</Operational>
+        <InServiceStart>1949</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>KS-19</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Towed Heavy AAA</Type>
+        <Missile> </Missile>
+        <Guidance>Radar / Optical</Guidance>
+        <RadarName>Fire Can</RadarName>
+        <MinAlt> </MinAlt>
+        <MaxAlt>45,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>7.5 nm</MaxRange>
+        <RateOfFire>10-15 rds/min</RateOfFire>
+        <Barrels>1</Barrels>
+        <Caliber>100 mm</Caliber>
+        <RwrSymbol>A</RwrSymbol>
+        <RwrFile>FireCan</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </AAA>
+    <AAA Num="7">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>KS-30</Name>
+        <Code>KS-30</Code>
+        <Country>Russia</Country>
+        <Operational>Early 1950s</Operational>
+        <InServiceStart>1951</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>KS-30</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type> </Type>
+        <Missile> </Missile>
+        <Guidance> </Guidance>
+        <RadarName> </RadarName>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange> </MaxRange>
+        <RateOfFire> </RateOfFire>
+        <Barrels> </Barrels>
+        <Caliber>130 mm</Caliber>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </AAA>
+    <AAA Num="8">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>LAV/AD</Name>
+        <Code>LAV-25</Code>
+        <Country>USA</Country>
+        <Operational>1983</Operational>
+        <InServiceStart>1983</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>LAV/ADATS</NatoName>
+        <InFalcon>AAV7-A1</InFalcon>
+        <Type>SHORAD</Type>
+        <Missile>FIM-92 Stinger</Missile>
+        <Guidance>All Esp IR/UV</Guidance>
+        <RadarName> </RadarName>
+        <MinAlt> </MinAlt>
+        <MaxAlt>12,464 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange> </MaxRange>
+        <RateOfFire>1800 Shots Per Minute</RateOfFire>
+        <Barrels>1</Barrels>
+        <Caliber>25mm GAU-12/U</Caliber>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Light Armored Vehicle</Note>
+    </AAA>
+    <AAA Num="9">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>M-1939</Name>
+        <Code>M-1939 / Type-55</Code>
+        <Country>Russia</Country>
+        <Operational>1939</Operational>
+        <InServiceStart>1939</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>M-1939</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Towed AAA</Type>
+        <Missile> </Missile>
+        <Guidance>Optical</Guidance>
+        <RadarName> </RadarName>
+        <MinAlt> </MinAlt>
+        <MaxAlt>12,000 feet / 6,700 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>1.4 nm / 3.0 km</MaxRange>
+        <RateOfFire>160-180 rds/min</RateOfFire>
+        <Barrels>2</Barrels>
+        <Caliber>37 mm</Caliber>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </AAA>
+    <AAA Num="10">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>M-1992</Name>
+        <Code>M-1992</Code>
+        <Country>Russia</Country>
+        <Operational>1992</Operational>
+        <InServiceStart>1992</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>M-1992</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Self Propelled AAA</Type>
+        <Missile> </Missile>
+        <Guidance>Radar / Optical</Guidance>
+        <RadarName>Gun Dish</RadarName>
+        <MinAlt> </MinAlt>
+        <MaxAlt>9,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>1.7 nm / 3 km</MaxRange>
+        <RateOfFire>800 rds/min</RateOfFire>
+        <Barrels>2</Barrels>
+        <Caliber>30 mm</Caliber>
+        <RwrSymbol>A2</RwrSymbol>
+        <RwrFile>GunDish</RwrFile>
+        <RwrFileAcq>GunDishAcq</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </AAA>
+    <AAA Num="11">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>M6 Bradley Linebacker</Name>
+        <Code>M6</Code>
+        <Country>USA</Country>
+        <Operational>1981</Operational>
+        <InServiceStart>1981</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>M-2A2 BSFV-AD</NatoName>
+        <InFalcon>M1A1, M2A3, M3A3, Leopard 2, Challenger</InFalcon>
+        <Type>Mobile SAM</Type>
+        <Missile>FIM-92 Stinger</Missile>
+        <Guidance>All Esp IR/UV</Guidance>
+        <RadarName> </RadarName>
+        <MinAlt> </MinAlt>
+        <MaxAlt>12,464 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>2,188 yrds</MaxRange>
+        <RateOfFire>500 rds/min</RateOfFire>
+        <Barrels>1</Barrels>
+        <Caliber>25 mm</Caliber>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </AAA>
+    <AAA Num="12">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>PRTL Cheetah</Name>
+        <Code>CA 1</Code>
+        <Country>Germany</Country>
+        <Operational>1977 - 2010</Operational>
+        <InServiceStart>1977</InServiceStart>
+        <InServiceEnd>2010</InServiceEnd>
+        <NatoName>Cheetah</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Type>Self-Propelled Anti-Aircraft Gun (SPAAG)</Type>
+        <Missile> </Missile>
+        <Guidance>Radar</Guidance>
+        <RadarName>PRTL Search, PRTL Flycatcher On Vehicle</RadarName>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>1.9 nm / 3.5 km</MaxRange>
+        <RateOfFire>550 rds/brl/min</RateOfFire>
+        <Barrels>2</Barrels>
+        <Caliber>35 mm</Caliber>
+        <RwrSymbol>A2</RwrSymbol>
+        <RwrFile>GunDish</RwrFile>
+        <RwrFileAcq>GunDishAcq</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Pantser Rups Tegen Luchtdoelen "Pruttel" (Armour Track Against Airtargets)</Note>
+    </AAA>
+    <AAA Num="13">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>S-60</Name>
+        <Code>S-60 / Type-59</Code>
+        <Country>Russia</Country>
+        <Operational>1950</Operational>
+        <InServiceStart>1950</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>S-60</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Heavy AAA</Type>
+        <Missile> </Missile>
+        <Guidance>Radar / Optical</Guidance>
+        <RadarName>Fire Can</RadarName>
+        <MinAlt> </MinAlt>
+        <MaxAlt>15,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>3.3 nm / 6 km</MaxRange>
+        <RateOfFire>105-130 rds/min</RateOfFire>
+        <Barrels>1</Barrels>
+        <Caliber>57 mm</Caliber>
+        <RwrSymbol>A</RwrSymbol>
+        <RwrFile>FireCan</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </AAA>
+    <AAA Num="14">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>Type 65</Name>
+        <Code>Type 65</Code>
+        <Country>China</Country>
+        <Operational>1965</Operational>
+        <InServiceStart>1965</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Type 65</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Towed AAA</Type>
+        <Missile> </Missile>
+        <Guidance>Optical / Computing</Guidance>
+        <RadarName> </RadarName>
+        <MinAlt> </MinAlt>
+        <MaxAlt>6,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>2.5 km</MaxRange>
+        <RateOfFire>80 rds/min</RateOfFire>
+        <Barrels>2</Barrels>
+        <Caliber>37 mm</Caliber>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </AAA>
+    <AAA Num="15">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>Type 95</Name>
+        <Code>Type 95 / PGZ-95</Code>
+        <Country>China</Country>
+        <Operational>1999</Operational>
+        <InServiceStart>1999</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Type 95</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Towed Heavy AAA</Type>
+        <Missile> </Missile>
+        <Guidance>Radar / Optical</Guidance>
+        <RadarName>Fire Can</RadarName>
+        <MinAlt> </MinAlt>
+        <MaxAlt>45,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>7.5 nm</MaxRange>
+        <RateOfFire>10-15 rds/min</RateOfFire>
+        <Barrels>1</Barrels>
+        <Caliber>100 mm</Caliber>
+        <RwrSymbol>A</RwrSymbol>
+        <RwrFile>FireCan</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </AAA>
+    <AAA Num="16">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>ZPU-2</Name>
+        <Code>ZPU-2 / Type 85</Code>
+        <Country>Russia</Country>
+        <Operational>1949</Operational>
+        <InServiceStart>1949</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>ZPU-2</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Heavy twin machinegun</Type>
+        <Missile> </Missile>
+        <Guidance>Optical</Guidance>
+        <RadarName> </RadarName>
+        <MinAlt> </MinAlt>
+        <MaxAlt>6,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>0.8 nm / 1.4 km</MaxRange>
+        <RateOfFire>500-600 rds/bar/min</RateOfFire>
+        <Barrels>2</Barrels>
+        <Caliber>14,5 mm</Caliber>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>zenitnaya pulemotnaya ustanovka (anti-aircraft machine gun mount)</Note>
+    </AAA>
+    <AAA Num="17">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>ZPU-4</Name>
+        <Code>ZPU-4/ Type 56</Code>
+        <Country>Russia</Country>
+        <Operational>1949</Operational>
+        <InServiceStart>1949</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>ZPU-4</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Heavy machinegun</Type>
+        <Missile> </Missile>
+        <Guidance>Optical</Guidance>
+        <RadarName> </RadarName>
+        <MinAlt> </MinAlt>
+        <MaxAlt>5,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>0.8 nm / 1.4 km</MaxRange>
+        <RateOfFire>600 rds/bar/min</RateOfFire>
+        <Barrels>4</Barrels>
+        <Caliber>14,5 mm</Caliber>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>zenitnaya pulemotnaya ustanovka (anti-aircraft machine gun mount)</Note>
+    </AAA>
+    <AAA Num="18">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>ZSU-23-4 Shilka</Name>
+        <Code>ZSU-23-4</Code>
+        <Country>Russia</Country>
+        <Operational>1960</Operational>
+        <InServiceStart>1960</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Shilka</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Self-Propelled Anti-Aircraft Gun (SPAAG)</Type>
+        <Missile> </Missile>
+        <Guidance>Radar / Optical</Guidance>
+        <RadarName>Gun Dish on every vehicle</RadarName>
+        <MinAlt> </MinAlt>
+        <MaxAlt>7,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>2.0 nm / 2,734 yrds</MaxRange>
+        <RateOfFire>17rds/sec</RateOfFire>
+        <Barrels>4</Barrels>
+        <Caliber>23 mm</Caliber>
+        <RwrSymbol>A2</RwrSymbol>
+        <RwrFile>GunDishAcq</RwrFile>
+        <RwrFileAcq>GunDishAcq</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Zenitnaya Samokhodnaya Ustanovka (anti-aircraft self-propelled system)</Note>
+    </AAA>
+    <AAA Num="19">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>ZSU-57-2</Name>
+        <Code>ZSU-57-2 / Type 80</Code>
+        <Country>Russia</Country>
+        <Operational>1955</Operational>
+        <InServiceStart>1955</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>ZSU-57-2</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Self-Propelled Anti-Aircraft Gun (SPAAG)</Type>
+        <Missile> </Missile>
+        <Guidance>Optical / Computing</Guidance>
+        <RadarName> </RadarName>
+        <MinAlt> </MinAlt>
+        <MaxAlt>24,000 feet / 8,000 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>6.7 nm / 12 km</MaxRange>
+        <RateOfFire> </RateOfFire>
+        <Barrels>2</Barrels>
+        <Caliber>57 mm</Caliber>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Zenitnaya Samokhodnaya Ustanovka (anti-aircraft self-propelled system)</Note>
+    </AAA>
+    <AAA Num="20">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>ZU-23-2 (ZU-23)</Name>
+        <Code>ZU-23-2 / ZU-23</Code>
+        <Country>Russia</Country>
+        <Operational>1960</Operational>
+        <InServiceStart>1960</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>ZU-23-2</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Towed AAA</Type>
+        <Missile> </Missile>
+        <Guidance>Optical</Guidance>
+        <RadarName> </RadarName>
+        <MinAlt> </MinAlt>
+        <MaxAlt>7,000 feet /3,500 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>2,0 nm / 2.5 km</MaxRange>
+        <RateOfFire>400 rds/min</RateOfFire>
+        <Barrels>2</Barrels>
+        <Caliber>23 mm</Caliber>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Zenitnaya Ustanovka (anti-aircraft mount)</Note>
+    </AAA>
+</Threats>

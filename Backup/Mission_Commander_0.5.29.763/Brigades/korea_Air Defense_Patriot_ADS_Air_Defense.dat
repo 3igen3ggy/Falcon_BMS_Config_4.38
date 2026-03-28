@@ -1,0 +1,12 @@
+[Brigade]
+Type=Air Defense
+[Battalion1]
+Type=Patriot ADS Air Defense (CT:74)
+[Battalion2]
+Type=Patriot ADS Air Defense (CT:74)
+[Battalion3]
+Type=Hawk ADS Air Defense (CT:572)
+[Battalion4]
+Type=Hawk ADS Air Defense (CT:572)
+[Battalion5]
+Type=K200-AD AAA (CT:986)

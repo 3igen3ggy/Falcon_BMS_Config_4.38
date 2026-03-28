@@ -1,0 +1,18 @@
+#Countries for the Objective Strings
+Netherlands
+Belgium
+France
+Denmark
+West-Germany
+East-Germany
+Poland
+Czech Rep
+Sweden
+Luxemburg
+Austria
+USA
+South Korea
+North Korea
+China
+Russia
+Japan

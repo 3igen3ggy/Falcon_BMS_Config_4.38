@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Countries>
+    <Country Num="0">
+        <Id>1</Id>
+        <Name>Spain POH</Name>
+    </Country>
+    <Country Num="1">
+        <Id>2</Id>
+        <Name>Portugal POH</Name>
+    </Country>
+    <Country Num="2">
+        <Id>3</Id>
+        <Name>France POH</Name>
+    </Country>
+    <Country Num="3">
+        <Id>4</Id>
+        <Name>Morocco POH</Name>
+    </Country>
+    <Country Num="4">
+        <Id>5</Id>
+        <Name>Algeria POH</Name>
+    </Country>
+    <Country Num="5">
+        <Id>6</Id>
+        <Name>Azores POH</Name>
+    </Country>
+    <Country Num="6">
+        <Id>7</Id>
+        <Name>United Kingdome POH</Name>
+    </Country>
+    <Country Num="7">
+        <Id>8</Id>
+        <Name>Canary Islands POH</Name>
+    </Country>
+</Countries>

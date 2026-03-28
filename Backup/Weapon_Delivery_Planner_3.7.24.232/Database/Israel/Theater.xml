@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Theater>
+    <Id>5</Id>
+    <Base>5</Base>
+    <Name>Israel</Name>
+    <NameIdx>Israel</NameIdx>
+    <Directory>\Add-on Battle for Sinai\sp\campaign\israel\</Directory>
+    <DefLat>25.625</DefLat>
+    <DefLong>29.56</DefLong>
+    <ThrSizeKm>1024</ThrSizeKm>
+    <North>35</North>
+    <South>25</South>
+    <East>41</East>
+    <West>29</West>
+</Theater>

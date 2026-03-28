@@ -1,0 +1,4755 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Threats>
+    <MSL Num="0">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>3M9</Name>
+        <Code>3M9</Code>
+        <Country>Russia</Country>
+        <Operational>1967 - 1977?</Operational>
+        <InServiceStart>1967</InServiceStart>
+        <InServiceEnd>1977</InServiceEnd>
+        <NatoName>SA-6A Gainful</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Command / SARH / EO</Guidance>
+        <RadarName>Straight Flush</RadarName>
+        <Type>Mobile tactical air defence</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length>5.8 m</Length>
+        <Weight>630 kg</Weight>
+        <MinAlt>328 feet / 100 m</MinAlt>
+        <MaxAlt>23,000 feet / 7,000 m</MaxAlt>
+        <MinRange>3.2 nm / 6 km</MinRange>
+        <MaxRange>11.9 nm / 22 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2.8</Speed>
+        <MaxG>15</MaxG>
+        <Warhead>50 kg / 176 lbs HE fragmentation</Warhead>
+        <LethalRadius>5 m</LethalRadius>
+        <Fuse>Proximity</Fuse>
+        <RwrSymbol>6</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="1">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>3M9M1</Name>
+        <Code>3M9M1</Code>
+        <Country>Russia</Country>
+        <Operational>1973 -</Operational>
+        <InServiceStart>1973</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-6B Gainful-Mod 0</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command / SARH / EO</Guidance>
+        <RadarName>Straight Flush, Fire Dome</RadarName>
+        <Type>Mobile tactical air defence</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length>5.8 m</Length>
+        <Weight>630 kg</Weight>
+        <MinAlt>262 feet / 80 m</MinAlt>
+        <MaxAlt>26,300 feet / 8,000 m</MaxAlt>
+        <MinRange>2.1 nm / 4 km</MinRange>
+        <MaxRange>12.4 nm / 23 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2.8</Speed>
+        <MaxG>15</MaxG>
+        <Warhead>50 kg  / 176 lbs HE fragmentation</Warhead>
+        <LethalRadius>5 m</LethalRadius>
+        <Fuse>Proximity</Fuse>
+        <RwrSymbol>6</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="2">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>3M9M3</Name>
+        <Code>3M9M3</Code>
+        <Country>Russia</Country>
+        <Operational>1976 -</Operational>
+        <InServiceStart>1976</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-6B Gainful-Mod 1</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command / SARH / EO</Guidance>
+        <RadarName>Straight Flush, Fire Dome</RadarName>
+        <Type>Mobile tactical air defence</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length>5.8 m</Length>
+        <Weight>630 kg</Weight>
+        <MinAlt>65 feet / 20 m</MinAlt>
+        <MaxAlt>26,300 feet / 8,000 m</MaxAlt>
+        <MinRange>2.1 nm / 4 km</MinRange>
+        <MaxRange>13.5 nm / 25 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2.8</Speed>
+        <MaxG>15</MaxG>
+        <Warhead>50 kg  / 176 lbs HE fragmentation</Warhead>
+        <LethalRadius>5 m</LethalRadius>
+        <Fuse>Proximity</Fuse>
+        <RwrSymbol>6</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="3">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>3M9M4</Name>
+        <Code>3M9M4</Code>
+        <Country>Russia</Country>
+        <Operational>1978 -</Operational>
+        <InServiceStart>1978</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-6B Gainful-Mod 2</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command / SARH / EO</Guidance>
+        <RadarName>Straight Flush, Fire Dome</RadarName>
+        <Type>Mobile tactical air defence</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length>5.8 m</Length>
+        <Weight>630 kg</Weight>
+        <MinAlt>98 feet / 30 m</MinAlt>
+        <MaxAlt>45,900 feet / 14,000 m</MaxAlt>
+        <MinRange>2.1 nm / 4 km</MinRange>
+        <MaxRange>13.0 nm / 24 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2</Speed>
+        <MaxG>15</MaxG>
+        <Warhead>50 kg  / 176 lbs HE fragmentation</Warhead>
+        <LethalRadius>5 m</LethalRadius>
+        <Fuse>Proximity</Fuse>
+        <RwrSymbol>6</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="4">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>41K60</Name>
+        <Code>41K60</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-N-3 Goblet</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type> </Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange>1,7 nm</MinRange>
+        <MaxRange>30.5 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3,0</Speed>
+        <MaxG> </MaxG>
+        <Warhead> </Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="5">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>48N6</Name>
+        <Code>48N6</Code>
+        <Country>Russia</Country>
+        <Operational>1992 -</Operational>
+        <InServiceStart>1992</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-10D Grumble D</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Flap Lid B</RadarName>
+        <Type>Low to High Alt</Type>
+        <Stages>1</Stages>
+        <BoostTime> </BoostTime>
+        <Length>7.5 m / 24.5 ft</Length>
+        <Weight>1780kg / 3920 lb</Weight>
+        <MinAlt>33 feet / 10 m</MinAlt>
+        <MaxAlt>82,000 feet / 25,000 m</MaxAlt>
+        <MinRange>1.7 nm / 3 km</MinRange>
+        <MaxRange>81 nm / 150 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 6</Speed>
+        <MaxG> </MaxG>
+        <Warhead>143 kg / 320 lb HE fragmentation or Nuclear</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>V denotes Nuclear, not in use anymore</Note>
+    </MSL>
+    <MSL Num="6">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>48N6E</Name>
+        <Code>48N6E</Code>
+        <Country>Russia</Country>
+        <Operational>1997 -</Operational>
+        <InServiceStart>1997</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-10E Grumble E</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Flap Lid B</RadarName>
+        <Type>Low to High Alt</Type>
+        <Stages>1</Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange> </MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 6</Speed>
+        <MaxG> </MaxG>
+        <Warhead>180 kg / 320 lb HE fragmentation or Nuclear</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>V denotes Nuclear, not in use anymore</Note>
+    </MSL>
+    <MSL Num="7">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>48N6E / 5V55RUD</Name>
+        <Code>48N6E / 5V55RUD</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-N-6 Grumble</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Command, Track via missile</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Low to High Alt</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>75 feet / 25 m</MinAlt>
+        <MaxAlt>81,000 feet / 27,000 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>50-83.3 nm / 90-150 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>1.7-2.0 km/sec</Speed>
+        <MaxG> </MaxG>
+        <Warhead>133-145 kg HE fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="8">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>4K33 Osa-M</Name>
+        <Code>4K33</Code>
+        <Country>Russia</Country>
+        <Operational>1972 -</Operational>
+        <InServiceStart>1972</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-N-4 Gecko</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Command / RF CLOS</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Short range low alt mobile SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>30 feet / 10 m</MinAlt>
+        <MaxAlt>36,000 feet / 12,000 m</MaxAlt>
+        <MinRange>600 feet / 200 m</MinRange>
+        <MaxRange>8.3 nm / 15 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2,4</Speed>
+        <MaxG> </MaxG>
+        <Warhead>88 lbs HE fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="9">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>57E6</Name>
+        <Code>57E6</Code>
+        <Country>Russia</Country>
+        <Operational>2007 -</Operational>
+        <InServiceStart>2007</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-22 Greyhound</NatoName>
+        <InFalcon> </InFalcon>
+        <Guidance> </Guidance>
+        <RadarName> </RadarName>
+        <Type>Mobile Airdefence</Type>
+        <Stages>2</Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>26,200 feet / 8,000 m</MaxAlt>
+        <MinRange>0.54 nm / 1.0 km</MinRange>
+        <MaxRange>10.8 nm / 20.0 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>1000m/s (Mach 3)</Speed>
+        <MaxG> </MaxG>
+        <Warhead>20kg HE</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="10">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>57E6M</Name>
+        <Code>57E6M</Code>
+        <Country>Russia</Country>
+        <Operational>2019 -</Operational>
+        <InServiceStart>2019</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-22 (M) Greyhound</NatoName>
+        <InFalcon> </InFalcon>
+        <Guidance> </Guidance>
+        <RadarName> </RadarName>
+        <Type>Mobile Airdefence</Type>
+        <Stages>2</Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>59,000 feet / 18,000 m</MaxAlt>
+        <MinRange>0.54 nm / 1.0 km</MinRange>
+        <MaxRange>16.2 nm / 30.0 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>1700m/s (Mach 3+)</Speed>
+        <MaxG> </MaxG>
+        <Warhead>25 kg fragmentation warhead</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="11">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>5V21 Angara</Name>
+        <Code>V-860/5V21 or V-860P/5V21A</Code>
+        <Country>Russia</Country>
+        <Operational>1967 -</Operational>
+        <InServiceStart>1967</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-5A Gammon</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command / SARH</Guidance>
+        <RadarName>Bar Lock-B</RadarName>
+        <Type>Long range for medium to high targets</Type>
+        <Stages>2</Stages>
+        <BoostTime>51-150 sec</BoostTime>
+        <Length>10.5 m</Length>
+        <Weight>8,000 kg</Weight>
+        <MinAlt>3280 feet / 1,000 m</MinAlt>
+        <MaxAlt>66,000 feet / 20,000 m</MaxAlt>
+        <MinRange>9.2 nm / 17 km</MinRange>
+        <MaxRange>86.4 nm / 160 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 4.0</Speed>
+        <MaxG> </MaxG>
+        <Warhead>215 kg / 474 lbs HE</Warhead>
+        <LethalRadius>75 m</LethalRadius>
+        <Fuse>Proximity / Command</Fuse>
+        <RwrSymbol>5</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="12">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>5V21P Wega</Name>
+        <Code>V-860PV/5V21P, 5W28W</Code>
+        <Country>Russia</Country>
+        <Operational>1970 -</Operational>
+        <InServiceStart>1970</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-5B(1) Gammon</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Command / SARH</Guidance>
+        <RadarName>Bar Lock-B</RadarName>
+        <Type>Long range for medium to high targets</Type>
+        <Stages>2</Stages>
+        <BoostTime>51-150 sec</BoostTime>
+        <Length>10.5 m</Length>
+        <Weight>7,018 kg</Weight>
+        <MinAlt>984 feet / 300 m</MinAlt>
+        <MaxAlt>95,000 feet / 29,000 m</MaxAlt>
+        <MinRange>3.2 nm / 6 km</MinRange>
+        <MaxRange>135 nm / 250 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 4.0</Speed>
+        <MaxG> </MaxG>
+        <Warhead>215 kg / 474 lbs HE</Warhead>
+        <LethalRadius>75 m</LethalRadius>
+        <Fuse>Proximity / Command</Fuse>
+        <RwrSymbol>5</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="13">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>5V24 / V600 Neva</Name>
+        <Code>5V24 / V600</Code>
+        <Country>Russia</Country>
+        <Operational>1961 -</Operational>
+        <InServiceStart>1961</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-3A Goa</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Guidance>Command RF</Guidance>
+        <RadarName>Low Blow</RadarName>
+        <Type>Low to medium alt SAM</Type>
+        <Stages>2</Stages>
+        <BoostTime>1st 2.6 sec / 2nd 18.7 sec</BoostTime>
+        <Length>5.88 m / 19.3ft</Length>
+        <Weight>933 kg</Weight>
+        <MinAlt>328 feet / 100 m</MinAlt>
+        <MaxAlt>32,808 feet / 10.000 m</MaxAlt>
+        <MinRange>2.2 nm / 4 km</MinRange>
+        <MaxRange>15.7 nm / 29 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3.5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>60kg HE fragmentation</Warhead>
+        <LethalRadius>12.5 m</LethalRadius>
+        <Fuse>Proximity / Contact</Fuse>
+        <RwrSymbol>3</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="14">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>5V27 / V601 Neva</Name>
+        <Code>5V27 / V601</Code>
+        <Country>Russia</Country>
+        <Operational>1964 -</Operational>
+        <InServiceStart>1964</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-3B Goa</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command RF</Guidance>
+        <RadarName>Low Blow</RadarName>
+        <Type>Low to medium alt SAM</Type>
+        <Stages>2</Stages>
+        <BoostTime>1st 2.6 sec / 2nd 18.7 sec</BoostTime>
+        <Length>5,95 m / 19.5ft</Length>
+        <Weight>953 kg</Weight>
+        <MinAlt>328 feet / 100 m</MinAlt>
+        <MaxAlt>14,5932 feet / 14.000 m</MaxAlt>
+        <MinRange>2.2 nm / 4 km</MinRange>
+        <MaxRange>15.7 nm / 29 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3.5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>18kg HE fragmentation</Warhead>
+        <LethalRadius>12.5 m</LethalRadius>
+        <Fuse>Proximity / Contact</Fuse>
+        <RwrSymbol>3</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="15">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>5V27D / V601PD Neva</Name>
+        <Code>5V27D / V601PD</Code>
+        <Country>Russia</Country>
+        <Operational>1978 -</Operational>
+        <InServiceStart>1978</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-3B Goa-Mod 1</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command RF</Guidance>
+        <RadarName>Low Blow</RadarName>
+        <Type>Low to medium alt SAM</Type>
+        <Stages>2</Stages>
+        <BoostTime>1st 2.6 sec / 2nd 18.7 sec</BoostTime>
+        <Length>5,95 m / 19.5ft</Length>
+        <Weight>953 kg</Weight>
+        <MinAlt>328 feet / 100 m</MinAlt>
+        <MaxAlt>14,5932 feet / 14.000 m</MaxAlt>
+        <MinRange>2.2 nm / 4 km</MinRange>
+        <MaxRange>15.7 nm / 29 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3.5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>18kg HE fragmentation</Warhead>
+        <LethalRadius>12.5 m</LethalRadius>
+        <Fuse>Proximity / Contact</Fuse>
+        <RwrSymbol>3</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="16">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>5V28 Vega-M</Name>
+        <Code>V-880/5V28 or V-880N/5V28N</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-5B(3) Gammon</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command / SARH</Guidance>
+        <RadarName>Bar Lock-B</RadarName>
+        <Type>Long range for medium to high targets</Type>
+        <Stages>2</Stages>
+        <BoostTime>51-150 sec</BoostTime>
+        <Length>10.8 m</Length>
+        <Weight>7,018 kg</Weight>
+        <MinAlt>984 feet / 300 m</MinAlt>
+        <MaxAlt>95,000 feet / 29,000 m</MaxAlt>
+        <MinRange>1.6 nm / 3 km</MinRange>
+        <MaxRange>162 nm / 300 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 4.0</Speed>
+        <MaxG> </MaxG>
+        <Warhead>215 kg / 474 lbs HE or 25kT Nuclear</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>Proximity / Command</Fuse>
+        <RwrSymbol>5</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>N denotes Nuclear warhead</Note>
+    </MSL>
+    <MSL Num="17">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>5V28E Vega-E</Name>
+        <Code>V-880E/5V28E / 5V28V</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-5B(4) Gammon</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Command / SARH</Guidance>
+        <RadarName>Bar Lock-B</RadarName>
+        <Type>Long range for medium to high targets</Type>
+        <Stages>2</Stages>
+        <BoostTime>51-150 sec</BoostTime>
+        <Length>10.8 m</Length>
+        <Weight>7,018 kg</Weight>
+        <MinAlt>984 feet / 300 m</MinAlt>
+        <MaxAlt>95,000 feet / 29,000 m</MaxAlt>
+        <MinRange>1.6 nm / 3 km</MinRange>
+        <MaxRange>135 nm / 250 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 4.0</Speed>
+        <MaxG> </MaxG>
+        <Warhead>215 kg / 474 lbs HE</Warhead>
+        <LethalRadius>75 m</LethalRadius>
+        <Fuse>Proximity / Command</Fuse>
+        <RwrSymbol>5</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="18">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>5V28MN Dubna</Name>
+        <Code>5V25V, V-880M/5V28M, V-880MN/5V28MN</Code>
+        <Country>Russia</Country>
+        <Operational>1976</Operational>
+        <InServiceStart>1976</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-5C Gammon</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Guidance>Command / SARH</Guidance>
+        <RadarName>Bar Lock-B</RadarName>
+        <Type>Long range for medium to high targets</Type>
+        <Stages>2</Stages>
+        <BoostTime>51-150 sec</BoostTime>
+        <Length>10.8 m</Length>
+        <Weight>7.100 kg</Weight>
+        <MinAlt>984 feet / 300 m</MinAlt>
+        <MaxAlt>125,000 feet / 40,000 m</MaxAlt>
+        <MinRange>1.6 nm / 3 km</MinRange>
+        <MaxRange>216 nm / 400 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 4.0</Speed>
+        <MaxG> </MaxG>
+        <Warhead>215 kg / 474 lbs HE or 25kT Nuclear</Warhead>
+        <LethalRadius>75 m</LethalRadius>
+        <Fuse>Proximity / Command</Fuse>
+        <RwrSymbol>5</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>N denotes Nuclear warhead</Note>
+    </MSL>
+    <MSL Num="19">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>5V55K / KD Fakel</Name>
+        <Code>5V55K</Code>
+        <Country>Russia</Country>
+        <Operational>1978 -</Operational>
+        <InServiceStart>1978</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-10A Grumble A</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Flap Lid A</RadarName>
+        <Type>Low to High Alt</Type>
+        <Stages>1</Stages>
+        <BoostTime> </BoostTime>
+        <Length>7 m / 23 ft</Length>
+        <Weight>1450 kg / 3200 lb</Weight>
+        <MinAlt>75 feet / 25 m</MinAlt>
+        <MaxAlt>82,000 feet / 25,000 m</MaxAlt>
+        <MinRange>2.8 nm / 5 km</MinRange>
+        <MaxRange>25.4 nm / 47 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 6</Speed>
+        <MaxG> </MaxG>
+        <Warhead>100 kg / 220 lb HE fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="20">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>5V55R / V</Name>
+        <Code>5V55R / V</Code>
+        <Country>Russia</Country>
+        <Operational>1984 -</Operational>
+        <InServiceStart>1984</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-10B Grumble B</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Flap Lid B</RadarName>
+        <Type>Low to High Alt</Type>
+        <Stages>1</Stages>
+        <BoostTime> </BoostTime>
+        <Length>7 m / 23 ft</Length>
+        <Weight>1450 kg / 3200 lb</Weight>
+        <MinAlt>75 feet / 25 m</MinAlt>
+        <MaxAlt>82,000 feet / 25,000 m</MaxAlt>
+        <MinRange>2.8 nm / 5 km</MinRange>
+        <MaxRange>48.6 nm / 90 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 6</Speed>
+        <MaxG> </MaxG>
+        <Warhead>133 kg / 293 lb HE fragmentation or Nuclear</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>V denotes Nuclear, not in use anymore</Note>
+    </MSL>
+    <MSL Num="21">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>5V55RUD</Name>
+        <Code>5V55RUD</Code>
+        <Country>Russia</Country>
+        <Operational>1985 -</Operational>
+        <InServiceStart>1985</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-10C Grumble C</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Flap Lid B</RadarName>
+        <Type>Low to High Alt</Type>
+        <Stages>1</Stages>
+        <BoostTime> </BoostTime>
+        <Length>7 m / 23 ft</Length>
+        <Weight>1450 kg / 3200 lb</Weight>
+        <MinAlt>33 feet / 10 m</MinAlt>
+        <MaxAlt>82,000 feet / 25,000 m</MaxAlt>
+        <MinRange>2.8 nm / 5 km</MinRange>
+        <MaxRange>48.6 nm / 90 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 6</Speed>
+        <MaxG> </MaxG>
+        <Warhead>133 kg / 293 lb HE fragmentation or Nuclear</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>V denotes Nuclear, not in use anymore</Note>
+    </MSL>
+    <MSL Num="22">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9K32 Strela-2 (Arrow)</Name>
+        <Code>9K32</Code>
+        <Country>Russia</Country>
+        <Operational>1968 -</Operational>
+        <InServiceStart>1968</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-7A Grail</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Passive IR homing</Guidance>
+        <RadarName> </RadarName>
+        <Type>MANPAD</Type>
+        <Stages>1</Stages>
+        <BoostTime> </BoostTime>
+        <Length>1.4 m</Length>
+        <Weight>10 kg</Weight>
+        <MinAlt>164 feet / 50 m</MinAlt>
+        <MaxAlt>1,500 m</MaxAlt>
+        <MinRange>0.4 nm / 800 m</MinRange>
+        <MaxRange>1.8 nm / 3,400 m</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1.4</Speed>
+        <MaxG> </MaxG>
+        <Warhead>1.17 kg</Warhead>
+        <LethalRadius>3 m</LethalRadius>
+        <Fuse>Contact</Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="23">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9K32M Strela-2M (Arrow)</Name>
+        <Code>9K32M</Code>
+        <Country>Russia</Country>
+        <Operational>1971 -</Operational>
+        <InServiceStart>1971</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-7B Grail-Mod 1</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Guidance>Passive IR homing</Guidance>
+        <RadarName> </RadarName>
+        <Type>MANPAD</Type>
+        <Stages>1</Stages>
+        <BoostTime> </BoostTime>
+        <Length>1.4 m</Length>
+        <Weight>10 kg</Weight>
+        <MinAlt>98 feet / 30 m</MinAlt>
+        <MaxAlt>2,300 m</MaxAlt>
+        <MinRange>0.27 nm / 500 m</MinRange>
+        <MaxRange>3.0 nm / 5,500 m</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1.75</Speed>
+        <MaxG> </MaxG>
+        <Warhead>1.8 kg</Warhead>
+        <LethalRadius>3 m</LethalRadius>
+        <Fuse>Contact</Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="24">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M31 Strela-1 (Arrow)</Name>
+        <Code>9M31</Code>
+        <Country>Russia</Country>
+        <Operational>1968 - Present</Operational>
+        <InServiceStart>1968</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-9A Gaskin</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Guidance>Uncooled passive IR homing</Guidance>
+        <RadarName> </RadarName>
+        <Type>Short range low alt mobile SAM</Type>
+        <Stages>1</Stages>
+        <BoostTime> </BoostTime>
+        <Length>1.8 m / 5.9 ft</Length>
+        <Weight>30 kg / 66 lb</Weight>
+        <MinAlt>50 feet / 15 m</MinAlt>
+        <MaxAlt>17,060 feet / 5,200 m</MaxAlt>
+        <MinRange>0.4 nm / 800 m</MinRange>
+        <MaxRange>3.5 nm / 6.5 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1.8</Speed>
+        <MaxG> </MaxG>
+        <Warhead>2,6 kg / 5.7 lb HE fragmentation</Warhead>
+        <LethalRadius>5 m</LethalRadius>
+        <Fuse>Proximity</Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="25">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M311, 9M311K (3M87), 9M311-1</Name>
+        <Code>9M311</Code>
+        <Country>Russia</Country>
+        <Operational>1982 -</Operational>
+        <InServiceStart>1982</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-19 Grison</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Guidance>IR homing SACLOS</Guidance>
+        <RadarName>Hot Shot (2S6)</RadarName>
+        <Type>Mobile Airdefence</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight>57 kg</Weight>
+        <MinAlt>45 feet / 15 m</MinAlt>
+        <MaxAlt>10,500 feet / 3,500 m</MaxAlt>
+        <MinRange>4.5 nm / 2.5 km</MinRange>
+        <MaxRange>5.0 nm / 8.0 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>600-900 m/sec</Speed>
+        <MaxG> </MaxG>
+        <Warhead>20 lbs / 9 kg Continuous-rod and steel cubes</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>Laser fuze</Fuse>
+        <RwrSymbol>A2</RwrSymbol>
+        <RwrFile>2s6</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="26">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M311M (3M88)</Name>
+        <Code>9M311M</Code>
+        <Country>Russia</Country>
+        <Operational>1990 -</Operational>
+        <InServiceStart>1990</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-19 Grison Mod-0</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Guidance>IR homing SACLOS</Guidance>
+        <RadarName>Hot Shot (2S6)</RadarName>
+        <Type>Mobile Airdefence</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight>57 kg</Weight>
+        <MinAlt>45 feet / 15 m</MinAlt>
+        <MaxAlt>10,500 feet / 3,500 m</MaxAlt>
+        <MinRange>4.5 nm / 2.5 km</MinRange>
+        <MaxRange>10.0 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>600-900 m/sec</Speed>
+        <MaxG> </MaxG>
+        <Warhead>20 lbs / 9 kg Continuous-rod and steel cubes</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>Laser fuze</Fuse>
+        <RwrSymbol>A2</RwrSymbol>
+        <RwrFile>2s6</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="27">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M311M-M1</Name>
+        <Code>9M311M-M1</Code>
+        <Country>Russia</Country>
+        <Operational>2003 -</Operational>
+        <InServiceStart>2003</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-19 Grison Mod-1</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Guidance>IR homing SACLOS</Guidance>
+        <RadarName>Hot Shot (2S6)</RadarName>
+        <Type>Mobile Airdefence</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight>57 kg</Weight>
+        <MinAlt>45 feet / 15 m</MinAlt>
+        <MaxAlt>10,500 feet / 3,500 m</MaxAlt>
+        <MinRange>4.5 nm / 2.5 km</MinRange>
+        <MaxRange>6.2 nm / 10.0 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>600-900 m/sec</Speed>
+        <MaxG> </MaxG>
+        <Warhead>20 lbs / 9 kg Continuous-rod and steel cubes</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>Radio fuze</Fuse>
+        <RwrSymbol>A2</RwrSymbol>
+        <RwrFile>2s6</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="28">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M313 Igla-1 (Needle)</Name>
+        <Code>9M313</Code>
+        <Country>Russia</Country>
+        <Operational>1981 - Present</Operational>
+        <InServiceStart>1981</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-16 Gimlet</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Guidance>Passive IR homing</Guidance>
+        <RadarName> </RadarName>
+        <Type>MANPAD</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>33 feet / 10 m</MinAlt>
+        <MaxAlt>10,500 feet / 3,500 m</MaxAlt>
+        <MinRange>0.3 nm / 600 m</MinRange>
+        <MaxRange>2.8 nm / 5.2 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2,0 / 570 m/sec</Speed>
+        <MaxG> </MaxG>
+        <Warhead>1.27 kg HE fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="29">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M317</Name>
+        <Code>9M317</Code>
+        <Country>Russia</Country>
+        <Operational>1998 -</Operational>
+        <InServiceStart>1998</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-17 Grizzly</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Snow Drift on every vehicle</RadarName>
+        <Type>Medium range</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>50 feet</MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>25.0 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3,5</Speed>
+        <MaxG> </MaxG>
+        <Warhead> </Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="30">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M317</Name>
+        <Code>9M317</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-N-7 Grizzly</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName> </RadarName>
+        <Type>Medium range</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>50 feet</MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>25.0 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3,5</Speed>
+        <MaxG> </MaxG>
+        <Warhead> </Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="31">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M317</Name>
+        <Code>9M317</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-N-12 Grizzly</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName> </RadarName>
+        <Type>Medium range</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>50 feet</MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>25.0 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3,5</Speed>
+        <MaxG> </MaxG>
+        <Warhead> </Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="32">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M31M Strela-1M (Arrow)</Name>
+        <Code>9M31M</Code>
+        <Country>Russia</Country>
+        <Operational>1970 - Present</Operational>
+        <InServiceStart>1970</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-9B Gaskin-Mod1</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Guidance>Cooled passive IR homing</Guidance>
+        <RadarName> </RadarName>
+        <Type>Short range low alt mobile SAM</Type>
+        <Stages>1</Stages>
+        <BoostTime> </BoostTime>
+        <Length>1.8 m / 5.9 ft</Length>
+        <Weight>30 kg / 66 lb</Weight>
+        <MinAlt>35 feet / 10 m</MinAlt>
+        <MaxAlt>20,000 feet / 6,100 m</MaxAlt>
+        <MinRange>0.3 nm / 560 m</MinRange>
+        <MaxRange>4.3 nm / 8 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1.8</Speed>
+        <MaxG> </MaxG>
+        <Warhead>2,6 kg / 5.7 lb HE fragmentation</Warhead>
+        <LethalRadius>5 m</LethalRadius>
+        <Fuse>Proximity</Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="33">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M33 Osa</Name>
+        <Code>9M33</Code>
+        <Country>Russia</Country>
+        <Operational>1971 -</Operational>
+        <InServiceStart>1971</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-8A Gecko</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Guidance>Command / RF CLOS</Guidance>
+        <RadarName>Land Roll</RadarName>
+        <Type>Short range low alt mobile SAM</Type>
+        <Stages>1</Stages>
+        <BoostTime> </BoostTime>
+        <Length>3.14 m / 10.3 ft</Length>
+        <Weight>126 kg / 278 lb</Weight>
+        <MinAlt>164 feet / 50 m</MinAlt>
+        <MaxAlt>16,400 feet / 5,000 m</MaxAlt>
+        <MinRange>1.1 nm / 2,000 m</MinRange>
+        <MaxRange>4.9 nm / 9 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2.4</Speed>
+        <MaxG> </MaxG>
+        <Warhead>19 kg HE fragmentation</Warhead>
+        <LethalRadius>5 m</LethalRadius>
+        <Fuse>Proximity / Contact</Fuse>
+        <RwrSymbol>8</RwrSymbol>
+        <RwrFile>SA8</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="34">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M330 "Tor"</Name>
+        <Code>9M330</Code>
+        <Country>Russia</Country>
+        <Operational>1986 -</Operational>
+        <InServiceStart>1986</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-15 Gaunlet</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName> </RadarName>
+        <Type>Mobile SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>33 feet / 10 m</MinAlt>
+        <MaxAlt>18,000 feet / 6,000 m</MaxAlt>
+        <MinRange>300 feet / 100 m</MinRange>
+        <MaxRange>5.0 nm / 12 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3,0 / 850 m/sec</Speed>
+        <MaxG>10</MaxG>
+        <Warhead>15 lbs HE fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>15</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="35">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M331</Name>
+        <Code>9M331</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-N-9 Gaunlet</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Mobile SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>30 feet / 10 m</MinAlt>
+        <MaxAlt>18,000 feet / 6,000 m</MaxAlt>
+        <MinRange>300 feet / 100 m</MinRange>
+        <MaxRange>5.0 nm / 12 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3,0 / 850 m/sec</Speed>
+        <MaxG>10</MaxG>
+        <Warhead>15 lbs HE fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="36">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M331 "Tor-M1"</Name>
+        <Code>9M331</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-15 Gaunlet</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>1991 -</RadarName>
+        <Type>Mobile SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>33 feet / 10 m</MinAlt>
+        <MaxAlt>18,000 feet / 6,000 m</MaxAlt>
+        <MinRange>300 feet / 100 m</MinRange>
+        <MaxRange>5.0 nm / 12 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3,0 / 850 m/sec</Speed>
+        <MaxG>10</MaxG>
+        <Warhead>15 lbs HE fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>15</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="37">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M333 Strela-10M3 (Arrow)</Name>
+        <Code>9M333</Code>
+        <Country>Russia</Country>
+        <Operational>1989 -</Operational>
+        <InServiceStart>1989</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-13B Gopher</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>9E425 three channel seeker, 1 infrared, 2 visible band television contrast, 3 passive homing</Guidance>
+        <RadarName>Snap Shot on every vehicle</RadarName>
+        <Type>Short range low alt Mobile SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight>42kg</Weight>
+        <MinAlt>33 feet / 10 m</MinAlt>
+        <MaxAlt>10,500 feet / 3,500 m</MaxAlt>
+        <MinRange>2,400 feet / 800 m</MinRange>
+        <MaxRange>3.0 nm / 5-7 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2,0</Speed>
+        <MaxG>7</MaxG>
+        <Warhead>9 lbs / 5 kg HE fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>Laser proximity fuse with eight rather than four lobes</Fuse>
+        <RwrSymbol>13</RwrSymbol>
+        <RwrFile>SA13</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="38">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M33M2 Osa-AK</Name>
+        <Code>9M33M2</Code>
+        <Country>Russia</Country>
+        <Operational>1975 -</Operational>
+        <InServiceStart>1975</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-8B Gecko-Mod 0</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command / RF CLOS</Guidance>
+        <RadarName>Land Roll</RadarName>
+        <Type>Short range low alt mobile SAM</Type>
+        <Stages>1</Stages>
+        <BoostTime> </BoostTime>
+        <Length>3.14 m / 10.3 ft</Length>
+        <Weight>126 kg / 278 lb</Weight>
+        <MinAlt>82 feet / 25 m</MinAlt>
+        <MaxAlt>16,400 feet / 5,000 m</MaxAlt>
+        <MinRange>0.8 nm / 1,500 m</MinRange>
+        <MaxRange>5.4 nm / 10 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1.6</Speed>
+        <MaxG> </MaxG>
+        <Warhead>19 kg HE fragmentation</Warhead>
+        <LethalRadius>5 m</LethalRadius>
+        <Fuse>Proximity / Contact</Fuse>
+        <RwrSymbol>8</RwrSymbol>
+        <RwrFile>SA8</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="39">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M33M3 Osa-AKM</Name>
+        <Code>9M33M3</Code>
+        <Country>Russia</Country>
+        <Operational>1980 -</Operational>
+        <InServiceStart>1980</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-8B Gecko-Mod 1</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command / RF CLOS</Guidance>
+        <RadarName>Land Roll</RadarName>
+        <Type>Short range low alt mobile SAM</Type>
+        <Stages>1</Stages>
+        <BoostTime> </BoostTime>
+        <Length>3.14 m / 10.3 ft</Length>
+        <Weight>170 kg / 375 lb</Weight>
+        <MinAlt>33 feet / 10 m</MinAlt>
+        <MaxAlt>42,650 feet / 13,000 m</MaxAlt>
+        <MinRange>0.8 nm / 1,500 m</MinRange>
+        <MaxRange>8.1 nm / 15 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1.6</Speed>
+        <MaxG> </MaxG>
+        <Warhead>19 kg HE fragmentation</Warhead>
+        <LethalRadius>5 m</LethalRadius>
+        <Fuse>Proximity / Contact</Fuse>
+        <RwrSymbol>8</RwrSymbol>
+        <RwrFile>SA8</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="40">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M36 / 9M36-1 Strela-3 (Arrow)</Name>
+        <Code>9M36 / 9M36-1</Code>
+        <Country>Russia</Country>
+        <Operational>1974 - Present</Operational>
+        <InServiceStart>1974</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-14 Gremlin</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Guidance>Passive IR homing</Guidance>
+        <RadarName> </RadarName>
+        <Type>MANPAD</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>150 feet / 50 m</MinAlt>
+        <MaxAlt>18,000 feet / 6,000 m</MaxAlt>
+        <MinRange>1,800 feet / 600 m</MinRange>
+        <MaxRange>3.0 nm / 6km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1.75 / 600 m/sec</Speed>
+        <MaxG>8</MaxG>
+        <Warhead>2 lbs / 1 kg HE fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="41">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M37 Strela-10SV (Arrow)</Name>
+        <Code>9M37</Code>
+        <Country>Russia</Country>
+        <Operational>1976 - Present</Operational>
+        <InServiceStart>1976</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-13A Gopher</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>9E47 Virazh two colour infrared/visible band seeker</Guidance>
+        <RadarName>Snap Shot on every vehicle, Hat Box, Flat Box B</RadarName>
+        <Type>Short range low alt Mobile SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight>40kg</Weight>
+        <MinAlt>33 feet / 10 m</MinAlt>
+        <MaxAlt>10,500 feet / 3,500 m</MaxAlt>
+        <MinRange>1,800 feet / 600 m</MinRange>
+        <MaxRange>3.0 nm / 5 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2,0</Speed>
+        <MaxG>7</MaxG>
+        <Warhead>6.6 lbs / 3 kg combined expanding rod and fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>Laser proximity fuse</Fuse>
+        <RwrSymbol>13</RwrSymbol>
+        <RwrFile>SA13</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="42">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M37M Strela-10M (Arrow)</Name>
+        <Code>9M37M</Code>
+        <Country>Russia</Country>
+        <Operational>1979 -</Operational>
+        <InServiceStart>1979</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-13A-Mod1 Gopher</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>9E47M seeker, Photo contrast or dual IR homing</Guidance>
+        <RadarName>Snap Shot on every vehicle</RadarName>
+        <Type>Short range low alt Mobile SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight>40kg</Weight>
+        <MinAlt>33 feet / 10 m</MinAlt>
+        <MaxAlt>10,500 feet / 3,500 m</MaxAlt>
+        <MinRange>2,400 feet / 800 m</MinRange>
+        <MaxRange>3.0 nm / 5-7 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2,0</Speed>
+        <MaxG>7</MaxG>
+        <Warhead>6.6 lbs / 3 kg combined expanding rod and fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>Laser proximity fuse</Fuse>
+        <RwrSymbol>13</RwrSymbol>
+        <RwrFile>SA13</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="43">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M37M2 Strela-10M2 (Arrow)</Name>
+        <Code>9M37M2</Code>
+        <Country>Russia</Country>
+        <Operational>1981 -</Operational>
+        <InServiceStart>1981</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-13A-Mod2 Gopher</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>9E47M seeker, Photo contrast or dual IR homing</Guidance>
+        <RadarName>Snap Shot on every vehicle</RadarName>
+        <Type>Short range low alt Mobile SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight>40kg</Weight>
+        <MinAlt>33 feet / 10 m</MinAlt>
+        <MaxAlt>10,500 feet / 3,500 m</MaxAlt>
+        <MinRange>2,400 feet / 800 m</MinRange>
+        <MaxRange>3.0 nm / 5-7 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2,0</Speed>
+        <MaxG>7</MaxG>
+        <Warhead>6.6 lbs / 3 kg combined expanding rod and fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>Laser proximity fuse</Fuse>
+        <RwrSymbol>13</RwrSymbol>
+        <RwrFile>SA13</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="44">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M38</Name>
+        <Code>9M38</Code>
+        <Country>Russia</Country>
+        <Operational>1978 - Present</Operational>
+        <InServiceStart>1978</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-11 Gadfly</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Guidance>Command / SARH</Guidance>
+        <RadarName>Fire Dome on every vehicle, Snow Drift</RadarName>
+        <Type>Medium Range Mobile</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>45 feet / 15 m</MinAlt>
+        <MaxAlt>66,000 feet / 22,000 m</MaxAlt>
+        <MinRange>1.7 nm / 3 km</MinRange>
+        <MaxRange>20 nm / 36 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3,5 / 1,200 m/sec</Speed>
+        <MaxG>23</MaxG>
+        <Warhead>70 kg HE fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>11</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="45">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M38M1</Name>
+        <Code>9M38M1</Code>
+        <Country>Russia</Country>
+        <Operational>1979 - Present</Operational>
+        <InServiceStart>1979</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-11 Gadfly</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Guidance>Command / SARH</Guidance>
+        <RadarName>Fire Dome on every vehicle, Snow Drift</RadarName>
+        <Type>Medium Range Mobile</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>45 feet / 15 m</MinAlt>
+        <MaxAlt>66,000 feet / 22,000 m</MaxAlt>
+        <MinRange>1.7 nm / 3 km</MinRange>
+        <MaxRange>20 nm / 36 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3,5 / 1,200 m/sec</Speed>
+        <MaxG>23</MaxG>
+        <Warhead>70 kg HE fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>11</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="46">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M39 Igla (Needle)</Name>
+        <Code>9M39</Code>
+        <Country>Russia</Country>
+        <Operational>1981 - Present</Operational>
+        <InServiceStart>1981</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-18 Grouse</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Guidance>Passive IR homing</Guidance>
+        <RadarName> </RadarName>
+        <Type>MANPAD</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>33 feet / 10 m</MinAlt>
+        <MaxAlt>10,500 feet / 3,500 m</MaxAlt>
+        <MinRange>1,500 feet / 500 m</MinRange>
+        <MaxRange>3.3 nm / 6 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2.0</Speed>
+        <MaxG> </MaxG>
+        <Warhead>1.27 kg HE</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="47">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M8, 9M8M, 9M8M1 (former 3M8)</Name>
+        <Code>9M8, 9M8M, 9M8M1</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>1967</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-4A Gamef</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command / SARH</Guidance>
+        <RadarName>Pat Hand</RadarName>
+        <Type>Medium range</Type>
+        <Stages>2</Stages>
+        <BoostTime>15 sec booster then Ramjet</BoostTime>
+        <Length>8.8 m</Length>
+        <Weight>2,500 kg</Weight>
+        <MinAlt>328 feet / 100 m</MinAlt>
+        <MaxAlt>27.000 m</MaxAlt>
+        <MinRange>4.3 nm / 8 km</MinRange>
+        <MaxRange>29.7 nm / 55 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed> </Speed>
+        <MaxG> </MaxG>
+        <Warhead>135kg / 300 lbs HE fragmentation</Warhead>
+        <LethalRadius>54 m</LethalRadius>
+        <Fuse>Proximity / Command</Fuse>
+        <RwrSymbol>4</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>IOC 1967 (9M8), 1971 (9M8M), 1990 (9M8M1)</Note>
+    </MSL>
+    <MSL Num="48">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M82</Name>
+        <Code>9M82</Code>
+        <Country>Russia</Country>
+        <Operational>1983 (full integrated 1988)</Operational>
+        <InServiceStart>19888</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-12B Giant</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Combined inertial with semi active self guidance</Guidance>
+        <RadarName>Grill Pan, Bill Board, High Screen</RadarName>
+        <Type>Low to High Alt</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>6000 feet / 2 km</MinAlt>
+        <MaxAlt>75,000 feet / 25,000 m</MaxAlt>
+        <MinRange>7.2 nm / 13 km</MinRange>
+        <MaxRange>22.2-55.6 nm / 40-100 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>2,400 m/sec</Speed>
+        <MaxG> </MaxG>
+        <Warhead>150 kg HE fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>12</RwrSymbol>
+        <RwrFile>grillpan</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="49">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M83</Name>
+        <Code>9M83</Code>
+        <Country>Russia</Country>
+        <Operational>1983 (full integrated 1988)</Operational>
+        <InServiceStart>1988</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-12A Gladiator</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Combined inertial with semi active self guidance</Guidance>
+        <RadarName>Grill Pan, Bill Board, High Screen</RadarName>
+        <Type>Low to High Alt</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>6000 feet / 2 km</MinAlt>
+        <MaxAlt>75,000 feet / 25,000 m</MaxAlt>
+        <MinRange>7.2 nm / 13 km</MinRange>
+        <MaxRange>22.2-55.6 nm / 40-100 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>2,400 m/sec</Speed>
+        <MaxG> </MaxG>
+        <Warhead>150 kg HE fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>12</RwrSymbol>
+        <RwrFile>grillpan</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="50">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9M8M2</Name>
+        <Code>9M8M2</Code>
+        <Country>Russia</Country>
+        <Operational>1973 - 1990</Operational>
+        <InServiceStart>1973</InServiceStart>
+        <InServiceEnd>1990</InServiceEnd>
+        <NatoName>SA-4B Gamef</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Guidance>Command / SARH</Guidance>
+        <RadarName>Pat Hand</RadarName>
+        <Type>Medium range</Type>
+        <Stages>2</Stages>
+        <BoostTime>15 sec booster then Ramjet</BoostTime>
+        <Length>8.4 m</Length>
+        <Weight>2,500 kg</Weight>
+        <MinAlt>492 feet / 150 m</MinAlt>
+        <MaxAlt>24.500 m</MaxAlt>
+        <MinRange>3.8 nm / 7 km</MinRange>
+        <MaxRange>27.0 nm / 50 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed> </Speed>
+        <MaxG> </MaxG>
+        <Warhead>135kg / 300 lbs HE fragmentation</Warhead>
+        <LethalRadius>54 m</LethalRadius>
+        <Fuse>Proximity / Command</Fuse>
+        <RwrSymbol>4</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="51">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>Anza Mk-I</Name>
+        <Code>(SA-7A)</Code>
+        <Country>Pakistan</Country>
+        <Operational>1968</Operational>
+        <InServiceStart>1968</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Grail</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Passive IR homing</Guidance>
+        <RadarName> </RadarName>
+        <Type>MANPAD</Type>
+        <Stages>1</Stages>
+        <BoostTime> </BoostTime>
+        <Length>1.4 m</Length>
+        <Weight>10 kg</Weight>
+        <MinAlt>50 m</MinAlt>
+        <MaxAlt>1,500 m</MaxAlt>
+        <MinRange>800 m</MinRange>
+        <MaxRange>3,400 m</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1,7</Speed>
+        <MaxG> </MaxG>
+        <Warhead>1.17 kg</Warhead>
+        <LethalRadius>3 m</LethalRadius>
+        <Fuse>Contact</Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="52">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>Anza Mk-II</Name>
+        <Code>(SA-7B)</Code>
+        <Country>Pakistan</Country>
+        <Operational>1971</Operational>
+        <InServiceStart>1971</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Grail-Mod 1</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Passive IR homing</Guidance>
+        <RadarName> </RadarName>
+        <Type>MANPAD</Type>
+        <Stages>1</Stages>
+        <BoostTime> </BoostTime>
+        <Length>1.4 m</Length>
+        <Weight>10 kg</Weight>
+        <MinAlt>30 m</MinAlt>
+        <MaxAlt>2,300 m</MaxAlt>
+        <MinRange>800 m</MinRange>
+        <MaxRange>4,200 m</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1,8</Speed>
+        <MaxG> </MaxG>
+        <Warhead>1.8 kg</Warhead>
+        <LethalRadius>3 m</LethalRadius>
+        <Fuse>Contact</Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="53">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Aspide</Name>
+        <Code> </Code>
+        <Country>Italie</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Aspide</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Semi Active Radar Homing</Guidance>
+        <RadarName>Skyguard MKII</RadarName>
+        <Type>Transportable SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>30 feet / 10 m</MinAlt>
+        <MaxAlt>18,000 feet / 6,000+ m</MaxAlt>
+        <MinRange>2,250 feet / 750 m</MinRange>
+        <MaxRange>8.3+ nm / 15+ km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>650 m/sec</Speed>
+        <MaxG> </MaxG>
+        <Warhead>33 kg HE fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="54">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Aster 15</Name>
+        <Code> </Code>
+        <Country>France/Italie</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Aster 15</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Active</Guidance>
+        <RadarName> </RadarName>
+        <Type> </Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange>0.9 nm / 1.7 km</MinRange>
+        <MaxRange>16.7 nm / 30 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed> </Speed>
+        <MaxG> </MaxG>
+        <Warhead> </Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="55">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Aster 30</Name>
+        <Code> </Code>
+        <Country>France/Italie</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Aster 30</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Active</Guidance>
+        <RadarName> </RadarName>
+        <Type> </Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange>1.7 nm / 3.0 km</MinRange>
+        <MaxRange>44.4 nm / 80 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed> </Speed>
+        <MaxG> </MaxG>
+        <Warhead> </Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="56">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>Ayn as Saqr</Name>
+        <Code>9K32 / 9K32M</Code>
+        <Country>Egypt</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Ayn as Saqr = Falcon Eye</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Rear Asp IR homing</Guidance>
+        <RadarName> </RadarName>
+        <Type>MANPAD</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>700 feet / 18 m</MinAlt>
+        <MaxAlt>13,500 feet / 4,500 m</MaxAlt>
+        <MinRange>1,500 feet / 500 m</MinRange>
+        <MaxRange>3.0 nm / 5,500 m</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1,7 / 580 m/sec</Speed>
+        <MaxG> </MaxG>
+        <Warhead>1 lbs / 1.15 kg</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="57">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Crotale (Rattlesnake)</Name>
+        <Code>R440</Code>
+        <Country>France</Country>
+        <Operational> </Operational>
+        <InServiceStart>1972</InServiceStart>
+        <InServiceEnd>1990</InServiceEnd>
+        <NatoName>Cortale</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Command CLOS or optical direction finding</Guidance>
+        <RadarName>Thomson-CSF, Mirador IV</RadarName>
+        <Type>Mobile Low-Alt SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length>2.89 m</Length>
+        <Weight>80 kg / 176 lbs</Weight>
+        <MinAlt>45 feet / 15 m</MinAlt>
+        <MaxAlt>16,404 feet / 5,000 m</MaxAlt>
+        <MinRange>1,500 feet / 500 m</MinRange>
+        <MaxRange>5.6 nm / 10.0 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2.3 / 750 m/sec</Speed>
+        <MaxG>35 G</MaxG>
+        <Warhead>15 kg HE focused fragmentation</Warhead>
+        <LethalRadius>26 feet / 8 m</LethalRadius>
+        <Fuse>Infrared fuse</Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy>Crotale NG</ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="58">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Crotale NG (Rattlesnake)</Name>
+        <Code>VT-1</Code>
+        <Country>France</Country>
+        <Operational> </Operational>
+        <InServiceStart>1990</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Cortale NG</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Command CLOS or optical direction finding</Guidance>
+        <RadarName>Thomson-CSF, Mirador IV</RadarName>
+        <Type>Mobile Low-Alt SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length>2.89 m</Length>
+        <Weight>73 kg / 160 lbs</Weight>
+        <MinAlt>45 feet / 15 m</MinAlt>
+        <MaxAlt>19,685 feet / 6,000 m</MaxAlt>
+        <MinRange>1,500 feet / 500 m</MinRange>
+        <MaxRange>5.9 nm / 11.0 km</MaxRange>
+        <MaxTgtSpeed>500 m/s</MaxTgtSpeed>
+        <Speed>M 3.6 / 1250 m/sec</Speed>
+        <MaxG>35 G</MaxG>
+        <Warhead>13 kg HE blast fragmentation</Warhead>
+        <LethalRadius>26 feet / 8 m</LethalRadius>
+        <Fuse>RF fuse</Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous>Crotale R440</Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="59">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>FIM-92A Stinger</Name>
+        <Code>FIM-92A</Code>
+        <Country>USA</Country>
+        <Operational>1978 -</Operational>
+        <InServiceStart>1978</InServiceStart>
+        <InServiceEnd>1983</InServiceEnd>
+        <NatoName>Stinger A</NatoName>
+        <InFalcon> </InFalcon>
+        <Guidance>Infrared homing surface-to-air missile</Guidance>
+        <RadarName> </RadarName>
+        <Type>MANPAD</Type>
+        <Stages>1</Stages>
+        <BoostTime> </BoostTime>
+        <Length>1.52 m</Length>
+        <Weight>10.1 kg</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>12,467 feet/ 3,800 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>2.6 nm / 4,800 m</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2.2</Speed>
+        <MaxG>15</MaxG>
+        <Warhead>3 kg  / 6.6 lbs HE fragmentation</Warhead>
+        <LethalRadius>5 m</LethalRadius>
+        <Fuse>Impact fuse</Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy>FIM-92B</ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="60">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>FIM-92B Stinger POST</Name>
+        <Code>FIM-92B</Code>
+        <Country>USA</Country>
+        <Operational>1983 -</Operational>
+        <InServiceStart>1983</InServiceStart>
+        <InServiceEnd>1989</InServiceEnd>
+        <NatoName>Stinger B</NatoName>
+        <InFalcon> </InFalcon>
+        <Guidance>Infrared homing surface-to-air missile</Guidance>
+        <RadarName> </RadarName>
+        <Type>MANPAD</Type>
+        <Stages>1</Stages>
+        <BoostTime> </BoostTime>
+        <Length>1.52 m</Length>
+        <Weight>10.1 kg</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>12,467 feet/ 3,800 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>2.6 nm / 4,800 m</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2.2</Speed>
+        <MaxG>15</MaxG>
+        <Warhead>3 kg  / 6.6 lbs HE fragmentation</Warhead>
+        <LethalRadius>5 m</LethalRadius>
+        <Fuse>Impact fuse</Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous>FIM-92A</Previous>
+        <ReplacedBy>FIM-92C</ReplacedBy>
+        <Note>Passive Optical Seeker Technique (POST), improved Stinger with a new seeker</Note>
+    </MSL>
+    <MSL Num="61">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>FIM-92C Stinger RMP</Name>
+        <Code>FIM-92C</Code>
+        <Country>USA</Country>
+        <Operational>1989 -</Operational>
+        <InServiceStart>1989</InServiceStart>
+        <InServiceEnd>1995</InServiceEnd>
+        <NatoName>Stinger C</NatoName>
+        <InFalcon> </InFalcon>
+        <Guidance>Infrared homing surface-to-air missile</Guidance>
+        <RadarName> </RadarName>
+        <Type>MANPAD</Type>
+        <Stages>1</Stages>
+        <BoostTime> </BoostTime>
+        <Length>1.52 m</Length>
+        <Weight>10.1 kg</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>12,467 feet/ 3,800 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>2.6 nm / 4,800 m</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2.2</Speed>
+        <MaxG>15</MaxG>
+        <Warhead>3 kg  / 6.6 lbs HE fragmentation</Warhead>
+        <LethalRadius>5 m</LethalRadius>
+        <Fuse>Impact fuse</Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous>FIM-92B</Previous>
+        <ReplacedBy>FIM-92E</ReplacedBy>
+        <Note>Reprogrammable Microprocessor (RMP), allowing for incremental firmware updates</Note>
+    </MSL>
+    <MSL Num="62">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>FIM-92E Stinger Block I</Name>
+        <Code>FIM-92E</Code>
+        <Country>USA</Country>
+        <Operational>1995 -</Operational>
+        <InServiceStart>1995</InServiceStart>
+        <InServiceEnd>2004</InServiceEnd>
+        <NatoName>Stinger E</NatoName>
+        <InFalcon> </InFalcon>
+        <Guidance>Infrared homing surface-to-air missile</Guidance>
+        <RadarName> </RadarName>
+        <Type>MANPAD</Type>
+        <Stages>1</Stages>
+        <BoostTime> </BoostTime>
+        <Length>1.52 m</Length>
+        <Weight>10.1 kg</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>12,467 feet/ 3,800 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>2.6 nm / 4,800 m</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2.2</Speed>
+        <MaxG>15</MaxG>
+        <Warhead>3 kg  / 6.6 lbs HE fragmentation</Warhead>
+        <LethalRadius>5 m</LethalRadius>
+        <Fuse>Impact fuse</Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous>FIM-92C</Previous>
+        <ReplacedBy>FIM-92F</ReplacedBy>
+        <Note>Improving the missile's performance against low-signature targets</Note>
+    </MSL>
+    <MSL Num="63">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>FIM-92F Stinger Block II</Name>
+        <Code>FIM-92F</Code>
+        <Country>USA</Country>
+        <Operational>2004 -</Operational>
+        <InServiceStart>2004</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Stinger F</NatoName>
+        <InFalcon> </InFalcon>
+        <Guidance>Focal plane array sensor</Guidance>
+        <RadarName> </RadarName>
+        <Type>MANPAD</Type>
+        <Stages>2</Stages>
+        <BoostTime> </BoostTime>
+        <Length>1.52 m</Length>
+        <Weight>10.1 kg</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>12,467 feet/ 3,800 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>4.1 nm / 7,600 m</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2.2</Speed>
+        <MaxG>15</MaxG>
+        <Warhead>3 kg  / 6.6 lbs HE fragmentation</Warhead>
+        <LethalRadius>5 m</LethalRadius>
+        <Fuse>Impact fuse</Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous>FIM-92E</Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Improve the missile's effectiveness in "high clutter"</Note>
+    </MSL>
+    <MSL Num="64">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>FM-80</Name>
+        <Code>Feimeng 80</Code>
+        <Country>China</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Flying Midge 80</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Radar, IR and optica</Guidance>
+        <RadarName> </RadarName>
+        <Type>Mobile Low, Ultra Low SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>45 feet / 15 m</MinAlt>
+        <MaxAlt>16,500 feet / 5,500 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>6.7 nm / 12 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>750 m/sec</Speed>
+        <MaxG> </MaxG>
+        <Warhead> </Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="65">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>FM-90</Name>
+        <Code>Feimeng 90</Code>
+        <Country>China</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Flying Midge 90</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Radar, IR and optica</Guidance>
+        <RadarName> </RadarName>
+        <Type>Mobile Low, Ultra Low SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>45 feet / 15 m</MinAlt>
+        <MaxAlt>16,500 feet / 5,500 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>8.3nm / 15 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>900 m/sec</Speed>
+        <MaxG> </MaxG>
+        <Warhead> </Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="66">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>FT2000</Name>
+        <Code>48N6E / 5V55RUD</Code>
+        <Country>China</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Grumble</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command, Track via missile</Guidance>
+        <RadarName>Flap Lid B, Tombstone, Clam Shell, Big Bird</RadarName>
+        <Type>Low to High Alt</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>75 feet / 25 m</MinAlt>
+        <MaxAlt>81,000 feet / 27.000 m</MaxAlt>
+        <MinRange>2.8 nm / 5.0 km</MinRange>
+        <MaxRange>50-83.3 nm / 90-150 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>1.7-2.0 km/sec</Speed>
+        <MaxG> </MaxG>
+        <Warhead>133-145 kg HE fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>10</RwrSymbol>
+        <RwrFile>SA10</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="67">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>HN-5A</Name>
+        <Code>(SA-7B)</Code>
+        <Country>China</Country>
+        <Operational>1971</Operational>
+        <InServiceStart>1971</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Hong Nu = Red Cherry</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Guidance>Passive IR homing</Guidance>
+        <RadarName> </RadarName>
+        <Type>MANPAD</Type>
+        <Stages>1</Stages>
+        <BoostTime> </BoostTime>
+        <Length>1.4 m</Length>
+        <Weight>10 kg</Weight>
+        <MinAlt>30 m</MinAlt>
+        <MaxAlt>2,300 m</MaxAlt>
+        <MinRange>800 m</MinRange>
+        <MaxRange>4,200 m</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1,8</Speed>
+        <MaxG> </MaxG>
+        <Warhead>1.8 kg</Warhead>
+        <LethalRadius>3 m</LethalRadius>
+        <Fuse>Contact</Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="68">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>HQ-1</Name>
+        <Code>V-750VK/VN</Code>
+        <Country>China</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>CSA-1 (HQ, Hong Qian=Red Leader)</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Fan Song-B, Spoon Rest, Flat Face, Side Net</RadarName>
+        <Type>medium-to-high altitude, long-range SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>300 feet / 100 m</MinAlt>
+        <MaxAlt>90,000 feet / 30,000 m</MaxAlt>
+        <MinRange>2 nm</MinRange>
+        <MaxRange>13.0 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 4,0-4,5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>650 lbs</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>2</RwrSymbol>
+        <RwrFile>SA2</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="69">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>HQ-10</Name>
+        <Code>48N6 / 5V55RUD</Code>
+        <Country>China</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Grumble</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command, Track via missile</Guidance>
+        <RadarName>Flap Lid B, Tombstone, Clam Shell, Big Bird</RadarName>
+        <Type>Low to High Alt</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>75 feet / 25 m</MinAlt>
+        <MaxAlt>81,000 feet / 27,000 m</MaxAlt>
+        <MinRange>2.8 km / 5.0 km</MinRange>
+        <MaxRange>50-83.3 nm / 90-150 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>1.7-2.0 km/sec</Speed>
+        <MaxG> </MaxG>
+        <Warhead>133 kg HE</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>10</RwrSymbol>
+        <RwrFile>SA10</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="70">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>HQ-15</Name>
+        <Code>48N6 / 5V55RUD</Code>
+        <Country>China</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Grumble</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command, Track via missile</Guidance>
+        <RadarName>Flap Lid B, Tombstone, Clam Shell, Big Bird</RadarName>
+        <Type>Low to High Alt</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>75 feet / 25 m</MinAlt>
+        <MaxAlt>81,000 feet / 27,000 m</MaxAlt>
+        <MinRange>2.8 km / 5.0 km</MinRange>
+        <MaxRange>50-83.3 nm / 90-150 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>1.7-2.0 km/sec</Speed>
+        <MaxG> </MaxG>
+        <Warhead>133 kg HE</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>10</RwrSymbol>
+        <RwrFile>SA10</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="71">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>HQ-16</Name>
+        <Code>9M317</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Grizzly</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Snow Drift on every vehicle</RadarName>
+        <Type>Medium range</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>50 feet</MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>25.0 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3,5</Speed>
+        <MaxG> </MaxG>
+        <Warhead> </Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="72">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>HQ-18</Name>
+        <Code>9M83</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Gladiator</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Combined inertial with semi active self guidance</Guidance>
+        <RadarName>Grill Pan, Bill Board, High Screen</RadarName>
+        <Type>Low to High Alt</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>75,000 feet / 25,000 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>41.7 nm / 75 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>1.7 km/sec</Speed>
+        <MaxG> </MaxG>
+        <Warhead>150 kg HE</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>12</RwrSymbol>
+        <RwrFile>grillpan</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="73">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>HQ-2</Name>
+        <Code> </Code>
+        <Country>China</Country>
+        <Operational>1966</Operational>
+        <InServiceStart>1966</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>CSA-1 (HQ, Hong Qian=Red Leader)</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Fan Song-B, Spoon Rest, Flat Face, Side Net</RadarName>
+        <Type>medium-to-high altitude, long-range SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length>10.7m</Length>
+        <Weight>2,211</Weight>
+        <MinAlt>9800 feet / 3,000 m</MinAlt>
+        <MaxAlt>75,000 feet / 25,000 m</MaxAlt>
+        <MinRange>12 km</MinRange>
+        <MaxRange>32 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3</Speed>
+        <MaxG> </MaxG>
+        <Warhead>650 lbs / 190kg HE fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>2</RwrSymbol>
+        <RwrFile>SA2</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="74">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>HQ-7</Name>
+        <Code> </Code>
+        <Country>China</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Flying Midge 80</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Radar, IR and optica</Guidance>
+        <RadarName> </RadarName>
+        <Type>Mobile Low, Ultra Low SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>45 feet / 15 m</MinAlt>
+        <MaxAlt>16,500 feet / 5,500 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>6.7 nm / 12 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>750 m/sec</Speed>
+        <MaxG> </MaxG>
+        <Warhead> </Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="75">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>HQ-7A</Name>
+        <Code> </Code>
+        <Country>China</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Flying Midge 90</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Radar, IR and optica</Guidance>
+        <RadarName> </RadarName>
+        <Type>Mobile Low, Ultra Low SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>45 feet / 15 m</MinAlt>
+        <MaxAlt>16,500 feet / 5,500 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>8.3nm / 15 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>900 m/sec</Speed>
+        <MaxG> </MaxG>
+        <Warhead> </Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="76">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>HQ-9</Name>
+        <Code>48N6E / 5V55RUD</Code>
+        <Country>China</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Grumble</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command, Track via missile</Guidance>
+        <RadarName>Flap Lid B, Tombstone, Clam Shell, Big Bird</RadarName>
+        <Type>Low to High Alt</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>75 feet / 25 m</MinAlt>
+        <MaxAlt>81,000 feet / 27.000 m</MaxAlt>
+        <MinRange>2.8 nm / 5.0 km</MinRange>
+        <MaxRange>50-83.3 nm / 90-150 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>1.7-2.0 km/sec</Speed>
+        <MaxG> </MaxG>
+        <Warhead>133-145 kg HE fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>10</RwrSymbol>
+        <RwrFile>SA10</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="77">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Javelin</Name>
+        <Code> </Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Javelin</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Semi Automatic to Line Of Sight (SACLOS)</Guidance>
+        <RadarName> </RadarName>
+        <Type>MANPAD</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>3,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>2.5 nm / 4.5 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1.7</Speed>
+        <MaxG> </MaxG>
+        <Warhead>2.72 kg</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="78">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>KSAM</Name>
+        <Code> </Code>
+        <Country>South Korea</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>KSAM Chun-Ma 'Pegasus'</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Daewoo PD</RadarName>
+        <Type>SHORAD</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>10,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>5.0 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2,6</Speed>
+        <MaxG>30</MaxG>
+        <Warhead>12 kg</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>C</RwrSymbol>
+        <RwrFile>CHAPARAL</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="79">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>LAV/AD</Name>
+        <Code> </Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>LAV/ADATS</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>All Asp IR/UV</Guidance>
+        <RadarName> </RadarName>
+        <Type>SHORAD</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>12,464 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>3.0 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2,2</Speed>
+        <MaxG> </MaxG>
+        <Warhead>7 lbs</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="80">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>M6 BL</Name>
+        <Code> </Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>M-2A2 BSFV-AD</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>All Asp IR/UV</Guidance>
+        <RadarName> </RadarName>
+        <Type>Mobile SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>12,464 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>3.0 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2,2</Speed>
+        <MaxG> </MaxG>
+        <Warhead>7 lbs</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="81">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>MIM-104A Patriot</Name>
+        <Code>MIM-104A</Code>
+        <Country>USA</Country>
+        <Operational>1982 - ?</Operational>
+        <InServiceStart>1982</InServiceStart>
+        <InServiceEnd>1990</InServiceEnd>
+        <NatoName>Patriot</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Track via Missile</Guidance>
+        <RadarName>AN/MPQ-53</RadarName>
+        <Type>Transportable SAM</Type>
+        <Stages>1</Stages>
+        <BoostTime>12sec</BoostTime>
+        <Length>5.3m</Length>
+        <Weight>914kg</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>80,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>70km / 37.8nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M +3,0</Speed>
+        <MaxG>30G</MaxG>
+        <Warhead>HE 198 lbs / 90kg</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>XM818, Proxy Fuse</Fuse>
+        <RwrSymbol>P</RwrSymbol>
+        <RwrFile>PatriotAcq</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy>MIM-104C and MIM-104D</ReplacedBy>
+        <Note>Basic Capability vs. Aircraft. Limited Effectiveness/Lethality vs. Scud-Class TBMs And SOJ ECM Threats</Note>
+    </MSL>
+    <MSL Num="82">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>MIM-104B Patriot</Name>
+        <Code>MIM-104B</Code>
+        <Country>USA</Country>
+        <Operational>1983 - ?</Operational>
+        <InServiceStart>1983</InServiceStart>
+        <InServiceEnd>1990</InServiceEnd>
+        <NatoName>Patriot PAC-1</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Track via Missile</Guidance>
+        <RadarName>AN/MPQ-53</RadarName>
+        <Type>Transportable SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length>5.3m</Length>
+        <Weight>914kg</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>80,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>70km / 37.8nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M +3,0</Speed>
+        <MaxG> </MaxG>
+        <Warhead>HE 90kg / 198lbs</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>Proxy Fuse</Fuse>
+        <RwrSymbol>P</RwrSymbol>
+        <RwrFile>PatriotAcq</RwrFile>
+        <Previous>MIM-104A</Previous>
+        <ReplacedBy>MIM-104C and MIM-104D</ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="83">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>MIM-104C Patriot</Name>
+        <Code>MIM-104C</Code>
+        <Country>USA</Country>
+        <Operational>1990 -</Operational>
+        <InServiceStart>1990</InServiceStart>
+        <InServiceEnd>2003</InServiceEnd>
+        <NatoName>Patriot PAC-2</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Track via Missile</Guidance>
+        <RadarName>AN/MPQ-53 / AN/MPQ-65</RadarName>
+        <Type>Transportable SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length>5.18m</Length>
+        <Weight>900kg</Weight>
+        <MinAlt>60m</MinAlt>
+        <MaxAlt>80,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>86 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 5,0</Speed>
+        <MaxG> </MaxG>
+        <Warhead>HE/Blast frag 91kg / 200lbs</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>Proxy Fuse</Fuse>
+        <RwrSymbol>P</RwrSymbol>
+        <RwrFile>PatriotAcq</RwrFile>
+        <Previous>MIM-104A</Previous>
+        <ReplacedBy>MIM-104F</ReplacedBy>
+        <Note>Improved TBM Capability</Note>
+    </MSL>
+    <MSL Num="84">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>MIM-104D Patriot</Name>
+        <Code>MIM-104D</Code>
+        <Country>USA</Country>
+        <Operational>1990 -</Operational>
+        <InServiceStart>1990</InServiceStart>
+        <InServiceEnd>2003</InServiceEnd>
+        <NatoName>Patriot PAC-2-GEM</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Track via Missile</Guidance>
+        <RadarName>AN/MPQ-53 / AN/MPQ-65</RadarName>
+        <Type>Transportable SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length>5.18m</Length>
+        <Weight>900kg</Weight>
+        <MinAlt>60m</MinAlt>
+        <MaxAlt>80,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>86 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 5,0</Speed>
+        <MaxG> </MaxG>
+        <Warhead>HE/Blast frag 91kg / 200lbs</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>Proxy Fuse</Fuse>
+        <RwrSymbol>P</RwrSymbol>
+        <RwrFile>PatriotAcq</RwrFile>
+        <Previous>MIM-104B</Previous>
+        <ReplacedBy>MIM-104F</ReplacedBy>
+        <Note>Improved Acquisition, Guidance And Fusing. Improved Pk Against Low RCS, High Speed TBMs. Increased Defended Area And Lethality</Note>
+    </MSL>
+    <MSL Num="85">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>MIM-104F Patriot</Name>
+        <Code>MIM-104F</Code>
+        <Country>USA</Country>
+        <Operational>2003 -</Operational>
+        <InServiceStart>2003</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Patriot PAC-3</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Track via Missile</Guidance>
+        <RadarName>AN/MPQ-65</RadarName>
+        <Type>Transportable SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length>5.2m</Length>
+        <Weight>312kg</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>15-20km</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>15km / 8.1nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 4.1</Speed>
+        <MaxG> </MaxG>
+        <Warhead>198 lbs</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>Proxy Fuse</Fuse>
+        <RwrSymbol>P</RwrSymbol>
+        <RwrFile>PatriotAcq</RwrFile>
+        <Previous>MIM-104C and MIM-104D</Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Improved Maneuverability. Hit To Kill System</Note>
+    </MSL>
+    <MSL Num="86">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>MIM-14A Nike</Name>
+        <Code>MIM-14A</Code>
+        <Country>USA</Country>
+        <Operational>1958 - 1973?</Operational>
+        <InServiceStart>1958</InServiceStart>
+        <InServiceEnd>1973</InServiceEnd>
+        <NatoName>Nike Hercules</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Radio Command Link</Guidance>
+        <RadarName>AN/MPQ-43</RadarName>
+        <Type>Fixed SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length>12.65m / 41ft 6in, 7.59m / 24ft 11in</Length>
+        <Weight> </Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>45.7km / 150,000ft</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>140km / 88nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3,65</Speed>
+        <MaxG>7</MaxG>
+        <Warhead>502kg / 1100lbs, blast-fragmentation or W-31 nuclear (2 kT, 40 kT)</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>N</RwrSymbol>
+        <RwrFile>NikeAcq</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy>MIM-14C</ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="87">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>MIM-14B Nike</Name>
+        <Code>MIM-14B</Code>
+        <Country>USA</Country>
+        <Operational>1960 - 1973?</Operational>
+        <InServiceStart>1960</InServiceStart>
+        <InServiceEnd>1973</InServiceEnd>
+        <NatoName>Nike Hercules</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Radio Command Link</Guidance>
+        <RadarName>AN/MPQ-43</RadarName>
+        <Type>Fixed SAM</Type>
+        <Stages>2 Booster and Sustainer</Stages>
+        <BoostTime> </BoostTime>
+        <Length>12.65m / 41ft 6in, 7.59m / 24ft 11in</Length>
+        <Weight> </Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>45.7km / 150,000ft</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>140km / 88nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3,65</Speed>
+        <MaxG>7</MaxG>
+        <Warhead>502kg / 1100lbs, blast-fragmentation or W-31 nuclear (2 kT, 40 kT)</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>N</RwrSymbol>
+        <RwrFile>NikeAcq</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy>MIM-14C</ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="88">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>MIM-14C Nike</Name>
+        <Code>MIM-14C</Code>
+        <Country>USA</Country>
+        <Operational>1972 - 1988</Operational>
+        <InServiceStart>1972</InServiceStart>
+        <InServiceEnd>1988</InServiceEnd>
+        <NatoName>Nike Hercules</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Radio Command Link</Guidance>
+        <RadarName>AN/MPQ-43</RadarName>
+        <Type>Fixed SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length>12.65m / 41ft 6in, 7.59m / 24ft 11in</Length>
+        <Weight> </Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>45.7km / 150,000ft</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>140km / 88nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3,65</Speed>
+        <MaxG>7</MaxG>
+        <Warhead>502kg / 1100lbs, blast-fragmentation or W-31 nuclear (2 kT, 40 kT)</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>N</RwrSymbol>
+        <RwrFile>NikeAcq</RwrFile>
+        <Previous>MIM-14A and MIM-14B</Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Improved missile guidance section for higher manoeuverability and better ECM resistance</Note>
+    </MSL>
+    <MSL Num="89">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>MIM-23A Basic Hawk</Name>
+        <Code>MIM-23A</Code>
+        <Country>USA</Country>
+        <Operational>1959 - 1971</Operational>
+        <InServiceStart>1959</InServiceStart>
+        <InServiceEnd>1971</InServiceEnd>
+        <NatoName>Hawk A</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>SARH/</Guidance>
+        <RadarName>AN/MPQ-33/39 (HiPIR)</RadarName>
+        <Type>Transportable SAM</Type>
+        <Stages>Boost phase and a sustain phase</Stages>
+        <BoostTime>25 to 32 seconds</BoostTime>
+        <Length>5.08m / 16ft 8in</Length>
+        <Weight>584kg / 1290lbs</Weight>
+        <MinAlt>60m / 200ft</MinAlt>
+        <MaxAlt>13.7km / 45,000ft</MaxAlt>
+        <MinRange>2km / 1.25nm</MinRange>
+        <MaxRange>25km / 15.0nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2,5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>54kg / 119lbs HE, blast-fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>Impact and radar proximity</Fuse>
+        <RwrSymbol>H</RwrSymbol>
+        <RwrFile>HAWK</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy>MIM-23B</ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="90">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>MIM-23B I-Hawk</Name>
+        <Code>MIM-23B</Code>
+        <Country>USA</Country>
+        <Operational>1971 - 1978</Operational>
+        <InServiceStart>1971</InServiceStart>
+        <InServiceEnd>1978</InServiceEnd>
+        <NatoName>I-Hawk B</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>SARH / Optical</Guidance>
+        <RadarName>AN/MPQ-46 (HiPIR)</RadarName>
+        <Type>Transportable SAM</Type>
+        <Stages>Boost phase and a sustain phase</Stages>
+        <BoostTime>5-second boost phase and a sustain phase of around 21 seconds</BoostTime>
+        <Length>5.03m / 16ft 6in</Length>
+        <Weight> </Weight>
+        <MinAlt>60m / 200ft</MinAlt>
+        <MaxAlt>18.9km / 62,000ft</MaxAlt>
+        <MinRange>1.5km / 5000ft at High Alt, 2.5km / 8200ft at Low Alt</MinRange>
+        <MaxRange>40km / 25.0nm at High Alt, 20km / 12.4nm as Low Alt</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2,5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>74kg / 163lbs HE, blast-fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>Impact and radar proximity</Fuse>
+        <RwrSymbol>H</RwrSymbol>
+        <RwrFile>HAWK</RwrFile>
+        <Previous>MIM-23A</Previous>
+        <ReplacedBy>MIM-23C/D</ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="91">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>MIM-23C/D I-Hawk</Name>
+        <Code>MIM-23C/D</Code>
+        <Country>USA</Country>
+        <Operational>1982 - 1990?</Operational>
+        <InServiceStart>1982</InServiceStart>
+        <InServiceEnd>1990</InServiceEnd>
+        <NatoName>I-Hawk C/D</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>SARH / Optical</Guidance>
+        <RadarName>AN/MPQ-46 (HiPIR)</RadarName>
+        <Type>Transportable SAM</Type>
+        <Stages>Boost phase and a sustain phase</Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>60m / 200ft</MinAlt>
+        <MaxAlt>18.9km / 62,000ft</MaxAlt>
+        <MinRange>1.5km / 5000ft at High Alt, 2.5km / 8200ft at Low Alt</MinRange>
+        <MaxRange>40km / 25.0nm at High Alt, 20km / 12.4nm as Low Alt</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2,5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>74kg / 163lbs HE, blast-fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>Impact and radar proximity</Fuse>
+        <RwrSymbol>H</RwrSymbol>
+        <RwrFile>HAWK</RwrFile>
+        <Previous>MIM-23B</Previous>
+        <ReplacedBy>MIM-23E/F</ReplacedBy>
+        <Note>Improved ECCM capabilities</Note>
+    </MSL>
+    <MSL Num="92">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>MIM-23E/F I-Hawk</Name>
+        <Code>MIM-23E/F</Code>
+        <Country>USA</Country>
+        <Operational>1990 - 1995?</Operational>
+        <InServiceStart>1990</InServiceStart>
+        <InServiceEnd>1995</InServiceEnd>
+        <NatoName>I-Hawk E/F</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>SARH / Optical</Guidance>
+        <RadarName>AN/MPQ-61 (HiPIR)</RadarName>
+        <Type>Transportable SAM</Type>
+        <Stages>Boost phase and a sustain phase</Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>60m / 200ft</MinAlt>
+        <MaxAlt>18.9km / 62,000ft</MaxAlt>
+        <MinRange>1.5km / 5000ft at High Alt, 2.5km / 8200ft at Low Alt</MinRange>
+        <MaxRange>40km / 25.0nm at High Alt, 20km / 12.4nm as Low Alt</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2,5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>74kg / 163lbs HE, blast-fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>Impact and radar proximity</Fuse>
+        <RwrSymbol>H</RwrSymbol>
+        <RwrFile>HAWK</RwrFile>
+        <Previous>MIM-23C/D</Previous>
+        <ReplacedBy>MIM-23G/H</ReplacedBy>
+        <Note>Improved guidance for low level engagements in a high clutter/multi-jamming environment</Note>
+    </MSL>
+    <MSL Num="93">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>MIM-23G/H I-Hawk</Name>
+        <Code>MIM-23G/H</Code>
+        <Country>USA</Country>
+        <Operational>1995 - ?</Operational>
+        <InServiceStart>1995</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>I-Hawk G/H</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>SARH / Optical</Guidance>
+        <RadarName>AN/MPQ-61 (HiPIR)</RadarName>
+        <Type>Transportable SAM</Type>
+        <Stages>Boost phase and a sustain phase</Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>60m / 200ft</MinAlt>
+        <MaxAlt>18.9km / 62,000ft</MaxAlt>
+        <MinRange>1.5km / 5000ft at High Alt, 2.5km / 8200ft at Low Alt</MinRange>
+        <MaxRange>40km / 25.0nm at High Alt, 20km / 12.4nm as Low Alt</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2,5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>74kg / 163lbs HE, blast-fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>Impact and radar proximity</Fuse>
+        <RwrSymbol>H</RwrSymbol>
+        <RwrFile>HAWK</RwrFile>
+        <Previous>MIM-23E/F</Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>New body section assembly for the MIM-23E/F missiles</Note>
+    </MSL>
+    <MSL Num="94">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>MIM-23K/J I-Hawk</Name>
+        <Code>MIM-23K/J</Code>
+        <Country>USA</Country>
+        <Operational>1994 -</Operational>
+        <InServiceStart>1994</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>I-Hawk K/J</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>SARH / Optical</Guidance>
+        <RadarName>AN/MPQ-61 (HiPIR)</RadarName>
+        <Type>Transportable SAM</Type>
+        <Stages>Boost phase and a sustain phase</Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>60m / 200ft</MinAlt>
+        <MaxAlt>20km / 65617ft</MaxAlt>
+        <MinRange>1.5km / 5000ft at High Alt, 2.5km / 8200ft at Low Alt</MinRange>
+        <MaxRange>45km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2,5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>74kg / 163lbs HE, blast-fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>Impact and radar proximity</Fuse>
+        <RwrSymbol>H</RwrSymbol>
+        <RwrFile>HAWK</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Enhanced lethality configuration warhead</Note>
+    </MSL>
+    <MSL Num="95">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>MIM-72A Chaparral</Name>
+        <Code>MIM-72A</Code>
+        <Country>USA</Country>
+        <Operational>1969 – 1978</Operational>
+        <InServiceStart>1994</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Chaparral A</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Passive IR tail chase only</Guidance>
+        <RadarName> </RadarName>
+        <Type>Mobile SAM</Type>
+        <Stages>MK 50 solid-fuel rocket motor (12.2 kN)</Stages>
+        <BoostTime>4.7 seconds</BoostTime>
+        <Length>2.90m / 9ft 6in</Length>
+        <Weight> </Weight>
+        <MinAlt>25m / 80ft</MinAlt>
+        <MaxAlt>4.0km / 10,000ft</MaxAlt>
+        <MinRange>180m / 590ft</MinRange>
+        <MaxRange>5km / 3.1nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1,5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>12.2kg / 27lbs MK 48 Continuous-rod warhead</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy>MIM-72C</ReplacedBy>
+        <Note>Base on AIM-9D, Chaparral is a type of roadrunner bird</Note>
+    </MSL>
+    <MSL Num="96">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>MIM-72C Chaparral</Name>
+        <Code>MIM-72C</Code>
+        <Country>USA</Country>
+        <Operational>1976 – 1981</Operational>
+        <InServiceStart>1976</InServiceStart>
+        <InServiceEnd>1981</InServiceEnd>
+        <NatoName>Chaparral C</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>All Aspect IR (AN/DAW-1)</Guidance>
+        <RadarName> </RadarName>
+        <Type>Mobile SAM</Type>
+        <Stages>MK 50 solid-fuel rocket motor (12.2 kN)</Stages>
+        <BoostTime>4.7 seconds</BoostTime>
+        <Length>2.90m / 9ft 6in</Length>
+        <Weight> </Weight>
+        <MinAlt>25m / 80ft</MinAlt>
+        <MaxAlt>4.0km / 10,000ft</MaxAlt>
+        <MinRange>180m / 590ft</MinRange>
+        <MaxRange>9km / 4.86nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1,5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>12.2kg / 27lbs M250 blast-fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>M817 directional doppler fuze</Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous>MIM-72B</Previous>
+        <ReplacedBy>MIM-72C</ReplacedBy>
+        <Note>Base on AIM-9D, Chaparral is a type of roadrunner bird</Note>
+    </MSL>
+    <MSL Num="97">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>MIM-72E Chaparral</Name>
+        <Code>MIM-72E</Code>
+        <Country>USA</Country>
+        <Operational>1978 – 1989</Operational>
+        <InServiceStart>1978</InServiceStart>
+        <InServiceEnd>1989</InServiceEnd>
+        <NatoName>Chaparral E</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>All Aspect IR (AN/DAW-1)</Guidance>
+        <RadarName> </RadarName>
+        <Type>Mobile SAM</Type>
+        <Stages>M121 smokeless motor</Stages>
+        <BoostTime>4.7 seconds</BoostTime>
+        <Length>2.90m / 9ft 6in</Length>
+        <Weight> </Weight>
+        <MinAlt>25m / 80ft</MinAlt>
+        <MaxAlt>4.0km / 10,000ft</MaxAlt>
+        <MinRange>180m / 590ft</MinRange>
+        <MaxRange>9km / 4.86nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1,5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>12.2kg / 27lbs M250 blast-fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>M817 directional doppler fuze</Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous>MIM-72C</Previous>
+        <ReplacedBy>MIM-72G</ReplacedBy>
+        <Note>Base on AIM-9D, Chaparral is a type of roadrunner bird</Note>
+    </MSL>
+    <MSL Num="98">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>MIM-72G Chaparral</Name>
+        <Code>MIM-72G</Code>
+        <Country>USA</Country>
+        <Operational>1989 – 1992</Operational>
+        <InServiceStart>1989</InServiceStart>
+        <InServiceEnd>1992</InServiceEnd>
+        <NatoName>Chaparral G</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>All Aspect IR (AN/DAW-2)</Guidance>
+        <RadarName> </RadarName>
+        <Type>Mobile SAM</Type>
+        <Stages>MK 50 solid-fuel rocket motor (12.2 kN)</Stages>
+        <BoostTime>4.7 seconds</BoostTime>
+        <Length>2.90m / 9ft 6in</Length>
+        <Weight> </Weight>
+        <MinAlt>25m / 80ft</MinAlt>
+        <MaxAlt>4.0km / 10,000ft</MaxAlt>
+        <MinRange>180m / 590ft</MinRange>
+        <MaxRange>9km / 4.86nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1,5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>12.2kg / 27lbs M250 blast-fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>M817 directional doppler fuze</Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous>MIM-72E</Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Sensor base on Stinger POST, Chaparral is a type of roadrunner bird</Note>
+    </MSL>
+    <MSL Num="99">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Mistral M2</Name>
+        <Code>Mistral M2</Code>
+        <Country>France</Country>
+        <Operational>1997 -</Operational>
+        <InServiceStart>1997</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Mistral M2</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>All Asp IR</Guidance>
+        <RadarName> </RadarName>
+        <Type>Very short-range air defence (SHORAD)</Type>
+        <Stages>2</Stages>
+        <BoostTime> </BoostTime>
+        <Length>186 cm</Length>
+        <Weight>18.7 kg</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>9842 ft / 3.0 km</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>3.2 nm / 6.0 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2,6</Speed>
+        <MaxG> </MaxG>
+        <Warhead>3 kg HE tungsten ball</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>Laser proximity or impact triggered</Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="100">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Mistral M3</Name>
+        <Code>Mistral M3</Code>
+        <Country>France</Country>
+        <Operational>2019 -</Operational>
+        <InServiceStart>2019</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Mistral M3</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>All Asp IR</Guidance>
+        <RadarName> </RadarName>
+        <Type>Very short-range air defence (SHORAD)</Type>
+        <Stages>2</Stages>
+        <BoostTime> </BoostTime>
+        <Length>186 cm</Length>
+        <Weight>18.7 kg</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>9842 ft / 3.0 km</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>3.8 nm / 7.0+ km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2,7</Speed>
+        <MaxG> </MaxG>
+        <Warhead>3 kg HE tungsten ball</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>Laser proximity or impact triggered</Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="101">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Mistral S1</Name>
+        <Code>Mistral S1</Code>
+        <Country>France</Country>
+        <Operational>1988 -</Operational>
+        <InServiceStart>1988</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Mistral S1</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>All Asp IR</Guidance>
+        <RadarName> </RadarName>
+        <Type>Very short-range air defence (SHORAD)</Type>
+        <Stages>1</Stages>
+        <BoostTime> </BoostTime>
+        <Length>186 cm</Length>
+        <Weight>18.7 kg</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>9842 ft / 3.0 km</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>2.7 nm / 5.0 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2,5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>3 kg HE tungsten ball</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>Laser proximity or impact triggered</Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="102">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>QW-1</Name>
+        <Code>QW-1</Code>
+        <Country>China</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Qianwei = Advance Guard -1</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Cooled IR homing</Guidance>
+        <RadarName> </RadarName>
+        <Type>MANPAD</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>90 feet / 30 m</MinAlt>
+        <MaxAlt>18,000 feet / 4,000 m</MaxAlt>
+        <MinRange>1,500 feet / 500 m</MinRange>
+        <MaxRange>2.8 nm / 5 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>600 m/s</Speed>
+        <MaxG>16</MaxG>
+        <Warhead>0,55 kg HE fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="103">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Rapier Mk.1</Name>
+        <Code> </Code>
+        <Country>UK</Country>
+        <Operational>1971 - 1992</Operational>
+        <InServiceStart>1971</InServiceStart>
+        <InServiceEnd>1992</InServiceEnd>
+        <NatoName>Rapier Mk.1</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Semi Automatic to Line Of Sight (SACLOS)</Guidance>
+        <RadarName> </RadarName>
+        <Type>Low Level Air Defence (LLAD)</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length>2.235m (88.0 in)</Length>
+        <Weight>45kg (99lbs)</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>3,000m / 9800ft</MaxAlt>
+        <MinRange>400m / 1300ft</MinRange>
+        <MaxRange>8.2km / 4.43 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3</Speed>
+        <MaxG>35</MaxG>
+        <Warhead>HE / Blast fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy>Rapier Mk.2</ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="104">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Rapier Mk.2</Name>
+        <Code> </Code>
+        <Country>UK</Country>
+        <Operational>1992 - Present</Operational>
+        <InServiceStart>1992</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Rapier Mk.2</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Semi Automatic to Line Of Sight (SACLOS)</Guidance>
+        <RadarName> </RadarName>
+        <Type>Low Level Air Defence (LLAD)</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length>2.235m / 88.0in</Length>
+        <Weight>45kg / 99lbs</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>5,000m / 16000ft</MaxAlt>
+        <MinRange>400m / 1300ft</MinRange>
+        <MaxRange>8.2km / 4.43 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3</Speed>
+        <MaxG>35</MaxG>
+        <Warhead>HE</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous>Rapier Mk.1</Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="105">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RBS 23 Bamse</Name>
+        <Code> </Code>
+        <Country>Sweden</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>BAMSE</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Command to Line Of Sight (CLOS)</Guidance>
+        <RadarName>Ericsson Giraffe AMD 3D</RadarName>
+        <Type>Medium Range SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>45,000 feet / 15,000 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>8.3+ nm / 15+ km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed> </Speed>
+        <MaxG> </MaxG>
+        <Warhead>Fragmentation and shaped charge</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="106">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RBS 70</Name>
+        <Code> </Code>
+        <Country>Sweden</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>RBS 70</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Laser beam riding</Guidance>
+        <RadarName> </RadarName>
+        <Type>MANPAD</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>12,000 feet / 4,000 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>3.9 nm / 7.0 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M1.6</Speed>
+        <MaxG> </MaxG>
+        <Warhead>Fragmentation and shaped charge</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="107">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RIM-24A Tartar</Name>
+        <Code>RIM-24A</Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>1962</InServiceStart>
+        <InServiceEnd>1965</InServiceEnd>
+        <NatoName>Tartar</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Semi-Active Radar Homing (SARH)</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Medium range ship launched SAM</Type>
+        <Stages>Dual-thrust (boost/sustain)</Stages>
+        <BoostTime> </BoostTime>
+        <Length>15 ft 1 in - 4.60 m</Length>
+        <Weight>1280 lbs - 580 kg</Weight>
+        <MinAlt>50 feet - 15 m</MinAlt>
+        <MaxAlt>50,000 feet - 15,000 m</MaxAlt>
+        <MinRange>0.97 nm - 1.8 km</MinRange>
+        <MaxRange>7.56 nm - 14.0 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1.8</Speed>
+        <MaxG> </MaxG>
+        <Warhead>130 lbs - 59 kg continuous-rod</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy>RIM-24B</ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="108">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RIM-24B Tartar</Name>
+        <Code>RIM-24B</Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>1964</InServiceStart>
+        <InServiceEnd>1979</InServiceEnd>
+        <NatoName>Tartar (Improved)</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Semi-Active Radar Homing (SARH)</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Medium range ship launched SAM</Type>
+        <Stages>Dual-thrust (boost/sustain)</Stages>
+        <BoostTime> </BoostTime>
+        <Length>15 feet 6 in - 472 cm</Length>
+        <Weight>1310 lbs - 590 kg</Weight>
+        <MinAlt>50 feet - 15 m</MinAlt>
+        <MaxAlt>65,000 feet - 20,000 m</MaxAlt>
+        <MinRange>0.97 nm - 1.8 km</MinRange>
+        <MaxRange>16.0 nm - 30.0 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1.8</Speed>
+        <MaxG> </MaxG>
+        <Warhead>130 lbs - 59 kg continuous-rod HE</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous>RIM-24A</Previous>
+        <ReplacedBy>RIM-24C</ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="109">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RIM-24C Tartar</Name>
+        <Code>RIM-24C</Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>1965</InServiceStart>
+        <InServiceEnd>1968</InServiceEnd>
+        <NatoName>Tartar (TRIP)</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Semi-Active Radar Homing (SARH)</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Medium range ship launched SAM</Type>
+        <Stages>Dual-thrust (boost/sustain)</Stages>
+        <BoostTime> </BoostTime>
+        <Length>15 feet 6 in - 472 cm</Length>
+        <Weight>1310 lbs - 590 kg</Weight>
+        <MinAlt>50 feet - 15 m</MinAlt>
+        <MaxAlt>65,000 feet - 20,000 m</MaxAlt>
+        <MinRange>0.97 nm - 1.8 km</MinRange>
+        <MaxRange>17.5 nm - 32.0 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1.8</Speed>
+        <MaxG> </MaxG>
+        <Warhead>130 lbs - 59 kg continuous-rod HE</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous>RIM-24A</Previous>
+        <ReplacedBy>RIM-66 Standard</ReplacedBy>
+        <Note>TRIP (Tartar Reliability Improvement Program)</Note>
+    </MSL>
+    <MSL Num="110">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RIM-2A Terrier</Name>
+        <Code>RIM-2A</Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>1956</InServiceStart>
+        <InServiceEnd>1958</InServiceEnd>
+        <NatoName>Terrier A</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Radar Beam-riding</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Two-stage medium-range naval surface-to-air missile (SAM)</Type>
+        <Stages>2</Stages>
+        <BoostTime> </BoostTime>
+        <Length>27 ft - 8.2 m</Length>
+        <Weight>3000 lbs - 1400 kg MSL + Booster</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>40,000 feet - 12,000 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>10.0 nm - 19.0 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1.8</Speed>
+        <MaxG>7</MaxG>
+        <Warhead>218 lbs / 99 kg controlled-fragmentation or 1kT W45 nuclear warhead</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy>RIM-2B</ReplacedBy>
+        <Note>Wing control, Subsonic targets only. SAM-N-7 BW-0</Note>
+    </MSL>
+    <MSL Num="111">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RIM-2B Terrier</Name>
+        <Code>RIM-2B</Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>1957</InServiceStart>
+        <InServiceEnd>1959</InServiceEnd>
+        <NatoName>Terrier B</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Radar Beam-riding</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Two-stage medium-range naval surface-to-air missile (SAM)</Type>
+        <Stages>2</Stages>
+        <BoostTime> </BoostTime>
+        <Length>27 ft - 8.2 m</Length>
+        <Weight>3000 lbs - 1400 kg MSL + Booster</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>40,000 feet - 12,000 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>10.0 nm - 19.0 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1.8</Speed>
+        <MaxG>7</MaxG>
+        <Warhead>218 lbs / 99 kg controlled-fragmentation or 1kT W45 nuclear warhead</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy>RIM-2C</ReplacedBy>
+        <Note>Wing control, Subsonic targets only. SAM-N-7 BW-1</Note>
+    </MSL>
+    <MSL Num="112">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RIM-2C Terrier</Name>
+        <Code>RIM-2C</Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>1958</InServiceStart>
+        <InServiceEnd>1963</InServiceEnd>
+        <NatoName>Terrier C</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Radar Beam-riding</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Two-stage medium-range naval surface-to-air missile (SAM)</Type>
+        <Stages>2</Stages>
+        <BoostTime> </BoostTime>
+        <Length>27 ft - 8.2 m</Length>
+        <Weight>3000 lbs - 1400 kg MSL + Booster</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>40,000 feet - 12,000 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>10.0 nm - 19.0 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1.8</Speed>
+        <MaxG>7</MaxG>
+        <Warhead>218 lbs / 99 kg controlled-fragmentation or 1kT W45 nuclear warhead</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy>RIM-2D</ReplacedBy>
+        <Note>Tail control, Supersonic targets. SAM-N-7 BT-3</Note>
+    </MSL>
+    <MSL Num="113">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RIM-2D Terrier</Name>
+        <Code>RIM-2D</Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>1962</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Terrier D</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Radar Beam-riding</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Two-stage medium-range naval surface-to-air missile (SAM)</Type>
+        <Stages>2</Stages>
+        <BoostTime> </BoostTime>
+        <Length>26 ft 4 in - 8.0 m</Length>
+        <Weight>3000 lbs - 1400 kg MSL + Booster</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>40,000 feet - 12,000 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>20.0 nm - 37.0 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1.8</Speed>
+        <MaxG>7</MaxG>
+        <Warhead>218 lbs / 99 kg controlled-fragmentation or 1kT W45 nuclear warhead</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy>RIM-2D</ReplacedBy>
+        <Note>Tail control, Supersonic targets. SAM-N-7 BT-3/A</Note>
+    </MSL>
+    <MSL Num="114">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RIM-2E Terrier</Name>
+        <Code>RIM-2E</Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>1962</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Terrier E</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Semi Active Radar Homing (SARH)</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Two-stage medium-range naval surface-to-air missile (SAM)</Type>
+        <Stages>2</Stages>
+        <BoostTime> </BoostTime>
+        <Length>26 ft 4 in - 8.0 m</Length>
+        <Weight>3000 lbs - 1400 kg MSL + Booster</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>40,000 feet - 12,000 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>20.0 nm - 37.0 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1.8</Speed>
+        <MaxG>7</MaxG>
+        <Warhead>218 lbs / 99 kg controlled-fragmentation or 1kT W45 nuclear warhead</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy>RIM-2D</ReplacedBy>
+        <Note>Introduced semi-active homing, Tail control, Supersonic targets. SAM-N-7 HT-3</Note>
+    </MSL>
+    <MSL Num="115">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RIM-2F Terrier</Name>
+        <Code>RIM-2F</Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>1962</InServiceStart>
+        <InServiceEnd>1987</InServiceEnd>
+        <NatoName>Terrier F</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Semi Active Radar Homing (SARH)</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Two-stage medium-range naval surface-to-air missile (SAM)</Type>
+        <Stages>2</Stages>
+        <BoostTime> </BoostTime>
+        <Length>26 ft 4 in - 8.0 m</Length>
+        <Weight>3000 lbs - 1400 kg MSL + Booster</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>40,000 feet - 12,000 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>40.0 nm - 74.0 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 1.8</Speed>
+        <MaxG>7</MaxG>
+        <Warhead>218 lbs / 99 kg controlled-fragmentation or 1kT W45 nuclear warhead</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy>RIM-2D</ReplacedBy>
+        <Note>New rocket motor, Tail control, Supersonic targets. SAM-N-7 HT-3</Note>
+    </MSL>
+    <MSL Num="116">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RIM-66A SM-1MR</Name>
+        <Code>RIM-66A</Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>1967</InServiceStart>
+        <InServiceEnd>1972</InServiceEnd>
+        <NatoName>Standard Missile-1MR BLK I-IV</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Monopulse semi-active radar homing</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Medium range ship launched SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length>4.22 m</Length>
+        <Weight>590 kg</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>65,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>17 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3.5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>137 lbs</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous>RIM-2 Terrier, RIM-8 Talos, RIM-24C Tartar</Previous>
+        <ReplacedBy>RIM-66B</ReplacedBy>
+        <Note>MR = Medium Range</Note>
+    </MSL>
+    <MSL Num="117">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RIM-66B SM-1MR</Name>
+        <Code>RIM-66B</Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>1971</InServiceStart>
+        <InServiceEnd>1983</InServiceEnd>
+        <NatoName>Standard Missile-1MR BLK V</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Medium to long range</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Medium range ship launched SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length>4.47 m</Length>
+        <Weight>621 kg</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>65,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>17 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3.5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>137 lbs</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous>RIM-66A</Previous>
+        <ReplacedBy>RIM-66E</ReplacedBy>
+        <Note>MR = Medium Range</Note>
+    </MSL>
+    <MSL Num="118">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RIM-66C/D SM-2MR</Name>
+        <Code>RIM-66C/D</Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>1979</InServiceStart>
+        <InServiceEnd>1983</InServiceEnd>
+        <NatoName>Standard Missile-2MR BLK I</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Monopulse semi-active radar homing. Inertial/command mid-course guidance</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Medium range ship launched SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length>4.72 m</Length>
+        <Weight>705 kg</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>65,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>17 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3.5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>137 lbs</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous>RIM-2 Terrier, RIM-8 Talos, RIM-24C Tartar</Previous>
+        <ReplacedBy>RIM-66G/H/J</ReplacedBy>
+        <Note>Home On Jam (HOJ). MR = Medium Range</Note>
+    </MSL>
+    <MSL Num="119">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RIM-66E SM-1MR</Name>
+        <Code>RIM-66E</Code>
+        <Country>USA</Country>
+        <Operational>Medium range SAM</Operational>
+        <InServiceStart>1983</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Standard Missile-1MR BLK VI-VIB</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Guidance>Monopulse semi-active radar homing</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Medium range ship launched SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length>4.47 m</Length>
+        <Weight>621 kg</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>65,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>17 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3.5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>137 lbs</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Retired USN 2003. MR = Medium Range</Note>
+    </MSL>
+    <MSL Num="120">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RIM-66G/H/J SM-2MR</Name>
+        <Code>RIM-66G/H/J</Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>1983</InServiceStart>
+        <InServiceEnd>1983</InServiceEnd>
+        <NatoName>Standard Missile-2MR BLK II</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Monopulse semi-active radar homing. Inertial/command mid-course guidance</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Medium range ship launched SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length>4.72 m</Length>
+        <Weight>705 kg</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>65,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>17 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3.5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>137 lbs</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous>RIM-66C/D</Previous>
+        <ReplacedBy>RIM-66K/L/M</ReplacedBy>
+        <Note>Home On Jam (HOJ). MR = Medium Range</Note>
+    </MSL>
+    <MSL Num="121">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RIM-66K/L/M SM-2MR</Name>
+        <Code>RIM-66K/L/M</Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>1991</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Standard Missile-2MR BLK II</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Monopulse semi-active radar homing. Inertial/command mid-course guidance</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Medium range ship launched SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length>4.72 m</Length>
+        <Weight>705 kg</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>65,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>17 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 3.5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>137 lbs</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous>RIM-66G/H/J</Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Home On Jam (HOJ). MR = Medium Range</Note>
+    </MSL>
+    <MSL Num="122">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RIM-67A SM-1ER</Name>
+        <Code>RIM-67A</Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>1980</InServiceStart>
+        <InServiceEnd>1990</InServiceEnd>
+        <NatoName>Standard Missile 1ER</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Semi Active Radar Homing</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Extended range surface-to-air missile (SAM)</Type>
+        <Stages>2, MK 30 solid-fuel sustainer motor, Hercules MK 12 booster.</Stages>
+        <BoostTime> </BoostTime>
+        <Length>26 feet 2 in - 7.89 m</Length>
+        <Weight>3172 lbs - 1438 kg MSL + Booster</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>80,000 feet - 24,400 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>35 nm - 65 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>2.5 M</Speed>
+        <MaxG> </MaxG>
+        <Warhead>MK 51 continuous-rod HE</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous>RIM-8 Talos</Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Too big for VLS. ER = Extended Range</Note>
+    </MSL>
+    <MSL Num="123">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RIM-67B SM-2ER</Name>
+        <Code>RIM-67B</Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>1980</InServiceStart>
+        <InServiceEnd>1985</InServiceEnd>
+        <NatoName>Standard Missile 2ER BLK I</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Inertial / Semi Active Radar Homing</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Extended range surface-to-air missile (SAM)</Type>
+        <Stages>2, MK 30 solid-fuel sustainer motor, Hercules MK 12 booster.</Stages>
+        <BoostTime> </BoostTime>
+        <Length>26 feet 2 in - 7.89 m</Length>
+        <Weight>3172 lbs - 1438 kg MSL + Booster</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>80,000 feet - 24,400 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>100 nm - 185 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>3.5 M</Speed>
+        <MaxG> </MaxG>
+        <Warhead>MK 115 blast-fragmentation HE</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous>RIM-8 Talos</Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Too big for VLS. ER = Extended Range</Note>
+    </MSL>
+    <MSL Num="124">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RIM-67C SM-2ER</Name>
+        <Code>RIM-67C</Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>1985</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Standard Missile 2ER BLK II</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Inertial / Semi Active Radar Homing</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Extended range surface-to-air missile (SAM)</Type>
+        <Stages>2, MK 30 solid-fuel sustainer motor, Hercules MK 70 booster.</Stages>
+        <BoostTime> </BoostTime>
+        <Length>26 feet 2 in - 7.89 m</Length>
+        <Weight>3515 lbs - 1594 kg MSL + Booster</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>80,000 feet - 24,400 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>100 nm - 185 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>3.5 M</Speed>
+        <MaxG> </MaxG>
+        <Warhead>MK 115 blast-fragmentation HE</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous>RIM-67B</Previous>
+        <ReplacedBy>RIM-67C</ReplacedBy>
+        <Note>Too big for VLS. ER = Extended Range</Note>
+    </MSL>
+    <MSL Num="125">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RIM-67D SM-2ER</Name>
+        <Code>RIM-67D</Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>1985</InServiceStart>
+        <InServiceEnd>2003</InServiceEnd>
+        <NatoName>Standard Missile 2ER BLK III</NatoName>
+        <InFalcon>No</InFalcon>
+        <Guidance>Inertial / Semi Active Radar Homing</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Extended range surface-to-air missile (SAM)</Type>
+        <Stages>2, MK 30 Mod 4 solid-fuel sustainer motor, Hercules MK 70 booster.</Stages>
+        <BoostTime> </BoostTime>
+        <Length>26 feet 2 in - 7.89 m</Length>
+        <Weight>3515 lbs - 1594 kg MSL + Booster</Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt>80,000 feet - 24,400 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>100 nm - 185 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>3.5 M</Speed>
+        <MaxG> </MaxG>
+        <Warhead>MK 115 blast-fragmentation HE</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse>MK 45 MOD 8 proximity fuze. TDD (Target Detecting Device).</Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous>RIM-67C</Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Too big for VLS. ER = Extended Range</Note>
+    </MSL>
+    <MSL Num="126">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>RIM-7 Sea Sparrow</Name>
+        <Code>RIM-7</Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Sea Sparrow</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Semi Active Radar Homing (SARH)</Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Ship-borne short-range surface-to-air missile (SAM)</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>30 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 4.0</Speed>
+        <MaxG>7</MaxG>
+        <Warhead>86 lbs HE fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="127">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Roland 1</Name>
+        <Code>Roland 1</Code>
+        <Country>Franco-German</Country>
+        <Operational>1977 -</Operational>
+        <InServiceStart>1977</InServiceStart>
+        <InServiceEnd>2005</InServiceEnd>
+        <NatoName>Roland 1</NatoName>
+        <InFalcon> </InFalcon>
+        <Guidance>Optical, Semi Automatic to Line Of Sight (SACLOS)</Guidance>
+        <RadarName> </RadarName>
+        <Type>Fair-weather, daylight-only short range SAM</Type>
+        <Stages>2</Stages>
+        <BoostTime>1.7 sec 15.3kN and 13.2 sec 1.96kN</BoostTime>
+        <Length>2.4 m / 7,87 feet</Length>
+        <Weight>65 kg / 143 lbs</Weight>
+        <MinAlt>65 feet / 20 m</MinAlt>
+        <MaxAlt>18,000 feet / 5,500 m</MaxAlt>
+        <MinRange>700 - 2000 m</MinRange>
+        <MaxRange>3.3 nm / 6.0 km</MaxRange>
+        <MaxTgtSpeed>M 1.3</MaxTgtSpeed>
+        <Speed>M 1.6</Speed>
+        <MaxG> </MaxG>
+        <Warhead>6.5 kg / 14.3 lbs HE hollow charge</Warhead>
+        <LethalRadius>6 M</LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="128">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Roland 2</Name>
+        <Code>Roland 2</Code>
+        <Country>Franco-German</Country>
+        <Operational>1978 Germany, 1981 France</Operational>
+        <InServiceStart>1978</InServiceStart>
+        <InServiceEnd>2005</InServiceEnd>
+        <NatoName>Roland 2</NatoName>
+        <InFalcon> </InFalcon>
+        <Guidance>Semi Automatic to Line Of Sight (SACLOS)</Guidance>
+        <RadarName>Siemens/Thomson-CSF</RadarName>
+        <Type>All-weather, daylight-only short range SAM</Type>
+        <Stages>2</Stages>
+        <BoostTime>1.7 sec 15.3kN and 13.2 sec 1.96kN</BoostTime>
+        <Length>2.4 m / 7,87 feet</Length>
+        <Weight>65 kg / 143 lbs</Weight>
+        <MinAlt>65 feet / 20 m</MinAlt>
+        <MaxAlt>18,000 feet / 5,500 m</MaxAlt>
+        <MinRange>700 - 2000 m</MinRange>
+        <MaxRange>3.3 nm / 6.0 km</MaxRange>
+        <MaxTgtSpeed>M 1.3</MaxTgtSpeed>
+        <Speed>M 1.6</Speed>
+        <MaxG> </MaxG>
+        <Warhead>6.5 kg / 14.3 lbs HE hollow charge</Warhead>
+        <LethalRadius>6 M</LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="129">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Sea Wolf</Name>
+        <Code> </Code>
+        <Country>UK</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Sea Wolf</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance> </Guidance>
+        <RadarName>Ship</RadarName>
+        <Type>Short range defence</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>15 feet / 4.7 m</MinAlt>
+        <MaxAlt>10,000 feet / 3,050 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>6.2 nm / 10.0 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2+</Speed>
+        <MaxG> </MaxG>
+        <Warhead>HE fragmentation</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="130">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Skyguard</Name>
+        <Code> </Code>
+        <Country>Switserland</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Skyguard Aspide SAM</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Guidance>Semi Active Homing</Guidance>
+        <RadarName>Skyguard Radar</RadarName>
+        <Type>Transportable SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange>2,250 feet / 750 m</MinRange>
+        <MaxRange>5.6 nm / 10.0 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>650 m/sec</Speed>
+        <MaxG> </MaxG>
+        <Warhead> </Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="131">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>Tayir as Sabah</Name>
+        <Code>V-750VK/VN</Code>
+        <Country>Egypt</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Guideline</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Fan Song-B, Spoon Rest, Flat Face, Side Net</RadarName>
+        <Type>medium-to-high altitude, long-range SAM</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>300 feet / 100 m</MinAlt>
+        <MaxAlt>90,000 feet / 30,000 m</MaxAlt>
+        <MinRange>2 nm</MinRange>
+        <MaxRange>13.0 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 4,0-4,5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>650 lbs</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol>2</RwrSymbol>
+        <RwrFile>SA2</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="132">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>V-300 / R-113 Berkut</Name>
+        <Code>V-300 / R-113</Code>
+        <Country>Russia</Country>
+        <Operational>1955 - 1982</Operational>
+        <InServiceStart>1955</InServiceStart>
+        <InServiceEnd>1982</InServiceEnd>
+        <NatoName>SA-1 Guild</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Yo-Yo</RadarName>
+        <Type>Medium to High Alt</Type>
+        <Stages> </Stages>
+        <BoostTime> </BoostTime>
+        <Length> </Length>
+        <Weight> </Weight>
+        <MinAlt>3,000 feet</MinAlt>
+        <MaxAlt>60,000 feet</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxRange>20.0 nm</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 2.5</Speed>
+        <MaxG> </MaxG>
+        <Warhead>450-700 kg HE</Warhead>
+        <LethalRadius> </LethalRadius>
+        <Fuse> </Fuse>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="133">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>V-750 / 1D Dvina</Name>
+        <Code>V-750 / 1D</Code>
+        <Country>Russia</Country>
+        <Operational>11 Dec 1957</Operational>
+        <InServiceStart>1957</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-2A Guideline</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Fan Song-A</RadarName>
+        <Type>medium-to-high altitude, long-range SAM</Type>
+        <Stages>2</Stages>
+        <BoostTime>1st 4-5sec / 2nd 22 sec</BoostTime>
+        <Length>10.6m / 34.8ft</Length>
+        <Weight>2287 kg / 5,041 lb</Weight>
+        <MinAlt>9800 feet / 3,000 m</MinAlt>
+        <MaxAlt>72,000 feet / 20,000 m</MaxAlt>
+        <MinRange>4.3 nm / 8 km</MinRange>
+        <MaxRange>16.2 nm / 30 km</MaxRange>
+        <MaxTgtSpeed>1,500km/h</MaxTgtSpeed>
+        <Speed>M 3</Speed>
+        <MaxG> </MaxG>
+        <Warhead>195 kg / 430 lb HE</Warhead>
+        <LethalRadius>65 m / 215 ft</LethalRadius>
+        <Fuse>Proximity / Contact / Command</Fuse>
+        <RwrSymbol>2</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="134">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>V-750AK</Name>
+        <Code>V-750AK</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-2E(AK) Guideline-Mod 4</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Fan Song-E</RadarName>
+        <Type>medium-to-high altitude, long-range SAM</Type>
+        <Stages>2</Stages>
+        <BoostTime>1st 4-5sec / 2nd 22 sec</BoostTime>
+        <Length>11.2m / 36.7ft</Length>
+        <Weight>2450 kg / 5,400 lb</Weight>
+        <MinAlt>820 feet / 250 m</MinAlt>
+        <MaxAlt>82,000 feet / 30,000 m</MaxAlt>
+        <MinRange>3.2 nm / 6 km</MinRange>
+        <MaxRange>23.2 nm / 43 km</MaxRange>
+        <MaxTgtSpeed>1,500km/h</MaxTgtSpeed>
+        <Speed>M 4</Speed>
+        <MaxG> </MaxG>
+        <Warhead>295 kg / 650 lb HE or 15kt Nuclear</Warhead>
+        <LethalRadius>65 m / 215 ft</LethalRadius>
+        <Fuse>Proximity / Contact / Command</Fuse>
+        <RwrSymbol>2</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="135">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>V-750M Volkhov</Name>
+        <Code>V-750M</Code>
+        <Country>Russia</Country>
+        <Operational>22 May 1959</Operational>
+        <InServiceStart>1959</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-2C(M) Guideline-Mod 2</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Fan Song-C</RadarName>
+        <Type>medium-to-high altitude, long-range SAM</Type>
+        <Stages>2</Stages>
+        <BoostTime>1st 4-5sec / 2nd 22 sec</BoostTime>
+        <Length>10.8m / 35.4ft</Length>
+        <Weight>2287 kg / 5,041 lb</Weight>
+        <MinAlt>1,310 feet / 400 m</MinAlt>
+        <MaxAlt>82,000 feet / 30,000 m</MaxAlt>
+        <MinRange>4.3 nm / 9 km</MinRange>
+        <MaxRange>23.2 nm / 43 km</MaxRange>
+        <MaxTgtSpeed>1,500km/h</MaxTgtSpeed>
+        <Speed>M 4</Speed>
+        <MaxG> </MaxG>
+        <Warhead>195 kg / 430 lb HE</Warhead>
+        <LethalRadius>65 m / 215 ft</LethalRadius>
+        <Fuse>Proximity / Contact / Command</Fuse>
+        <RwrSymbol>2</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="136">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>V-750SM</Name>
+        <Code>V-750SM</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-2D (SM) Guideline-Mod 3</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Fan Song-E</RadarName>
+        <Type>medium-to-high altitude, long-range SAM</Type>
+        <Stages>2</Stages>
+        <BoostTime>1st 4-5sec / 2nd 22 sec</BoostTime>
+        <Length>11.2m / 36.7ft</Length>
+        <Weight>2450 kg / 5,400 lb</Weight>
+        <MinAlt>820 feet / 250 m</MinAlt>
+        <MaxAlt>82,000 feet / 30,000 m</MaxAlt>
+        <MinRange>3.2 nm / 7 km</MinRange>
+        <MaxRange>23.2 nm / 43 km</MaxRange>
+        <MaxTgtSpeed>2,300km/h</MaxTgtSpeed>
+        <Speed>M 4</Speed>
+        <MaxG> </MaxG>
+        <Warhead>195 kg / 430 lb HE</Warhead>
+        <LethalRadius>65 m / 215 ft</LethalRadius>
+        <Fuse>Proximity / Contact / Command</Fuse>
+        <RwrSymbol>2</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="137">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>V-750V / 11D Dvina</Name>
+        <Code>V-750V / 11D</Code>
+        <Country>Russia</Country>
+        <Operational>May 1958</Operational>
+        <InServiceStart>1958</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-2B Guideline-Mod 1</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Fan Song-B</RadarName>
+        <Type>medium-to-high altitude, long-range SAM</Type>
+        <Stages>2</Stages>
+        <BoostTime>1st 4-5sec / 2nd 22 sec</BoostTime>
+        <Length>10.6m / 34.8ft</Length>
+        <Weight>2287 kg / 5,041 lb</Weight>
+        <MinAlt>9800 feet / 3,000 m</MinAlt>
+        <MaxAlt>82,000 feet / 22,000 m</MaxAlt>
+        <MinRange>4.3 nm / 8 km</MinRange>
+        <MaxRange>16.2 nm / 30 km</MaxRange>
+        <MaxTgtSpeed>1,500km/h</MaxTgtSpeed>
+        <Speed>M 3</Speed>
+        <MaxG> </MaxG>
+        <Warhead>195 kg / 430 lb HE</Warhead>
+        <LethalRadius>65 m / 215 ft</LethalRadius>
+        <Fuse>Proximity / Contact / Command</Fuse>
+        <RwrSymbol>2</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="138">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>V-750VK / 11DK</Name>
+        <Code>V-750VK / 11DK</Code>
+        <Country>Russia</Country>
+        <Operational>May 1958</Operational>
+        <InServiceStart>1958</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-2B (K) Guideline-Mod 1</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Fan Song-B</RadarName>
+        <Type>medium-to-high altitude, long-range SAM</Type>
+        <Stages>2</Stages>
+        <BoostTime>1st 4-5sec / 2nd 22 sec</BoostTime>
+        <Length>10.8m / 35.4ft</Length>
+        <Weight>2287 kg / 5,041 lb</Weight>
+        <MinAlt>1,640 feet / 500 m</MinAlt>
+        <MaxAlt>82,000 feet / 22,000 m</MaxAlt>
+        <MinRange>5.4 nm / 10 km</MinRange>
+        <MaxRange>18.3 nm / 34 km</MaxRange>
+        <MaxTgtSpeed>1,500km/h</MaxTgtSpeed>
+        <Speed>M 4</Speed>
+        <MaxG> </MaxG>
+        <Warhead>195 kg / 430 lb HE</Warhead>
+        <LethalRadius>65 m / 215 ft</LethalRadius>
+        <Fuse>Proximity / Contact / Command</Fuse>
+        <RwrSymbol>2</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="139">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>V-750VN / 13D Desna</Name>
+        <Code>V-750VN / 13D</Code>
+        <Country>Russia</Country>
+        <Operational>22 May 1959</Operational>
+        <InServiceStart>1959</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-2C Guideline-Mod 2</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Fan Song-C</RadarName>
+        <Type>medium-to-high altitude, long-range SAM</Type>
+        <Stages>2</Stages>
+        <BoostTime>1st 4-5sec / 2nd 22 sec</BoostTime>
+        <Length>10.8m / 35.4ft</Length>
+        <Weight>2287 kg / 5,041 lb</Weight>
+        <MinAlt>1,640 feet / 500 m</MinAlt>
+        <MaxAlt>98,450 feet / 27,000 m</MaxAlt>
+        <MinRange>5.4 nm / 10 km</MinRange>
+        <MaxRange>23.2 nm / 43 km</MaxRange>
+        <MaxTgtSpeed>1,500km/h</MaxTgtSpeed>
+        <Speed>M 4</Speed>
+        <MaxG> </MaxG>
+        <Warhead>195 kg / 430 lb HE</Warhead>
+        <LethalRadius>65 m / 215 ft</LethalRadius>
+        <Fuse>Proximity / Contact / Command</Fuse>
+        <RwrSymbol>2</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Shot Down Gary Powers U2</Note>
+    </MSL>
+    <MSL Num="140">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>V-755 / 20D</Name>
+        <Code>V-755 / 20D</Code>
+        <Country>Russia</Country>
+        <Operational>1969</Operational>
+        <InServiceStart>1969</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-2D Guideline-Mod 3</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Fan Song-E</RadarName>
+        <Type>medium-to-high altitude, long-range SAM</Type>
+        <Stages>2</Stages>
+        <BoostTime>1st 4-5sec / 2nd 22 sec</BoostTime>
+        <Length>10.8m / 34.5ft</Length>
+        <Weight>2450 kg / 5,400 lb</Weight>
+        <MinAlt>820 feet / 250 m</MinAlt>
+        <MaxAlt>82,000 feet / 30,000 m</MaxAlt>
+        <MinRange>3.2 nm / 7 km</MinRange>
+        <MaxRange>23.2 nm / 43 km</MaxRange>
+        <MaxTgtSpeed>2,300km/h</MaxTgtSpeed>
+        <Speed>M 4</Speed>
+        <MaxG> </MaxG>
+        <Warhead>195 kg / 430 lb HE</Warhead>
+        <LethalRadius>65 m / 215 ft</LethalRadius>
+        <Fuse>Proximity / Contact / Command</Fuse>
+        <RwrSymbol>2</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="141">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>V-759 / 5Ya23</Name>
+        <Code>V-759 / 5Ya23</Code>
+        <Country>Russia</Country>
+        <Operational>1968</Operational>
+        <InServiceStart>1968</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-2F Guideline-Mod 5</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command, HOJ</Guidance>
+        <RadarName>Fan Song-F</RadarName>
+        <Type>medium-to-high altitude, long-range SAM</Type>
+        <Stages>2</Stages>
+        <BoostTime>1st 4-5sec / 2nd 22 sec</BoostTime>
+        <Length>10.8m / 34.5ft</Length>
+        <Weight>2450 kg / 5,400 lb</Weight>
+        <MinAlt>820 feet / 250 m</MinAlt>
+        <MaxAlt>82,000 feet / 30,000 m</MaxAlt>
+        <MinRange>3.2 nm / 6 km</MinRange>
+        <MaxRange>23.2 nm / 43 km</MaxRange>
+        <MaxTgtSpeed>1,500km/h</MaxTgtSpeed>
+        <Speed>M 4</Speed>
+        <MaxG> </MaxG>
+        <Warhead>195 kg / 430 lb HE</Warhead>
+        <LethalRadius>65 m / 215 ft</LethalRadius>
+        <Fuse>Proximity / Contact / Command</Fuse>
+        <RwrSymbol>2</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="142">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>V-760 / 15D</Name>
+        <Code>V-760 / 15D</Code>
+        <Country>Russia</Country>
+        <Operational>15 May 1964</Operational>
+        <InServiceStart>1964</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-2E Guideline-Mod 4</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command</Guidance>
+        <RadarName>Fan Song-E</RadarName>
+        <Type>medium-to-high altitude, long-range SAM</Type>
+        <Stages>2</Stages>
+        <BoostTime>1st 4-5sec / 2nd 22 sec</BoostTime>
+        <Length>11.2m / 36.7ft</Length>
+        <Weight>2450 kg / 5,400 lb</Weight>
+        <MinAlt>820 feet / 250 m</MinAlt>
+        <MaxAlt>82,000 feet / 30,000 m</MaxAlt>
+        <MinRange>3.2 nm / 6 km</MinRange>
+        <MaxRange>23.2 nm / 43 km</MaxRange>
+        <MaxTgtSpeed>1,500km/h</MaxTgtSpeed>
+        <Speed>M 4</Speed>
+        <MaxG> </MaxG>
+        <Warhead>295 kg / 650 lb HE or 15kt Nuclear</Warhead>
+        <LethalRadius>65 m / 215 ft</LethalRadius>
+        <Fuse>Proximity / Contact / Command</Fuse>
+        <RwrSymbol>2</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+    <MSL Num="143">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>V-870 Vega</Name>
+        <Code>V-870</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SA-5B(2) Gammon</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Guidance>Command / SARH</Guidance>
+        <RadarName>Bar Lock-B</RadarName>
+        <Type>Long range for medium to high targets</Type>
+        <Stages>2</Stages>
+        <BoostTime>51-150 sec</BoostTime>
+        <Length>10.5 m</Length>
+        <Weight>7,018 kg</Weight>
+        <MinAlt>984 feet / 300 m</MinAlt>
+        <MaxAlt>125,000 feet / 40,000 m</MaxAlt>
+        <MinRange>1.6 nm / 3 km</MinRange>
+        <MaxRange>162 nm / 300 km</MaxRange>
+        <MaxTgtSpeed> </MaxTgtSpeed>
+        <Speed>M 4.0</Speed>
+        <MaxG> </MaxG>
+        <Warhead>215 kg / 474 lbs HE</Warhead>
+        <LethalRadius>75 m</LethalRadius>
+        <Fuse>Proximity / Command</Fuse>
+        <RwrSymbol>5</RwrSymbol>
+        <RwrFile>LAUNCH</RwrFile>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </MSL>
+</Threats>

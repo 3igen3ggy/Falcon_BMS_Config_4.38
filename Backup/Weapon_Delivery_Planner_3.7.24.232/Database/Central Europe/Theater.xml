@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Theater>
+    <Id>11</Id>
+    <Base>11</Base>
+    <Name>Central Europe</Name>
+    <NameIdx>Central Europe</NameIdx>
+    <Directory>\Desktop\SVN\BMS\data\Data\Add-On Central Europe\campaign\Ce</Directory>
+    <DefLat>48</DefLat>
+    <DefLong>2</DefLong>
+    <ThrSizeKm>1024</ThrSizeKm>
+    <North>58</North>
+    <South>48</South>
+    <East>19</East>
+    <West>2</West>
+</Theater>

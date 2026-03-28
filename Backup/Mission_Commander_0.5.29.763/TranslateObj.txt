@@ -1,0 +1,289 @@
+# AF, BMS 4.32, BMS 4.33, BMS 4.34, BMS 4.35 => 4.36
+###################################
+# Objectives
+###################################
+Highway Strip NS, Airstrip N-S
+Highway Strip EW, Airstrip E-W
+Airbase 34_16, Airbase 34_16
+Airbase 01_19, Airbase 01_19
+Airbase 02_20, Airbase 02_20
+Airbase 08_26, Airbase 08_26
+Airbase 11_29, Airbase 11_29
+Airbase 01_19, Airbase 01_19
+Airbase 12_30, Airbase 12_30
+Airbase 20_02, Airbase 20_02
+Airbase 21_03, Airbase 21_03
+Airbase 26_08, Airbase 26_08
+Airbase 30_12, Airbase 30_12
+Airbase 32_14, Airbase 32_14
+Airbase 34_16, Airbase 34_16
+Airbase 36_18, Airbase 36_18
+Airbase 02_20 Dual, Airbase 02_20 Dual
+Airbase 05_23 Dual, Airbase 05_23 Dual
+Airbase 20_02 Dual, Airbase 20_02 Dual
+Airbase 23_05 Dual, Airbase 23_05 Dual
+Airbase 34_16 Dual, Airbase 34_16 Dual
+01_19 Airbase Rvr, Airbase 01_19
+02_20 Airbase Rvr, Airbase 02_20
+08_26 Airbase Rvr, Airbase 08_26
+11_29 Airbase, Airbase 11_29
+12_30 Airbase Rvr, Airbase 12_30
+20_02 Airbase Rvr, Airbase 20_02
+21_03 Airbase, Airbase 21_03
+26_08 Airbase Rvr, Airbase 26_08
+30_12 Airbase Rvr, Airbase 30_12
+32_14 Airbase Rvr, Airbase 32_14
+34_16 Airbase Rvr, Airbase 34_16
+36_18 Airbase, Airbase 36_18
+02_20 Airbase 2 Rvr, Airbase 02_20 Dual
+05_23 Airbase 2 Rvr, Airbase 05_23 Dual
+20_02 Airbase 2 Rvr, Airbase 20_02 Dual
+23_05 Airbase 2 Rvr, Airbase 23_05 Dual
+34_16 Airbase 2 Rvr, Airbase 34_16 Dual
+Fukuoka Hill Top, Wonsan AB (Scenery)
+Fukuoka Hill Top, Wonsan AB (Admin)
+GEN AFB, Airbase 18_36
+Kimpo AB Main, Kimpo AB
+Kimpo AB Admin, Gimpo Apt (Scny)
+Kimpo AB (Scenery), Gimpo Apt (Scny)
+KOTAR Range, Range Kotar
+KOTAR Range, Range Kotar
+Kumm'ni AB, Kumm'ni AB
+Kunsan AB, Kunsan AB
+Kunsan AFB Main, Kunsan AB
+Kunsan AFB Admin, Kunsan AB (Admn)
+Kunsan AB (Admin), Kunsan AB (Admn)
+Kunsan AFB N Ammo, Kunsan AB (Scny)
+Kunsan AB (Scenery), Kunsan AB (Scny)
+Kunsan AFB S Ammo, Kunsan AB (Ammo)
+Kunsan AFB (Ammo), Kunsan AB (Ammo)
+Kunsan AB (Ammo), Kunsan AB (Ammo)
+MIRIM AFB, Mirim AB (G)
+Mirim AB, Mirim AB (G)
+545 Osan, Osan AB
+545 Osan Scenery, Osan AB (Admn)
+Osan AB (Admin), Osan AB (Admn)
+Osan Hill Top, Osan AB (Scny)
+Osan AB (Scenery), Osan AB (Scny)
+SEOUL AFB, Seoul AB
+Seoul Airport, Seoul AB
+SUNAN, Sunan Airport
+Sunan Scenery, Sunan Apt (Scny)
+Sunan ARP (Scenery), Sunan Apt (Scny)
+Sunan Hill Top, Sunan ARP (Scenery)
+Suwon AFB, Suwon AB
+505 Wonsan, Wonsan AB
+505 Wonsan Forest, Wonsan AB (Scenery)
+505 Wonsan Fences, Wonsan AB (Admin)
+Wonsan Hill Top, Wonsan AB (Scenery)
+Wonsan Hill Top, Wonsan AB (Admin)
+Wonsan AB (Scenery), Kalma Apt (Scny)
+Wonsan AB (Admin), Kalma Apt (Admn)
+Carrier VINSON, Carrier VINSON
+Carrier ROOS, Carrier Roosvelt
+Carrier ROOSEVELT, Carrier Roosvelt
+Carrier ENTER, Carrier Enterprise
+Carrier ENTERPRISE, Carrier Enterprise
+Carrier KUZNET, Carrier Kusnetsov
+Carrier KUZNETSOV, Carrier Kusnetsov
+Carrier TRUMAN, Carrier VINSON
+Carrier WASHING, Carrier VINSON
+Carrier LINCOLN, Carrier VINSON
+Carrier STENNIS, Carrier VINSON
+Carrier IKE, Carrier VINSON
+Carrier KENNEDY, Carrier VINSON
+Carrier KITTY, Carrier VINSON
+Carrier CONNIE, Carrier VINSON
+Carrier AMERICA, Carrier VINSON
+Carrier MIDWAY, Carrier VINSON
+Carrier INDEP, Carrier VINSON
+Carrier RANGER, Carrier VINSON
+Carrier SARAT, Carrier VINSON
+Carrier2, Carrier ROOSEVELT
+Carrier3, Carrier VINSON
+Carrier4, Carrier VINSON
+Carrier5, Carrier VINSON
+Carrier6, Carrier VINSON
+Carrier7, Carrier VINSON
+Carrier8, Carrier VINSON
+Carrier9, Carrier VINSON
+Carrier10, Carrier VINSON
+Carrier11, Carrier VINSON
+Carrier12, Carrier VINSON
+Carrier13, Carrier VINSON
+Carrier14, Carrier VINSON
+Carrier15, Carrier VINSON
+Carrier16, Carrier ENTERPRISE
+Anyang Vortac, Air Nav Beacon
+Tsuhima Vortac, Air Nav Beacon
+Mokpo Vortac, Air Nav Beacon
+Yangyang Vortac, Air Nav Beacon
+Wonju Vortac, Air Nav Wonju
+Navigation Beaco, Air Nav Beacon
+Navigation Beacon, Air Nav Beacon
+
+Banghwa Bridge, Banghwa Bridge
+Banghwa Bridge Bridge, Banghwa Bridge
+Armybase 1, Army Base 
+304 BioWeapons, 304 Bio Weapons 
+KOEX, COEX
+Underground Fact, Und Factory
+
+23B Village, Village 07
+A37 Village, Village 11
+D37 Village, Village 21
+12D Village, Village 24
+127 Village, Village 25
+
+D3B Town, Town 02
+D3E Town, Town 04
+D47 Town, Town 06
+ECF Town, Town 08
+D35 Town, Town 09
+23D Town, Town 14
+248 Town, Town 17
+A35 Town, Town 19
+A3E Town, Town 24
+A48 Town, Town 26
+307 Town, Town 30
+138 Town, Town 38
+125 Town, Town 42
+
+Suncheon City, City 03
+
+835 City, City 02
+30F BURB1, City 03
+30F Burb1, City 03
+30F Burb 1, City 03
+ECF BURB1, City 09 
+ECF Burb 1, City 09
+30D BURB1, City 15
+30D Burb 1, City 15
+E8E Burb 1, City 18
+B2F BURB1, City 19
+B2F Burb 1, City 19
+B2B Burb 1, City 20
+B27 Burb 1, City 21
+C27 BURB1, City 22
+C27 Burb 1, City 22
+C2B BURB1, City 24
+C2B Burb 1, City 24
+E8F BURB1, City 25
+E8F Burb 1, City 25
+ECD Burb 1, City 29
+EED BURB1, City 31
+EED Burb 1, City 31
+EE7 BURB1, City 32
+EEF BURB1, City 32
+EEF Burb 1, City 32
+C2F City, City 34
+307 City, City 35
+
+ 
+EE4 BURB1, EE4 Burb1 
+303 BURB1, 303 Burb1
+C2F BURB1, C2F Burb 1
+83A BURB1, 83A Burb 1
+237 BURB1, 237 Burb 1
+C2F BURB1, C2F Burb 1
+23A BURB1, 23A Burb 1
+435 BURB1, 435 Burb 1
+437 BURB1, 437 Burb 1
+43B BURB1, 43B Burb 1
+C2F BURB1, C2F Burb 1
+307 BURB1, 307 Burb 1
+30B BURB1, 30B Burb 1
+30E BURB1, 30E Burb 1
+E8B BURB1, E8B Burb 1
+E8E BURB1, E8E Burb 1
+307 BURB1, 307 Burb 1
+B2BBURB1, B2B Burb 1
+B27 BURB1, B27 Burb 1
+C2A BURB1, C2A Burb 1
+EC2 BURB1, EC2 Burb 1
+EC5 BURB1, EC5 Burb 1
+ECA BURB1, ECA Burb 1
+ECD BURB1, ECD Burb 1
+ECE BURB1, ECE Burb 1
+
+242 Bridge 1, Bridge 02
+D42 Bridge 3, Bridge 03
+A41 Bridge 1, Bridge 05
+A42 Bridge 1, Bridge 06
+62D Bridge 5, Bridge 17
+62D Bridge 6, Bridge 18
+6E6 Bridge 7, Bridge 36
+75D Bridge 7, Bridge 42
+784 Bridge 1, Bridge 45
+78B Bridge 1, Bridge 46
+131 Bridge 2, Bridge 47
+131 Bridge 4, Bridge 49
+241 Bridge 2, Bridge 53
+241 Bridge 3, Bridge 54 
+242 Bridge 3, Bridge 57
+242 Bridge 4, Bridge 58
+A41 Bridge 2, Bridge 59
+A41 Bridge 3, Bridge 60
+A42 Bridge 2, Bridge 62
+A42 Bridge 3, Bridge 63
+A42 Bridge 4, Bridge 64
+D41 Bridge 2, Bridge 66
+D41 Bridge 4, Bridge 67
+D42 Bridge 1, Bridge 68
+
+00C Port, Port 01
+731 Port, Port 03
+79D Port, Port 06
+79B Port, Port 06
+
+D5A HQ, Headquarter 02
+
+Depot, Depot 01
+402 Depot, Depot 03
+84B Depot, Depot 05
+ECA Depot, Depot 06
+D36 Depot, Depot 08
+A35 Depot, Depot 14
+
+Army Base, Army Base 01
+A52 Army Base, Army Base 02
+252 Army Base, Army Base 03
+D51 Army Base, Army Base 07
+D52 Army Base, Army Base 06
+A35 Army Base, Army Base 09
+
+FEF Radar, Radar Site 01
+D2A Radar, Radar Site 03
+D3A Radar, Radar Site 03
+2DF Radar, Radar Site 07
+F00 Radar, Radar Site 08
+F0F Radar, Radar Site 09
+A34 Radar, Radar Site 10
+A3E Radar, Radar Site 11
+BCF Radar, Radar Site 14
+
+817 Opium Ref, Chemical Plant 05
+
+436 Cho Ad Ref, Refinery 03
+
+238 Factory 3, Factory 02
+418 Factory, Factory 04
+805 Factory 2, Factory 21
+80B Factory 2, Factory 23
+C21 Factory, Factory 30
+
+Highway, Intersection 02
+D37 Junction, Intersection 20
+
+Border, Border 01
+
+D35 Family Nuc, Nuclear Plant 02
+D3A Fusion Farms, Nuclear Plant 03
+D3C Chernobyl II, Nuclear Plant 04
+
+Seoul Tower, Arch and Statue
+
+
+
+
+

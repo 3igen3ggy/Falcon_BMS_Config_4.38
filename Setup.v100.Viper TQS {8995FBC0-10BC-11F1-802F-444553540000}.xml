@@ -649,9 +649,9 @@
           <SoundID>-1</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimDoNothing</Callback>
+          <Callback>SimRadarBarScanChange</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>0</SoundID>
+          <SoundID>-1</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -673,9 +673,9 @@
           <SoundID>-1</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimDoNothing</Callback>
+          <Callback>SimRadarCursorZero</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>0</SoundID>
+          <SoundID>-1</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -764,14 +764,14 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimDoNothing</Callback>
+          <Callback>SimRadarFreeze</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>0</SoundID>
+          <SoundID>-1</SoundID>
         </Assgn>
         <Assgn>
-          <Callback>SimDoNothing</Callback>
+          <Callback>SimRadarSnowplow</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>0</SoundID>
+          <SoundID>-1</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1220,9 +1220,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimRadarCursorZero</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -4062,9 +4062,9 @@
             <SoundID>-1</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimDoNothing</Callback>
+            <Callback>SimRadarBarScanChange</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
+            <SoundID>-1</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4086,9 +4086,9 @@
             <SoundID>-1</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimDoNothing</Callback>
+            <Callback>SimRadarCursorZero</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
+            <SoundID>-1</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4177,14 +4177,14 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimDoNothing</Callback>
+            <Callback>SimRadarFreeze</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
+            <SoundID>-1</SoundID>
           </Assgn>
           <Assgn>
-            <Callback>SimDoNothing</Callback>
+            <Callback>SimRadarSnowplow</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
+            <SoundID>-1</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4633,9 +4633,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimRadarCursorZero</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Theater>
+    <Id>13</Id>
+    <Base>13</Base>
+    <Name>Kuwait</Name>
+    <NameIdx>Kuwait</NameIdx>
+    <Directory>\Add-On Kuwait\Campaign\</Directory>
+    <DefLat>25.09686</DefLat>
+    <DefLong>42.11698</DefLong>
+    <ThrSizeKm>0</ThrSizeKm>
+    <North>35</North>
+    <South>25</South>
+    <East>54</East>
+    <West>42</West>
+</Theater>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Theater>
+    <Id>14</Id>
+    <Base>14</Base>
+    <Name>Nordic</Name>
+    <NameIdx>Nordic</NameIdx>
+    <Directory>\Add-On Nordic\Campaign-NTO\</Directory>
+    <DefLat>63.12</DefLat>
+    <DefLong>9.8735</DefLong>
+    <ThrSizeKm>1024</ThrSizeKm>
+    <North>73</North>
+    <South>63</South>
+    <East>40</East>
+    <West>9</West>
+</Theater>

@@ -1,0 +1,1006 @@
+New Features and changes.
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.24 build 232 (12 Feb 2023)
+Map
+- Added, Crotale and Roland to thread options.
+
+Datacard
+- Fixed, Block and T/O fuel value in case the flight was already airborne and used fuel.
+- Changed, In case the flight is already airborne, the T/O fuel is no longer shown.
+- Added, Initial Fuel is now correctly shown on the datacard. (Was already implemented for Performance).
+
+POP-UP
+- Changed, clicking on the "N", "E", "S", "W" label, sets the heading directly.
+
+HADB
+- Fixed, Drawing HADB close in map
+- Changed, clicking on the "N", "E", "S", "W" label, sets the heading directly.
+- Changed, clicking on the "0", "30", "60", "90" label, sets the angle off directly.
+
+TOSS
+- Fixed, Drawing TOSS close in map
+- Changed, clicking on the "N", "E", "S", "W" label, sets the heading directly.
+- Changed, clicking on the "0", "30", "60", "90" label, sets the angle off directly.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.22 build 227 (01 Jan 2023)
+Main
+- Fixed, HDR message.
+
+Threats
+- Database updates.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.21 build 226 (21 Nov 2022)
+Kneeboard
+- Added, couple of protections.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.21 build 225 (25 Oct 2022)
+Main
+- Possible fix for Win11.
+
+Threats
+- Added, fields InServiceStart, InServiceEnd to replace Operantional.
+- Added, Previous which indicates the previous entity which was replaced by this one.
+- Added, ReplacedBy which indicated the entity it has been replaced by. 
+- Added, Missile Classification (Info what AIM means)
+- Database updates.
+- Fixed a couple of minor issues.
+
+Datacard
+- Changing the Alternate airport you get promted if you want to move the last STPT to this position. 
+This has only effect on the DTC, not the mission file!
+- Kneeboard fixed Aiport schedule overlapping.
+- Changing to a different flight inside the package now correctly clears the target data.
+
+DTC
+- Added, button to rebuild the complete STPT list. Data is taken from the flight selected.
+- Fixed, make sure the MFD is set even if it is not found in the Callsign.ini
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.20 build 216 (17 Jun 2022)
+Main
+- With chart creation, in case a freq is "zero" dashes are written.
+- Some charts updated.
+
+Settings
+- Added, option to reload the WDP database.
+
+Datacard
+- Possible fix for crash in Multi kneeboard.
+
+Map
+- Line drawing feature, small details.
+
+DTC
+- If PPT type was not found in the PPT.ini, it will be indicated by red color. Instead of the type, the PPT code is shown.
+
+Database
+- Korea Airport and Area database update.
+- Balkan Airport and Area database update.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.19 build 210 (08 May 2022)
+Datacard
+- Fixed, Multi Kneeboard saving the Airport ground and parking chart.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.19 build 208 (24 Apr 2022)
+Main
+- For each runway a Parking Chart can be added to the database.
+- Parking chart can be viewed, saved with the datacards or added to the Kneeboard.
+- Chart display enlarged and made possible to zoom.
+- Improved, showing ground chart.
+
+Datacard
+- Fixed, showing the formation for each STPT.
+- For Dep, Arr and Altn Apt. Added button to see the Ground Chart.
+- Added, Option to toggle between feet, nm and km for the Attack profile (VIP/VRP).
+- Added, Saving the datacard will also save a list of Friendly airbase frequencies.
+- Possible fix for ATIS and METAR with MIL Codes.
+
+Map
+- String drawing fixed in case you select a theater which is not in your BMS install.
+- Fixed, Selection of tanker tracks.
+- Fixed, Map measure feature. (track was wrong)
+- Enabled Coordination grid drawing.
+
+DTC
+- Navoffset Modesel is now saved as "none", "vip" or "vrp".
+This needs BMS build 25688 or higher to work. Else it saves as old style 0,1,2.
+- If the Runway center and threshold coordinates are not found in the WDP database, they are now calculated from the database.
+
+PPT
+- Battalions are checked if they are on an Objective. If so, the first Radar PT is used for the location of the PPT.
+- PPT now has local elevation added.
+- Thread location looks for the Objective SAM Radar PT to get its position. If not found, back to old which is battalion X/Y in Km.
+
+Database
+- Airport X/Y flipped where needed.
+
+Kneeboard
+- In case the picture is horizontal (Kneeboard is vertical) the picture is rotated.
+Left will be rotated counter clockwise and right side clockwise.
+- Fixed, Kneeboards not saving Airport schedule.
+- Added, If Ground chart is missing, it is now created.
+- Added, If Parking chart is missing, it is now created.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.18 build 180 (02 Oct 2021)
+Main
+- WDP own database changed to directories for each Theater.
+By just adding/removing this directory you can add/remove the theater to WDP.
+The XML files included are also made easier to manage
+Maps have also been moved to each theater directory.
+For the maps there is a fallback in case it can't find the map. Fallback is first looking for the map in the map directory. If still not found it goes for the empty map.
+- Added, theater Middle East large size.
+
+Datacard
+- Make sure to check the last landing STPT to get the alternate airport.
+
+DTC
+- Fix for shift in Open STPT 2
+- Added ablility to manualy set the VIP, VRP and OAs
+
+Loadout
+- Fixed, checking of exact fuel loaded for each aircraft in a flight.
+Selecting the seat of a AC in the flight can be different now for fuel
+
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.17 build 161 (04 Mrt 2021)
+Main
+- Fix for loading twx file version 3
+- Fix for crash while loading the timestap fmaps
+- 3DDataDir is checked and used for reading HDR file as well for DDS files (aka kneeboards)
+
+Map
+- Fix for Own Side SAMs not showing on the map
+
+Munition
+- Munition database changed to XML
+
+Threat
+- Threat database changed to XML
+- RWR symbol and sounds for Search, Accuire and Tracking radar.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.16 build 152 (15 Jan 2021)
+Main
+- Some minor fixes
+- KTO airport database updated
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.15 build 151 (15 Aug 2020)
+Main
+- Added, Protection against errors/mistakes in the BMSRack.dat
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.15 build 150 (28 Jul 2020)
+Main
+- Fixed, Flight selection Package target was not working.
+- Added, alternate loading of UCD XML file. This is used in case of use of illegal charaters in the file.
+
+Map
+- Added, Elevation for Airport data.
+
+Datacard
+- Changed, TCN settings for flights with 2 aircraft.
+
+DTC
+- Improved, DTC loading for missions using Precision STPTs.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.14 build 140 (01 Mrt 2020)
+Main
+- Fixed, Loading weather TWX file was switched off.
+- When changing to different BMS install, no need anymore to restart WDP.
+- Fix crash due to campaign time above 24-25 days.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.13 build 137 (09 Jan 2020)
+Main
+- Changed, Better handling for TvT
+- Added, Loading of database change files 
+
+Loadout
+- Possible fix for ctd with loadout.
+
+Datacard
+- Added, Kneeboard also saves the texture for the Mirage 2000 (1988.dds)
+- Added, When saving the datacard the kneepad 8019.dds is also saved with in the datacard location.
+- Changed, AWACS UHF on the datacard from preset 5 to tactical preset 6
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.12 build 125 (25 May 2019)
+Main
+- Added, Autoload mission also works for training missions now.
+- Fixed missing splash screen.
+
+Datacard
+-In case there is no working TCN (range zero) on the airport itself, WDP will search for a TCN within 6nm of the airport.
+If found it will show this with an added "*" to mark that its not located on the airport.
+- Fixed, when changing a tanker, the correct UHF is set.
+
+DTC
+- Fixed, MFD selection might have been for a wrong BMS version.
+- DTC lines changed from 5 to 6 per line.
+
+Performance
+- Fixed, Climb values where not showing for some high weight cases.
+
+Loadout
+- Added, extra protection in case the rack data is missing.
+- Added, Pylons and racks are visible. Move your mouse over the circle to see the pylon/rack name.
+- Changed, Fuel used is only taken from the block fuel in case the Flight is at wpt 1 (homebase).
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.11 build 117 (03 May 2019)
+Datacard
+- Update Kneeboard can now select "Original". This will look for a jpg file with the theater name from the selection box in the Main screen and "_left" or "_Right" added.
+Example "Korea_Left.jpg"
+- Added more code protection for Kneeboards 
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.10 build 115 (24 Apr 2019.)
+Map
+- Frequencies on the map are now taken from the stationIls file. If this file or the entry can not be found, the database values are used.
+- If the stationIls is found, the APP frequency is shown on the map. Backup is tower UHF or VHF.
+
+Datacard
+- Fixed, Valid "Y" tacan not showing on datacard.
+- Datacard now show GND and APP freq for airports.
+- Extra notes shows freqs for Dep, Dest and Altn apts.
+
+Database
+- Fukuoka ICAO and IATA changed to RJFF and FUK
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.8 build 101 (12 Feb 2018)
+Map
+- Fixed, possible bug with mouse contact.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.7 build 100 (29 Jan 2018)
+Datacard
+- Fixed, saving and printing of Briefing and Weather.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.7 build 99 (21 Dec 2017)
+Main
+- Airport database updates
+- Slight improvement in team side handling.
+
+Performance
+- Enabled the loadout when a mission has been loaded. You can change the loadout which will be seen on the datacard. However, it will not change the mission.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.6 build 96 (16 Sep 2017)
+Map
+- Fixed, Intel officer not showing own SAMs and some smaller types like SA13.
+- Fixed, Intel officer and autoPPT.
+
+Datacard
+- Fixed, Setting the correct loadout for the aircraft in the flight.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.5 build 92 (30 Aug 2017)
+Main
+- Added, Nordic theater.
+- Added, Option to save the datacard pictures with a name for use with Helios.
+
+Datacard
+- Added, Possible fix for Airport Departure Schedule.
+- Added, double clicking on the DMPI, you can change the exact building. This screen as tiles now.
+
+DTC
+- Added, Target selection has tiles in the objective screen.
+
+Performance
+- Changed, Hardcoded F-16 names for different varients.
+- Fixed, In some cases wrong Pylons and Racks being used for calculation of weight and drag.
+- Changed, Pylons and Racks included in the weight and drag again.
+
+Database
+- Fixed, faulty reading of ICAO name.
+ 
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.4 build 76 (18 Feb 2017)
+Main
+- Changed, If a theater has been found, the base coordinates are coming for the theater itself, not the database.
+
+DTC
+- Fixed, For the Wpn Target List the name of the building was not always showing.
+
+Map
+- Fixed, ILS values.
+
+Database
+- Changed, Airport database changed to XML
+- Updates for Korea theatre.
+- Updates for Iberia theatre.
+- Updates for ITO theatre.
+- Updates for Balkans theatre.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.3 build 70 (19 Apr 2016)
+Main
+- Changed, Registry reading.
+
+Datacard
+- Changed, When Flightplan STPT has Action Timing/Holding it is called "Timing" if Arrival time and Departure time is the same.
+It is called "Holding" if it actually has time for holding.
+
+Coordinationcard
+- Fixed, Holding STPT for package is showing correct STPT. It shows "No Hold" if it didn't find a Holding STPT with holding time.
+ 
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.2 build 69 (30Oct2015)
+Main
+- Changed, Airport charts can be .gif as well as .png
+- Changed, All Korea airport charts updated.
+- Changed, Database updated.
+- Fixed, Callsign not being saved.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.1 build 68 (02Oct2015)
+Datacard
+- Fixed, little map not drawn in some cases.
+- Added, Kneeboard update function. It will save the 8019.dds with the selected datacards.
+- Fixed, Possible ctd in weather list.
+- Fixed, Naming of mission and ini wrong name.
+- Added, New feature the user can select (found under Settings) if the saved Datacard is compatible with Kneeboard Updater.
+If you are reading the Datacard with a remote PC or PDA, its recommended to have this feature switched OFF.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.7.0 build 62 (15Jul2015)
+Datacard
+- Fixed, Correct directory location for saving datacard.
+- Added, Option to select different seat in a flight. This will set the loadout and preformance of the selected aircraft.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.6.9 build 59
+Main
+- Added, Trayicon with reset location. This will set the main window location to 0,0.
+- Added, Auto Load Last Mission. Found under settings, will automatically load the last used mission on startup.
+
+Datacard
+- Added, Airport schedule. With this function you can quickly see all the AC that will depart the airbase.
+- Fixed, In Package, wrong mission name/type.
+- Fixed, Better support for carriers. Showing the carrier name where needed. 
+- Fixed, using "Different Flight" the package was not filled.
+
+Performance
+- Fixed, when starting WDP, the selection of the AC type was not always working.
+- Fixed, When starting WDP, the cruise altitude was blank, now set to the saved value again.
+- Added, Taxi fuel can be set and the take off fuel will be changed. Default is 200lbs.
+- Fixed, Loading of extra pylon on station 3/7 (temp fix).
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.6.8 build 47
+Main
+- Fixed, Changing the falcon location, the location of the database is updated.
+
+Selection
+- Fixed, Searching for package always selecting last pacakge.
+
+Datacard
+- Added, Weather briefing to the Briefing part. Still a bit WIP.
+- Changed, some improvements to the ATIS.
+- Changed, When switching to the datacard, the little map is re-drawn.
+
+DTC
+- Fixed, Weapon burst altitude loading of values smaller than 1000'
+- Added, extra check for bad number in DTC for HUD color.
+- Fixed, Crash when you have STPTs in your callsign.ini for threater X and changing to theater Y.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.6.7 build 38
+Main
+- Added, Kuwait Theater.
+- Added, Pillars Of Hercules Theater (POH 0.7.0).
+
+DTC
+- Fixed, Changing a Line coordinate, correct update of values.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.6.6 build 34
+Main
+- Fixed, Loading fueltanks on the F-16 adds the fuel amount.
+- Changed, Code for stupid theater naming moved to external file.
+- Added, if WDP can't find the correct strings.idx, you will get the option to point to the correct file.
+- Added, CET theater.
+- Changed, Falcon version and location recognition changed to find future releases.
+
+Map
+- Changed, When changing an area by selecting a stored area, it is set in both Callsign.ini as Mission.ini
+- Added, Elevation for cursor position.
+
+Datacard
+- Changed, When changing the Dep, Arr or Altn runway you will see the ILS before commiting the runway.
+- Fixed, After starting WDP, the DTC values for the weapons are shown on the datacard.
+- Changed, if the airport name is empty, you can no longer change the runway. First select an airport.
+- Fixed, Clicking on the takeoff setting, the pitch and power boxes have the current value.
+- Added, Target elevation added to Primairy and Secondairy coordinates.
+
+DTC
+- Changed, Radio/Nav tab. Changing the airport in the selection screen will show you the data before selecting.
+- Added, Radio/Nav tab airport elevation from terrain and DB are compared.
+- Added, Line STPTs can be change by inserting coordinates.
+- Changed, When changing an area by selecting a stored area, it is set in both Callsign.ini as Mission.ini
+- Changed, PPT.ini management moved to seperate tab.
+- Added, Targetlist, target information now contains the target elevation.
+- Fixed, Problems showing airports for theaters created by Falcon Online.
+- Fixed, Included switches in DTC file.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.6.5
+Main
+- Added, Under Options the new feature "ATO Target List" added.
+- Changed, When loading a mission from a different theater, the side will be reset and you will be asked which country you want to join.
+- Fixed, Problems while giving the program an invalid callsign.
+- Fixed, OA1 bearing on DTC and Datacard.
+
+Map
+- Fixed, When you select a different flight in the datacard,the correct "Show other flight in package" selections become availible.
+
+Datacard
+- Changed, The name of the save datacard pictures got a Letter added. This to make sure the alphabetical sorting is better. This to improve scrolling on mobile devices.
+- Changed, Flight lead TCN is linked to Package TCN. Change one and the other is changed automatically.
+- Changed, When selecting a different flight, the selected runways are remembered.
+- Fixed, correct ATIS creation.
+
+Selection
+- Added, New feature "ATO Target List".
+- Changed, Force selected country.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.6.4
+Main
+- Changed, Messages for loading backup datacard and ini file removed. (when loading a mission)
+- Added, Mission Briefing.
+- Added, Ikaros theater.
+- Changed, If you expand the ATO for selecting a flight, this is remembered and used the next time.
+- Added, Flightplan formation reading compatible with latest code.
+- Added, The menu got a "File" now. This contains "Open Mission", 5x "Recent" and "Exit".
+
+Map
+- Added, Cursor bullseye position.
+- Fixed, Drawing Tanker tracks as a box. 
+
+Datacard
+- Changed, "Load Datacard" button will only load the saved values of the selected card. (Briefing, Datacard, Coordination)
+- Fixed, showing correct parameters for HADB and TOSS.
+- Changed, removed "Open Mission" button.
+- Changed, EWS Programs are linked and saved in the DTC.
+- Fixed, Bullseye location for support flights (Tanker, AWACS)
+- Added, internal fuel label.
+- Changed, internal fuel and total fuel is also shown for non-F16 aircrafts.
+
+DTC
+- Added, EWS programs comments.
+- Fixed, when loading a backup datacard, the weapon data in the DTC is correctly updated.
+
+TOSS
+- Fixed, Target visible in HUD. 
+
+Threats
+- Fixed, NATO SAM missiles where showing the AAA.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.6.3
+Map
+- Added, Option to show the other flights inside the package.
+- Added, Line between Arrival and alternate airport (dashed line).
+- Changed, When a line contacts a STPT where the Nr is located, the Nr is placed on the left.
+
+Datacard
+- Fixed, when selection a formation for all STPTs, the last STPT was not changed.
+- Added, For the flightplan, option to change between formation or swing check.
+- Added, Selection of Formation or swing on the Datacard is saved to the backup file.
+- Added, Selection of LAT/LONG or swing on the Coordinationcard is saved to the backup file.
+- Added, New fields for EWS. (WDP remembers your setting when closing the program)
+- Changed, Weapon part to show both Profile 1 and Profile 2.
+- Added, New fields for Class, MAR, DR, DOR, FR and ROE. (WDP remembers your setting when closing the program)
+- Changed, Flight part: Notes changed to "Conf-LSR" and "Mode23"
+- Changed, When saving a backup of the datacard,the map will be saved in the same directory.
+- Changed, Switching to a different flight will remember you changes.
+- Fixed, When selecting a different flight redraws the map. 
+- Changed, flight and package IDM nrs. They are now the ones the AI uses.
+- Added, selection for TO spec. No need to go to the Performance tab to change.
+
+Coordinationcard
+- Added, a "*" is added in front of a callsign if the coordination card belongs to that flight.
+- Added, Transition Alt for each flight.
+- Changed, The holding point for a flight can be written as text. So you can also write: KSN Tacan.
+- Changed, Holding STPT from "2" to "STPT 2" 
+- Added, Standaard QNH. Depending on selection of "M/SM" switch.
+- Changed, Holding alt is written in FL or feet depending on transition level.
+- Added, Spins fields.
+- Added, Option to load pictures for the Reform Plan, Holding Plan, Ingress Plan and Target Plan.
+- Added, Swing check can be done with coordinates or brg/dist. Click on the top of the table to change.
+
+DTC
+- Fixed, Ripple values.
+
+Performance
+- Changed, Cruise alt is updated when using enter key.
+- Added, when loading a mission, the STPT-2 alt is transfered to the cruise alt.
+
+Pop-Up
+- Fixed, Corrected map position when using large map.
+
+HADB
+- Fixed, Corrected map position when using large map.
+
+TOSS
+- Fixed, Corrected map position when using large map.
+
+TargetList
+- Fixed, populating the objective list.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.6.2
+Datacard
+- Added, Laser TGP and Laser LST code. Changing these will also change them in the DTC.
+
+DTC
+- Added, Laser TGP and Laser LST code (Systems tab). Changing these will also change them on the Datacard.
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.6.1
+Main
+- Fixed, Crash when NavOffsets are set to VIP/VRP and STPT zero is selected.
+- Changed, check for onwside considers that as country A you are controlled by country B. (expl: In Korea, USA belongs to ROK) 
+- Changed, Using new icon made by Scuby.
+- Added, Airport ground charts for EMF Greece have been added. (RedDog's charts) 
+- Added, Large theatre support.
+- Added, EMF theatre including all airport data.
+
+Map
+- Added, when touching an VORTAC while VORTAC max range is selected, the range ring is filled.
+- Added, Seperate option to for Airports and Strips.
+- Added, Option to see the VORTACs, including the max range circles.
+- Added, Airport, Strips and Vortac are now shown as icons.
+- Added, Opacity trackbar value is saved when WDP is closed.
+- Added, Loaded map is transformed to 4096. Double the resolution.
+
+Datacard
+- Fixed, saving the datacard in A5 size.
+
+Commcard
+- Improved flightplan usage.
+
+DTC
+- Added, SNSR_PWR RALT.
+- Added, INT Lightning DED.
+- Added, in Radio/Nav the Transition Level is added to the airport info.
+ 
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.6.0
+Main
+- Fixed, finding mission weather file.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.5.9
+Main
+- Theater popup removed. Theater is now recognized depending on where the mission is located.
+
+Database
+- BFS threatre has its own airport entries.
+- Added RedFlag as theater. Using data from Korea theater. 
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.5.8
+Main
+- Added, to the Flight Selection, you now also see the target of the package.
+- Database has been updated for ITO 0.99
+- New Israel map.
+- Fixed, correct working of save location after closing WDP.
+
+Datacard
+- Fixed, ALOW, MSL, Bingo bug.
+- Added, Refuel STPTs have TOS for arrival and departure. Arrival time in hh:mm:ss and Departure in mm:ss.
+- Added, Military color code explanation.
+
+Map
+- Added, Lights indicating if the Callsign.ini or Mission.ini need to be saved (Same as in the DTC tab)
+- Fixed, Drawing off correct line from callsign.ini or mission.ini
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.5.7.0
+Main
+- Added, More protection against bad/errors in databases.
+
+Settings
+- Added, showing you the location of the database that has been loaded.
+- Added, showing you the weather file loaded.
+
+Datacard
+- Added, New button "Different Flight". With this function you can jump into a different flight without reloading the mission.
+
+DTC
+- Added, location of the PPT.ini (PPT Management)
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.5.6
+Munition
+- Fixed, possible bug that caused a CTD during startup.
+
+DTC
+- Changed code so backup files saved by a previous version can be loaded again.
+- Fixed, saving of the EWS data.
+- Fixed, loading bug when the DTC does not contain the NavOffsets: Modesel
+- Added, Comm1/2 Comments.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.5.5
+DTC
+- Fixed, saving of the EWS data.
+- Fixed, loading bug when the DTC does not contain the NavOffsets: Modesel
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.5.4
+DTC
+- Some layout changes.
+- New, different DTC reading/writing code.
+
+Map
+- Added, Option to show and select Search radars that are located on objectives like airbase or Depots ect.
+- Added, Option to fill the circles with color.
+- Fixed, when using clear all line, labels are also cleared.
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.5.3.0
+Map
+- Added, Info is shown when the mouse hits a STPT.
+- Added, Info is shone when the mouse hits as Line point.
+
+DTC
+- Radion/NAV. When there is no TCN availible, the button is disabled.
+- Added, Clear ALL button for the MFD tab.
+- Added, UHF/VHF preset channel comments.
+
+Datacard
+- Added, You can now add a Pri/Sec target if you don't have a strike STPT. If there is a strike STPT, the DTC STPT will be placed at the selected building.
+- Fixed, Flightplan heading 360/180 swapped.
+- Added, When saving the datacard, the airport layouts for the Dep, Arr and Altn airport are copied to the datacard save directory.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.5.1
+Main
+- Added, icon made by Scuby.
+- Fixed, ground chart of Onch'on airfield was not shown. 
+
+Map
+- Fixed, When you have Show PPT not check, and changing a SAM type, PPTs would be shown anyway.
+- Fixed, When a PPT is located at an Airport, PPTs unchecked, you would not see the Airport label when you go over the apt with the mouse.
+
+Datacard
+- If no mission is loaded, you are no longer able to change the fuel. It is not possible to calculate fuel if there 
+is no exact flightplan.
+- If no mission is loaded, you are no longer able to change the Speed/Mach. It is not possible to calculate Speed/Mach if there 
+is no exact flightplan.
+- Changed, If no mission is loaded, pressing the ATIS, Mil/Civ or Km/Sm button will no longer clear the ATIS.
+- If you have loaded a backup datacard, including a backup mission.ini, you can press "Save DTC". This will copy the loaded ini to Falcon.
+- Fixed, CTD when clicking on the secondairy DMPI when there is not secondairy target.
+
+Comm card
+- Expanded the items that get saved and loaded when you create a backup datacard file.
+
+DTC
+- Fixed, STPT change to Push, GNDStrk, Split, Intercept. NAVStrk, S&D or Sweep would result is a Precision STPT. 
+- Added, Tooltips for EWS, Navoffset, Systems and Weapons.
+
+Performance
+- Changed Danish MLU has a PW220 engine.
+- Activated the performance if no mission is loaded.
+
+Threats
+- RWR sound are now taken from the falcon install, if they are not found they are taken from the files supplied by WDP.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.5.0
+Main
+- Added, "Open Mission" to option menu.
+
+Map
+- Fixed, own PPT circles not showing.
+
+Datacard
+- Added, some extra fields.
+- Added, change formation. Formations are stored in an external file with the name: Formations.ini
+
+Commcard
+- Added, some extra fields that can be filled and used.
+- Added, Save/load function to import export different parts of the commcard.
+- Added, Option to select the STPT in the route list (stpt coordinates)
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.4.8
+Main
+- Locations like the Falcon install can be found at "Settings".
+
+Map
+- Added, Intel Officer get info from JSTAR. Every battalion which is max 200nm from the JSTAR is spotted. 
+JSTAR must be on station to work.
+- Added, Option PPT for SA-8, SA-13, SA-15, 2S6 and Skyguard.
+- AutoPPT will not add short range (<5nm) SAMs if there are more that 15 Threats along the route.
+
+TOSS
+- Fixed, VIP/VRP.
+
+Datacard
+- Fixed, ctd when clicking on DMPI if there is not flight loaded.
+- Datacard and commcard have the option to be saved as A5 format. This will give you 2 datacards and 2 commcards.
+  Go to "setting" to select what you want.
+
+DTC
+- Added, Target list. This is a list of 100 target infos that can be used for weapons. They contain coordinates, elevation data ect.
+You can make a backup of this list and load it again. This also makes it possible to share the list with other pilots.
+- STPT coordinates got an extra section. This section is the name of the objective and the feature.
+- Move the selection for the falcon location and tdf file to "settings".
+- Swapped, AIM-120 Small and large.
+- TargetList save as jpg function added.
+- Fixed, no longer get the question of you want to add the SAM to the list when the SAM code is blank.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.4.7
+Main
+- Extensive airport database overhaul.
+
+Selection
+- If there are no flights in the team you had selected before, you are asked which team you want to join.
+
+DTC
+- Added more protection code for loading the PPT.ini
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.4.6
+Main
+- Added, Location of the main screen is stored when closing. Main screen start at this position when starting again.
+- Added, Under "Setting" you will find "Datacard Dir". With this you can set the main directory were your datacards are saved.
+- Added, Settings screen.
+- Added, When you load a mission you are asked which team you want to join. Only flights from this team can be selected.
+
+Map
+- Added, Intel officer is checking if a SAM is emitting. If SAM is not Spotted but is emitting, the intel officer knows it location.
+- Fixed, Airport chart for Battle Of Sinai.
+- Added, first JSTAR required SAMs. You need an JSTAR active to spot these SAMs.
+- Added, Option to see the active SAMs on your own side.
+- Added, Option to see the SAMs that are spotted but have no radar anymore.
+- Improved adding and deleting PPTs.
+- Added, When having the mouse over a PPT, the battalion name is shown with all the other data. 
+- Fixed, Measure point location.
+
+Datacard
+- Fixed, small bugs loading a backup datacard.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.4.4
+Main
+- Added, Intel officer will also show you SAM type Hawk.
+- Added, Panama theater.
+- Added, Missing map of Nevada.
+- Airport database has been updated.
+- Added, NavOffsets on the main map. These are the values in the DTC file.
+
+DTC
+- Fixed, EWS CMDS Mode and program not loaded correctly from callsign.ini or backup file.
+- Fixed, extra zero was added for coordinates smaller than 100.
+- Added, In Radio/Nav, you will see the threshold and center of rwy coordinates.
+- Added, Clicking on the thr/cnt rwy label, you can set these coordinates to any chosen STPT in the DTC.
+- Added, In Radio/Nav, Runway TODA, LDA and Width.
+- Fixed, changing the SGL/PAIR and FUSE will set the same value on the Datacard.
+- Added, If there are active NavOffsets in the DTC, you will see those values on the NavOffset tab.
+You can clear the values by setting the Reference selector to "Off" and saving the DTC. 
+
+Datacard
+- Improved the timer that will save the DTC. WDP will remain responsive during the timer.
+Clicking on the timer will stop the timer.
+- Fixed, Switching resolution correct draw of the small map.
+- Added, If there are active NavOffsets in the DTC, you will see those values on the Datacard.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.4.3
+Map
+- Fixed, info label position.
+- Tanker tracks can be added as lines by clicking on the corner of the tanker track.
+- Added new button. "Clear Lines" this will clear all the lines from the callsign.ini and TE.ini. Save function as in the DTC part.
+- Mouse over a PPT (red circle) will show the PPT nr, Type and coordinats.
+
+DTC
+- Fixed, loading a backup PPT file.
+
+Datacard
+- Improved handeling of flightplan fuel.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.4.2
+Main
+- Added The Battle For Sinai as a theater. WDP database for Israel theater is used.
+- When you change a theater, a check is done if the present Apt belongs to that theater. If not, Apt will be changed.
+- If a stations+ils.dat file is found for the selected theater, the UHF, VHF and TCN values are taken for this file. The rest of the data comes from the WDP database.
+- Updated the charts (RedDog) for Korea.
+- hour 24 changed to show 00.
+
+Datacard
+- When you change a arrival or departure apt, the type of PPT you are asked to place is now an Airbase or BaseDefenceZone PPT.
+
+Loadout
+- Added loading of TGP and HTS.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.4.1
+Recon Screen
+- Fixed centering when opening the screen.
+
+Datacard
+- You can double click the flightplan action. This will open the Recon screen and you can select the target building for that STPT.
+Using the "apply" button will set the cooridnates for the STPT in the DTC file.
+
+Loadout
+- Fixed, GPS guided munition not showing in the totals.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.4
+
+New feature.
+- The target name (Objective) is shown for the primairy and secondary target. Example: Wonsan
+The DMPI is shown for the primairy and secondary target. Example: Runway
+The DMPI coordinates are show for the primairy and secondary target.Example: N39,13.196 / E128,45.612
+You can change the DMPI for the primairy and secondairy target by double clicking the respective DMPI field.
+Doing so, you will get a new screen where you will see the features for the target.
+You can select the object you want by clicking in the list or on the "Recon" screen.
+- Screen size can be adjusted. 1280x960, 1600x1200, 1920x1080
+
+DTC
+- If you change the coordinates of a TE.ini STPT, you will be asked if you want to coppy the STPTs to the callsign.ini
+- Fixed, Chart button not enabled in some cases.
+- Fixed, saving of ALOW MSL.
+- Precision STPT are now labeled as "Precision". This used to be blank. 
+
+Datacard
+- Fixed bug selecting airports.
+- Fixed, bug with saving datacard. With no TE.ini present, the title of the mission was not saved.
+- Values for the Primary target are now given.
+- Double clicking a DMPI label will give you a list of the buildings for the target. You can set the building you would like and hit "Apply".
+- For the primairy target, when you do hit "Apply" in the building list, the values are set on the datacard and the coordinates are copied to your callsign.ini and te.ini. 
+- For all airbases, added the word "Airbase" after the name. For better distinction between airbase and city.
+- For all airstrips, added the word "Airstrip" after the name. For better distinction between airstip and city.
+
+MAP
+- Yellow PPT circles can be selected and than added with left mouse click.
+- Fixed, error when map needs to be drawn outside the map area.
+- Fixed, map re-draw when selecting SA-5.
+- Fixed, PPT precision.
+
+Loadout
+- Compatibility with the Israel theatre.
+
+Performance
+- Added the Israel F-16 types.
+- Fixed, Chart button not enabled in some cases.
+
+PopUp
+- Fixed, Code got broken and the points where not placed correctly.
+
+HADB
+- Fixed, Values are transfered to the DTC correctly if you save the DTC from the HADB page.
+
+TOSS
+- Fixed, VRP range in NM.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.3
+
+Main
+- Added Israel theater including maps (color and white)
+
+Performance
+- Added explanation for the climb.
+
+DTC
+- When adding a PPT and the PPT name is nothing, the question for adding the type is skipped.
+- Brought back the Copy to Callsign function for STPT, Lines and PPT. This will copy the values from the TE.ini to Callsign.ini
+- Manually adding a STPT in the DTC, STPT is now on the correct nr in the list.
+
+Datacard
+- Added missing OwnSide check for AWACS.
+
+Database
+- Added all Israel airports.
+
+Map
+- After you have loaded a mission you will get SAM name and coordinates if the mouse is touching a SAM.
+- You will get the airport informantion if the mouse is touching a airport. Airports need to be selected.
+- Left clicking when you have the airport information, you will be shown the airport diagram.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.2
+
+Datacard
+- Saving the DTC, from the Datacard, and the mission loaded is a campaign, WDP will no longer save a mission.ini
+- Changed behaviour while working with campaigns. When you select a flight after loading a campaign, you will be asked if you have saved the DTC for this flight in BMS.
+Anwsering "No" will load the flightplan data from the Campaignsaved file (.CAM) and copies the STPT to the Callsign.ini. This makes sure you have the same STPT if you reload the DTC in game.
+Anwsering "Yes" will load the Callsign.ini again and the DTC values are used on the map. The Flightplan on the Datacard still comes from the Campaignsaved file (.CAM)
+If you anwser "Yes", but you had saved the DTC for a different flight, the Flightplan on the Datacard is not the same as the one in the DTC.
+Reloading the DTC while in the 3D world will give you the wrong STPTs.
+- Added a timer button. Clicking this button will start a timer that will save the callsign.ini every 30sec for a timespan of about 3min.
+This can be used if you fly campaigns.
+
+Map
+- Fixed, Lines and Tankertracks work independently. 
+- Fixed, Lines between STPTs when the STPT are Arrival Apt, Alternate Apt and Tanker point are not drawn anymore.
+- When loading a TE, the map shows the mission.ini data and the mission checkbox is checked. 
+
+Flight selection
+- Added Expand/Collapse all buttons.
+
+Flightplan
+- Fixed, For sweep flights, the action stpt now shows Sweep.
+
+Database
+- Change country Macadonia to FYROM.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.1
+
+Map
+- Fixed, in some cases the STPT nr where not correct.
+
+Datacard
+- Fixed, Map will show correct flightplan.
+- Increased font size for printing and saved jpg.
+
+Coordination card
+- Increased font size for printing and saved jpg.
+
+Loadout
+- Fixed, weapons that have a count of zero will not be shown anymore.
+
+------------------------------------------------------------------------------------------------------------------------
+Weapon Delivery Planner 3.0
+
+Main
+- Redone the print function, it will print from an image now. The datacard or the Coordinationcard is printed depending on which one you have selected.
+- Moved the selection of the Coordinationcard to the Toolstrip.
+
+Mission
+- Fixed, CTD is some cases when you load a mission where you have no tanker in the air.
+
+DTC
+- Added 2 more tabs, Lines and Pre-Planned Thread. Moved the data accordingly.
+- Added management for the PPT.ini. You can now add, change and delete PPT types as you like.
+- WDP will read your PPT.ini and takes the Names and ranges from that file.
+- When you load a DTC mission.ini, WDP will look at the directory where the file is located and set the theatre accordingly.
+- Radion/Nav tab, added "Create PPT type" button. WDP will check if there is already a PPT type for the selected APT.
+If not, this button becomes active. Clicking the button will add a PPT type for this APT in the PPT.ini. 
+
+Datacard
+- When you load a mission, WDP will look at the directory where the file is located and set the theatre accordingly.
+- Removed the ROE and Mission Notes.
+- Added a map to the datacard. Clicking on the map switches between colour and white map.
+- Selecting PopUp, HADB or TOSS will also set the map from that tab.
+- Popup, TrackingTime is saved and loaded from the backup file.
+- Popup, Target STPT is saved and loaded from the backup file.
+- Selecting an Arrival or Alternate APT by clicking on the respective label, WDP will check if there is already a PPT type for the selected APT.
+If not, you will be asked if you want to add it to the PPT.ini. 
+
+Coordination card.
+- Fixed, Some labels where not cleared when you had less than 5 flights in a package.
+- Replace the black colour to gray.
+
+Map
+- Added new white maps for Korea, Balkans and Aegean theatre.
+
+PopUp
+- Changed combo boxes to sliders. Gives better options to choose from.
+
+TOSS
+- Changed combo boxes to sliders. Gives better options to choose from.
+
+HADB
+- Changed combo boxes to sliders. Gives better options to choose from.
+
+Loadout
+- Fixed, transparent box.
+

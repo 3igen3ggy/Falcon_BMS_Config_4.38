@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Theater>
+    <Id>8</Id>
+    <Base>8</Base>
+    <Name>EMF</Name>
+    <NameIdx>emf</NameIdx>
+    <Directory>\Add-On EMF\campaign\emf\</Directory>
+    <DefLat>28.79372</DefLat>
+    <DefLong>17.49486</DefLong>
+    <ThrSizeKm>2048</ThrSizeKm>
+    <North>48</North>
+    <South>28</South>
+    <East>45</East>
+    <West>17</West>
+</Theater>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Theater>
+    <Id>10</Id>
+    <Base>10</Base>
+    <Name>Ikaros</Name>
+    <NameIdx>Ikaros</NameIdx>
+    <Directory>\Add-On Ikaros\Campaign\Ikaros\</Directory>
+    <DefLat>33.07186</DefLat>
+    <DefLong>19.5069</DefLong>
+    <ThrSizeKm>1024</ThrSizeKm>
+    <North>43</North>
+    <South>33</South>
+    <East>32</East>
+    <West>19</West>
+</Theater>

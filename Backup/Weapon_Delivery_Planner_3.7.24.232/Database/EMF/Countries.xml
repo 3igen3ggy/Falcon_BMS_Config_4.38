@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Countries>
+    <Country Num="0">
+        <Id>1</Id>
+        <Name>Albania EMF</Name>
+    </Country>
+    <Country Num="1">
+        <Id>2</Id>
+        <Name>Bulgaria EMF</Name>
+    </Country>
+    <Country Num="2">
+        <Id>3</Id>
+        <Name>Cyprus EMF</Name>
+    </Country>
+    <Country Num="3">
+        <Id>4</Id>
+        <Name>Egypt EMF</Name>
+    </Country>
+    <Country Num="4">
+        <Id>5</Id>
+        <Name>Georgia EMF</Name>
+    </Country>
+    <Country Num="5">
+        <Id>6</Id>
+        <Name>Greece EMF</Name>
+    </Country>
+    <Country Num="6">
+        <Id>7</Id>
+        <Name>Hungary EMF</Name>
+    </Country>
+    <Country Num="7">
+        <Id>8</Id>
+        <Name>Israel EMF</Name>
+    </Country>
+    <Country Num="8">
+        <Id>9</Id>
+        <Name>Italy EMF</Name>
+    </Country>
+    <Country Num="9">
+        <Id>10</Id>
+        <Name>Jordan EMF</Name>
+    </Country>
+    <Country Num="10">
+        <Id>11</Id>
+        <Name>Lebanon EMF</Name>
+    </Country>
+    <Country Num="11">
+        <Id>12</Id>
+        <Name>Lybia EMF</Name>
+    </Country>
+    <Country Num="12">
+        <Id>13</Id>
+        <Name>Moldova EMF</Name>
+    </Country>
+    <Country Num="13">
+        <Id>14</Id>
+        <Name>Romania EMF</Name>
+    </Country>
+    <Country Num="14">
+        <Id>15</Id>
+        <Name>Russia EMF</Name>
+    </Country>
+    <Country Num="15">
+        <Id>16</Id>
+        <Name>Saudi Arabia EMF</Name>
+    </Country>
+    <Country Num="16">
+        <Id>17</Id>
+        <Name>Syria EMF</Name>
+    </Country>
+    <Country Num="17">
+        <Id>18</Id>
+        <Name>Turkey EMF</Name>
+    </Country>
+    <Country Num="18">
+        <Id>19</Id>
+        <Name>FYROM EMF</Name>
+    </Country>
+</Countries>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Theater>
+    <Id>0</Id>
+    <Base>0</Base>
+    <Name>Korea</Name>
+    <NameIdx>Korea</NameIdx>
+    <Directory>\Campaign\SAVE\</Directory>
+    <DefLat>33.84376</DefLat>
+    <DefLong>123</DefLong>
+    <ThrSizeKm>1024</ThrSizeKm>
+    <North>44</North>
+    <South>33</South>
+    <East>136</East>
+    <West>123</West>
+</Theater>

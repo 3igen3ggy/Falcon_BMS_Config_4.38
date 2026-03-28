@@ -1,0 +1,2973 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Threats>
+    <RAD Num="0">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>1L13-3 Nebo-SV</Name>
+        <Code>1L13-3</Code>
+        <Country>Russia</Country>
+        <Operational>1992</Operational>
+        <InServiceStart>1992</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Box Spring</NatoName>
+        <InFalcon> </InFalcon>
+        <Type>mobile 2-D early warning radar</Type>
+        <Mounted>Truck-Mounted Ural 4320</Mounted>
+        <RadarType> </RadarType>
+        <Power>120-140 kW (peak)</Power>
+        <Band>A / B</Band>
+        <Frequency>30-300 MHz</Frequency>
+        <UsedBy> </UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>60km at 500m, 250km at 10,000m, 350km at 27,000m</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>The 1L13-3 Nebo radar ECCM features include pulse to pulse frequency agility. It is designed to reject chaff automatically.</Note>
+    </RAD>
+    <RAD Num="1">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>1L22</Name>
+        <Code>1L22</Code>
+        <Country>Russia</Country>
+        <Operational>1970</Operational>
+        <InServiceStart>1970</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Parol</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>IFF</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power> </Power>
+        <Band> </Band>
+        <Frequency> </Frequency>
+        <UsedBy>P-18 radar</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange> </MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="2">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>1RL144(TAR)</Name>
+        <Code>1RL144 / 1RL144M</Code>
+        <Country>Russia</Country>
+        <Operational>1990</Operational>
+        <InServiceStart>1990</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Hot Shot</NatoName>
+        <InFalcon>On every 2S6M</InFalcon>
+        <Type>Target Acquisition Radar</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power> </Power>
+        <Band>E</Band>
+        <Frequency>2-3 GHz</Frequency>
+        <UsedBy>2S6M</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF>1RL138</IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>18-20km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>A2</RwrSymbol>
+        <RwrFile>2S6</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="3">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>1S32</Name>
+        <Code>1S32</Code>
+        <Country>Russia</Country>
+        <Operational>1965</Operational>
+        <InServiceStart>1965</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Pat Hand</NatoName>
+        <InFalcon>SA-4</InFalcon>
+        <Type>Fire Control Radar</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power> </Power>
+        <Band>H</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-4 / 2K11 Krug</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>85 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>4</RwrSymbol>
+        <RwrFile>PatHand</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="4">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>1S51M3-2</Name>
+        <Code>1S51M3-2</Code>
+        <Country>Russia</Country>
+        <Operational>1971</Operational>
+        <InServiceStart>1971</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Land Roll</NatoName>
+        <InFalcon>On every SA-8</InFalcon>
+        <Type>Target Tracking Radar</Type>
+        <Mounted>BAZ-5937</Mounted>
+        <RadarType>Monopulse</RadarType>
+        <Power>270KW</Power>
+        <Band>H Acquisition / J Tracking</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-8 / 9K33</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF>1S51</IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>30 km</MaxDetectionRange>
+        <MaxTrackingRange>20 km</MaxTrackingRange>
+        <Rotation>33 RPM</Rotation>
+        <RwrSymbol>8</RwrSymbol>
+        <RwrFile>SA8</RwrFile>
+        <RwrFileAcq>SA8acq</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="5">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>1S91</Name>
+        <Code>1S91</Code>
+        <Country>Russia</Country>
+        <Operational>1967 - Present</Operational>
+        <InServiceStart>1967</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Straight Flush</NatoName>
+        <InFalcon>SA-6</InFalcon>
+        <Type>Fire Control, Short range Target Acquisition</Type>
+        <Mounted>On a tracked 2P25 chassis</Mounted>
+        <RadarType>Continuous Wave</RadarType>
+        <Power>25kW</Power>
+        <Band>G / H acq,  I tracking</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-6</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt>10,000 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>75 km / 47 nm</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>6</RwrSymbol>
+        <RwrFile>SA6</RwrFile>
+        <RwrFileAcq>SA6acq</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="6">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>30N6</Name>
+        <Code>30N6</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>1978</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Flap Lid A (1)</NatoName>
+        <InFalcon>SA-10A*</InFalcon>
+        <Type>Tracking and engagement radar</Type>
+        <Mounted>Trailer-mounted</Mounted>
+        <RadarType>Phased array</RadarType>
+        <Power> </Power>
+        <Band>I / J</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-10A / S-300P</UsedBy>
+        <TrackTargets>4</TrackTargets>
+        <EngageTargets>4</EngageTargets>
+        <IFF> </IFF>
+        <MinAlt>25 m</MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>50-100 nm / 90-120 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>10</RwrSymbol>
+        <RwrFile>FlatLid</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="7">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>30N6E</Name>
+        <Code>30N6E</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Flap Lid B</NatoName>
+        <InFalcon>SA-20B*</InFalcon>
+        <Type>Tracking and engagement radar</Type>
+        <Mounted>Truck mounted</Mounted>
+        <RadarType>Phased array</RadarType>
+        <Power> </Power>
+        <Band>H / I / J</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-20B / S-300PMU / S-300PMU-2</UsedBy>
+        <TrackTargets>6</TrackTargets>
+        <EngageTargets>6</EngageTargets>
+        <IFF> </IFF>
+        <MinAlt>25m</MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>120nm / 200km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>10</RwrSymbol>
+        <RwrFile>FlatLid</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="8">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>30N6E2 / 64N6</Name>
+        <Code>30N6E2 / 64N6</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>1978</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Tombstone</NatoName>
+        <InFalcon>SA-20B*</InFalcon>
+        <Type>3-D long-range surveillance radar</Type>
+        <Mounted>Truck mounted</Mounted>
+        <RadarType>Phased array</RadarType>
+        <Power> </Power>
+        <Band>H / I / J</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-10 / S-300PMU / S-300PMU-2</UsedBy>
+        <TrackTargets>6</TrackTargets>
+        <EngageTargets>6</EngageTargets>
+        <IFF> </IFF>
+        <MinAlt>25m</MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>120nm / 200km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>10</RwrSymbol>
+        <RwrFile>FlatLid</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="9">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>36D6</Name>
+        <Code>36D6</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Tin Shield</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Surveillance Radar</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power>350kW-1.23mW</Power>
+        <Band>E / F</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-10, S-300P</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF>Yes</IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>112-224nm / 180/360 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile>tinshield</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="10">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>36N85 / 30N6E1</Name>
+        <Code>36N85 / 30N6E1</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Flap Lid B-E1</NatoName>
+        <InFalcon>SA-10*</InFalcon>
+        <Type>Target Engagement</Type>
+        <Mounted> </Mounted>
+        <RadarType>Phased array</RadarType>
+        <Power> </Power>
+        <Band>H / J</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-10</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt>25 m</MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>200 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>10</RwrSymbol>
+        <RwrFile>FlatLid</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="11">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>5N62</Name>
+        <Code>5N62</Code>
+        <Country>Russia</Country>
+        <Operational>1967</Operational>
+        <InServiceStart>1967</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Square Pair</NatoName>
+        <InFalcon>SA-5, S-200</InFalcon>
+        <Type>Fire Control, Target Tracking Radar</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power> </Power>
+        <Band>H</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-5</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>270 km / 168nm</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>5</RwrSymbol>
+        <RwrFile>Sa5</RwrFile>
+        <RwrFileAcq>Sa5Acq</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="12">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>5N63</Name>
+        <Code>5N63</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Flap Lid A (2)</NatoName>
+        <InFalcon>SA-10*</InFalcon>
+        <Type>Target Engagement</Type>
+        <Mounted> </Mounted>
+        <RadarType>Multi-function phased-array</RadarType>
+        <Power> </Power>
+        <Band>I / J</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-10A</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt>25 m</MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>50-100 nm / 90-120 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>10</RwrSymbol>
+        <RwrFile>FlatLid</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="13">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>5N69 Salute</Name>
+        <Code>5N69</Code>
+        <Country>Russia</Country>
+        <Operational>1982</Operational>
+        <InServiceStart>1982</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Big Back</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Very long-range EW</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power> </Power>
+        <Band>D</Band>
+        <Frequency>1-2 GHz</Frequency>
+        <UsedBy>SA-5</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>372 nm / 600 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile>BigBack</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="14">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>5N87</Name>
+        <Code>5N87</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Back Trap</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Type>Very long-range EW</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power> </Power>
+        <Band>E</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-5</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>230 nm / 370 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>3-6 rpm</Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="15">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>64N6</Name>
+        <Code>64N6 / 91N6</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>1978</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Big Bird</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Surveillance, Target Detection Radar</Type>
+        <Mounted> </Mounted>
+        <RadarType>Phased Array Aquisition Radar</RadarType>
+        <Power> </Power>
+        <Band>C / F</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-10C / S-300PMU-1</UsedBy>
+        <TrackTargets>300</TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>300km / 186nm</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>10</RwrSymbol>
+        <RwrFile>BigBird</RwrFile>
+        <RwrFileAcq>BigBird</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="16">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>76N6</Name>
+        <Code>76N6</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Clam Shell</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Low alt search and Target Acquisition</Type>
+        <Mounted> </Mounted>
+        <RadarType>Continues wave pulse doppler</RadarType>
+        <Power>1.4 kW</Power>
+        <Band>I</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-10 / S-300PMU</UsedBy>
+        <TrackTargets>180</TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>93-120 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile>ClamShell</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="17">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9S15 Obzor</Name>
+        <Code>9S15</Code>
+        <Country>Russia</Country>
+        <Operational>1992</Operational>
+        <InServiceStart>1992</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Bill Board A</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Search Radar</Type>
+        <Mounted> </Mounted>
+        <RadarType>Phased array</RadarType>
+        <Power> </Power>
+        <Band>F</Band>
+        <Frequency>3-4 GHz</Frequency>
+        <UsedBy>SA-12A, SA-12B, S-300V</UsedBy>
+        <TrackTargets>250</TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange>10 km</MinRange>
+        <MaxDetectionRange>250 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile>Billboard</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="18">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9S16</Name>
+        <Code>9S16</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Flat Box B</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Passive EW</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power> </Power>
+        <Band> </Band>
+        <Frequency> </Frequency>
+        <UsedBy> </UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange> </MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="19">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9S18M1 Kupol-M</Name>
+        <Code>9S18M1</Code>
+        <Country>Russia</Country>
+        <Operational>2013</Operational>
+        <InServiceStart>2013</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Snow Drift</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>EW, Target Acquisition Radar</Type>
+        <Mounted> </Mounted>
+        <RadarType>Phased array and diploe antenna</RadarType>
+        <Power> </Power>
+        <Band>A / B</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-11, SA-17</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>100-160km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile>SnowDrift</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="20">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9S18M2 Kupol-2</Name>
+        <Code>9S18M2</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Snow Drift-C</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>EW, Target Acquisition Radar</Type>
+        <Mounted> </Mounted>
+        <RadarType>Phased array and diploe antenna</RadarType>
+        <Power> </Power>
+        <Band>A / B</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-11, SA-17</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>100-160 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="21">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9S19 Imbir</Name>
+        <Code>9S19</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>High Screen</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>High-power sector-scan radar</Type>
+        <Mounted> </Mounted>
+        <RadarType>3-D Passive Electronically Scanned Array (PESA)</RadarType>
+        <Power> </Power>
+        <Band> </Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-12 / S-300V</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>200 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile>highscreen</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="22">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9S32</Name>
+        <Code>9S32</Code>
+        <Country>Russia</Country>
+        <Operational>1983</Operational>
+        <InServiceStart>1983</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Grill Pan</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type> </Type>
+        <Mounted> </Mounted>
+        <RadarType>3-D Passive Electronically Scanned Array (PESA)</RadarType>
+        <Power> </Power>
+        <Band>I / J</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-12A / 9M83</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>150 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>12</RwrSymbol>
+        <RwrFile>GrillPan</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="23">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9S32-1</Name>
+        <Code>9S32-1</Code>
+        <Country>Russia</Country>
+        <Operational>1988</Operational>
+        <InServiceStart>1988</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Grill Pan (1)</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Missile guidance station</Type>
+        <Mounted> </Mounted>
+        <RadarType>3-D Passive Electronically Scanned Array (PESA)</RadarType>
+        <Power> </Power>
+        <Band>I / J</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-12B / 9M82</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>150 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>12</RwrSymbol>
+        <RwrFile>GrillPan</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="24">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9S32M</Name>
+        <Code>9S32M</Code>
+        <Country>Russia</Country>
+        <Operational>Early 2010s</Operational>
+        <InServiceStart>2013</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Grill Screen</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Missile guidance station</Type>
+        <Mounted> </Mounted>
+        <RadarType>3-D Passive Electronically Scanned Array (PESA)</RadarType>
+        <Power> </Power>
+        <Band>I / J</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-23</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt>0m</MinAlt>
+        <MaxAlt>30480m</MaxAlt>
+        <MinRange>0.2km</MinRange>
+        <MaxDetectionRange>166.7km km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="25">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9S35</Name>
+        <Code>9S35</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Fire Dome</NatoName>
+        <InFalcon>On every SA11</InFalcon>
+        <Type>Laucher tracker, Illuminator</Type>
+        <Mounted> </Mounted>
+        <RadarType>Monopulse</RadarType>
+        <Power> </Power>
+        <Band>H / I</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-11</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt>15 m</MinAlt>
+        <MaxAlt>22,000m</MaxAlt>
+        <MinRange>3 km</MinRange>
+        <MaxDetectionRange>32 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>D</RwrSymbol>
+        <RwrFile>Sa11</RwrFile>
+        <RwrFileAcq>Sa11Acq</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="26">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9S80 Ovod</Name>
+        <Code>9S80</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>1983</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Dog Ear</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Target-acquisition radar</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power> </Power>
+        <Band>F / G</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-13</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>80km / 50nm</MaxDetectionRange>
+        <MaxTrackingRange>35 km</MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>O</RwrSymbol>
+        <RwrFile>DogEar</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="27">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>9S86</Name>
+        <Code>9S86</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Snap Shot</NatoName>
+        <InFalcon>On every SA-13</InFalcon>
+        <Type>Range and radial velocity finding radar</Type>
+        <Mounted>On each TEL</Mounted>
+        <RadarType>Coherent pulse Doppler</RadarType>
+        <Power> </Power>
+        <Band>Millimetric band</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-13</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>10 km / 6 nm</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>O</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="28">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Albis</Name>
+        <Code> </Code>
+        <Country>Germandy</Country>
+        <Operational>1977</Operational>
+        <InServiceStart>1977</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Albis Gepard Tracking</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Tracking Radar</Type>
+        <Mounted>On Gepard</Mounted>
+        <RadarType>Monopulse Pulse-Doppler</RadarType>
+        <Power> </Power>
+        <Band>Ku</Band>
+        <Frequency> </Frequency>
+        <UsedBy>Gepard</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF>MSR 400 Mk XII</IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange>75m</MinRange>
+        <MaxDetectionRange> </MaxDetectionRange>
+        <MaxTrackingRange>16km</MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>A2</RwrSymbol>
+        <RwrFile>GunDish</RwrFile>
+        <RwrFileAcq>GunDishAcq</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Semi-circular shape</Note>
+    </RAD>
+    <RAD Num="29">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>AN/MPQ-33/39</Name>
+        <Code>AN/MPQ-33/39</Code>
+        <Country>USA</Country>
+        <Operational>1959 - 1971</Operational>
+        <InServiceStart>1959</InServiceStart>
+        <InServiceEnd>1971</InServiceEnd>
+        <NatoName>CWIR Basic Hawk</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Continuous Wave Illumination Radar (CWIR)</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power>200W</Power>
+        <Band>X</Band>
+        <Frequency>10-10.25 GHz</Frequency>
+        <UsedBy>Basic Hawk</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange> </MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy>AN/MPQ-57</ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="30">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>AN/MPQ-34</Name>
+        <Code>AN/MPQ-34</Code>
+        <Country>USA</Country>
+        <Operational>1959 - 1971</Operational>
+        <InServiceStart>1959</InServiceStart>
+        <InServiceEnd>1971</InServiceEnd>
+        <NatoName>CWAR Basic Hawk</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Continuous Wave Acquisition Radar (CWAR)</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse</RadarType>
+        <Power>200W</Power>
+        <Band>K</Band>
+        <Frequency>10GHz</Frequency>
+        <UsedBy>Basic Hawk</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>35nm</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy>AN/MPQ-48</ReplacedBy>
+        <Note>Low-level threat detection</Note>
+    </RAD>
+    <RAD Num="31">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>AN/MPQ-35</Name>
+        <Code>AN/MPQ-35</Code>
+        <Country>USA</Country>
+        <Operational>1959-1971</Operational>
+        <InServiceStart>1959</InServiceStart>
+        <InServiceEnd>1971</InServiceEnd>
+        <NatoName>PAR Basic Hawk</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Pulse Acquisition Radar</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse</RadarType>
+        <Power>1KW-450KW</Power>
+        <Band>L</Band>
+        <Frequency>1250-1350 MHz</Frequency>
+        <UsedBy>Basic Hawk</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>100km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>20 RPM</Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy>AN/MPQ-50</ReplacedBy>
+        <Note>High-medium-altitude threat detection</Note>
+    </RAD>
+    <RAD Num="32">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>AN/MPQ-37</Name>
+        <Code>AN/MPQ-37</Code>
+        <Country>USA</Country>
+        <Operational>1959 - 1971</Operational>
+        <InServiceStart>1959</InServiceStart>
+        <InServiceEnd>1971</InServiceEnd>
+        <NatoName>ROR Basic Hawk</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Range-only radar (ROR)</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse</RadarType>
+        <Power>200W</Power>
+        <Band>K</Band>
+        <Frequency>10GHz</Frequency>
+        <UsedBy>Basic Hawk</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>35nm</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy>AN/MPQ-51</ReplacedBy>
+        <Note>Provide ranging data when the other radars are jammed by countermeasures</Note>
+    </RAD>
+    <RAD Num="33">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>AN/MPQ-43</Name>
+        <Code>AN/MPQ-43</Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>HiPAR Nike</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Type>High Power Illuminator (HIPAR)</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse, Doppler</RadarType>
+        <Power> </Power>
+        <Band> </Band>
+        <Frequency> </Frequency>
+        <UsedBy>Nike Hercules</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange> </MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>N</RwrSymbol>
+        <RwrFile>NikeScr</RwrFile>
+        <RwrFileAcq>NikeAcq</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="34">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>AN/MPQ-46</Name>
+        <Code>AN/MPQ-46</Code>
+        <Country>USA</Country>
+        <Operational>1971 - 1983</Operational>
+        <InServiceStart>1971</InServiceStart>
+        <InServiceEnd>1983</InServiceEnd>
+        <NatoName>HiPIR Hawk</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>High Power Illuminator Radar (HiPIR)</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse, Doppler</RadarType>
+        <Power> </Power>
+        <Band>J</Band>
+        <Frequency>10-20Ghz</Frequency>
+        <UsedBy>Hawk</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>99km / 62nm</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>H</RwrSymbol>
+        <RwrFile>hawkscr</RwrFile>
+        <RwrFileAcq>hawkacq</RwrFileAcq>
+        <Previous>AN/MPQ-33/29</Previous>
+        <ReplacedBy>AN/MPQ-57</ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="35">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>AN/MPQ-48</Name>
+        <Code>AN/MPQ-48</Code>
+        <Country>USA</Country>
+        <Operational>1971 - 1979</Operational>
+        <InServiceStart>1971</InServiceStart>
+        <InServiceEnd>1979</InServiceEnd>
+        <NatoName>ICWAR Hawk</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Improved Continuous Wave Acquisition Radar (ICWAR)</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power> </Power>
+        <Band> </Band>
+        <Frequency> </Frequency>
+        <UsedBy>Hawk</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>69km / 43nm</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous>AN/MPQ-34</Previous>
+        <ReplacedBy>AN/MPQ-55</ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="36">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>AN/MPQ-49 FAAR</Name>
+        <Code>AN/MPQ-49</Code>
+        <Country>USA</Country>
+        <Operational>1977 - 1991 (2003)</Operational>
+        <InServiceStart>1971</InServiceStart>
+        <InServiceEnd>2003</InServiceEnd>
+        <NatoName>FAAR</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Type>Forward Area Alerting Radar (FAAR)</Type>
+        <Mounted>Gama Goat's trailer</Mounted>
+        <RadarType>Lightweight early warning radar</RadarType>
+        <Power>5 kW</Power>
+        <Band>D</Band>
+        <Frequency> </Frequency>
+        <UsedBy>Chaparral, Vulcan</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF>AN/TPX-50 Mark XII IFF receiver</IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>14.8km / 8.0nm</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>C</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>AN/TPQ-43 radar</Note>
+    </RAD>
+    <RAD Num="37">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>AN/MPQ-50 PAR</Name>
+        <Code>AN/MPQ-50</Code>
+        <Country>USA</Country>
+        <Operational>1971-1998</Operational>
+        <InServiceStart>1971</InServiceStart>
+        <InServiceEnd>1998</InServiceEnd>
+        <NatoName>PAR Hawk</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Pulse Acquisition Radar (PAR)</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse</RadarType>
+        <Power>1KW</Power>
+        <Band>C</Band>
+        <Frequency>500-1,000MHz</Frequency>
+        <UsedBy>Hawk</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>104km / 65nm (Phase III)</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>20 rpm</Rotation>
+        <RwrSymbol>50</RwrSymbol>
+        <RwrFile>hawkscr</RwrFile>
+        <RwrFileAcq>hawkscr</RwrFileAcq>
+        <Previous>AN/MPQ-35</Previous>
+        <ReplacedBy>AN/MPQ-64</ReplacedBy>
+        <Note>To detect moving targets and continually furnish target range and azimuth to plan position indicators (PPI).</Note>
+    </RAD>
+    <RAD Num="38">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>AN/MPQ-51</Name>
+        <Code>AN/MPQ-51</Code>
+        <Country>USA</Country>
+        <Operational>1971-1989</Operational>
+        <InServiceStart>1971</InServiceStart>
+        <InServiceEnd>1989</InServiceEnd>
+        <NatoName>ROR Basic Hawk</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Range-only radar (ROR)</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse</RadarType>
+        <Power>120KW</Power>
+        <Band>Ku</Band>
+        <Frequency>15.5-17.5 GHz</Frequency>
+        <UsedBy>Basic Hawk</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>83km / 52nm</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous>AN/MPQ-35</Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Provide ranging data when the other radars are jammed by countermeasures.</Note>
+    </RAD>
+    <RAD Num="39">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>AN/MPQ-53 MPAR</Name>
+        <Code>AN/MPQ-53</Code>
+        <Country>USA</Country>
+        <Operational>1984 - 2003</Operational>
+        <InServiceStart>1984</InServiceStart>
+        <InServiceEnd>2003</InServiceEnd>
+        <NatoName>MPAR Patriot</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Multifunction phased array radar (MPAR)</Type>
+        <Mounted>M860 semi-trailers</Mounted>
+        <RadarType>Pulse, Doppler</RadarType>
+        <Power>10KW</Power>
+        <Band>G / H</Band>
+        <Frequency> </Frequency>
+        <UsedBy>Patriot</UsedBy>
+        <TrackTargets>100</TrackTargets>
+        <EngageTargets>9</EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange>3km</MinRange>
+        <MaxDetectionRange>170km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>P</RwrSymbol>
+        <RwrFile>patriotsrc</RwrFile>
+        <RwrFileAcq>patriotacq</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy>AN/MPQ-65</ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="40">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>AN/MPQ-55</Name>
+        <Code>AN/MPQ-55</Code>
+        <Country>USA</Country>
+        <Operational>1979 - 1989</Operational>
+        <InServiceStart>1979</InServiceStart>
+        <InServiceEnd>1989</InServiceEnd>
+        <NatoName>ICWAR Hawk</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Improved Continuous-Wave Acquisition Radar (ICWAR)</Type>
+        <Mounted> </Mounted>
+        <RadarType>Doppler</RadarType>
+        <Power>400 W</Power>
+        <Band>J</Band>
+        <Frequency>10-20 GHz</Frequency>
+        <UsedBy>Hawk</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt>0m</MinAlt>
+        <MaxAlt>30480m</MaxAlt>
+        <MinRange>0.2km</MinRange>
+        <MaxDetectionRange>74.1km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>20 RPM</Rotation>
+        <RwrSymbol>50</RwrSymbol>
+        <RwrFile>hawkscr</RwrFile>
+        <RwrFileAcq>hawkscr</RwrFileAcq>
+        <Previous>AN/MPQ-48</Previous>
+        <ReplacedBy>AN/MPQ-62</ReplacedBy>
+        <Note>Covers the low-altitude zone, the primary zone of consideration for Hawk.</Note>
+    </RAD>
+    <RAD Num="41">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>AN/MPQ-57</Name>
+        <Code>AN/MPQ-57</Code>
+        <Country>USA</Country>
+        <Operational>1983-1989</Operational>
+        <InServiceStart>1979</InServiceStart>
+        <InServiceEnd>1989</InServiceEnd>
+        <NatoName>HiPIR I-Hawk</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>High Power Illuminator Radar (HiPIR)</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse, Doppler, EO and IR</RadarType>
+        <Power> </Power>
+        <Band>J</Band>
+        <Frequency> </Frequency>
+        <UsedBy>I-Hawk</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt>0m</MinAlt>
+        <MaxAlt>30480m</MaxAlt>
+        <MinRange>0.2km</MinRange>
+        <MaxDetectionRange>83.3km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous>AN/MPQ-46</Previous>
+        <ReplacedBy>AN/MPQ-61</ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="42">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>AN/MPQ-61</Name>
+        <Code>AN/MPQ-61</Code>
+        <Country>USA</Country>
+        <Operational>1989 -</Operational>
+        <InServiceStart>1989</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>HiPAR I-Hawk</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>High Power Illuminator Radar (HiPIR)</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse, Doppler, EO and IR</RadarType>
+        <Power> </Power>
+        <Band>J</Band>
+        <Frequency> </Frequency>
+        <UsedBy>I-Hawk</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt>0m</MinAlt>
+        <MaxAlt>30480m</MaxAlt>
+        <MinRange>0.2km</MinRange>
+        <MaxDetectionRange>83.3km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous>AN/MPQ-57</Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="43">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>AN/MPQ-62</Name>
+        <Code>AN/MPQ-62</Code>
+        <Country>USA</Country>
+        <Operational>1989 - 1998</Operational>
+        <InServiceStart>1989</InServiceStart>
+        <InServiceEnd>1998</InServiceEnd>
+        <NatoName>ICWAR I-Hawk</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Improved Continuous-Wave Acquisition Radar (ICWAR)</Type>
+        <Mounted> </Mounted>
+        <RadarType>Doppler</RadarType>
+        <Power>400 W</Power>
+        <Band>J</Band>
+        <Frequency> </Frequency>
+        <UsedBy>I-Hawk</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt>0m</MinAlt>
+        <MaxAlt>30480m</MaxAlt>
+        <MinRange>0.2km</MinRange>
+        <MaxDetectionRange>74.1km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>20 RPM</Rotation>
+        <RwrSymbol>50</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous>AN/MPQ-55</Previous>
+        <ReplacedBy>AN/MPQ-64</ReplacedBy>
+        <Note>Covers the low-altitude zone, the primary zone of consideration for Hawk.</Note>
+    </RAD>
+    <RAD Num="44">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>AN/MPQ-64 "Sentinel"</Name>
+        <Code>AN/MPQ-64</Code>
+        <Country>USA</Country>
+        <Operational>1998 -</Operational>
+        <InServiceStart>1998</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Sentinel</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Electronically steered pulse-Doppler 3D radar</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse, Doppler</RadarType>
+        <Power> </Power>
+        <Band>X</Band>
+        <Frequency> </Frequency>
+        <UsedBy>Hawk</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt>9,800ft / 3,000m or 39,000 / 12,000m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>25nm / 40km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous>AN/MPQ-50 and AN/MPQ-62</Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="45">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>AN/MPQ-65</Name>
+        <Code>AN/MPQ-65</Code>
+        <Country>USA</Country>
+        <Operational>2003 -</Operational>
+        <InServiceStart>2003</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>MPQ-65</NatoName>
+        <InFalcon> </InFalcon>
+        <Type>Passive electronically scanned radar, Fire Control Radar</Type>
+        <Mounted>M860 semi-trailers</Mounted>
+        <RadarType>Pulse, Doppler</RadarType>
+        <Power> </Power>
+        <Band>C and G/H</Band>
+        <Frequency> </Frequency>
+        <UsedBy>Patriot (PAC-3)</UsedBy>
+        <TrackTargets>100</TrackTargets>
+        <EngageTargets>9</EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>100km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>P</RwrSymbol>
+        <RwrFile>PATRIOT</RwrFile>
+        <RwrFileAcq>patriotacq</RwrFileAcq>
+        <Previous>AN/MPQ-53</Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="46">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>AN/SPS-10</Name>
+        <Code> </Code>
+        <Country>USA</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>SPS-10</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Type>Ship Radar</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse surface search</RadarType>
+        <Power> </Power>
+        <Band>G</Band>
+        <Frequency> </Frequency>
+        <UsedBy>Ulsan</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>80-150 nm</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>SH</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="47">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Blindfire Radar</Name>
+        <Code>Marconi DN 181</Code>
+        <Country> </Country>
+        <Operational>1973</Operational>
+        <InServiceStart>1973</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Blindfire</NatoName>
+        <InFalcon> </InFalcon>
+        <Type>Fire Control Radar</Type>
+        <Mounted> </Mounted>
+        <RadarType>Tracking Radar</RadarType>
+        <Power> </Power>
+        <Band>F</Band>
+        <Frequency> </Frequency>
+        <UsedBy>Rapier</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt>5km</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>32km</MaxDetectionRange>
+        <MaxTrackingRange>22.2km</MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Rapier FSA, FSB, FSB2, FSC</Note>
+    </RAD>
+    <RAD Num="48">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Dagger Radar</Name>
+        <Code> </Code>
+        <Country> </Country>
+        <Operational>1996</Operational>
+        <InServiceStart>1996</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Dagger</NatoName>
+        <InFalcon> </InFalcon>
+        <Type>Target Acquisition, Surveillance Radar</Type>
+        <Mounted>own trailer</Mounted>
+        <RadarType>3D pulse doppler radar</RadarType>
+        <Power> </Power>
+        <Band>J/K</Band>
+        <Frequency> </Frequency>
+        <UsedBy>Rapier 2000 Field Standard C (FSC)</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF>Cossor Mark X or XII IFF</IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>15.0km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>60 or 30 rpm</Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>A high elevation guard beam automatically switches off the transmissions when the presence of an anti-radiation missile is detected.</Note>
+    </RAD>
+    <RAD Num="49">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>Farm Gate</Name>
+        <Code> </Code>
+        <Country>Polish</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Farm Gate</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>EW, Surveillance, Target Acquisition</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse</RadarType>
+        <Power> </Power>
+        <Band>E</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-4, SA-6, SA-8</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt>30,000 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>150+ km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="50">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>Flat Box A</Name>
+        <Code> </Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Flat Box A</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Passive EW</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power> </Power>
+        <Band> </Band>
+        <Frequency> </Frequency>
+        <UsedBy> </UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange> </MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="51">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Flycatcher</Name>
+        <Code>KL/MSS-6720</Code>
+        <Country>Netherlands</Country>
+        <Operational>1979</Operational>
+        <InServiceStart>1979</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Flycatcher</NatoName>
+        <InFalcon>40L70</InFalcon>
+        <Type>Fire Control Radar</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power>160K</Power>
+        <Band>I/J Search, K Tracking</Band>
+        <Frequency> </Frequency>
+        <UsedBy>40L70, PRTL tracking part</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>20km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>A2</RwrSymbol>
+        <RwrFile>GunDish</RwrFile>
+        <RwrFileAcq>GunDishAcq</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="52">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Giraffe</Name>
+        <Code> </Code>
+        <Country>Sweden</Country>
+        <Operational>1977 -</Operational>
+        <InServiceStart>1977</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Giraffe</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Type>Early warning, surveillance, acquisition, tracking</Type>
+        <Mounted> </Mounted>
+        <RadarType>Passive electronically-scanned array</RadarType>
+        <Power> </Power>
+        <Band>G / H / I</Band>
+        <Frequency>4 to 8 GHz</Frequency>
+        <UsedBy>RBS, BAMSE, Stinger, Rapier, Mistral AA guns</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>50 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>60 rpm</Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="53">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>Hat Box</Name>
+        <Code> </Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Hat Box</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Range Only</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power> </Power>
+        <Band> </Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-13</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange> </MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="54">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Mirador IV</Name>
+        <Code> </Code>
+        <Country> </Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Mirador IV</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Type>Surveillance</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse doppler</RadarType>
+        <Power> </Power>
+        <Band>E</Band>
+        <Frequency> </Frequency>
+        <UsedBy>Cortale</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt>0 m</MinAlt>
+        <MaxAlt>4,500 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>18,5 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="55">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>MPDR 12</Name>
+        <Code>MPDR 12</Code>
+        <Country>Germandy</Country>
+        <Operational>1977</Operational>
+        <InServiceStart>1977</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Gepard Acquisition</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Acquisition Radar</Type>
+        <Mounted>On Gepard</Mounted>
+        <RadarType>Monopulse Pulse-Doppler</RadarType>
+        <Power> </Power>
+        <Band>S</Band>
+        <Frequency> </Frequency>
+        <UsedBy>Gepard</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF>MSR 400 Mk XII</IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>16km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>60 RPM</Rotation>
+        <RwrSymbol>A2</RwrSymbol>
+        <RwrFile>GunDish</RwrFile>
+        <RwrFileAcq>GunDishAcq</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Disk shape</Note>
+    </RAD>
+    <RAD Num="56">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>NRS-12</Name>
+        <Code>NRS-12</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Score Board</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>IFF</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power> </Power>
+        <Band> </Band>
+        <Frequency> </Frequency>
+        <UsedBy> </UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange> </MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="57">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>P-10 Voga A</Name>
+        <Code>P-10</Code>
+        <Country>Russia</Country>
+        <Operational>1953</Operational>
+        <InServiceStart>1953</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Knife Rest B</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>EW</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power>55-100KW</Power>
+        <Band>A</Band>
+        <Frequency>VHF</Frequency>
+        <UsedBy>SA-2</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt>15km</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>200-250km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile>kniferest</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="58">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>P-12 MA "Yenisei"</Name>
+        <Code>P-12 MA</Code>
+        <Country>Russia</Country>
+        <Operational>1956</Operational>
+        <InServiceStart>1956</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Spoon Rest A</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>MTI, EW, Target Acquisition Radar</Type>
+        <Mounted>On truck, ZIL-157</Mounted>
+        <RadarType> </RadarType>
+        <Power>314kW</Power>
+        <Band>A</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-2, SA-6</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt>32,000 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>148nm / 275 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>2-6 rpm</Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile>SpoonRest</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="59">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>P-12 NA Yenisey</Name>
+        <Code>P-12 NA</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>1959</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Spoon Rest C</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Type>MTI, EW, Target Acquisition Radar</Type>
+        <Mounted>On truck, Ural-375</Mounted>
+        <RadarType> </RadarType>
+        <Power>180-350kW</Power>
+        <Band>A</Band>
+        <Frequency>150-170 MHz</Frequency>
+        <UsedBy>SA-2, SA-6</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt>32,000 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>277.8km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>2-6 rpm</Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile>SpoonRest</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="60">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>P-12 NP "Yenisey"</Name>
+        <Code>P-12 NP / 1RL14</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>1958</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Spoon Rest B</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>MTI, EW, Target Acquisition Radar</Type>
+        <Mounted>Trailer mounted</Mounted>
+        <RadarType> </RadarType>
+        <Power>350kW</Power>
+        <Band>VHF below A</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-2, SA-6</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt>32,000 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>148nm / 275 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>2-6 rpm</Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile>SpoonRest</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="61">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>P-14 Lena</Name>
+        <Code>P-14 / 5N84A</Code>
+        <Country>Russia</Country>
+        <Operational>1959</Operational>
+        <InServiceStart>1959</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Tall King A</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Type>Very long-range EW</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power>800w</Power>
+        <Band>A</Band>
+        <Frequency>150-170MHz</Frequency>
+        <UsedBy>SA-5</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt>150,000 feet / 46 km</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>372 nm / 600 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>2-6 rpm</Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile>TallKing</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="62">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>P-15 Tropa (Trail)</Name>
+        <Code>P-15 / 1RL12</Code>
+        <Country>Russia</Country>
+        <Operational>1955</Operational>
+        <InServiceStart>1955</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Flat Face A</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>EW, Target Acquisition</Type>
+        <Mounted>On truck, ZiS-151</Mounted>
+        <RadarType> </RadarType>
+        <Power>270kW</Power>
+        <Band>B/C</Band>
+        <Frequency>750 mHz</Frequency>
+        <UsedBy>SA-2, SA-3, SA-6, SA-8</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>135nm / 250km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>6 rpm</Rotation>
+        <RwrSymbol>F</RwrSymbol>
+        <RwrFile>FlatFace</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="63">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>P-15M(2)</Name>
+        <Code>P-15M(2)</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>0</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Squat Eye</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Type>Target Acquisition Radar</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power>380kW</Power>
+        <Band>C</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-3, SA-5</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>203.7km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="64">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>P-18 Terek</Name>
+        <Code>P-18 / 1RL131</Code>
+        <Country>Czechoslovakia</Country>
+        <Operational>1970-1992</Operational>
+        <InServiceStart>1970</InServiceStart>
+        <InServiceEnd>1992</InServiceEnd>
+        <NatoName>Spoon Rest D</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Type>MTI, EW, Target Acquisition Radar</Type>
+        <Mounted>On truck, Ural-375</Mounted>
+        <RadarType> </RadarType>
+        <Power>200kW</Power>
+        <Band>A</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-2, SA-6</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt>35km</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>250km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>2-6 rpm</Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile>SpoonRest</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="65">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>P-19 Dunajob</Name>
+        <Code>P-19 / 1RL134</Code>
+        <Country>Russia</Country>
+        <Operational>1974</Operational>
+        <InServiceStart>1974</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Flat Face B</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>EW, Target Acquisition</Type>
+        <Mounted>On truck, ZIL 131</Mounted>
+        <RadarType> </RadarType>
+        <Power>380kW</Power>
+        <Band>B/C</Band>
+        <Frequency>750 mHz</Frequency>
+        <UsedBy>SA-2, SA-3, SA-6, SA-8</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>135nm / 250 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>6 rpm</Rotation>
+        <RwrSymbol>F</RwrSymbol>
+        <RwrFile>FlatFace</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="66">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>P-20 "Periskop"</Name>
+        <Code>P-20</Code>
+        <Country>Russia</Country>
+        <Operational>1949</Operational>
+        <InServiceStart>1949</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Bar Lock (P-20)</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>MTI, GCI, EW, Target Acquisition</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse</RadarType>
+        <Power>1000kW</Power>
+        <Band>E / F</Band>
+        <Frequency> </Frequency>
+        <UsedBy> </UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>250km /155nm</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>7 rpm</Rotation>
+        <RwrSymbol>B</RwrSymbol>
+        <RwrFile>BarLock</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="67">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>P-3 "Pegmantit 3"</Name>
+        <Code>P-3</Code>
+        <Country>Russia</Country>
+        <Operational>1947</Operational>
+        <InServiceStart>1947</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Dumbo</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Early Warning Ground Control</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power>80-100KW</Power>
+        <Band> </Band>
+        <Frequency>VHF</Frequency>
+        <UsedBy> </UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt>10km</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>120-150km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="68">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>P-35 "Saturn"</Name>
+        <Code>P-35</Code>
+        <Country>Russia</Country>
+        <Operational>1958</Operational>
+        <InServiceStart>1958</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Bar Lock (P-35)</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Type>MTI, GCI, EW, Target Acquisition</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse</RadarType>
+        <Power>1000kW</Power>
+        <Band>E / F</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-5</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF>Yes</IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>125 nm</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>7 rpm</Rotation>
+        <RwrSymbol>B</RwrSymbol>
+        <RwrFile>BarLock</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="69">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>P-35M "Saturn"</Name>
+        <Code>P-35M</Code>
+        <Country>Russia</Country>
+        <Operational>1961</Operational>
+        <InServiceStart>1961</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Bar Lock-B (P-35M)</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Type>MTI, GCI, EW, Target Acquisition</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse</RadarType>
+        <Power>1000kW</Power>
+        <Band>E / F</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-5</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF>Yes</IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>125 nm</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>7 rpm</Rotation>
+        <RwrSymbol>B</RwrSymbol>
+        <RwrFile>BarLock</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="70">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>P-37 "Metsch"</Name>
+        <Code>P-37 / 1RL139</Code>
+        <Country>Russia</Country>
+        <Operational> </Operational>
+        <InServiceStart>1971</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Bar Lock-B (P-37)</NatoName>
+        <InFalcon>SA-5</InFalcon>
+        <Type>MTI, GCI, EW, Target Acquisition</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse</RadarType>
+        <Power>1000kW</Power>
+        <Band>E / F</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-5</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF>Yes</IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>125 nm</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>7 rpm</Rotation>
+        <RwrSymbol>B</RwrSymbol>
+        <RwrFile>BarLock</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="71">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>P-40 Bronya "Iron pig"</Name>
+        <Code>P-40 / 1S12</Code>
+        <Country>Russia</Country>
+        <Operational>1965</Operational>
+        <InServiceStart>1965</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Long Track</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>EW, Surveillance, Target Acquisition</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse</RadarType>
+        <Power>2MW</Power>
+        <Band>Lower E</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-4, SA-6, SA-8</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF>1RL225 Tantalum-K1</IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt>30,000+ m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>375km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>4-5 RPM</Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="72">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>P-8 Volga</Name>
+        <Code>P-8</Code>
+        <Country>Russia</Country>
+        <Operational>1950</Operational>
+        <InServiceStart>1950</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Knife Rest A</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>EW</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power>70-75KW</Power>
+        <Band>A</Band>
+        <Frequency>VHF</Frequency>
+        <UsedBy>SA-2</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt>10km</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>150-250km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile>kniferest</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="73">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>P-80 "Altai" Kabina 66</Name>
+        <Code>P-80 / 1RL-118 / 5N87</Code>
+        <Country>Russia</Country>
+        <Operational>1971</Operational>
+        <InServiceStart>1971</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Back Net</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Mobile 2-D early warning/Ground Control Intercept (GCI)</Type>
+        <Mounted>Van-mounted</Mounted>
+        <RadarType> </RadarType>
+        <Power>Peak 1,5 mW Average 32kW</Power>
+        <Band>E/F</Band>
+        <Frequency>1.98-2.45 GHz</Frequency>
+        <UsedBy>SA-5</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt>200m at 50KM, 400m at 200KM, 6000m at 310km</MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>300-370km - 250nm</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>3-6 rpm</Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile>Backnet</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="74">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>PRTL Flycatcher</Name>
+        <Code> </Code>
+        <Country>Germandy</Country>
+        <Operational>1977</Operational>
+        <InServiceStart>1977</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>PRTL Flycatcher</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Tracking Radar</Type>
+        <Mounted>On Gepard</Mounted>
+        <RadarType>Monopulse Pulse-Doppler</RadarType>
+        <Power> </Power>
+        <Band>X / Ka</Band>
+        <Frequency> </Frequency>
+        <UsedBy>PRTL</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF>Yes</IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange>75m</MinRange>
+        <MaxDetectionRange> </MaxDetectionRange>
+        <MaxTrackingRange>13km</MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>A2</RwrSymbol>
+        <RwrFile>GunDish</RwrFile>
+        <RwrFileAcq>GunDishAcq</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Conical shape</Note>
+    </RAD>
+    <RAD Num="75">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>PRTL Search</Name>
+        <Code> </Code>
+        <Country>Germandy</Country>
+        <Operational>1977</Operational>
+        <InServiceStart>1977</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>PRTL Acquisition</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Acquisition Radar</Type>
+        <Mounted>On PRTL</Mounted>
+        <RadarType>Doppler</RadarType>
+        <Power> </Power>
+        <Band>X</Band>
+        <Frequency> </Frequency>
+        <UsedBy>PRTL</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF>Yes</IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>15km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>60 RPM</Rotation>
+        <RwrSymbol>A2</RwrSymbol>
+        <RwrFile>GunDish</RwrFile>
+        <RwrFileAcq>GunDishAcq</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Rod shape</Note>
+    </RAD>
+    <RAD Num="76">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>PRV-11</Name>
+        <Code>PRV-11 / 1RL119</Code>
+        <Country>Russia</Country>
+        <Operational>1962</Operational>
+        <InServiceStart>1962</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Side Net</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Height finder</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power>1.3KW</Power>
+        <Band>E</Band>
+        <Frequency>330, 730 Hz</Frequency>
+        <UsedBy>SA-2, SA-3, SA-5</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt>32,000 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>180 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile>sidenet</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="77">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>PRV-13</Name>
+        <Code>PRV-13</Code>
+        <Country>Russia</Country>
+        <Operational>1992</Operational>
+        <InServiceStart>1992</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Odd Pair</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Type>Height finder</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power>1KW av, 1.6MW peak</Power>
+        <Band>E</Band>
+        <Frequency>2.5-2.7GHz</Frequency>
+        <UsedBy>SA-2, SA-4, SA-5, SA-6</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt>85km</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>148 nm / 240 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>3-6 rpm</Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile>OddPair</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="78">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>PRV-16</Name>
+        <Code>PRV-16</Code>
+        <Country>Russia</Country>
+        <Operational>1992</Operational>
+        <InServiceStart>1992</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Thin Skin B</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Height finder</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power>490-700KW</Power>
+        <Band> </Band>
+        <Frequency>400 and 800Hz</Frequency>
+        <UsedBy>SA-6</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt>85km</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>296km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="79">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>PRV-17</Name>
+        <Code>PRV-17</Code>
+        <Country>Russia</Country>
+        <Operational>1965</Operational>
+        <InServiceStart>1965</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Odd Group</NatoName>
+        <InFalcon>Yes</InFalcon>
+        <Type>Height finder</Type>
+        <Mounted> </Mounted>
+        <RadarType> </RadarType>
+        <Power>1KW av, 1.6MW peak</Power>
+        <Band>E</Band>
+        <Frequency>2.5-2.7GHz</Frequency>
+        <UsedBy>SA-2, SA-4, SA-5, SA-6</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt>85km</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>148 nm / 240 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation>3-6 rpm</Rotation>
+        <RwrSymbol>2</RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="80">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>RO-52</Name>
+        <Code>RO-52 / JUSTYNA-P</Code>
+        <Country>Polish</Country>
+        <Operational>1988</Operational>
+        <InServiceStart>1988</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Jawor-M2</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>EW, Surveillance, Target Acquisition</Type>
+        <Mounted>Tatra T-148</Mounted>
+        <RadarType>Pulse</RadarType>
+        <Power>1.5 MW</Power>
+        <Band>E</Band>
+        <Frequency>400 Hz</Frequency>
+        <UsedBy>SA-4, SA-6, SA-8</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt>30,000 m</MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>350km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol> </RwrSymbol>
+        <RwrFile> </RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="81">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>RPK-2 Tobol</Name>
+        <Code>RPK-2 / 1RL33M1</Code>
+        <Country>Russia</Country>
+        <Operational>Late 1970s</Operational>
+        <InServiceStart>1979</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Gun Dish</NatoName>
+        <InFalcon>On every ZSU-23-4, M-1992</InFalcon>
+        <Type>Search and Tracking</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse doppler</RadarType>
+        <Power> </Power>
+        <Band>J</Band>
+        <Frequency>14.8-15.6 GHz</Frequency>
+        <UsedBy>ZSU-23-4</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF>Yes</IFF>
+        <MinAlt>60m</MinAlt>
+        <MaxAlt>7925m</MaxAlt>
+        <MinRange>0.4km</MinRange>
+        <MaxDetectionRange>50km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>A2</RwrSymbol>
+        <RwrFile>GunDish</RwrFile>
+        <RwrFileAcq>GunDishAcq</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="82">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>RSN-75</Name>
+        <Code>RSN-75</Code>
+        <Country>Russia</Country>
+        <Operational>22 May 1959</Operational>
+        <InServiceStart>1959</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Fan Song C</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Fire Control, Target Tracking Radar</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse</RadarType>
+        <Power> </Power>
+        <Band>G</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-2</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>70-145 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>2</RwrSymbol>
+        <RwrFile>Sa2</RwrFile>
+        <RwrFileAcq>Sa2acq</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Scanners exhibit 'flapping' motion in operation</Note>
+    </RAD>
+    <RAD Num="83">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>RSNA-75</Name>
+        <Code>RSNA-75</Code>
+        <Country>Russia</Country>
+        <Operational>11 Dec 1957</Operational>
+        <InServiceStart>1957</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Fan Song A</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Fire Control, Target Tracking Radar</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse</RadarType>
+        <Power> </Power>
+        <Band>E / F</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-2</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>60-120 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>2</RwrSymbol>
+        <RwrFile>Sa2</RwrFile>
+        <RwrFileAcq>Sa2acq</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Scanners exhibit 'flapping' motion in operation</Note>
+    </RAD>
+    <RAD Num="84">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>RSNA-75M</Name>
+        <Code>RSNA-75M</Code>
+        <Country>Russia</Country>
+        <Operational>May 1958</Operational>
+        <InServiceStart>1958</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Fan Song B</NatoName>
+        <InFalcon>No</InFalcon>
+        <Type>Fire Control, Target Tracking Radar</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse</RadarType>
+        <Power> </Power>
+        <Band>E / F</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-2</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>60-120 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>2</RwrSymbol>
+        <RwrFile>Sa2</RwrFile>
+        <RwrFileAcq>Sa2acq</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Scanners exhibit 'flapping' motion in operation</Note>
+    </RAD>
+    <RAD Num="85">
+        <NatoOpfor>1</NatoOpfor>
+        <Name>Skyguard Mk II</Name>
+        <Code> </Code>
+        <Country>Sweden</Country>
+        <Operational> </Operational>
+        <InServiceStart>1980</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Skyguard</NatoName>
+        <InFalcon>Yes*</InFalcon>
+        <Type>Fire control search and tracking</Type>
+        <Mounted> </Mounted>
+        <RadarType>Doppler</RadarType>
+        <Power> </Power>
+        <Band>I / J</Band>
+        <Frequency> </Frequency>
+        <UsedBy>Skyguard, Aspide</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>25 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>P1</RwrSymbol>
+        <RwrFile>skyguard</RwrFile>
+        <RwrFileAcq>skyguard</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="86">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>SNR-125 Neva</Name>
+        <Code>SNR-125</Code>
+        <Country>Russia</Country>
+        <Operational>1961</Operational>
+        <InServiceStart>1961</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Low Blow</NatoName>
+        <InFalcon>SA-3</InFalcon>
+        <Type>Fire Control, Target Tracking Radar</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse</RadarType>
+        <Power>250kW</Power>
+        <Band>I Fire Control / D Guidance</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-3</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>31-48 nm / 85-110 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>3</RwrSymbol>
+        <RwrFile>LowBlow</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+    <RAD Num="87">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>SNR-75</Name>
+        <Code>SNR-75</Code>
+        <Country>Russia</Country>
+        <Operational>1961</Operational>
+        <InServiceStart>1961</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Fan Song E</NatoName>
+        <InFalcon>SA-2 as Fan Song E</InFalcon>
+        <Type>Fire Control, Target Tracking Radar</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse</RadarType>
+        <Power> </Power>
+        <Band>G</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-2</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>70-145 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>2</RwrSymbol>
+        <RwrFile>Sa2</RwrFile>
+        <RwrFileAcq>Sa2acq</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Scanners exhibit 'flapping' motion in operation, E version have 2 additional parabolic dishes</Note>
+    </RAD>
+    <RAD Num="88">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>SNR-75V2</Name>
+        <Code>SNR-75V2</Code>
+        <Country>Russia</Country>
+        <Operational>1968</Operational>
+        <InServiceStart>1968</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Fan Song F</NatoName>
+        <InFalcon>NO</InFalcon>
+        <Type>Fire Control, Target Tracking Radar</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse</RadarType>
+        <Power> </Power>
+        <Band>E / F</Band>
+        <Frequency> </Frequency>
+        <UsedBy>SA-2</UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt> </MinAlt>
+        <MaxAlt> </MaxAlt>
+        <MinRange> </MinRange>
+        <MaxDetectionRange>70-145 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>2</RwrSymbol>
+        <RwrFile>Sa2</RwrFile>
+        <RwrFileAcq>Sa2acq</RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note>Scanners exhibit 'flapping' motion in operation</Note>
+    </RAD>
+    <RAD Num="89">
+        <NatoOpfor>2</NatoOpfor>
+        <Name>SON-9</Name>
+        <Code>SON-9</Code>
+        <Country>Russia</Country>
+        <Operational>1950</Operational>
+        <InServiceStart>1950</InServiceStart>
+        <InServiceEnd>9999</InServiceEnd>
+        <NatoName>Fire Can</NatoName>
+        <InFalcon>KS12/Type72, KS-19/Type59, S-60</InFalcon>
+        <Type>Fire Control Radar</Type>
+        <Mounted> </Mounted>
+        <RadarType>Pulse</RadarType>
+        <Power> </Power>
+        <Band>E</Band>
+        <Frequency> </Frequency>
+        <UsedBy> </UsedBy>
+        <TrackTargets> </TrackTargets>
+        <EngageTargets> </EngageTargets>
+        <IFF> </IFF>
+        <MinAlt>0m</MinAlt>
+        <MaxAlt>9144m</MaxAlt>
+        <MinRange>0.4km</MinRange>
+        <MaxDetectionRange>35-80 km</MaxDetectionRange>
+        <MaxTrackingRange> </MaxTrackingRange>
+        <Rotation> </Rotation>
+        <RwrSymbol>A</RwrSymbol>
+        <RwrFile>FireCan</RwrFile>
+        <RwrFileAcq> </RwrFileAcq>
+        <Previous> </Previous>
+        <ReplacedBy> </ReplacedBy>
+        <Note> </Note>
+    </RAD>
+</Threats>

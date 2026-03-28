@@ -1,0 +1,1432 @@
+New Features and Changes
+------------------------------------------------------------------------------
+Ver: 0.5.28.762
+Teams
+- Fixed, In Action tab bigger labels for day indication (larger than 9).
+
+Objectives
+- Added, after running Objective Link check Links which are long they are drawn in color Orange.
+- Added, option to select the max distance for the Links check.
+- Added, feature checking if Links are crossing.
+
+Flight
+- Fixed, make sure the Loaded_CFT only works with file version 109 and above.
+
+------------------------------------------------------------------------------
+Ver: 0.5.28.752
+Units
+- Fixed, bad reading in case numWaypoints are insane high.
+
+------------------------------------------------------------------------------
+Ver: 0.5.27.751
+Map
+- Added, Creating a map has the option to show Tile bridge paths.
+
+Objective
+- Fixed, Missalign Obj export comments.
+
+------------------------------------------------------------------------------
+Ver: 0.5.26.746
+Main
+- Added, All "Apply" and "Cancel" buttons can be used with ALT+A or ALT+C.
+
+Units
+- Fixed, Units delete.
+
+------------------------------------------------------------------------------
+Ver: 0.5.25.743
+Main
+- Fixed, HDR message.
+
+------------------------------------------------------------------------------
+Ver: 0.5.24.739
+Units
+- Fixed, Change package screen size.
+- Added, Change Battalion and Taskforce now shows its vehicles.
+
+------------------------------------------------------------------------------
+Ver: 0.5.23.735
+Main
+- Possible fix for Win11.
+
+Map
+- Added, Filter selection for Land Units exact type.
+- Changed, Make sure if multiple units are at the same location the Brigade will be shown (yellow infobox).
+- Added, If multiple units are at the same position a "M*" is added to the yellow infobox to indicate multiple units.
+
+Squadron
+- Changed, Max Roster is now a button.
+- Improved, For adding a Offmap Squadron the calculation can now be done for North, South, East and West coordinates.
+
+Battalion
+- Changed, Max Roster is now a button.
+
+POL/PAK
+- Fixed, CTD when clicking on the POL list.
+- Fixed, Value color drawn in the wrong cell (Flags iso Prio)
+- Changed, Better sorting of the number values. 
+ 
+TePlanes
+- Added, Further checks for DogFight, DF_Flight.scf file.
+- Added, DogFight check colors to List.
+- Added, TePlanes list also checks DogFight IDs now. Including a nice management.
+
+TeUnitList
+- Changed, Adding a new TE Unit (Battalion) option to manually change values.
+- Changed, Major overhaul of the system. Name now come from the strings.txt iso hardcoded
+
+Strings
+- Fixed, Correctly saving of strings.txt.
+
+Stats
+- Changed, Better sorting of the number values.
+
+------------------------------------------------------------------------------
+Ver: 0.5.22.714
+Main
+- Included Teams ID in to the doubleID check.
+
+Map
+- Added, If there are multiple Battalions or Brigades on one location its now possible to Move or Delete them.
+(ALT and SHFT)
+- Added, Filter for to show only those battalions which are in a brigade. "In Brigade only"
+- Fixed, a little bug drawing some icons.
+- Added, Option to remove a Link between 2 Objectives. Use the ALT key and Left mouse button to select the 2 Objectives.
+- Added, Option to remove all Links from one Objective. Use the SHIFT key and Left mouse button.
+- Changed, If Fileversion is 106 or bigger, the "Show Nameid 0" is no longer shown. 
+- Added, For Objectives "No Links" filter. With this filter selected only the Objective which do not have a link are show on the map.
+- Added, Filter to only show the ground units moving (moving flag set).
+- Moved button info for Clone, Moving and Deleting under info button. 
+
+Objective
+- Changed, Adding a new link between 2 Objectives, it is created in both direction.
+- Improved, the Objective Flags got rearranged and extra info is give via ToolTips.
+- Improved, the Advance Objects Options -> Clean Objective Flags added some extra flags. 
+- Expanded, In the Advance Obj Options the check for the Objective links has been expanded to show Objs having no links at all.
+It does have a filter for those Objs which do not need links. Carries, Scenery, Navaids.
+
+Units
+- Added, Type filter to Add Battalion. Makes it easier to find your wanted Battalion type.
+- For scenario files, if the Battalion/Brigade AssignedObj is at the same location as the Unit the name of the Objective is shown as "Home"
+
+Battalions
+- Fixed, in case you don't have all teams included.
+- Fixed, When adding a new battalion and the PT check fails, you get a messagebox showing you which Objective.
+
+Stats
+- More protections against database errors.
+
+------------------------------------------------------------------------------
+Ver: 0.5.21.691
+Main
+- Added, HeliPt count/check at various placed in the tool.
+
+Objectives
+- Check obj links will also check for bridges only having one link.
+
+Flight
+- When changing a mission type, set old_mission as well. 
+
+------------------------------------------------------------------------------
+Ver: 0.5.20.686
+Main
+- Remove save options for file version 73, 100 and 103.
+
+Conversion
+- Semi force loading of string files for old version.
+This might help those who have issues converting files.
+
+------------------------------------------------------------------------------
+Ver: 0.5.20.685
+Main
+- Loading of UI background Map fine tuned. As its not possible to load a map larger than 4096, MC will not even try.
+It will directly load the last used "browse own map" file (as it was with 676)
+- Fixed, Flip in calculation between X/Y for old terrain.
+
+Map
+- Fixed, If MC fails to load the map from the theater data, it will try to load the last manual loaded background picture.
+- Fixed, Creating Map grid line not drawing correctly.
+- Improved, Browse Own Map keeps track of what type of file you last opened and sets filter accordingly (jpg,png,bmp)
+
+Objectives
+- Import for Campaign is now using the te_new.tac directly iso export to csv.
+- Added, Protection against "Next Line" characters in the Objective name. 
+
+Units
+- Added, Orange warning if a AirDefence Battalion is part of a Brigade.
+
+Advance Objective Options
+- Streamlined the Import for Campaign.
+
+------------------------------------------------------------------------------
+Ver: 0.5.19.667
+Main
+- Little fix for ViewModel passing along the correct skin.
+- In case the Units are not able to being loaded, the CampaignInfoTable is only cleaned when needed.
+
+Map
+- Fix Map ruler showing wrong track.
+- Fix for finding Name of the last Unit.
+- Initial addition filter for HideExactLocation.
+
+Objectives Chart creation
+- Parking/Ground chart ability to scale the chart.
+- Apt and Nav Objectives within 5km are pulled into the chart as well. 
+- Option to switch on/off the ATC box. 
+- Marjor overhaul for the ground and parking charts
+2 different charts can now be produced. AGC Airport Ground Chart and APC Airport Parking Chart (for each runway)
+Parking charts contain the coordinates for the parking points.
+Both charts now contain: 
+- Runway QFU and exact heading
+- Runway dimensions
+- Taxiway naming (if database has been set up correctly)
+- Arrestor cable position
+- Windsock
+- Tacan location and frequency
+- Tower and radar location 
+- List of ATC frequencies
+- Airport elevation
+- Added, button for creating airport chart on Objctive page. This is the same feature as right click on the map "Create Chart"
+Is just handy to have this one here as well. Only visible if the Objective is an Airbase or Airstrip.
+- Added, Features like buildings, HAS and tower are drawn on the chart 
+
+Advanced Obj Options
+- Changed button Set First Obj Owner for more clarity 
+
+Units
+- Squadron View 3D Model, send correct Skin to ModelViewer.
+- Added, Flight will show there respective assigned target in the Unit list.
+- Flight View 3D Model, send correct Skin to ModelViewer. Skinset comes from Lead AC.
+- For Wpt you can now select a Target Battalion as well as Objective.
+
+-Changes for moving a squadron
+The question for deleting the non-departed flights has been removed
+The question for moving the takeoof and landing STPT to the new airbase has been removed.
+Now the Flight will automatically move there takeoff and landing STPT to the new AB.
+For Training flights, the complete list of STPTs are shifted the same amount as the old to new airbase.
+
+------------------------------------------------------------------------------
+Ver: 0.5.18.615
+Main
+- More protection for loading falcon.tt
+- Possible fix for reading Objective strings.
+
+Objectives
+- For Objective, always show the X/Y/Z/Hdg which is stored in the mission file (not CampObjData)
+- Remove the orange warning if the X/Y are not the same as in the CampObjData
+
+Units
+- Make sure NOT to set the Moving flag when you place a battalion on a new location
+- Better setting of a couple of battalion flags
+- Fixed wrong setting of Flight Adv fuel
+
+Events
+- Fixed Event screen size
+
+------------------------------------------------------------------------------
+Ver: 0.5.17.607
+Campaign
+- Only count vehicles available in campaign squadron, not those from DB.
+
+Map
+- Added, option to only see the inactive Units
+- Changed, UnitList for squadrons now shows X AC / Y Flts
+- Fixed, When Show Inactive only (for Unit), moving the mouse over a Unit will only react to inactive Units.
+- Fixed, Hide Exact Location
+- Couple of fixes for Objective names
+
+Objectives
+- Starting the BMS Editor is now done with -Mono
+- Added, Showing Editor Version in the bottom
+- Added, Pop-up message for creating CampObjData. In case the SaveFile is not "te_new"
+- Changed, Hiding the Radar settings in case the Radar Flag is NOT set
+- Fixed, Export Objectives names with comma would cause an issue. So these are removed.
+!!!Do NOT use commas in the Objective names!!!
+- Fixed, Resorting by Nr missing Obj zero.
+- Fix Icon color not always correct
+
+Units
+- When adding a SAM, the Parent flag is now set
+- Check SAM location used to check Owner, not it looks for the active/current owner
+- In Battalion and Brigade screen you now see the Assigned Objective location X/Y
+- Fixed, Compare Objective PTs with Unit Vehicles
+- Fixed crash while getting package flight
+- Fixed Add Squadron to ArmyBase
+- Added, some hints and protections for max 5 Battalions in a Brigade
+
+Advanced Unit Options
+- Added, Battalions/Brigares "Remove Assigned Objects"
+
+Squadrons
+- Fixed, When changing aircraft the Roster is set to max
+- Changed, Changing the amount of aircrafts, its shown with color
+
+Flight
+- Changed the visibility of Formation Spacing
+- Fixed the TargetBuilding selection for each AC
+
+Brigade
+- Fixed missing Backslash when storing Brigade
+
+Stations and ILS
+- Improved the checking of Freqs in the stationIls and RadioMap
+- Added a Feature to show where the double is located in the StationIls list "Show Dbl report"
+
+------------------------------------------------------------------------------
+Ver: 0.5.16.563
+Objective
+- Fixed, View Features for older BMS versions.
+- Enabled, View Features precision location.
+
+Main
+- Remove "(Offmap)" from airbase names.
+
+Units
+- Fixed Adv fuel error.
+
+MissionData
+- Fixed, possible ctd for MissionData.
+
+------------------------------------------------------------------------------
+Ver: 0.5.15.558
+Map
+- Slight improvement in draw for PowerGrid, Damage of power station is included now.
+
+Conversion
+- Improvement on Object conversion. If Old->New is found, this is now accepted automatically.
+
+StationIls
+- Added, beside the option to check UHF distance, VHF and ILS are added as well.
+
+------------------------------------------------------------------------------
+Ver: 0.5.14.555
+Map
+- Added, Holding SHIFT down and clicking on a Battalion on the map will delete the Battalion.
+- Added, Mouse cursor info for flights now have the Flights UHF/VHF included.
+- Added, alternate loading of VCD XML file. This is used in case of use of illegal charaters in the file.
+
+Flights
+- Little fix in Flight waypoints. Possible crash when clicking first wpt
+- When moving a Squadron to a different airbase, force the departure and arrival Haves for the Flight waypoints
+- The flight UHF/VHF are shown. Depeding on the callsign used.
+
+Advanced Unit Option
+- When moving all Squadrons to closest AB, also the flight Wpts will be updated.
+- Added, New button to Advanced Unit Options. "Check Batt inside Brig"
+This will check if a battalion (in a Brigade) has MoveSpd = 0 and/or MoveType = None.
+And will check if a battalion (in a Brigade) is an engineer battalion.
+MoveSpd/MoveType check is also applied when you add a Battalion to a Brigade. Or when you open a Battalion.
+
+Mission Data
+- Changed flag AMIS_IMMEDIATE to AMIS_ADJUST_ALT
+
+------------------------------------------------------------------------------
+Ver: 0.5.13.521
+Main
+- Added alternate loading of UCD XML file. This is used in case of use of illegal characters in the file.
+
+Units
+- Callsign Usage is now set correctly when you change the callsign of a Flight.
+	Or if you clone a flight or a package.
+- Fixed NoPlan setting when moving a squadron (offmap)
+- For Squadrons placed on OffMapAB, force the NoPlan flag in multiple sections of the code.
+- Fixed, Offmap Airbase names shown in Units and Camp Squad Info
+- Advanced Unit Option, Improved "Check Units"
+
+Pilots and Callsigns
+- Totally different way to reset callsign usage.
+	All flights are checked which callsign they use and added to the Callsign Usage.
+	For Flights with callsign number higher than 8, a free number is looked for.
+	If found this one is used. If not it remains the same (9) 
+
+Conversion
+- Fixed, Conversion in case a Objective is no longer included in the new version
+
+PakMap
+- Fixed PAKmap border drawing
+
+------------------------------------------------------------------------------
+Ver: 0.5.12.484
+Main
+- Fixed SkinSet.exe for large 3DDB.
+
+Map
+- Added option to move Battalions on the map.
+	Hold ALT down and left mouse click to select the battalion.
+	Hold ALT down to select the Objective where to place the battalion.
+- Enabled Owner mode for Units.
+- Map Area selection now generates ObjectiveDelta in case the mission file is not a scenario file.
+
+Campaign
+- Fixed Campaign tab SquadronInfo list not correctly showing inactive.
+- Added Color info for this tab.
+
+Teams
+-Team Pilot name selection is now individual.
+
+Objectives
+- Improvements for Objective Import/Export.
+
+ObjectiveDelta
+- Fixes ObjectiveDeltas throughout the whole program.
+
+Units
+- Fixed Flight clone not finding the correct package.
+- Fixed Flight Waypoints Repeat flag set.
+- When moving as Squadron, the flags remain as they are.
+- Added veh_relocate to squadrons.
+- Squadron page, added Re-task time.
+- Export units now saves the correct file version.
+
+Pilots
+- When importing a Pilot list, you have the option to replace all the names.
+
+Strings
+- For ObjectStrings the country names are now external.
+  See ObjectsCountry.txt and add your country names.
+
+------------------------------------------------------------------------------
+Ver: 0.5.11.403
+Units
+- Added IsAirdefence flag check for AddBattalions.
+
+Objectives
+- Added, Option to Add Battalions and Brigades in the Objective list.
+
+Conversion
+- More work done for protections.
+
+------------------------------------------------------------------------------
+Ver: 0.5.10.398
+Units
+- Package name is shown instead of Package CampId. (4.32 it was the campId)
+- Changing the Package name will no longer change the campId 
+- Flight Mission is now sorted
+
+Conversion
+- Fixed an issue with conversion of Units.
+- Fixed partially visible text for conversion
+
+------------------------------------------------------------------------------
+Ver: 0.5.9.394
+Main
+- A new POL list is automatically created when you renumber the Objectives or when you import the objectives for Campaign
+
+Map
+- Fixed Squadron Icons not drawn on the map
+
+Units
+- For flights, you can now fix the Gun without removing all the weapons
+
+------------------------------------------------------------------------------
+Ver: 0.5.8.384
+Main
+- Fixed, saving the Radio.map would in some cases get an extra empty line with ","
+- Fixed a crash when opening a FltComm
+- Further protection against bad embedded file directory.
+- Fixed issue with last objective not showing correctly in the Objective list.
+- Fixed issue with reading files where the embedded file directory is too large.
+- Added, External file for country flag ID and order.
+- Changed, option to select up to 16 country flags.
+- Changed, OffMapAbList moved to a separate combobox.
+- Added, OffMapAbList integrated into the rest of the tool.
+
+Map
+- Parking chart improvements
+
+Units
+- Package owner (Country) can be changed
+- Fixed, possible crash in MoveSquadron.
+
+-Added OffMapAbList. Airbases in the list show up in the AddSquadron page.
+- Fixed, crash in case a Brigade did not have any Battalions.
+
+
+StationsIls
+- Station Ils editor page added Runway Length, TODA and LDA
+- Added missing UHF check and indication in the StationIls
+- Added extra check for the stationIls and FltRadio.
+
+Conversion
+- Added, TranslateObj to Conversion tab.
+
+------------------------------------------------------------------------------
+Ver: 0.5.7.349
+Main
+- Fixes in map used in other windows than the main map.
+- Added, teunits.lst and tenavalunits.lst management.
+- Fixed, APC (Aircraft Parking Chart) creation.
+
+Objectives
+- Changed, When using Clean Obj Flags, the FLAT flag is set for Airbases, Airstips and Bridges.
+
+Units
+- Fixed, Crash when adding a Battalion or Brigade and its not on a Objective. 
+- Fixed, clone flight for older versions.
+
+POL/PAK
+- Added, the ability to save a POL list in the SaveX.cam.
+
+Conversion
+- Convert Mission improvements.
+
+------------------------------------------------------------------------------
+Ver: 0.5.6.334
+Main
+- Lots of little bug fixes and general improvements.
+
+Map
+- Changed, Icons for units which are not controlled by HQ (manual), are drawn with white outline.
+
+Teams
+- Added, Extra buttons to delete ATM for one team or all teams.
+
+Objectives
+- Changed, Obj Adv option, renumber Objectives. You can set a range where CampId is not used.
+The numbers NOT used are random in the range.
+
+Units
+- Added, Check for SquadInfoTable for bulk changing of Squadrons.
+- Added, Change All Squadrons to, Change All Battalions to. Can be found under Advanced Unit Options. 
+With this new feature you can change all battalions from a specific type from a selected county to a different type. Example: Change all NATO M84 Tank battalions to M1A1 Tank battalions.
+
+Conversion
+- Added, All mission files are now copied over to the saved directory.
+- Changed, Added filter for "_Empty slot" vehicles. 
+- Changed, During selection of any AC, Wpn, BAT using the Cancel button will stop the whole process.
+
+POL/PAK
+- Enlarged the Primary Objective List to see all the priorities.
+- Added colors to the priorities for better understanding.
+
+------------------------------------------------------------------------------
+Ver: 0.5.5.298
+Main
+- Fixed, Loading model in OglLod.
+
+------------------------------------------------------------------------------
+Ver: 0.5.5.297
+Main
+- Added, Air, Ground and Naval Taskmanages ID included in the double ID check.
+
+Team
+- Changed, Changing the team relation -> member, the other team memberships will be checked and set accordingly.
+- Changed, Changing the team relation -> member, the "Part of team" in the TeamInfo will be set.
+
+Map
+- Added, Area selection changing. Hold down the right mouse button to select the area.
+- Added, Feature to show the Objectives "first owner". 
+
+Objectives
+- Added, Team/Country filter.
+- Changed, "View feature" has a larger resolution screen and Features are now drawn with hitbox data.
+- Fixed, "View Feature" names.
+
+Units
+- Fixed, Issue with loadouts when cloning flights.
+- Added, Changing a Squadron owner (country) while this squadron has flights, the owner of the flights will be changed as well.
+- Added, check for PTs when adding an airdefense battalion.
+
+------------------------------------------------------------------------------
+Ver: 0.5.4.282
+Main
+- Added, Vehicle to PPT translation. This way the name of the SAM vehicle can be linked to a PPT.
+- Added, Statistics.
+- Added, In case MC will find double use of VU_ID for both objective and Unit, the ID for the Unit will be changed.
+
+Units
+- Fixed, Adding squadrons to taskforces.
+- Added, some preventions for crashes.
+- Changed, Carrier link to objective check now through Vehicle Max Alt.
+- Fixed, Some other carrier problems.
+- Fixed, Battalions screen vehicle name.
+- Fixed, Adding an Offmap squadron.
+
+Squadrons
+- Fixed, Move squadron could get a duplicate if it was deleting flights which where infront of the squadron in the units list.
+
+Flights
+- Fixed, prevent a CTD because of bad Callsigns.
+- Added, Spotted and Identified.
+
+Brigades
+- Fixed, Opening a brigade would cause a crash.
+- Fixed, Deleting Battalions from a Brigade.
+- Changed, When you delete the last Battalion, you are asked if you want to delete the Brigade as well.
+
+Objectives
+- Added, Option to open the objective with BMS Editor.
+- Fixed, features coordinates.
+
+Pilots
+- Added, option to change the callsign table length. Only for developers!
+
+------------------------------------------------------------------------------
+Ver: 0.5.3.261
+Main
+- Fixed, when no 3DDB (KoreaObj.thr) is found, revert to the default KTO 3DDB.
+- Added, Option to disable loading terrain and tile data. In case the terrain files are corrupt. Line "DisableTerrain=True" in the setup.ini will disable the terrain.
+
+Map
+- Added, Ruler feature. Switch on/off with "Ruler" button. Use right mouse to select (drag). "C" button to set color.
+- Added, Clone Battalion Feature. Hold down "CTL" key while clicking on a Battalion. This will select the Battalion to Clone.
+Now click anywhere on the map while still holding the "CTL" key down. This will place the clone.
+- Added, Flight are drawn on the map.
+- Added, Option to show the Flights route (same as battalions).
+
+Units
+- Added, Clone Battalion Feature. Right click on a battalion and select "Clone Battalion". 
+
+Flight
+- Added, some protection against corrupted pilots amount.
+- Added, Feature to reset the Plane status. Pressing the reset button will set the status to Available.
+ 
+Battalion
+- Added, ViewSkin option. You can see the skins for each vehicle in the battalion
+
+Taskforce
+- Added, ViewSkin option. You can see the skins for each ship in the taskforce
+- Fixed, possible crash in roster.
+
+Objectives
+- Added, Tiles in the FED screen, which is active by clicking on the View Features.
+- Added, option to see the tiles where the objective is located.
+- Added, option to draw country colors or not. No colors will fill the column much faster.
+
+Advance Objective Options
+- Added, Feature which checks if an objective is on a tile with a road.
+
+StationIls
+- Added, Distance Check Feature.
+
+
+------------------------------------------------------------------------------
+Ver: 0.5.2.246
+Main
+- Fixed, some issues with adding/deleting Links
+- Added, Quicker way to add links. Hold the CTL button and left click on the Objs.
+
+Map
+- Changed, in case the theater map size (pic) is larger than 4096x4096, it gets scalled down.
+
+Units
+- Added, Show Battalion routes on the map.
+
+ObjString
+- Changed, pressing enter in the find string textbox will start a search.
+
+String
+- Changed, Add/Edit Strings can contain spaces.
+- Changed, pressing enter in the find string textbox will start a search.
+
+------------------------------------------------------------------------------
+Ver: 0.5.1.239
+Main
+- Fixed, Reading correct patches for different squadrons.
+
+Map
+- Added, some protections against bad TileSets.
+- Added, New feature to show Division, Battalion and Brigade elements and assigned objectives.
+- Added, Show Divisions on the map.
+- Fixed, Preventing a crash when terrain has not been loaded.
+- Fixed, Coordinates for an Objective was missing 0.5km shift.
+- Added, For airport chart a new option to shift the location of the airport on the chart.
+- Added, For airport chart a new option to set the MSA to a different objective. Apt or Nav.
+- Added, For airport charts a new option to place the legend in any of the 4 corners.
+- Fixed, For airport chart too many buildings where drawn.
+- Fixed, For airport chart lots of scalling issues for hi-res charts.
+- Changed, For airport charts new sorting of the saving directory.
+- Fixed, Adding a squadron to a carrier will now show the carrier on the map as well as having it selected.
+
+Campaign
+- Added, Opening an airbase while its an carrier will open the respective taskforce.
+- Fixed, SquadronInfoTable check was showning wrong squadron data.
+
+Objectives
+- Added, Advance Objective Options: Set All First Owner. This will set all Objectives First Owner to the Current Owner.
+- Fixed, When creating a link its not possible to add a link to a carrier.
+
+Units
+- Added, Add squadron has an option to show all airbases from all teams.
+- Added, Squadron page new feature "New Pilots". This will generate a new list of pilots for the county selected.
+- Added, Flight page got a new function, change loadout. A new loadout screen will appear where you can change/fix the loadout of the flight.
+With this all missions, including training flights, can be fixed if the loadout has been messed up. In case a weapon (gun) has been messed up, this will be fixed automatically.
+- Added, When Deleting a Package you are now asked if you want to delete all the Flights or not.
+- Fixed, Shifting times was setting the correct STPT is case of a CAP/Holding.
+- Added, Advance Unit Options has a new button which clears all used/killed pilots and aircrafts for all squadrons.
+
+Taskforce
+- Fixed, Adding a carrier which has multiple versions.
+
+Divisions
+- Added, Brigade and Battalion icons.
+- Fixed, Division name (type).
+
+Strings
+- Added, String info (hardcoded)
+- Added, String management. Add, Delete, Move up/down/top/bottom.
+- Added, search feature for objective strings and text strings.
+
+Pilots
+- Changed, maximum nr for photo.
+- Added, Import/Export function for pilots.
+
+Stations
+- Added, Option to change station Callsign/Station Name.
+- Fixed, Crash if the UHF or VHF in the Station+Ils.dat is zero or smaller that there respective lowest value.
+
+------------------------------------------------------------------------------
+Ver: 0.5.0.208
+Main
+- Fixed, crash when reading stations+ils.dat while file is read only.
+
+Map
+- Fixed, drawing Frigates could cause a crash of MC.
+
+Campaign
+- Changed, dates day can be set to max 48days.
+
+Units
+- Fixed, Unit Export was not saving the correct nr of units.
+- Improved, Type filter.
+- Fixed, Check SAM location when there are multiple objectives on the same location.
+
+Squadrons
+- Fixed, Move squadron to Carrier.
+- Fixed, Move squadron drawing of Carrier icon on the screen map.
+- Fixed, SkinSet exe to be able to read very large 3DDB.
+
+Battalions
+- Changed, enabled setting X/Y position.
+
+Brigades
+- Changed, enabled setting X/Y position.
+
+Taskforce
+- Changed, enabled setting X/Y position.
+- Fixed, Not able to move the TF in case there are no stpt.
+
+Pilots and Callsigns
+- Changed, In case the Callsign list does not contain any entities, a default list of 160 callsign is made.
+
+Convert Mission
+- Fixed, If Objective NameID is larger than the Objects string list, the ID will be set to zero. Else this was the cause of a CTD of BMS.
+
+Stations
+- Added, Option to Add/Delete items.
+- Added, Option to sort the list.
+- Added, runway name added to ILS.
+
+Planes
+- Added, Name of the Vehicle from the database.
+- Added, Enabled editing and saving. 
+- Fixed, correct saving new list of ValidAc file.
+- Added, TePlanes reload feature to load the file from any place.
+- Added, ValidAc reload feature to load the file from any place.
+
+Extra
+- Added, new texture checking feature. It will show which textures are used in the 3DDB or not.
+
+------------------------------------------------------------------------------
+Ver: 0.4.9.189
+Main
+- Changed, Registry reading.
+- Added, Quick load mission seperated for TE/TRN and Campaigns.
+
+Battalions
+- Fixed, Place battalion at Obj, selecting the type of Obj, will updated the list.
+
+Objectives
+- Changed, slight changement on Reset Parents.
+- Added, new feature output a text file. It contains the amount of the use of each objective. Found in Advanced Objective Options.
+
+Objects Strings
+- Added, Browse button so you can open any file.
+- Added, Export/Import function.
+
+------------------------------------------------------------------------------
+Ver: 0.4.8.182
+Main
+- Added, Reading/writing Station+ils.dat file. If you renumber the Objectives, the station+ils.dat will get adjusted and saved as well. 
+- Fixed, building the Squadron list with valid aircraft.
+- Fixed, possible crash on some systems while calculating coordinates.
+
+Map
+- Added, New feature APC chart (Airport Parking Chart).
+- Fixed, some problems when creating a low level map.
+- Added, "Airport Chart" added MSA elevation for each MSA pie.
+- Added, "Airport Chart" added 2 extra lines for the MSA. Total is 6 now.
+- Added, "Airport Chart" added Navaids.
+- Fixed, "Airport Chart" drawing of runways.
+- Added, "Airport Chart" Selection is now stored for each chart you made.
+- Added, Some extra checks on mouse cursor getting elevation.
+- Changed, "Creating Map" Height selection raised to 30K.
+- Added, "Creating Map" Maximum height for drawing forest.
+- Changed, lots of code improvements for "Creating Map".
+- Added, "Creating Map" added Highway color selection.
+- Added, "Creating Map" added Road/Highway path width selection.
+- Added, "Creating Map" added River Larger/River Small path width selection.
+- Added, "Creating Map" added Forest color selection.
+- Changed, lots of code improvements for creating "Airport Charts".
+- Changed, "Airport Charts" can be created for any type of objective.
+- Changed, "Airport Chart" size expanded with 200nm and 250nm.
+- Added, "Airport Chart" added Forest color selection.
+
+Units
+- Fixed, clicking on the datagrid while the datagrid is empty.
+
+Convert Mission
+- Added, support for FreeFalcon6
+- Fixed, Multiple issues when old and new DB don't have same battalions and/or taskforces.
+
+Planes
+- Improved reading/saving of ValidAc.act
+
+Pilots
+- Added, option to edit pilots name. Double click on the pilot to edit.
+- Added, option to edit pilots photo and voice. Double click on the pilot to edit.
+
+Strings
+- Fixed, saving of the strings.wch for special charaters.
+
+------------------------------------------------------------------------------
+Ver: 0.4.7.162
+Main
+- Changed, The coding for creating charts and map has been changed. It is very depending on the tile area and paths now.
+
+Units
+- Added, New feature, "Add SAM to campaign" (Found in Advanced Unit Options). This function will add SAM battalions to all selected objective types with random name.
+For example: Add SAM battalions to all Airbases or Factories.
+
+Flight
+- Fixed, Hardpoint nr 10 loadout amount.
+
+Brigades
+- Added, New feature "Batt > Bri Division". Set the Battalions Division the same as the Brigade Division.
+
+Divisions
+- Added, Option to double click in the list to open the Brigade or Battalion.
+
+Object Strings
+- Added, Option to insert new string in between the list.
+
+Convert Mission
+- Added, For Wpns you see the AC mission type and Wpn amounts.
+
+------------------------------------------------------------------------------
+Ver: 0.4.6.156
+Brigades
+- Added, option to change the Brigade type.
+
+------------------------------------------------------------------------------
+Ver: 0.4.6.155
+Main
+- Added, loading of flag picture "0" (Swiss)
+
+Map
+- Added, New feature "Set Owner Mode". With this function "ON" the current owner of an Objective is set to the selected team by clicking left mouse button.
+   
+Units
+- Added, Add Brigade added the option to set the Division.
+- Added, Add Battalion added the option to set the Division.
+- Added, New feature, "Add AAA to campaign" (Found in Advanced Unit Options). This function will add AAA battalions to all selected objective types with randome name.
+For example: Add AAA battalions to all Airbases or Factories.
+- Added, New feature to see the Division a Brigade or Battalion belongs to.
+- Changed, Advance Unit Option "Place squadron as closest airbase" now looks for Airbase, Highwaystrip, Carrier and for helicopters Armybases.
+- Fixed, Advance Unit Option "Check if bat and bri are on an Obj", spotting Brigades on objective was not correct. 
+- Fixed, Crash in some case of bad Division.
+- Added, Checkbox "Parents Only". With this on, only the battalions and brigades that have flag "Parent" set, will be shown.
+
+------------------------------------------------------------------------------
+Ver: 0.4.5.147
+Main
+- Fixed, lots of labels after change to different font.
+- Added, All Brigades found in Korea as stored files. Used in "Add Brigade".
+- Changed, View Models. In case the KoreaObj.hdr is not found, revert back to default 3DDB location.
+
+Map
+- Added, Drawing of "Hill Top" icon. As this icon is the same as an intersection, it will be drawn if "Intersection" is checked.
+- Added, new feature for airdefence battalions see only SAMs, only AAA or both.
+- Added, new feature thread circles. Selectable per team and selections for long range or short range. (wip)
+- Added, Zoom buttons.
+- Changed, The creation of a theater map(chart). Roads and rivers data is taken from the path data (texture.bin). Now these lines can be drawn 1px wide.
+- Added, "Adv Unit Options" button. This has the same function as the button in the Unit tab. No more need to jump around.
+- Added, "Adv Obj Options" button. This has the same function as the button in the Objective tab. No more need to jump around.
+- Added, New feature "Show NameId 0", this will draw all objectives with name Nowhere.
+- Added, New feature "Show PowerGrid", this will show you the power link between powerplants and factories.
+- Added, When you add a link by clicking on the map, the link can directly be added to the "Force/Deny Link List"
+- Fixed, When adding a link while showing all the links, the links remain visible.
+- Changed, Improved information label when hovering mouse over a Unit. List is sorted and color coded.
+- Added, Double clicking on a Unit will open it.
+
+Objectives
+- Added, New feature "Force/Deny Link List" under Advanced Options. You can make a list of Objective pairs that should have a link or no link between them.
+This list is used when MC is creating all new Links.
+
+Units
+- Changed, For taskforces allow more than 100 stpts. Now it is set to 1000.
+- Fixed, Crash when you delete the last battalion.
+- Fixed, For taskforces "Unit not found in list" problem. 
+- Fixed, For option "Fix all Squadron rosters" (in Adv Unit Options) the AC total for the SquadronInfoTable is updated.
+- Added, Advanced Options "Force aObj to the present Objective".
+
+Squadrons
+- Fixed, Prevent an error in case the selected skin is higher than the total skinsets.
+- Fixed, Prevent an error in skinset.exe when the textures/skinset is more than 20.
+ 
+Flight
+- Added, protection in case the PilotID is larger than the PilotList.
+
+Brigade
+- Added, CT to list of Battalions.
+
+Battalions
+- Changed, enabled Set By HQ checkbox.
+
+------------------------------------------------------------------------------
+Ver: 0.4.4.124
+Main
+- Removed, information message when setup.ini is missing.
+- Fixed, Opening a mission file, remembers the last mission you have opened.
+- Added, Trayicon with reset location. This will set the main window location to 0,0.
+- Changed, In the list of units, the baseflags its now written as text (Emmititng/Jammed).
+- Changed, In the list of units, added the reinforcements.
+- Changed, possible fix for some cases where the tool crashes on startup.
+
+Map
+- Fixed, Airport Schedule not working correctly when 2 flights with the exact departure time was found.
+- Added, new feature, Airport Schedule. Right click on an Airport/Airstrip icon to see a list all departing flights.
+- Fixed, deleting of squadron.
+
+Units
+- Changed, For the filter, added type "Fighter Bomber" and "Attack Heli".
+
+Squadron
+- Changed, In Advanced option, enabled reinforcement.
+
+Brigade
+- Added, delete entire Brigade including Battalions.
+
+CAMO
+- Fixed, In case the number of entries is not correct.
+
+------------------------------------------------------------------------------
+Ver: 0.4.3.109
+Main
+- Fixed, Shift in reading the strings.
+
+Objective Deltas
+- Added, Color to the country name.
+
+Teams
+- Fixed, crash when deleting a team while it has objectives.
+
+Pilots
+- Fixed, names and callsign shift.
+ 
+------------------------------------------------------------------------------
+Ver: 0.4.2.103
+Objectives
+- Changed, When using the Calculate radars feature, the Emitting flag is set.
+
+------------------------------------------------------------------------------
+Ver: 0.4.2.102
+Map
+- Changed, Saving the map will save what you see on the screen, including icons and names.
+- Added, Grid line option added to Height map.
+
+Objectives
+- Added, Advanced Options. All features that are only needed for theater builders are moved here.
+- Added, Calculate Radars. This feature will re-calculate the radar metrics, depending on the terrain around the radar.
+- Added, Re-Calculate Links. First step, only using distance to calculate the cost.
+
+Units
+- Added, Package Adv option, you can change the package name. In BMS4.32 UI you see the CampId!
+
+------------------------------------------------------------------------------
+Ver: 0.4.2.97
+Campaign
+- Added, Large size occupation map.
+
+Units
+- Added, Feature in Advanced Unit Functions "Place Squadron at closest airbase".
+
+------------------------------------------------------------------------------
+Ver: 0.4.2.96
+Map
+- Added, For the terrain map added roads.
+
+------------------------------------------------------------------------------
+Ver: 0.4.2.95
+Map
+- Added, Battalion and Brigade orders are show if you move the mouse over them.
+
+Units
+- Changed, Improved adding a Brigade. You can directly set the battalions.
+- Added, Adding Brigades, you can also set the Orders.
+- Added. Adding Brigades, you can store/load which battalions a brigade has.
+
+------------------------------------------------------------------------------
+Ver: 0.4.2.93
+Main
+- Added, First part of PAKmap.
+- Changed, Longtitude coordinates keep the leading zero.
+
+Map
+- Added, Elevation data of cursor position.
+- Added, Creation of Airport chart. Right click on an objective, select "Create Chart".
+- Added, Creation of Low Level terrain chart. Right click anywhere on the map (NOT an objective), select "Create LowLevel".
+- Added, Creation of Height Map.
+- Added, Feature "Add link" to Objective. Right click on Obj-A, select "add Link". Than right click on Obj-B and select "add Link".
+- Added, Show all Links on map added.
+- Changed, Color of the links changed to orange.
+- Added, Objective and unit selections are remembered when closing MC.
+- Added, Priority slider for Objectives.
+- Added, Progress bar at the bottom to show longer tasks progress.
+- Added, Find feature. You can quickly find Objectives and Units on the map.
+
+Objectives
+- Changed, Renumber of objectives start at ID and CampId 1.
+- Added, Reset Parents.
+- Added, Sort the objective list by moving them up/down in the list.
+- Added, Feature to re-number the objectives. All IDs and CampIds will be re-assigned, starting from nr5 onwards.
+- Added, Create Links Feature.
+
+Campaign
+- Changed, When using time shift for the whole mission/campaign, the Flight TOT is shifted. Also the Team Action times are shifted.
+- Changed, "Don't paint water" function OFF will now set the owner of the water. 
+
+Units
+- Changed, Add Battalions shows battalion type. (AAA, HQ, ARMORED).
+- Fixed, Waypoint flags.
+
+Taskforce
+- Fixed, Drawing route on correct location for larger resolution maps.
+
+Strings
+- Added, Strings sorting function. A scenario file must be loaded for this to work. (te_new.tac or saveX.cam)
+Changing the order of the strings will also change the Objectives NameId for the loaded scenario file.
+After saving the strings, the loaded scenario is automatically saved.
+Make sure you syncronize the corresponding te_new.tac and saveX.cam. 
+
+------------------------------------------------------------------------------
+Ver: 0.4.1
+Map
+- Added, Option to change the objective Owner.
+
+Objectives
+- Added, Reset Objectives function. Sets various values for all objectives to zero.
+
+Units
+- Fixed, When importing units, the SquadronInfoTable is rebuild.
+
+Squadrons
+- Changed, better advanced options.
+
+Package
+- Added, Flight T/O time, TOT and Station time.
+
+TaskForce
+- Changed, better advanced options.
+
+------------------------------------------------------------------------------
+Ver: 0.4.0
+Main
+- Added, New feature to convert missions from older version to current version.
+
+Map
+- Added, Option to delete a objective (only if the mission loaded is a scenario).
+- Fixed, showing missing Road objectives (Geo, Intersection).
+
+Campaign
+- Added, Little Camp map. You can color the map and the teams get set.
+- Changed, PlayerSquad is now a selectable combobox.
+
+Teams
+- Added, "Delete Team" function.
+- Added, Reading of the default priority files. Used when adding a new team.
+- Added, "Add new team" function.
+- Added, Team Bonus/Priortity.
+- Added, Team Action.
+- Added, AirTaskManager (read only).
+- Added, GroundTaskManager (read only).
+- Added, NavalTaskManager (read only).
+
+Units
+- Fixed, When adding a Battalion, the type was not set correctly.
+- Fixed, When a new package was created, the unitflags where not set correctly.
+- Added, New function, Clone Package. Right click on a package and click "Clone Package".
+- Added, For packages you will now see "Package" and the main role of the package. "Package - Strike".
+
+Squadron
+- Fixed, Move squadron map.
+- Changed, If a sq stores is more that max, it will not be changed to max automatically.
+	   Instead you will see an exclamation mark. Click it for more info.
+
+Package
+- Added, First start of the "advanced options". Flags can be changed.
+
+Flights.
+- Added, new formation type and spacing.
+
+Taskforce.
+- Added, In the Add Taskforce screen you will now see the icon.
+
+Objectives
+- Added, Delete all objectives.
+
+------------------------------------------------------------------------------
+Ver: 0.3.12.0
+Main
+- Changed, The map is load in the background while the program starts.
+- Added, File menu (removed Open file buttons)
+- Changed, When loading the second mission, MC will check if the same map needs to be loaded or not. This speeds up loading.
+- Changed, New icon made by Scuby.
+
+Map
+- Added, The CampId is added to the popup label when you hit a unit with the cursor.
+- Added, option to show each seperate Squadron type.
+
+Campaign
+- Added, Multiline select to delete more than one Squadron. 
+- Fixed, when squadron patches shown directly.
+
+Units
+- Added, Multiline select to delete more than one Unit.
+- Added, Orders to unit list.
+- Added, Option to resupply the SAM battalions in steps of 20%.
+
+Squadron
+- Added, Colors depicting wpns in store. High, Med, Low, Out.
+- Fixed, When activating an inactive Squadron, it will be added to the SquadronInfo.(Campaign tab)
+- Fixed, When changing an aircraft type of an inactive Squadron, it will be added to the SquadronInfo.(Campaign tab)
+- Added, When setting a squadron Active/Inactive, it will be added/removed from the SquadronInfo. (Campaign tab)
+
+Brigades
+- Added, ability to set Orders.
+- Changed, Enabled the option to set the owner.
+
+Battalion
+- Changed, Re-enabled the orders.
+
+Advanced Unit options
+- Added, For some battalion/brigade functions reports are saved as text files in the log directory.
+
+Objectives
+- Added, Multiline select to delete more than one Objective.
+
+ObjectiveDelta
+- Added, Multiline select to delete more than one ObjectiveDelta.
+
+------------------------------------------------------------------------------
+Ver: 0.3.11.0
+Main
+- Fixed, When changing Falcon install or theater change, the loading of the correct .idx files and patches.
+- Added, Squadron Patch to the Unit list. The patch is shown for squadrons as well as flights.
+- Added, Check when loading a mission, Squadrons present in campaign.SquadInfo table.
+
+Map
+- Added, Option to load your own map. Must be 2048x2048 or 4096x4096.
+
+Units
+- Changed, AutoFix Units, Flag B1, B3 and NoPlan remains as they are.
+
+Flight
+- Added, Distance, Speed TAS and Speed IAS.
+- Added, Option to edit waypoints.
+
+Brigades
+- Changed, Limited Division to 255.
+
+Battalion
+- Added, CT nr behind the type, there are more battalions of the same type, but different CT.
+- Added, Change Type function. If you change the type, the roster get set to Max vehicles.
+
+TaskForce
+- Added, CT nr behind the type, there are more TaskForces of the same type, but different CT.
+- Added, Change Type function. If you change the type, the roster get set to Max vehicles.
+
+Campaign
+- Fixed, Time shift caused CTD in some cases.
+
+Add Squadron
+- Fixed, Some Objective names "Nowhere" are showing full name now.
+
+Add Battalions
+- Fixed, Some Objective names "Nowhere" are showing full name now.
+
+Add Brigades
+- Fixed, Some Objective names "Nowhere" are showing full name now.
+
+------------------------------------------------------------------------------
+Ver: 0.3.10.0
+Main
+- Added, CAMO tab. Here you can see the content of the camo.cfg
+- Fixed, rounding error in time seconds.
+- Fixed, Large theatre compatible. (larger than 1024)
+
+Map
+- Fixed, Program crash when using AddTaskforce.
+- Added, You can choose to see owner from objDelta list or owner from Objectives list.
+- Added, Beach(Range) (Now you can also see the Kotar range ;-) )
+
+Campaign
+- Added, the option to delete squadrons.
+- Added, choice to see the squadron or the airbase.
+
+Objectives
+- Added, Objectives quick settings.
+- Added, Import/Export functions (CSV)
+- Added, Reset flags.
+- Added, Clean Obj Flags.
+
+Units
+- Added, Check for Brigades containing Battalions from different teams. Seen as a red color.
+- Added, Auto fix Squadrons.(advanced options)
+- Added, Auto fix Battalions/Brigades.(advanced options)
+- Added, Auto fix TaskForce.(advanced options)
+- Added, Reset Spotted and Spottime. (advanced options)
+- Added, Reset BaseFlags. (advanced options)
+
+Squadrons
+- Added, Option to see the skins textures of the model. Uses SkinSet.exe
+- Added, Show default skinset.
+
+Text Strings
+- Added, Option to edit the Objective strings.
+
+CAMO
+- Added, CAMO file editing.
+------------------------------------------------------------------------------
+Ver: 0.3.9.5
+Main
+- Fix for RedFlag 4.
+- Changed, If MC finds double use of CampId in Objectives and Units, it will automatically change the
+  the CampId for the Unit.
+- Added, Compare between Falcon selected theater and theater in the mission file.
+
+Flight
+- Changed, You can now select any type of aircraft when you change the AC type.
+
+------------------------------------------------------------------------------
+Ver: 0.3.9.0
+Main
+- Removed warnings for icon files.
+- Removed warnings for korea.idx file.
+
+Map
+- Fixed, some airport icons not showing up.
+- Added a color filter. With this you will only see the objects and Units of the selected color.
+
+Objectives
+- Added, an indication if the Objective also has an ObjectiveDelta and why.
+
+ObjectiveDeltas
+- Added, if a Delta has an owner for which the team does not exists, it will be shown with a red color.
+
+Add Squadron
+- Fixed, you are now able to change the country.
+
+Squadron
+- Added, Option to change country.
+
+------------------------------------------------------------------------------
+Ver: 0.3.8
+Main
+- When switching your falcon install version, all mission data will be removed.
+- Added, Check for double campId. Done just after loading the mission. A message will pop up if there is a problem.
+- Added, Check for double ID. Done just after loading the mission. A message will pop up if there is a problem.
+
+Map
+- Added, Map is using all Objective icons from the BMS installation.
+- Added, Map is using all Unit icons from the BMS installation.
+- Added, Option to add brigades.
+- Added, Intersections.
+- Added, Objective Links.
+- Changed, Maritime Patrol Icon is now a GeoPoint Icon.
+- Added, Option to delete battalions, brigades and taskforces.
+
+Objectives
+- Added, for changing Links you have the option to automatically set the values. This is just an suggestion, the creator should still choose if he wants to use these values.
+- Added, Option to delete Objectives.
+- Added, Option to Add new Objectives.
+- Added, Check objective Links.
+
+Units
+- Changed, All Fix rosters ect are now under one button that brings up a new screen.
+- Added, Add Taskforce.
+- Added, Taskforce colors. This will indicate if a carrier can have a squadron. If not, the link in the objectives is missing.
+- Changed, when adding a units, the name for the unit makes more sence now.
+- Added, Option to Add brigades.
+- Added, Option to delete brigades.
+
+Battalions
+- Added, Brigade selection.
+- Added, Divisons name.
+
+Brigades
+- Added, Change Brigade nr.
+- Added, Option to Add/Remove a battalion from brigade. 
+- Added, Division name.
+- Added, Option to delete the brigade completely.
+
+Squadrons
+- Added, ability to view the model with OglLod. (thanks to mrivers)
+
+Packages
+- Added, ability to view the model with OglLod. (thanks to mrivers)
+
+Flight
+- Added, ability to view the model with OglLod. (thanks to mrivers)
+
+Battalions
+- Added, ability to view the model with OglLod. (thanks to mrivers)
+
+Taskforces
+- Added, ability to view the model with OglLod. (thanks to mrivers)
+
+Team
+- Improved relations.
+
+------------------------------------------------------------------------------
+Ver: 0.3.7
+Main
+- Changed, Software Icon to new highres version. Thanks Scuby!
+- Fixed, wrong error message Team corrupt after saving a mission.
+
+Squadron
+- Changed the selection of different Ac type.
+- Changed the selection of different airbase.
+------------------------------------------------------------------------------
+Ver: 0.3.6
+Main
+- Added, Political
+- Added, Events
+- Added, Objective editing. Still needs some parts.
+
+Flight
+- Changed the selection of different flight.
+- Changed the selection of different Package. 
+
+Squadron
+- Fixed, adding a new squadron, pilots are chosen correctly.
+- Added, When adding a new squadron, you can diretly set the Name of the squadron.
+- Added, When adding a new squadron, you can diretly set the Patch of the squadron.
+- Fixed, CTD when Squad is set "Inactive" and you delete or move the Squad.
+- Added, When adding a squadron you can select the country the squad belongs to.
+- Added, button to "Clear" used pilots. This will make the pilots availible.
+- Added. button to resurrect killed pilots.
+
+Teams
+- Enabled the option to change the name of the Team/Country.
+
+Pilots
+- Changed, "Clear Usage" will also clear all pilots in the squadrons. 
+------------------------------------------------------------------------------
+Ver: 0.3.5.0
+Main
+- Added, Map.
+- Added, Current time.
+
+Campaign
+- Added squadron patch.
+
+Units
+- Flights also show squadron name and homebase.
+
+Squadron page
+- Changing the squadron patch will take effect directly.
+- If you move a squadron, you have the option to delete all the flights that are planned, but not airborn.
+
+Flight Page
+- Fixed, Clicking Squadron button crash. 
+
+Package Page
+- Fixed, Deleting flights that does not exists.
+
+Battalion page
+- Added, Battalion move to objective.
+------------------------------------------------------------------------------
+Ver: 0.3.4.0
+- Fixed, Taskforce map labels.
+- Fixed, Clone flights.
+- Fixed, Adding squadrons.
+------------------------------------------------------------------------------
+Ver: 0.3.3.0
+- Added, Delete all Units function.
+- Added, Team stats (Viewing only).
+- Added, Export/Import Units.
+- Added, Export/Import Objective Deltas.
+- Added, Clear Pilot usage function.
+- Added, Clear Callsign function.
+- Added, Heli squadrons can be moved to armybases.
+- Added, Drag and drop on to the open program.
+- All screens can be closed with the "Escape" key.
+- Drag and drop tac and cam file to the exe or link.
+- File association for .cam, .tac and .trn. Doubleclicking such file will start MC.
+- Added, Under units you can now add a squadron.
+- Added, For squadrons you can change the type of AC.
+
+------------------------------------------------------------------------------
+Ver: 0.3.2.0
+Units
+- When you delete a flight, it will be removed from the package as well.
+- Added clone function for flights.
+- Added, "Resupply all squadrons" button.
+ 
+Flight page
+- "Move To Package" button is always active now.
+- "Change Aircraft" button is always active now.
+
+Squadron Page
+- Added, "Set by HQ" control.
+- Squadron stores are limited to maximum amount.
+- Added, "Resupply" button. This will set the stores to there maximum allowed.
+
+Taskforce page
+- Fixed, Current STPT saved. This also makes it possible to set STPT for units that did not have any STPT yet.
+
+------------------------------------------------------------------------------
+Ver: 0.3.1.9
+Main page.
+- Fixed, when loading a theatre for the first time. the flags are loaded correctly.
+
+Squadron page
+- Fixed, saving squadron. Was set disabled.
+
+Taskforce page
+- Fixed, STPT placement.
+
+------------------------------------------------------------------------------
+Ver: 0.3.1.8
+Main Page
+Units
+- For squadrons, the airbase is listed instead of the country name. 
+- For flights, the package number is listed insteda of the country name.
+- The country flags are still visible.
+
+Squadron page
+- Squadron stores can be changed.
+- Fixed, showing the correct flag. Was the wrong flag in some cases.
+
+Flight page
+- Pilots can be changed. You can select which AI pilot is flying which position.
+- Fixed, when adding more AC to a flight, BMS did not assign a pilot to the flight.
+- By clicking on the Time or Speed lock field in the flightplan, you can set the lock for that STPT. 
+
+------------------------------------------------------------------------------
+Ver: 0.3.1.6
+- MC is now looking where you have installed BMS.
+- Removed "Set as Target" in the status selection list if you can't set Target.
+- For all airbases, added the word "Airbase" after the name. For better distinction between airbase and city.
+- For all airstrips, added the word "Airstrip" after the name. For better distinction between airstip and city.
+- Added the feature list with a recon screen.
+- Added target status selection to the selection list in the Recon screen.
+- Added picture of the country flag to Flight, Squadron, Battalion and Taskforce.
+
+------------------------------------------------------------------------------
+Ver: 0.3.1
+- Added "Reload" button. This will load the same mission again.
+- Added "Save As" button.
+- Fixed, correct saving of objectdeltas.
+- You can change the pilot in a squadron.

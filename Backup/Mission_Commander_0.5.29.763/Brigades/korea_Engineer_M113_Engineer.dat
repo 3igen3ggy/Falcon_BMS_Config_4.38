@@ -1,0 +1,12 @@
+[Brigade]
+Type=Engineer
+[Battalion1]
+Type=M113 Engineer (CT:79)
+[Battalion2]
+Type=M978 Supply (CT:77)
+[Battalion3]
+Type=M113 Engineer (CT:79)
+[Battalion4]
+Type=M978 Supply (CT:77)
+[Battalion5]
+Type=Reserves Reserves (CT:1032)

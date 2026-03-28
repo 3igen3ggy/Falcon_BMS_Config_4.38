@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Theater>
+    <Id>15</Id>
+    <Base>15</Base>
+    <Name>Mideast128</Name>
+    <NameIdx>Mideast128</NameIdx>
+    <Directory>\Add-On Mideast128\Campaign\</Directory>
+    <DefLat>20.4937</DefLat>
+    <DefLong>37.3761</DefLong>
+    <ThrSizeKm>2048</ThrSizeKm>
+    <North>39</North>
+    <South>20</South>
+    <East>61</East>
+    <West>37</West>
+</Theater>

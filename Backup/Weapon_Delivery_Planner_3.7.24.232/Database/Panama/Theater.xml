@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Theater>
+    <Id>7</Id>
+    <Base>7</Base>
+    <Name>Panama</Name>
+    <NameIdx>Panama</NameIdx>
+    <Directory>\Add-On Panama\Campaign\</Directory>
+    <DefLat>3.41</DefLat>
+    <DefLong>73.819</DefLong>
+    <ThrSizeKm>1024</ThrSizeKm>
+    <North>13</North>
+    <South>3</South>
+    <East>84</East>
+    <West>73</West>
+</Theater>

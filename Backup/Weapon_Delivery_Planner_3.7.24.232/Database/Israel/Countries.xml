@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Countries>
+    <Country Num="0">
+        <Id>1</Id>
+        <Name>Israel ITO</Name>
+    </Country>
+    <Country Num="1">
+        <Id>2</Id>
+        <Name>Egypt ITO</Name>
+    </Country>
+    <Country Num="2">
+        <Id>3</Id>
+        <Name>Lebanon ITO</Name>
+    </Country>
+    <Country Num="3">
+        <Id>4</Id>
+        <Name>Syria ITO</Name>
+    </Country>
+    <Country Num="4">
+        <Id>5</Id>
+        <Name>Iraq ITO</Name>
+    </Country>
+    <Country Num="5">
+        <Id>6</Id>
+        <Name>Saudi Arabia ITO</Name>
+    </Country>
+    <Country Num="6">
+        <Id>7</Id>
+        <Name>Jordan ITO</Name>
+    </Country>
+    <Country Num="7">
+        <Id>8</Id>
+        <Name>Palestine ITO</Name>
+    </Country>
+    <Country Num="8">
+        <Id>9</Id>
+        <Name>Cyprus ITO</Name>
+    </Country>
+</Countries>

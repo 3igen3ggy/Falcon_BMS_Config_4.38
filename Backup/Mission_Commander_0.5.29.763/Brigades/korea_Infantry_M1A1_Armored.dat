@@ -1,0 +1,12 @@
+[Brigade]
+Type=Infantry
+[Battalion1]
+Type=M1A1 Armored (CT:45)
+[Battalion2]
+Type=M2A3 Mech (CT:54)
+[Battalion3]
+Type=M109 SP Guns (CT:67)
+[Battalion4]
+Type=M-16 Air Assault (CT:63)
+[Battalion5]
+Type=

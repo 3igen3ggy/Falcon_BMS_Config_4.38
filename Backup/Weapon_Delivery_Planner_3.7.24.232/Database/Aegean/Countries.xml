@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Countries>
+    <Country Num="0">
+        <Id>1</Id>
+        <Name>Cyprus Aegean</Name>
+    </Country>
+    <Country Num="1">
+        <Id>2</Id>
+        <Name>Greece Aegean</Name>
+    </Country>
+    <Country Num="2">
+        <Id>3</Id>
+        <Name>FYROM Aegean</Name>
+    </Country>
+    <Country Num="3">
+        <Id>4</Id>
+        <Name>Turkey Aegean</Name>
+    </Country>
+</Countries>

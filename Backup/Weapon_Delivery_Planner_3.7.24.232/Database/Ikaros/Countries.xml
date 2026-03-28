@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Countries>
+    <Country Num="0">
+        <Id>1</Id>
+        <Name>Greece Ikaros</Name>
+    </Country>
+    <Country Num="1">
+        <Id>2</Id>
+        <Name>FYROM Ikaros</Name>
+    </Country>
+    <Country Num="2">
+        <Id>3</Id>
+        <Name>Albania Ikaros</Name>
+    </Country>
+    <Country Num="3">
+        <Id>4</Id>
+        <Name>Bulgaria Ikaros</Name>
+    </Country>
+    <Country Num="4">
+        <Id>5</Id>
+        <Name>Serbia Ikaros</Name>
+    </Country>
+    <Country Num="5">
+        <Id>6</Id>
+        <Name>Turkey Ikaros</Name>
+    </Country>
+</Countries>

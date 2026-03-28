@@ -1,0 +1,28 @@
+[Hud]
+Color=-16711936
+Scales=1
+Brightness=1
+FPM=0
+DED=1
+Velocity=0
+Alt=1
+SymWheelPos=500
+[ICP]
+MasterMode=0
+Alow AGL=100.000000
+Alow MSL=10000
+Alow TFAdv=400
+Manual Wingspan=35.000000
+Bingo_Fuel=1500.000000
+[Weapons]
+MasterArm=0
+[Cockpit View]
+WideView=0
+[OTW]
+Mode=3
+[Laser]
+LaserST=8
+[SNSR_PWR]
+RALT=0
+[INT_LIGHTING]
+DED=0

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Theater>
+    <Id>2</Id>
+    <Base>2</Base>
+    <Name>Aegean</Name>
+    <NameIdx>Aegean</NameIdx>
+    <Directory>\Add-On Aegean\Campaign\Aegean\</Directory>
+    <DefLat>33.41</DefLat>
+    <DefLong>21.55</DefLong>
+    <ThrSizeKm>1024</ThrSizeKm>
+    <North>43</North>
+    <South>33</South>
+    <East>34</East>
+    <West>21</West>
+</Theater>

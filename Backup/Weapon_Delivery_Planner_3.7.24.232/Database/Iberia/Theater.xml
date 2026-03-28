@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Theater>
+    <Id>12</Id>
+    <Base>12</Base>
+    <Name>Iberia</Name>
+    <NameIdx>Iberia</NameIdx>
+    <Directory>\Add-on Iberia\Campaign\Iberia\</Directory>
+    <DefLat>25</DefLat>
+    <DefLong>0</DefLong>
+    <ThrSizeKm>2048</ThrSizeKm>
+    <North>44</North>
+    <South>25</South>
+    <East>26</East>
+    <West>0</West>
+</Theater>

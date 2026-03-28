@@ -1,0 +1,9 @@
+# Get the theater name from the TDF file.
+#BFB 1.2.1 - Falcon Online = Battle For Balkans 
+BFB 1.2.1 - StandAlone = Battle For Balkans
+#bfs2.2.4mp = Battle For Sinai
+bfs2.2.4sp = Battle For Sinai
+POH = Iberia
+NordicCWC = Nordic
+CWC = Nordic
+NTO = Nordic

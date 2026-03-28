@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Theater>
+    <Id>3</Id>
+    <Base>3</Base>
+    <Name>Nevada</Name>
+    <NameIdx>Nevada</NameIdx>
+    <Directory>\Nevada\campaign\redflag1\</Directory>
+    <DefLat>36.62943</DefLat>
+    <DefLong>11.0056</DefLong>
+    <ThrSizeKm>1024</ThrSizeKm>
+    <North>46</North>
+    <South>36</South>
+    <East>25</East>
+    <West>11</West>
+</Theater>

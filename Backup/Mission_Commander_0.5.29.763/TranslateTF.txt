@@ -1,0 +1,50 @@
+# AF, BMS 4.32, BMS 4.33, BMS 4.34, BMS 4.35, BMS 4.36
+###################################
+# Taskforces
+###################################
+688 (I), 688 (I) CLS
+BB61 Iowa* - Battleship, N/I
+BB62NJersey* - Battleship, N/I
+BB63Missouri* - Battleship, BB63 Missouri - Battleship
+BB63Missouri* - Battleship Gulf War, BB63 Missouri - Battleship Gulf War
+BB64Wisconsn* - Battleship, BB64 Wisconsn - Battleship
+Cargo Ship - Cargo, Cargo Ship - Cargo
+Carrier* - Carrier, N/I
+CG-47 Ticond - Cruiser, CG-47 Ticond - Cruiser
+CG-47 Ticond - Cruiser, Ticon CLS Mk26 ESG (252)
+CV11 Intrepd* - Vietnam, N/I
+CV14Ticondga* - Vietnam, N/I
+CV16Lexngton* - Vietnam, N/I
+CV33Kearsarg* - Vietnam, N/I
+CV34Oriskany* - Vietnam, N/I
+CV41 Midway* - Carrier Gulf War, CV41 Midway - Carrier Gulf War
+CV60Saratoga* - Carrier Gulf War, CV60 Saratoga - Carrier Gulf War
+CV61 Ranger* - Carrier Gulf War, CV61 Ranger - Carrier Gulf War
+CV62Indpndnc* - Carrier Gulf War, CV62 Indpndnc - Carrier Gulf War
+CV63 Kity Hwk - Carrier Present, CV63 Kity Hwk - Carrier Present
+CV64 Connie - Carrier Present, CV64 Connie - Carrier Present
+CV66America* - Carrier Gulf War, CV66 America - Carrier Gulf War
+CV67 Kennedy - Carrier Gulf War, CV67 Kennedy - Carrier Gulf War
+CV67 Kennedy - Carrier Present, CV67 Kennedy - Carrier Present
+CVN65 Entrprs - 80s Carrier, CVN65 Entrprs - Carrier Present
+CVN65 Entrprs - Carrier Present, CVN65 Entrprs - Carrier Present
+CVN68 Nimitz - Carrier Present, N/I
+CVN69  D.Eis* - Carrier Gulf War, CVN69  D. Eis - Carrier Gulf War
+CVN70 Vinson* - Carrier Present, CVN70 Vinson - Carrier Present
+CVN71 Rosvlt* - Carrier Gulf War, CVN71 Rosvlt - Carrier Gulf War
+CVN71 Rosvlt* - Carrier Kosovo, CVN71 Rosvlt - Carrier Kosovo
+CVN71 Rosvlt* - Carrier Present, CVN71 Rosvlt - Carrier Present
+CVN72 Lincoln - Carrier Present, CVN72 Lincoln - Carrier Present
+CVN73 G.Wash* - Carrier Present, CVN73 G. Wash - Carrier Present
+CVN74Stennis* - Carrier Present, CVN74 Stennis - Carrier Present
+CVN75 Truman - Carrier Present, CVN75 Truman - Carrier Present
+DD963 Sprunce - Destroyer, DD963 Sprunce - Destroyer
+FAG LST* - Amphibious, FAG LST - Amphibious
+FFG-7 Perry - Frigate, FFG-7 Perry - Frigate
+JangWei* - Frigate, JangWei - Frigate
+Kuznetsov* - Carrier, Kuznetsov - Carrier
+LST1179 Newpt - Amphibious, LST1179 Newpt - Amphibious
+Osa II - Patrol, Osa II - Patrol
+Tanker - Tanker, Tanker - Tanker
+Ulsan - Frigate, Ulsan - Frigate
+Wildcat - Peagu, Wildcat - Peagu

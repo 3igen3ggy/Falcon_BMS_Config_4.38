@@ -1,0 +1,152 @@
+# AF, BMS 4.32, BMS 4.33, BMS 4.34, BMS 4.35, BMS 4.36
+###################################
+# Battalions
+###################################
+N/I, 155 Gun - Towed Gun
+2A65 - Towed Artillery, 2A65 - Towed Artillery
+2A65 - Towed Gun, 2A65 - Towed Gun
+2S19 - SP Guns, 2S19 - SP Guns
+2S3 - SP Guns, 2S3 - SP Guns
+AAV7-A1 - MEU, AAV7-A1 - USMC
+AAV7-A1 - USMC MEU, AAV7-A1 - USMC
+AK47 - Infantry, AK47 - Infantry
+AK47 - SpecOps, AK47 - SpecOps
+AK74 - Airborne, AK74 - Airborne
+AK74 - Infantry, N/I
+AK74 - Infantry, N/I
+AMX 30 - Armored XXI,  N/I
+Aretie MBT - Armored XXI, N/I
+Avenger - HVY DIV ADA MISSILE, N/I
+BM21 - Rocket, BM21 - Rocket
+BM21 - Rocket, BM21 - Rocket
+BM24 - Rocket, BM24 - Rocket
+BM9A52 - Rocket, BM9A52 - Rocket
+BMP-2 - Motor Rifle, BMP-2 - Motor Rifle
+BMP-CMD - HQ, BMP-CMD - HQ
+BMP-CMD - HQ, BMP-CMD - HQ
+BTR-60 - Mech, BTR-60 - Mech
+BTR-70 - HQ, BTR-70 - HQ
+BTR-80 - Motor Rifle, BTR-80 - Motor Rifle
+BTR-80 - Naval Inf, BTR-80 - Naval Inf
+Challenger - Armored, Challenger - Armored
+Challenger - Cavalry, Challenger - Armored
+Challenger2 - Armored, Challenger2 - Armored
+D-30 - HART Artillery, D-30 - HART Artillery
+D-30 - Towed Gun, D-30 - Towed Gun
+FROG-7 - FROG, FROG-7 - FROG
+FROG-7 - SS Missile, FROG-7 - SS Missile
+Hawk ADS - Air Defense, Hawk ADS - Air Defense
+Hawk ADS - Air Defense, Hawk ADS - Air Defense
+HMMWV - Brg Recon Troop XXI, N/I
+K200-AD - AAA, K200-AD - AAA
+K200-AD - HQ, K200-AD - HQ
+KrAz T 255B - Supply, KrAz T 255B - Supply
+KS-19 - AAA, KS-19 - AAA
+Leopard 1A4 - Cavalry, Leopard 1A4 - Cavalry
+Leopard 2 - Armored, Leopard 2 - Armored
+M-16A2 - Army Delta Force Tm, M-16 - Air Assault
+N/I, M-16 - Infantry
+M-24 SWS - Army Sniper, N/I
+M-40A3 - USMC Sniper, N/I
+M-82 Barret - Seal Sniper Heavy, N/I
+M-82 Barret - USMC Sniper, N/I
+M-16A2 - Infantry Heavy, N/I
+M-16A2 - Infantry Light, N/I
+M-16A2 - Lt. Inf Rfl Company, N/I
+M-16A2 - USMC Force Recon, N/I
+M-16A2 - USMC Inf Btn, N/I
+M-16A2 - USMC Recon, N/I
+M-1974 - SP Guns, M-1974 - SP Guns
+M-1975 - Corps Arty, M-1975 - Corps Arty
+M-84 - Motor Rifle, N/I
+M-84 - Tank, M-84 - Tank
+M1A1 - Armored XXI, M1A1 - Armored
+M1A1 - Armored XXI, M1A1 - Armored
+M1A1 - Heavy Armoured, M1A1 - Armored
+M1A1 - Tnk BTN HQ HVY, M1A1 - Armored
+M1A1 - Tnk Comp HVY, M1A1 - Armored
+M1A1 - Tnk Comp HQ XXI, M1A1 - Armored
+M1A1 - Tnk Comp XXI, M1A1 - Armored
+M1A1 - USMC Armor Btn, M1A1 - Armored
+M1A2 - Armored XXI, N/I
+M1A2 - Heavy Armoured, N/I
+M109 - Field Artillery XXI, M109 - SP Guns
+M109 - Field Arty Bat, M109 - SP Guns
+M109 - Field Arty Bat XXI, M109 - SP Guns
+M109 - Field Arty Btn, M109 - SP Guns
+M109 - USMC GS Arty SP, M109 - SP Guns
+M113 - Engineer, M113 - Engineer
+M113 - Mech, M113 - Mech
+M119 105mm - AASLT Field Arty, N/I
+M119 105mm - ABN Field Arty., N/I
+M119 105mm - Lt. Art. Btn Direct, N/I
+M119 105mm - USMC DS Arty, N/I
+M198 155mm - Lt. Art Btn General, N/I
+M198 155mm - USMC GS Arty Towed, N/I
+M2A3 - Infantry Mech XXI,
+M2A2 BCV - HQ, M2A2 BCV - HQ
+M2A2 BCV - HQ Comp XXI, M2A2 BCV - HQ
+M2A2 BCV - HQ Company BFV, M2A2 BCV - HQ
+M2A2 BCV - Mech Inf Co HQ XXI, M2A2 BCV - HQ
+M2A2 BSFV - Rifle Comp BFV, N/I
+M2A2 BSFV - Rifle Comp Mech XXI, N/I
+N/I, M2A3 - Mech
+M3A3 - Cavalry, M3A3 - Cavalry
+M3A3 - Cavalry, M3A3 - Cavalry
+M4 Carbine - AASLT Rfle Comp, N/I
+M4 Carbine - ABN Rfl Platoon,  N/I
+M4 Carbine - ABN Rfl Platoon, N/I
+M4 Carbine - USN Seal Team, N/I
+M48A5 - Armored, M48A5 - Armored
+M548 - Engineer Co XXI, N/I
+M548 - Engnr Btn Hvy Armor, N/I
+M6 LB - HVY DIV ADA LNBKR, N/I
+M60A3 - Armored, M60A3 - Armored
+M978 - Supply, M978 - Supply
+MDK-2-D - Engineer, MDK-2-D - Engineer
+MLRS - Artillery HVY MLRS, MLRS - Missile
+MLRS - Artillery MLRS, MLRS - Missile
+Nike ADS - Air Defense, Nike ADS - Air Defense
+Patriot ADS - Air Defense, Patriot ADS - Air Defense
+Patriot ADS - Air Defense, Patriot ADS - Air Defense
+Patriot ADS - Air Defense, Patriot ADS - Air Defense
+Patriot ADS - Air Defense, Patriot ADS - Air Defense
+Patriot ADS - Air Defense, Patriot ADS - Air Defense
+Patriot ADS - Air Defense, Patriot ADS - Air Defense
+Patriot ADS - Air Defense, Patriot ADS - Air Defense
+Patriot ADS - Air Defense, Patriot ADS - Air Defense
+Patriot ADS - Air Defense, Patriot ADS - Air Defense
+Recon Squad - Elite, Recon Squad - Elite
+Recon Squad - Infantry, Recon Squad - Infantry
+Reserves * - Reserves, Reserves - Reserves
+S-60 - Towed AAA, S-60 - Towed AAA
+SA-2 - Air Defense, SA-2 - Air Defense
+SA-2 - Air Defense, SA-2 - Air Defense
+SA-2 - Air Defense, SA-2 - Air Defense
+SA-3 - Air Defense, SA-3 - Air Defense
+SA-3 - Air Defense, SA-3 - Air Defense
+SA-4 - Air Defense, SA-4 - Air Defense
+SA-5 - Air Defense, SA-5 - Air Defense
+SA-6 - Air Defense, SA-6 - Air Defense
+SA-6 - Air Defense, SA-6 - Air Defense
+SA-10 - Air Defense, SA-10 - Air Defense
+SA-11 - Air Defense, SA-11 - Air Defense
+SA-12A* - Air Defense, N/I
+SA-12B* - Air Defense, N/I
+SA-17 - Air Defense, SA-17 - Air Defense
+SCUD - SCUD, SCUD - SCUD
+SCUD - SCUD, SCUD - SCUD
+Skyguard - Air Defense, Skyguard - Air Defense
+SR-25 - Seal Sniper Light, N/I
+SVD Druganov - Airborne, N/I
+T-55 - Tank, T-55 - Tank
+T-62 - Tank, T-62 - Tank
+T-72 - Tank, T-72 - Tank
+T-80 - Tank, T-80 - Tank
+T-90 - Tank, T-90 - Tank
+TOW - Anti-Armor Comp, N/I
+Type 80 - Tank, Type 80 - Tank
+Type 85II - Tank, Type 85II - Tank
+TYPE 90II - Tank, TYPE 90II - Tank
+VTT-323 - Mech, VTT-323 - Mech
+YW-531 - Mech, YW-531 - Mech

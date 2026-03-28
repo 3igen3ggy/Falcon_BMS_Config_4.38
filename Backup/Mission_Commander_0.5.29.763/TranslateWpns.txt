@@ -1,0 +1,514 @@
+# AF, BMS 4.32, BMS 4.33, BMS 4.34, BMS 4.35, BMS 4.36
+###################################
+# A-A Missiles
+###################################
+AA-1, AA-1 (R-55)
+AA-2C, AA-2B (R-3R)
+AA-2D, AA-2C (R-13M)
+AA-6, AA-6B (R-40T)
+AA-6R, AA-6A (R-40R)
+AA-7, AA-7B (R-23T)
+AA-7R, AA-7A (R-23R)
+AA-8, AA-8 (R-60)
+AA-9, AA-9 (R-33) 
+AA-10A,  AA-10A (R-27R)
+AA-10B, AA-10B (R-27T)
+AA-10C, AA-10C (R-27ER)
+AA-10D, AA-10D (R-27ET)
+AA-11, AA-11 (R-73)
+AA-12, AA-12 (R-77)
+AAA-4*, AAA-4
+AAM-3*, AAM-3
+Aim-4C, AIM-4C
+Aim-4C*, AIM-4C
+Aim-4D, AIM-4D
+Aim-4D*, AIM-4D
+AIM-4G*, AIM-4G
+AIM-7D*, AIM-7D Sparrow
+AIM-7D, AIM-7D Sparrow
+AIM-7E*, AIM-7E Sparrow
+AIM-7E, AIM-7E Sparrow
+Aim-7E-2, AIM-7E-2 Sparrow
+Aim-7E-2*, AIM-7E-2 Sparrow
+AIM-7E-2, AIM-7E-2 Sparrow
+AIM-7F*, AIM-7F Sparrow
+AIM-7F, AIM-7F Sparrow
+AIM-7M, AIM-7M Sparrow
+Aim-9B, AIM-9B Sidewinder
+Aim-9B*, AIM-9B Sidewinder
+AIM-9B, AIM-9B Sidewinder
+Aim-9D, AIM-9D Sidewinder
+Aim-9D*, AIM-9D Sidewinder
+AIM-9D, AIM-9D Sidewinder
+Aim-9E, AIM-9E Sidewinder
+Aim-9E*, AIM-9E Sidewinder
+AIM-9E, AIM-9E Sidewinder
+Aim-9G, AIM-9G Sidewinder
+Aim-9G*, AIM-9G Sidewinder
+AIM-9G, AIM-9G Sidewinder
+Aim-9H, AIM-9H Sidewinder
+Aim-9H*, AIM-9H Sidewinder
+AIM-9H, AIM-9H Sidewinder
+Aim-9J, AIM-9J Sidewinder
+Aim-9J*, AIM-9J Sidewinder
+AIM-9J, AIM-9J Sidewinder
+AIM-9L, AIM-9L Sidewinder
+AIM-9M, AIM-9M Sidewinder          
+AIM-9P, AIM-9P Sidewinder
+AIM-9X, AIM-9X Sidewinder
+AIM-54A, AIM-54A Phoenix
+AIM-54C, AIM-54C Phoenix
+AIM-120B, AIM-120B AMRAAM
+AIM-120C, AIM-120C AMRAAM
+AIM-120C-1*, AIM-120C AMRAAM
+AIM-120C-4, AIM-120C AMRAAM
+AIM-120C-5, AIM-120C AMRAAM
+AIM-120C-7*, AIM-120C AMRAAM
+Aim-132 ASRAAM, AIM-132 ASRAAM
+BVRAAM*, BVRAAM*
+Derby AAM*, Derby AAM
+IRIS-T, IRIS-T
+Mica IF, Mica IR
+Mica RF, Mica EM
+RS-2US, AA-1 (R-55)
+R-4R*, AA-5B*
+R-4T*, AA-5A*
+R-13M, AA-2C (R-13M)
+R-13R, AA-2B (R-3R)
+R-23R, AA-7A (R-23R)
+R-23T, AA-7B (R-23T)
+R-27R, AA-10A (R-27R)
+R-27RE, AA-10C (R-27ER)
+R-27T, AA-10B (R-27T)
+R-27TE, AA-10D (R-27ET)
+R-33, AA-9 (R-33)
+R-40RD, AA-6A (R-40R)
+R-40TD, AA-6B (R-40T)
+R-60, AA-8 (R-60)
+R-73 Mod 1, AA-11 (R-73)
+R-73 Mod 2, AA-11 (R-73)
+R-77, AA-12 (R-77)
+R-77M, AA-12 (R-77)
+R-98TM*, AA-3A*
+PL-2, N/I
+PL-5C, N/I
+PL-5E, N/I
+PL-7, PL-7
+PL-8, PL-8
+PL-10, PL-10
+PL-10A, PL-10
+Python-3, Python-3
+Python-4, Python-4
+Python-5, Python-5
+R.530D Super, Super 530D
+R.530D Super*, Super 530D
+R.550 Magic, R.550 Magic
+R.550 Magic II, R.550 Magic II
+Skyflash, Skyflash
+T-98RM*, AA-3B*
+###################################
+# AGM Missiles
+###################################
+3M80, 3M80
+AGM-12B*, AGM-12B Bullpup A
+AGM-12B, AGM-12B Bullpup A
+AGM-12C*, AGM-12C Bullpup B
+AGM-12C, AGM-12C Bullpup B
+AGM-45, AGM-45 Shrike
+AGM-62-1*, AGM-62A Walleye
+AGM-62-1, AGM-62A Walleye
+AGM-62-2, AGM-62B WalleyeII
+AGM-62-2, AGM-62B WalleyeII
+AGM-65A, AGM-65A Maverick
+AGM-65B, AGM-65B Maverick
+AGM-65D, AGM-65D Maverick
+AGM-65E, N/I
+AGM-65F, N/I
+AGM-65G, AGM-65G Maverick
+AGM-65H, N/I
+AGM-65J, N/I
+AGM-65K, N/I
+AGM-69A*, AGM-69A SRAM
+AGM-78, AGM-78 ARM
+AGM-84A, AGM-84A Harpoon
+AGM-84E, AGM-84E SLAM
+AGM-84 SLAM-ER*, AGM-84H SLAM-ER
+N/I, AGM-84H SLAM-ER
+AGM-86B ALCM*, AGM-86B ALCM
+AGM-86C CALCM, AGM-86C CALCM
+AGM-78, AGM-78 ARM
+AGM-84A, AGM-84A Harpoon
+AGM-88, AGM-88 HARM
+AGM-88C, AGM-88 HARM
+AGM-114, AGM-114 Hellfire
+AGM-119, AGM-119 Penguin
+AGM-123, AGM-123 Skipper
+AGM-129 ACM*, AGM-129 ACM
+AGM-130, AGM-130
+AGM-131 SRAM II, AGM-131 SRAM II
+AGM-142, AGM-142A Raptor
+AGM-154A JSOW, AGM-154A JSOW-A
+AGM-154C JSOW*, AGM-154C JSOW-C
+AGM-158 JASSM*, AGM-158 JASSM
+AJ.168, AJ.168
+ALARM, ALARM
+AM-39, AM-39 Exocet
+N/I, Apache
+AS-4, AS-4 (Kh-22)
+AS-6, AS-6 (KSR-5)
+AS-7, AS-7 (Kh-23)
+AS-10MR, AS-10MR (Kh-25)
+AS-11, AS-11 (Kh-58)
+AS-12, AS-12 (Kh-25MP)
+AS-14L, AS-14L (Kh-29L)
+AS-14T, AS-14T (Kh-29T)
+AS-15, AS-15 (Kh-55)
+AS-16,AS-16 (Kh-15) 
+AS-17A, AS-17A (Kh-31A)
+AS-17P, AS-17P (Kh-31P)
+AS-18, AS-18 (Kh-59)
+AS-20*, AS-20 (Kh-35)
+AS-20, AS-20 (Kh-35)
+AS.30L, AS.30L
+AS.34, AS.34 Kormoran
+AS.37, AS.37 Martel
+ASM-1*, N/I
+ASMP*, ASMP
+AT-3, AT-3
+AT-4, AT-4
+AT-5, AT-5
+AT-6, AT-6
+N/I, AT-9
+AT-10, AT-10
+AT-16 Vickr*, AT-16 Vickr*
+Brimstone, Brimstone
+F-102 Rockets*, F-102 Rockets*
+Kh-15, AS-16 (Kh-15)
+Kh-22, AS-4 (Kh-22)
+Kh-23, AS-7 (Kh-23)
+Kh-25ML, AS-10MR (Kh-25)
+Kh-25MP, AS-12 (Kh-25MP)
+Kh-29L, AS-14L (Kh-29L)
+Kh-29T, AS-14T (Kh-29T)
+Kh-31A, AS-17A (Kh-31A)
+Kh-31P, AS-17P (Kh-31P)
+Kh-35, AS-20 (Kh-35)
+Kh-58, AS-11 (Kh-58)
+Kh-59M, AS-18 (Kh-59)
+AS-18, AS-18 (Kh-59)
+KSR-5, AS-6 (KSR-5)
+Lau3A*, N/I
+LAU-3/A /HE, LAU-3/A /HE
+LAU-3/A MPSM, LAU-3/A MPSM
+LAU-10/HE, LAU-10/HE
+LAU-10/WP, LAU-10/WP
+LAU-61 /HE, LAU-61 /HE
+LAU-61 MPSM, LAU-61 MPSM
+LAU-68/131 /HE, LAU-68/131 /HE
+LAU-68/131 /WP, LAU-68/131 /WP
+LAU-68/131 MPSM, LAU-68/131 MPSM
+Rocket*, Rocket
+S-5 FFAR*, S-5 FFAR
+S-8 FFAR*, S-8 FFAR
+S-13 FFAR*, S-13 FFAR
+S-24, S-24
+S-24 RKT*, S-24 RKT
+S-25 RKT*, S-25 RKT
+N/I, Scalp-EG
+StormShadow*, StormShadow*
+N/I, Taurus KEPD 350
+TOW, BGM-71 TOW
+U-O-25, U-O-25
+UB-8, UB-8
+UB-13, UB-13
+UB-16-57, UB-16-57
+UB-32-57, UB-32-57
+YJ-8K, N/I
+YJ-91, N/I
+###################################
+# Bombs
+###################################
+200Kg ARB, N/I
+750lb WWII*, 750lb WWII
+AFDS*, AFDS
+APR-3E*, APR-3E*
+B53*, B53
+B61*, B61
+B83*, B83
+N/I, BDU-33D/B
+BetAB-500ShP, BetAB-500ShP
+BGL-250, BGL-250
+BGL-400, BGL-400
+BGL-1000, BGL-1000
+BL-755, BL-755
+BLG-66, BLG-66
+BLU-1/B*, BLU-1/B
+BLU-10A*, BLU-10A
+BLU-27/B*, BLU-27/B
+BLU-32/B*, BLU-32/B
+BLU-82*, BLU-82
+BLU-107/B, BLU-107/B
+BSU-49, Mk-82 AIR
+BSU-50, Mk-84 AIR 
+BSU-85, Mk-83 AIR
+CBU-1/A*, CBU-1/A*
+CBU-1m*, N/I
+CBU-2/A*, CBU-2/A*
+CBU-2m*, N/I
+CBU-14A/A*, CBU-14A/A
+CBU-14m*, N/I
+CBU-22/B*, CBU-22/B
+CBU-24/B*, CBU-24/B
+CBU-25/A*, CBU-25/A
+CBU-25m*, N/I
+CBU-49/B, CBU-49/B
+CBU-52B/B, CBU-52B/B
+CBU-55A FAE, CBU-55A/B FAE
+CBU-58A/B, CBU-58A/B
+CBU-59 APAM, CBU-59 APAM
+CBU-71/B, CBU-71/B
+CBU-72 FAE, CBU-72/B FAE
+CBU-87 CEM, CBU-87/B CEM
+CBU-89, CBU-89/B Gator
+CBU-94, CBU-94/B Graphite
+CBU-97 SFW, CBU-97/B SFW
+CBU-103 WCMD, CBU-103/B
+CBU-103, CBU-103/B
+CBU-104, CBU-104/B
+CBU-105 WCMD, CBU-105/B
+CBU-105, CBU-105/B
+Depthcharge*, Depthcharge
+FAB-100, FAB-100
+FAB-100/UKB, FAB-100/UKB
+FAB-250, FAB-250
+FAB-250/UKB, FAB-250/UKB
+FAB-500, FAB-500
+FAB-500/UKB, FAB-500/UKB
+FAB-750, FAB-750
+FAB-750/UKB, FAB-750/UKB
+FAB-1000, FAB-1000
+FAB-1000/UKB, FAB-1000/UKB
+FAB-1500, FAB-1500
+GB-100*, GB-100*
+GBU-10C/B, GBU-10C/B /HE
+GBU-10I/B, GBU-10G/B /AP
+GBU-10G/B, GBU-10G/B /AP
+GBU-12B/B, GBU-12B/B /HE
+GBU-15, GBU-15(v)32/B /HE
+GBU-16, GBU-16/B /HE
+GBU-22/B, GBU-22/B /HE
+GBU-24/B, GBU-24/B /HE
+GBU-24B/B, GBU-24A/B /AP
+GBU-24A/B, GBU-24A/B /AP
+GBU-27/B, GBU-27/B /AP
+GBU-28/B, GBU-28/B /AP
+GBU-31/B JDAM, GBU-31(v)1/B /HE
+GBU-31(v)1/B, GBU-31(v)1/B /HE
+GBU-31(v)2/B, GBU-31(v)2/B /HE
+GBU-31(v)3/B, GBU-31(v)3/B /AP
+GBU-31(v)4/B, GBU-31(v)4/B /AP
+GBU-32/B JDAM, GBU-32(v)1/B /HE
+GBU-32(v)1/B, GBU-32(v)1/B /HE
+GBU-32(v)2/B, GBU-32(v)2/B /HE
+GBU-34/B JDAM, N/I
+GBU-35/B JDAM, N/I
+GBU-36/B GAM, GBU-36/B GAM /HE
+GBU-37/B GAM, GBU-37/B GAM /AP
+GBU-38/B JDAM, GBU-38/B /HE
+GBU-38/B, GBU-38/B /HE
+GBU-39/B SDB, GBU-39/B SDB /HE
+MOAB, GBU-43/B MOAB
+GBU-54/B, GBU-54/B /HE
+JP-233m*, N/I
+JP-233m*, JP-233m
+KAB-500/Kr, KAB-500/Kr
+KAB-500/OD, KAB-500/OD
+KAB-500L, KAB-500L
+KAB-1500/Kr, KAB-1500/Kr
+KAB-1500L, KAB-1500L
+KAB-1500L/Pr, KAB-1500L/Pr
+KMGU-2*, KMGU-2*
+M30 100lb*, M30 100lb
+M57 250lb*, M57 250lb
+M64 500lb*, M64 500lb
+M81 Frag*, M81 Frag
+M103 2000lb*, M103 2000lb
+M-117, M-117
+M-117R*, M-117R
+M-118*, M-118
+Mk-20D, Mk-20D
+Mk-46, Mk-46
+Mk-48*, Mk-48
+Mk-48 ADCAP*, Mk-48 ADCAP
+Mk-50*, Mk-50
+Mk-77, Mk-77
+Mk-81*, Mk-81
+Mk-81ex*, Mk-81 ex
+Mk-81SE*, Mk-81 SE
+Mk-81SEex*, Mk-81 SEex
+Mk-82, Mk-82
+Mk-82 LDGP, Mk-82
+Mk-82ex*, Mk-82 ex
+Mk-82SE, Mk-82 SE
+Mk-82SEex*, Mk-82 SEex
+Mk-83, Mk-83
+Mk-83 LDGP, Mk-83
+Mk-84, Mk-84
+Mk-84 LDGP, Mk-84
+MM.38, MM.38
+MM.40, MM.40
+MOAB, GBU-43/B MOAB
+ODAB-500, ODAB-500
+OFAB-100, OFAB-100
+OFAB-250, OFAB-250
+OFAB-500, OFAB-500
+RBK-250/OAB, RBK-250/OAB
+RBK-250/PTAB, RBK-250/PTAB
+RBK-500/BetAB, RBK-500/BetAB
+RBK-500/OAB, RBK-500/OAB
+RBK-500/OFB, RBK-500/OFB
+RBK-500/PTAB, RBK-500/PTAB
+RBK-500/SPBE, RBK-500/SPBE
+RBK-500/U, RBK-500/U
+SAMP-400, SAMP-400
+Type 250-2, N/I
+Type 250-3, N/I
+Type 500-2, N/I
+YJ-8K, N/I
+YJ-91, N/I
+ZAB-250, ZAB-250
+ZAB-500, ZAB-500
+###################################
+# Pods
+###################################
+N/I, Aeros Recon
+AN/AAQ-13 NAV*, AN/AAQ-13 NAVPOD
+AN/AAQ-13 NAV, AN/AAQ-13 NAVPOD
+AN/AAQ-14 TARG*, AN/AAQ-14 LANTIRN
+AN/AAQ-14 TARG, AN/AAQ-14 LANTIRN
+N/I, AN/AAQ-28 Litenin
+AN/AAQ-28 Litenin, AN/AAQ-28(v)
+N/I, AN/AAQ-33 Sniper
+AN/AAS-38 FLIR*, AN/AAS-38 FLIR*
+AN/ALQ-10 *, AN/ALQ-10
+AN/ALQ-12 *, AN/ALQ-12
+ALQ-88*, AN/ALQ-88
+ALQ-99, AN/ALQ-99
+N/I, AN/ALQ-101
+ALQ-119, AN/ALQ-119
+ALQ-131, AN/ALQ-131(v)
+AN/ALQ-131(V), AN/ALQ-131(v)
+AN/ALQ-131(V)-1, AN/ALQ-131(v)1
+ALQ-167*, AN/ALQ-167
+ALQ-184, AN/ALQ-184
+ALQ-184*, AN/ALQ-184
+AN/ASQ-173 pod*, AN/ASQ-173 pod
+AN/ASQ-213 HTS*, AN/ASQ-213 HTS
+N/I, AN/ASQ-T50(v)1
+N/I, AN/ASQ-T50(v)2
+AN/AVQ-26*, AN/AVQ-26*
+AN/AWW-14*, AN/AWW-14*
+BozChaffFL*, BOZ-107 ECR-I
+BozChaffFL*, BOZ-107 ECR-G
+BozChaffFL*, BOZ-107 GR4
+BozChaffFL*, BOZ-107 IDS-I
+BozChaffFL*, BOZ-107 IDS-G
+N/I, Cerberus ECR
+N/I, Cerberus IDS
+F-14 TARPS, F-14 TARPS
+N/I, FPR
+Low Alt Camera, Low Alt Camera
+Matra, Matra Phimat
+N/I, MRP
+PDLCT-S, PDLCT-S Pod
+SkyShadowECM, SkyShadowECM
+Sorbtsiya, Sorbtsiya ECM Pod
+N/I, SPS-141
+N/I, SPS-141 MWGE
+SU-39 ECM*, SU-39 ECM
+N/I, Su-xx RPod
+SUU-11*, SUU-11
+SUU-16/23*, SUU-16/23
+N/I, TIALD
+Type 130 Pod, N/I
+Type 90 Pod, N/I
+Type 57 Pod, N/I
+###################################
+# Tanks
+###################################
+65 Imp gal Tank, Tank 65 imp gal
+88 Imp gal Tank, Tank MiG19PTB 400
+132 Imp Gal Tank, Tank 132Imp gal
+150 Gal Tank A-1, 150 Gal Tank A-1
+170gal tank F104, 170gal tank F-104
+180 ImpGal Tank, 180 ImpGal Tank
+180 Imp TankMg19, CCCP 490L (Metal)
+202 Imp Tank SU7, 202 Imp Tank SU-7
+230gal tank F102, 230gal tank F-102
+253 Imp gal Tank, 253 Imp gal Tank
+268gal Tank, Tank 268gal
+275 gal Tank, Tank 275gal
+300 Gal Tank, Tank 300gal
+300 Gal Tank A-1, Tank A-1 300gal
+300gal A-4, Tank A-4 300gal
+300 Gal Tank A-6, Tank A-6 300gal
+300gal tank A-7, Tank A-7 300gal
+300 Gal Tank AV8B, Tank AV-8B 300gal 
+300gal S-3, Tank S-3 300gal 
+330 Gal Tank, Tank 330gal
+330 Imp gal Tank, 330 Imp gal Tank
+355gal Tank F100, Tank F-100 355gal 
+360gal Tank F106, Tank F-106 360gal 
+370 Gal Tank, Tank 370gal 
+370 Gal F-4, Tank F-4 370gal 
+370 Gal Tank F-4, Tank F-4 370gal 
+370 gal F-4v*, Tank F-4 370gal
+370 gal F-4k*, Tank F-4 370gal
+370 gal F-4j*, Tank F-4 370gal
+370 gal F-4j*, Tank F-4 370gal
+370 gal F4w*, Tank F-4 370gal
+370 gal F-4g*, Tank F-4 370gal
+390 .5 gl tk F105, Tank F105 390gal 
+440Imp Tank, PTB-1500
+450gal USN Tank, Tank 480gal
+450 Gal USN Tank, Tank 480gal 
+Tank USN 450gal, Tank 480gal  
+450 Gal Tank A-4, Tank A-4 450gal 
+450 gal Tank F105, Tank F105 450gal 
+490L Tnk, N/I
+500L AMX, 500L AMX
+549Imp TnkMg31, 549Imp TnkMg31
+N/I, 600 Gal Tank
+600 Gal Tank, Tank 600gal
+600 Gal Tank A10, Tank A-10 600gal 
+600 Gal Tank F4, Tank F-4 600gal
+600 Gal Tank F-4, Tank F-4 600gal 
+600 Gal F-4w, Tank F-4 600gal 
+600 Gal Tank F15, Tank F-15C 600gal
+600 Gal Tank F-15, Tank F-15C 600gal 
+600 Gal F-15E, Tank F-15C 600gal 
+650 Gal Tank F105, Tank F105 650gal 
+660Imp Tank SU24, Tank SU-24 660Imp 
+N/I, 800 li Tank
+1000l AMX, 1000l AMX
+1000l AMX, 1000L AMX
+N/I, 1275li Tank JA37
+1300li Tank, RPL-522 (AA)
+1500li Tank, 1500li Tank
+N/I, 1500li Tank ECR-G
+N/I, 1500li Tank IDS-G
+N/I, 1500li Tank ECR-I
+N/I, 1500li Tank IDS-I
+1700L M2K5C, 2000L-M2K5C
+1700L M2K9, 2000L-M2K5mk2
+1700L M2KDB, 2000L-M2KDN
+2250li Tank, 2250li Tank
+Mig-31 Tankspare*, Mig-31 Tank spare
+N/I, RPL-711 (1250l)
+N/I, RPL-751 (2000l)
+###################################
+# Guns
+###################################
+20mm M61 F22, 20mm M61 F-22
+30mm GSH-301, 30mm GSH-30-1
+27mm-2x, 27mm x2

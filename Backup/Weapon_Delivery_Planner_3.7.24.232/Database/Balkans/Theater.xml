@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Theater>
+    <Id>1</Id>
+    <Base>1</Base>
+    <Name>Balkans</Name>
+    <NameIdx>Balkans</NameIdx>
+    <Directory>\Add-On Balkans\Campaign\Balkans\</Directory>
+    <DefLat>36.62498</DefLat>
+    <DefLong>10.99996</DefLong>
+    <ThrSizeKm>1024</ThrSizeKm>
+    <North>46</North>
+    <South>36</South>
+    <East>25</East>
+    <West>11</West>
+</Theater>
