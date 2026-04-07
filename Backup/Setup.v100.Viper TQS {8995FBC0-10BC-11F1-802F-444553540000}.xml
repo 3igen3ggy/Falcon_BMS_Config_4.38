@@ -27,8 +27,8 @@
       <Deadzone>None</Deadzone>
     </AxAssgn>
     <AxAssgn>
-      <AxisName>Range_Knob</AxisName>
-      <AssgnDate>2026-02-23T14:11:25.2343999+01:00</AssgnDate>
+      <AxisName>FOV</AxisName>
+      <AssgnDate>2026-04-07T19:32:45.8702677+02:00</AssgnDate>
       <Invert>false</Invert>
       <Saturation>None</Saturation>
       <Deadzone>None</Deadzone>
@@ -41,8 +41,8 @@
       <Deadzone>None</Deadzone>
     </AxAssgn>
     <AxAssgn>
-      <AxisName>FOV</AxisName>
-      <AssgnDate>2026-02-23T14:12:20.517219+01:00</AssgnDate>
+      <AxisName>Range_Knob</AxisName>
+      <AssgnDate>2026-04-07T19:32:39.1982058+02:00</AssgnDate>
       <Invert>true</Invert>
       <Saturation>None</Saturation>
       <Deadzone>None</Deadzone>
