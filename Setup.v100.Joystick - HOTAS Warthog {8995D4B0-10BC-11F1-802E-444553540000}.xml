@@ -836,7 +836,7 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimWheelBrakes</Callback>
+          <Callback>AFResetTrim</Callback>
           <Invoke>Default</Invoke>
           <SoundID>-1</SoundID>
         </Assgn>
@@ -4249,7 +4249,7 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimWheelBrakes</Callback>
+            <Callback>AFResetTrim</Callback>
             <Invoke>Default</Invoke>
             <SoundID>-1</SoundID>
           </Assgn>
